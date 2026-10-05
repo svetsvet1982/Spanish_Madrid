@@ -2,8 +2,8 @@
 
 - **레벨:** B1 (호칭: 집주인 «Sie», 친구 «du»)
 - **시기·장소:** 7월 첫째~둘째 주, 드레스덴 노이슈타트(Äußere Neustadt)
-- **등장인물:** Mira, Jonas, Herr Böhme, Lukas, Frau Kunze
-- **줄거리:** 기숙사 방이 시끄럽고 좁아 미라는 노이슈타트에서 방을 구한다. 작센 사투리의 집주인 뵈메 씨를 만나 보증금과 계약을 이야기하고, 루카스와 가구를 나른다. 금요일 저녁에 요나스가 처음으로 이 집을 방문한다.
+- **등장인물:** Mira, Jonas, Frau Pokorny, Lukas, Frau Kunze
+- **줄거리:** 기숙사 방이 시끄럽고 좁아 미라는 노이슈타트에서 방을 구한다. 작센 사투리의 집주인 포코르니 부인를 만나 보증금과 계약을 이야기하고, 루카스와 가구를 나른다. 금요일 저녁에 요나스가 처음으로 이 집을 방문한다.
 - **인용:** 속담 «Aller Anfang ist schwer» (T10), «Eigener Herd ist Goldes wert» (T57)
 
 ---
@@ -37,49 +37,49 @@
 
 *7월 8일 목요일 저녁. 노이슈타트, 알베르트 광장 근처 집.*
 
-21. **Herr Böhme:** Guten Tag. Sie sin de Frau Lindner? Ich bin der Böhme.
-22. **Mira:** Guten Tag, Herr Böhme. Wir hatten telefoniert.
-23. **Herr Böhme:** Nu, kumm Se rein. Des Zimmer is im zweeten Stock, ohne Fahrstuhl.
+21. **Frau Pokorny:** Guten Tag. Sie sin de Frau Lindner? Ich bin de Pokorny.
+22. **Mira:** Guten Tag, Frau Pokorny. Wir hatten telefoniert.
+23. **Frau Pokorny:** Nu, kumm Se rein. Des Zimmer is im zweeten Stock, ohne Fahrstuhl.
 24. **Mira:** Das macht nichts. Ich habe wenig Gepäck.
-25. **Herr Böhme:** Des sehn mir gleich. Hier is de Dielung, aus dem Jahr neunzehnhundertzwölf.
+25. **Frau Pokorny:** Des sehn mir gleich. Hier is de Dielung, aus dem Jahr neunzehnhundertzwölf.
 26. **Mira:** Die Dielen sind wunderschön. Sind sie original?
-27. **Herr Böhme:** Alles original. Bloß de Heizung nich. Die is neu.
+27. **Frau Pokorny:** Alles original. Bloß de Heizung nich. Die is neu.
 28. **Mira:** Wie hoch sind die Nebenkosten?
-29. **Herr Böhme:** Hundertzwanzig Euro im Monat. Strom un Wasser sin drin. Internet nich.
+29. **Frau Pokorny:** Hundertzwanzig Euro im Monat. Strom un Wasser sin drin. Internet nich.
 30. **Mira:** Das ist in Ordnung. Und die Miete?
-31. **Herr Böhme:** Vierhundertfünfzig warm. Zwei Monatsmieten Kaution.
+31. **Frau Pokorny:** Vierhundertfünfzig warm. Zwei Monatsmieten Kaution.
 32. **Mira:** Ich habe das Geld bereit.
-33. **Herr Böhme:** Gut. Un Se ham keene Katze?
-34. **Mira:** Nein. Nur Pflanzen und viele Bücher.
-35. **Herr Böhme:** Bücher sin in Ordnung. Aber nich zu viele. Der Boden trägt nich alles.
+33. **Frau Pokorny:** Gut. Ich hab selber een Kater, den Strudel. Se sin nich allergisch?
+34. **Mira:** Nein. Ich habe nur Pflanzen und viele Bücher.
+35. **Frau Pokorny:** Bücher sin in Ordnung. Aber nich zu viele. Der Boden trägt nich alles.
 36. **Mira:** Ich verspreche, nicht mehr als zweihundert mitzubringen.
-37. **Herr Böhme:** Zweehundert! Des sin ja mehr, wie ich in meim Leben gelesn hab.
+37. **Frau Pokorny:** Zweehundert! Des sin ja mehr, wie ich in meim Leben gelesn hab.
 38. **Mira:** Ich kann sie auch im Wohnheim lassen.
-39. **Herr Böhme:** Nee, nee. Bringen Se se mit. Hauptsache, Se rauchn nich im Bett.
-40. **Mira:** Ich rauche gar nicht.
+39. **Frau Pokorny:** Nee, nee. Bringen Se se mit. Hauptsache, Se rauchn nich im Bett. Un Strudel darf aufs Bett.
+40. **Mira:** Ich rauche gar nicht, und Strudel ist willkommen.
 
 ## Szene 3. Der Herd (41~60)
 
 41. **Mira:** Kann ich das Zimmer einen Tag überlegen?
-42. **Herr Böhme:** Klar. Aber morgen kommt noch een Student. Der will's ooch.
+42. **Frau Pokorny:** Klar. Aber morgen kommt noch een Student. Der will's ooch.
 43. **Mira:** Dann sage ich Ihnen heute Abend Bescheid.
-44. **Herr Böhme:** Gut. Hier is meine Nummer.
+44. **Frau Pokorny:** Gut. Hier is meine Nummer.
 45. **Mira:** Danke. Darf ich noch fragen, ob ich das Zimmer streichen darf?
-46. **Herr Böhme:** Wenn's hell is, ja. Nich schwarz, wie bei meim Sohn.
+46. **Frau Pokorny:** Wenn's hell is, ja. Nich schwarz, wie bei meim Sohn.
 47. **Mira:** Ich dachte an ein warmes Weiß.
-48. **Herr Böhme:** Des is vernünftig. Se sin ne vernünftige Person, des sieht man.
+48. **Frau Pokorny:** Des is vernünftig. Se sin ne vernünftige Person, des sieht man.
 49. **Mira:** Vielen Dank. Gibt es einen Keller für meine Kisten?
-50. **Herr Böhme:** Ja, einen Verschlag. Den teilen Se mit der Frau Pietsch, aber die ist nett.
+50. **Frau Pokorny:** Ja, einen Verschlag. Den teilen Se mit der Frau Pietsch, aber die ist nett.
 51. **Mira:** Und Waschmaschine?
-52. **Herr Böhme:** Im Keller. Se müssn aber eingetragen sein, wann Se waschn.
+52. **Frau Pokorny:** Im Keller. Se müssn aber eingetragen sein, wann Se waschn.
 53. **Mira:** Eintragen? In ein Heft?
-54. **Herr Böhme:** In een Heft, ja. Is wie in der Schule.
+54. **Frau Pokorny:** In een Heft, ja. Is wie in der Schule.
 55. **Mira:** Das kenne ich aus Berlin nicht.
-56. **Herr Böhme:** Bei uns in Dresdn is Ordnung des halbe Leben.
+56. **Frau Pokorny:** Bei uns in Dresdn is Ordnung des halbe Leben.
 57. **Mira:** Eigener Herd ist Goldes wert, sagt man ja. Und hier habe ich sogar einen.
-58. **Herr Böhme:** Hä? Ach so. Ja, den hab ich neu gekooft. Zwee Platten.
+58. **Frau Pokorny:** Hä? Ach so. Ja, den hab ich neu gekooft. Zwee Platten.
 59. **Mira:** Zwei reichen mir. Ich koche nicht viel.
-60. **Herr Böhme:** Des sagn se alle. Un nach vier Wochen komm se un wolln een Backofen.
+60. **Frau Pokorny:** Des sagn se alle. Un nach vier Wochen komm se un wolln een Backofen.
 
 ## Szene 4. Der Umzug (61~80)
 
@@ -148,5 +148,5 @@
 - **원문:** «Eigener Herd ist Goldes wert.»
 - **한글 해석:** "내 집 화덕은 금만큼 값지다."
 - **작품 속 맥락:** «Herd»는 부엌의 화덕이며 곧 '내 집, 내 살림'을 뜻한다. 남의 집에 얹혀사는 것보다 작더라도 자기 집을 갖는 것이 낫다는 뜻의 속담이다. 같은 의미로 «Eigener Herd ist Goldes wert, und wär's auch nur ein Topf von Erd»라는 긴 형태도 있다.
-- **대화 속 맥락:** 집주인 뵈메 씨가 새로 달았다는 두 구 화덕을 보고 미라가 이 속담을 말한다. 공용 부엌의 고장 난 화덕에서 벗어나 처음으로 '내 집'을 얻는다는 기쁨이 담겨 있다.
+- **대화 속 맥락:** 집주인 포코르니 부인가 새로 달았다는 두 구 화덕을 보고 미라가 이 속담을 말한다. 공용 부엌의 고장 난 화덕에서 벗어나 처음으로 '내 집'을 얻는다는 기쁨이 담겨 있다.
 - **출전:** 독일어 속담(Sprichwort)

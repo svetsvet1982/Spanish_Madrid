@@ -112,8 +112,8 @@
 
 *11월 20일 토요일 오전 아홉 시. 노이슈타트.*
 
-81. **Helene:** Frau Lindner, entschuldigen Sie die Störung. Ich bin es, Helene.
-82. **Mira:** Frau Winkler! Wie schön. Wie geht es Ihnen?
+81. **Helene:** Frau Lindner, entschuldigen Sie die Störung. Ich bin es, Helene Brandt.
+82. **Mira:** Frau Brandt! Wie schön. Wie geht es Ihnen?
 83. **Helene:** Gut. Es ist Samstagmorgen. Haben Sie schon gefrühstückt?
 84. **Mira:** Noch nicht. Ich bin gerade aufgestanden.
 85. **Helene:** Ich habe Ihnen heute eine Postkarte geschickt, aber ich wollte Sie zusätzlich anrufen.

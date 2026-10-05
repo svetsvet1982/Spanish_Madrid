@@ -114,9 +114,9 @@
 84. **Jonas:** Wir haben die Nacht mit Bachmann verbracht.
 85. **Frau Brandt:** Mit Ingeborg? Dann haben Sie nicht geschlafen, aber gut gelebt.
 86. **Mira:** Sie kennen sie?
-87. **Frau Brandt:** Ich habe sie einmal lesen gehört. In den Sechzigern, hier in Berlin. Es war eisig im Saal, und alle haben den Atem angehalten.
-88. **Jonas:** Was war sie für ein Mensch?
-89. **Frau Brandt:** Still. Sehr genau. Man hatte das Gefühl, sie liest, als bäte sie um Verzeihung.
+87. **Frau Brandt:** Ich habe als Studentin eine Aufnahme ihrer Lesung gehört, wieder und wieder. Es war ganz still im Raum, und alle haben den Atem angehalten.
+88. **Jonas:** Wie klang sie?
+89. **Frau Brandt:** Still. Sehr genau. Man hatte das Gefühl, sie lese, als bäte sie um Verzeihung.
 90. **Mira:** Um Verzeihung wofür?
 91. **Frau Brandt:** Für die Zeit, in der sie leben musste. Und für die Tatsache, dass sie sie so schön beschrieb.
 92. **Jonas:** Wir haben über «Die gestundete Zeit» gesprochen.

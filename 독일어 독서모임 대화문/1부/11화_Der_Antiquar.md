@@ -44,7 +44,7 @@
 27. **Mira:** Hier gibt es einen handschriftlichen Eintrag. «Aus dem Besitz von Leopold Rosenthal, 1921».
 28. **Herr Rosenthal:** Mein Großvater. Er hat das Buch auf einer Auktion gekauft, als er achtzehn war.
 29. **Helene:** Und er hat es seinem Sohn vererbt, der es dir gegeben hat, Samuel.
-30. **Herr Rosenthal:** Mein Vater hat es 1938 bei einem Nachbarn versteckt, in einem Keller in der Giesebrechtstraße. Er selbst hat es nie wiedergesehen.
+30. **Herr Rosenthal:** Mein Vater hat es 1938 bei einem Nachbarn versteckt, in einem Keller in der Giesebrechtstraße. Er hat es später nie wieder angefasst.
 31. **Lale:** Dann kam es erst nach dem Krieg zu Ihnen?
 32. **Herr Rosenthal:** Der Nachbar hat es 1946 meiner Mutter zurückgebracht, mit einer Entschuldigung. Er hatte es in all den Jahren nicht verbrannt und nicht verkauft.
 33. **Konrad:** Das ist keine Entschuldigung, das ist ein Zeugnis.

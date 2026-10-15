@@ -1,0 +1,288 @@
+# 1부 9화. Se ha estropeado la lavadora (세탁기가 고장 났어요)
+난이도: 주 B1 | 구간: B1→A2→B1→B1→B1→A2 | 형식: 전화(고객센터 통화 + 룸메이트 목소리) | 장소: 라바피에스 아파트 주방 | 시간: 토요일 오전 11시 50분~12시 20분
+등장인물: Raúl, Sonia, Valentina, 안내 음성(Locución)
+이슈: 주 ○ 수리 서비스·보증 | 곡선: 0-1-1-0-1-0 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 대기 시간, 보증 범위, 세탁방 비용이 한마디 스침)
+상황 카드: 세탁기에서 물이 새자 라울이 고객센터에 전화한다. 자동 안내 메뉴와 대기 음악을 거쳐 상담원 소니아와 통화한다. 이름 철자, 전화번호, 모델명, 주소, 보증 확인까지 하면서 화요일 방문 시간대를 잡는다. 걸림돌은 젖은 빨래와 수건이 보증 대상이 아니라는 점. 결말은 룸메이트와 화해하는 가벼운 농담이다.
+학습 포인트: 전화 표현(le atiende…, ¿Me lo deletrea?, pulse uno) · 철자와 숫자 말하기 · 문제 설명(Se ha estropeado, sale agua) · 현재완료 · 예약과 시간대 · 보증과 비용
+
+## 대화
+(Sábado, doce menos diez. Raúl está en la cocina con los pies en un charco. Llama al servicio técnico.)
+Raúl : (para sí) Vale, vale, vale. Atención al cliente… (marca)
+Locución : Bienvenido al servicio de atención al cliente de Electrodomésticos Mediterráneo. Para continuar en castellano, pulse uno. For English, press two.
+Raúl : (pulsa) Uno. Venga.
+Locución : Si es usted cliente, pulse uno. Si desea hacerse cliente, pulse dos.
+Raúl : Uno, uno, uno…
+Locución : Para consultar el estado de un pedido, pulse uno. Para solicitar un servicio técnico, pulse dos. Para cualquier otra consulta, pulse tres.
+Raúl : Dos. Por favor, dos.
+Locución : Ha seleccionado servicio técnico. Todos nuestros agentes están ocupados. Su tiempo de espera estimado es de seis minutos. Gracias por su paciencia.
+Raúl : ¡Seis minutos! Con el agua por los tobillos.
+(Suena música de espera. Raúl pone el móvil en altavoz y empieza a secar el suelo con una toalla. Entra Valentina, su compañera de piso, en pijama.)
+Valentina : Raúl, ¿qué ruido es ese? ¿Estás oyendo el «Para Elisa» en bucle?
+Raúl : Es la música de la espera. Se me ha roto la lavadora.
+Valentina : ¿La nuestra? ¿Con la ropa que puse anoche?
+Raúl : Esa misma. Estaba llena de agua cuando abrí la puerta.
+Valentina : Madre mía. ¿Y has cerrado el grifo?
+Raúl : Lo primero. Luego he intentado secar con todas las toallas de la casa.
+Valentina : ¿También con mi toalla favorita?
+Raúl : Con todas.
+Valentina : ¡Raúl!
+Raúl : Es una emergencia, Vale.
+Valentina : Ya hablaremos de mi toalla. Contesta, que te llaman.
+(La música se corta. Una voz humana, por fin.)
+Sonia : Buenos días, servicio técnico de Electrodomésticos Mediterráneo, le atiende Sonia. ¿En qué puedo ayudarle?
+Raúl : Buenos días, Sonia. Se ha roto mi lavadora. Sale agua por la puerta.
+Sonia : Lo siento mucho. ¿Me dice su nombre, por favor?
+Raúl : Raúl Ortega.
+Sonia : ¿Me lo deletrea?
+Raúl : Erre, a, u con tilde, ele. O, erre, te, e, ge, a.
+Sonia : Gracias, Raúl. ¿Y su teléfono?
+Raúl : Seis, uno, cinco, cero, tres, dos, ocho, nueve, cuatro.
+Sonia : Seis, uno, cinco, cero, tres, dos, ocho, nueve, cuatro. ¿Es correcto?
+Raúl : Sí, correcto.
+Sonia : ¿Qué marca es la lavadora?
+Raúl : Es una Mediterráneo. Modelo… espere, que miro la etiqueta. «Lava ciento cuarenta».
+Sonia : Lava uno, cuatro, cero. ¿Qué número de serie tiene? Está detrás, en una pegatina.
+Raúl : Detrás no puedo mirar. Está llena de agua y es muy pesada.
+Sonia : No pasa nada. Lo apuntamos después. ¿Qué dirección tiene?
+Raúl : Calle del Ave María, número veintitrés, segundo B.
+Sonia : Perfecto. Ahora le miro la primera cita disponible.
+Raúl : ¿Hay alguna para hoy?
+Sonia : Hoy no. Normalmente hay unos tres o cuatro días de espera.
+Raúl : ¿Tres o cuatro días? Y mientras tanto, ¿qué hago con el agua?
+Sonia : Le recomiendo cortar el agua de la lavadora y no usarla hasta que venga el técnico.
+Raúl : Ya la he cortado. ¿Y el suelo? Tengo la cocina inundada.
+Sonia : Seque todo lo que pueda. Y no enchufe nada cerca del agua.
+Raúl : Vale. ¿Y la visita del técnico cuánto cuesta?
+Sonia : Depende de la garantía. ¿Cuándo compró la lavadora?
+Raúl : Hace dos años y medio. La compró mi compañera de piso. Ella tiene la factura.
+Sonia : La garantía legal es de tres años, así que probablemente esté cubierta. Necesito el número de la factura o la fecha de compra.
+Raúl : Vale, ahora le pregunto. Valentina, ¿tienes la factura de la lavadora?
+Valentina : (de fondo) Creo que sí, está en el correo. Dame un minuto.
+Raúl : Dice que sí. Un minuto.
+Sonia : Perfecto. No se preocupe, tómese su tiempo.
+Raúl : Es muy amable. En otras empresas, a estas alturas ya me habrían colgado.
+Sonia : Aquí intentamos que no. Es lo mínimo.
+Valentina : (de fondo) Aquí está. Fecha: veinte de marzo de hace dos años. Número de factura, A, guion, cero cero cuatro, siete, siete, dos.
+Raúl : Sonia, la compra fue el veinte de marzo de hace dos años. La factura es A, guion, cero cero cuatro, siete, siete, dos.
+Sonia : Lo anoto. Veinte de marzo. Efectivamente, está en garantía. La visita del técnico no costará nada.
+Raúl : Menos mal. ¿Y la reparación?
+Sonia : Si es una avería cubierta, tampoco. Eso lo decide el técnico.
+Raúl : Perfecto. Entonces solo falta la cita.
+Sonia : Exacto. Déjeme mirar el calendario.
+Sonia : Tengo disponible el martes por la mañana, entre las ocho y las doce, o el miércoles por la tarde, entre las cuatro y las ocho.
+Raúl : ¿No puede ser una hora más concreta? Yo trabajo.
+Sonia : Los técnicos dan franjas horarias, no horas exactas. Pero llaman media hora antes para avisar.
+Raúl : Entiendo. Valentina, ¿tú puedes el martes por la mañana?
+Valentina : (de fondo) Yo tengo clase hasta las doce. Pero tú teletrabajas el martes.
+Raúl : Es verdad. Entonces el martes me va bien.
+Sonia : Perfecto. Le reservo el martes, de ocho a doce.
+Raúl : ¿Y si el técnico llega a las ocho y diez?
+Sonia : Pues pasa a las ocho y diez. No hay problema.
+Raúl : ¿Y si llega a las doce menos diez, dormido en la escalera?
+Sonia : (ríe) Tampoco hay problema. Aunque eso es menos habitual.
+Raúl : Lo digo porque con los fontaneros, a veces…
+Sonia : Los de este servicio son puntuales. Si no, me lo dice y lo apunto.
+Raúl : Gracias. ¿Y qué le digo al técnico? ¿Tengo que ordenar algo?
+Sonia : Si puede, deje libre el espacio alrededor de la lavadora. Y si tiene fotos del problema, mejor.
+Raúl : Ahora mismo estoy haciendo fotos. Tengo cinco.
+Sonia : Perfecto. Puede enviarlas al correo que le va a llegar con la cita.
+Raúl : Me llegará un correo, entonces.
+Sonia : Sí. En unos minutos. Con la fecha, la franja horaria y el nombre del técnico.
+Raúl : Estupendo. Muchas gracias, Sonia.
+Raúl : Sonia, una última pregunta. La ropa que estaba dentro está empapada y huele a humedad. ¿La garantía cubre eso?
+Sonia : Me temo que no. La garantía cubre el aparato, no lo que hay dentro.
+Raúl : Ya imaginaba. Entonces tengo que lavar a mano o ir a una lavandería.
+Sonia : Hay una lavandería cerca de su calle, creo. En Lavapiés hay varias.
+Raúl : Sí, una a dos minutos. Pero cobran tres euros por lavar y otros tres por secar.
+Sonia : Seis euros. No es mucho, pero se acumula.
+Raúl : Sobre todo si hay que lavar tres veces. Pero bueno, es lo que hay.
+Valentina : (de fondo) Pregúntale si podemos reclamar la toalla.
+Raúl : ¿La toalla? Valentina, eso no.
+Valentina : (de fondo) Era de mi abuela.
+Sonia : (ríe) Dígale a su compañera que lo siento mucho, pero ni la toalla ni la ropa entran en la garantía.
+Raúl : Se lo digo. Valentina, Sonia dice que lo siente por la toalla.
+Valentina : (de fondo) Qué amable. Pues que la lave ella.
+Raúl : (a Sonia) Perdone, mi compañera está muy afectada.
+Sonia : Lo entiendo. Una toalla de la abuela es sagrada.
+Raúl : Muy sagrada. ¿Algo más que deba saber?
+Sonia : Por mi parte no. Le recuerdo: martes, de ocho a doce, técnico de Electrodomésticos Mediterráneo, aparato en garantía.
+Raúl : Perfecto. Lo tengo apuntado. Martes, de ocho a doce.
+Sonia : ¿Puedo ayudarle en algo más?
+Raúl : No, nada más. Ha sido muy amable, de verdad.
+Sonia : Gracias a usted. Antes de colgar, le haremos una encuesta de satisfacción. Dura treinta segundos.
+Raúl : Vale. Adelante.
+Locución : Del uno al diez, ¿cómo valora la atención recibida?
+Raúl : Un diez. Ponga un diez.
+Locución : Gracias. Del uno al diez, ¿cómo valora el tiempo de espera inicial?
+Raúl : Un tres. No, un dos. Seis minutos con el «Para Elisa».
+Sonia : (en voz baja, riendo) Le entiendo. Es una música muy repetitiva.
+Raúl : Gracias por todo, Sonia. Que tenga un buen fin de semana.
+Sonia : Igualmente, Raúl. Hasta el martes.
+Raúl : Hasta el martes.
+(Raúl cuelga. Valentina entra con una fregona.)
+Valentina : ¿Qué te ha dicho?
+Raúl : Que el martes, de ocho a doce. Y que la toalla de tu abuela no entra en la garantía.
+Valentina : Qué vergüenza. Una señora tan simpática y no cubre la toalla de mi abuela.
+Raúl : Es lo que hay. Toma la fregona.
+Valentina : ¿Y tú qué haces?
+Raúl : Yo voy a escribir al técnico una lista de las cosas que puede mirar. Y tú, a secar.
+Valentina : Es el cuento de siempre. Tú escribes y yo seco.
+Raúl : Esta vez es distinto. Esta vez te invito a comer en la lavandería.
+Valentina : ¿Cómo que a comer en la lavandería?
+Raúl : Hay una cafetería al lado. Los tres euros de lavar y los tres de secar los pago yo. Y el café, también.
+
+## 낭독 포인트
+- z/c: veinte, cinco, gracias, doce, cero — [θ]. 숫자 «cero»와 «cinco»의 [θ]에 주의.
+- 철자 읽기: erre, a, u con tilde, ele / o, erre, te, e, ge, a — 알파벳 이름을 또박또박. «ge»는 [xe].
+- 숫자 읽기: seis, uno, cinco, cero, tres, dos, ocho, nueve, cuatro — 전화번호는 한 자리씩 끊어 읽는다.
+- ll/y: llama, llena, ya, calle — [ʝ].
+- 묵음 h: hace, hay, hoy, habitual.
+- 억양: 전화 응대의 정중한 억양(Le atiende Sonia. ¿En qué puedo ayudarle?)은 부드럽게 올렸다 내린다. 안내 음성은 평탄하고 기계적으로.
+
+## 학습 포인트 정리
+- B1 구간(1~20, 41~100턴): 설명과 확인
+  · 현재완료: «Se me ha roto la lavadora.», «He cerrado el grifo.», «Ya la he cortado.»
+  · 부정과거(과거 시점): «La compró mi compañera.», «La compra fue el veinte de marzo.»
+  · 문제 설명: «Sale agua por la puerta.», «Está llena de agua.», «Huele a humedad.»
+  · 이유와 조건: «Depende de la garantía.», «Si es una avería cubierta, tampoco.»
+  · 어휘: el servicio técnico, la garantía, la factura, la franja horaria, la avería, la cita, la encuesta de satisfacción, la lavandería.
+- A2 구간(21~40, 101~120턴): 기본 정보 말하기
+  · 전화 응대: «Le atiende Sonia.», «¿En qué puedo ayudarle?», «¿Me lo deletrea?»
+  · 숫자와 주소: 전화번호, número veintitrés, segundo B, a las ocho y diez.
+  · 시간과 날짜: el martes, entre las ocho y las doce, hasta el martes.
+  · 감사와 작별: «Gracias a usted.», «Igualmente.», «Que tenga un buen fin de semana.»
+
+## 속어 노트
+- «Es lo que hay»: 어쩔 수 없다, 이게 현실이다.
+- «Madre mía»: 세상에.
+- «A estas alturas»: 이쯤 되면, 지금 시점에서는.
+- «Qué vergüenza»: 부끄럽다·한심하다(여기서는 장난스러운 항의).
+- «Venga»: 자, 어서(재촉).
+- 보증 기간과 금액은 가공이다. 실제 제도와 업체 정책은 사안마다 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(토요일, 열두 시 십 분 전. 라울이 물웅덩이에 발을 담근 채 주방에 서 있다. 서비스센터에 전화한다.)
+라울 : (혼잣말로) 좋아, 좋아, 좋아. 고객센터… (전화를 건다)
+안내 음성 : 메디테라네오 전자제품 고객센터에 오신 것을 환영합니다. 스페인어로 계속하시려면 1번을 누르세요. For English, press two.
+라울 : (누른다) 1번. 자.
+안내 음성 : 고객이시면 1번을, 고객이 되고 싶으시면 2번을 누르세요.
+라울 : 1, 1, 1…
+안내 음성 : 주문 상태를 조회하시려면 1번, 서비스 기사 방문을 신청하시려면 2번, 그 밖의 문의는 3번을 누르세요.
+라울 : 2번. 제발, 2번.
+안내 음성 : 서비스 기사 방문을 선택하셨습니다. 모든 상담원이 통화 중입니다. 예상 대기 시간은 6분입니다. 기다려 주셔서 감사합니다.
+라울 : 6분이라니! 발목까지 물이 찼는데.
+(대기 음악이 흐른다. 라울이 휴대폰을 스피커폰으로 놓고 수건으로 바닥을 닦기 시작한다. 룸메이트 발렌티나가 잠옷 차림으로 들어온다.)
+발렌티나 : 라울, 이게 무슨 소리야? '엘리제를 위하여' 무한 반복 듣고 있는 거야?
+라울 : 대기 음악이야. 세탁기가 고장 났어.
+발렌티나 : 우리 거? 어젯밤에 내가 넣어 둔 빨래가 들어 있는데?
+라울 : 바로 그거. 문을 열었더니 물이 가득 차 있었어.
+발렌티나 : 세상에. 수도꼭지는 잠갔어?
+라울 : 제일 먼저 했지. 그다음에 집에 있는 수건을 전부 동원해서 닦으려고 했어.
+발렌티나 : 내 제일 좋아하는 수건도?
+라울 : 전부.
+발렌티나 : 라울!
+라울 : 비상 상황이야, 발.
+발렌티나 : 내 수건 얘기는 나중에 하자. 받아, 전화 왔어.
+(음악이 끊긴다. 드디어 사람 목소리가 들린다.)
+소니아 : 안녕하세요, 메디테라네오 전자제품 서비스센터 상담원 소니아입니다. 무엇을 도와드릴까요?
+라울 : 안녕하세요, 소니아 씨. 세탁기가 고장 났어요. 문에서 물이 새요.
+소니아 : 정말 죄송합니다. 성함을 말씀해 주시겠어요?
+라울 : 라울 오르테가요.
+소니아 : 철자를 불러 주시겠어요?
+라울 : 에레, 아, 우(악센트), 엘레. 오, 에레, 테, 에, 헤, 아.
+소니아 : 감사합니다, 라울 님. 전화번호는요?
+라울 : 6, 1, 5, 0, 3, 2, 8, 9, 4.
+소니아 : 6, 1, 5, 0, 3, 2, 8, 9, 4. 맞습니까?
+라울 : 네, 맞아요.
+소니아 : 세탁기 브랜드는 무엇인가요?
+라울 : 메디테라네오예요. 모델은… 잠깐만요, 라벨을 볼게요. "라바 140".
+소니아 : 라바 1, 4, 0. 제조번호는 어떻게 되나요? 뒤쪽 스티커에 있어요.
+라울 : 뒤는 볼 수가 없어요. 물이 가득 차 있어서 아주 무거워요.
+소니아 : 괜찮아요. 나중에 적을게요. 주소는요?
+라울 : 아베 마리아 거리 23번지, 2층 B호예요.
+소니아 : 좋습니다. 이제 가장 빠른 예약 가능 시간을 찾아볼게요.
+라울 : 오늘 되는 게 있나요?
+소니아 : 오늘은 없어요. 보통 3~4일 대기가 있습니다.
+라울 : 3~4일이요? 그동안 물은 어떡하죠?
+소니아 : 세탁기로 가는 물을 잠그고 기사가 올 때까지 사용하지 않으시길 권해요.
+라울 : 이미 잠갔어요. 바닥은요? 주방이 물바다예요.
+소니아 : 닦을 수 있는 건 다 닦으세요. 그리고 물 가까이에서는 아무것도 플러그에 꽂지 마세요.
+라울 : 알겠어요. 기사 방문은 얼마예요?
+소니아 : 보증 여부에 따라 달라요. 세탁기를 언제 사셨어요?
+라울 : 2년 반 전에요. 룸메이트가 샀어요. 영수증은 그 사람한테 있고요.
+소니아 : 법정 보증은 3년이라서 아마 적용될 거예요. 청구서 번호나 구입 날짜가 필요해요.
+라울 : 네, 지금 물어볼게요. 발렌티나, 세탁기 영수증 있어?
+발렌티나 : (멀리서) 있는 것 같아, 이메일에 있어. 잠깐만.
+라울 : 있대요. 잠깐만요.
+소니아 : 좋아요. 걱정 마시고 천천히 하세요.
+라울 : 참 친절하시네요. 다른 회사였으면 이쯤에서 이미 끊었을 거예요.
+소니아 : 저희는 끊지 않으려고 해요. 그게 최소한이죠.
+발렌티나 : (멀리서) 여기 있어. 날짜: 2년 전 3월 20일. 청구서 번호는 A, 하이픈, 0, 0, 4, 7, 7, 2.
+라울 : 소니아 씨, 구입은 2년 전 3월 20일이에요. 청구서 번호는 A, 하이픈, 0, 0, 4, 7, 7, 2예요.
+소니아 : 적었어요. 3월 20일. 확실히 보증 기간 안이에요. 기사 방문 비용은 없습니다.
+라울 : 다행이네요. 수리는요?
+소니아 : 보증 대상 고장이면 수리도 무료예요. 그건 기사가 판단해요.
+라울 : 좋아요. 그럼 예약만 남았네요.
+소니아 : 맞아요. 달력을 볼게요.
+소니아 : 화요일 오전 8시에서 12시 사이, 아니면 수요일 오후 4시에서 8시 사이가 가능해요.
+라울 : 더 구체적인 시간은 안 되나요? 저는 일을 해서요.
+소니아 : 기사님은 정확한 시간이 아니라 시간대로 방문해요. 하지만 30분 전에 전화로 알려 드려요.
+라울 : 알겠어요. 발렌티나, 화요일 오전 괜찮아?
+발렌티나 : (멀리서) 나는 12시까지 수업이야. 근데 너는 화요일에 재택근무잖아.
+라울 : 맞다. 그럼 화요일이 좋아요.
+소니아 : 좋습니다. 화요일, 8시에서 12시로 예약해 드릴게요.
+라울 : 기사님이 8시 10분에 오면요?
+소니아 : 그럼 8시 10분에 들르시는 거죠. 문제없어요.
+라울 : 12시 10분 전에 계단에서 졸다가 오면요?
+소니아 : (웃는다) 그것도 문제없어요. 흔한 일은 아니지만요.
+라울 : 배관공들은 가끔…
+소니아 : 저희 서비스 기사님들은 시간을 잘 지켜요. 안 지키시면 말씀해 주세요, 기록할게요.
+라울 : 감사합니다. 기사님께 뭐라고 말해 둬야 하나요? 정리할 게 있나요?
+소니아 : 가능하면 세탁기 주변 공간을 비워 두세요. 문제 사진이 있으면 더 좋고요.
+라울 : 지금 사진을 찍고 있어요. 다섯 장 있어요.
+소니아 : 좋아요. 예약 확인과 함께 가는 이메일 주소로 보내시면 돼요.
+라울 : 그럼 이메일이 오는 거네요.
+소니아 : 네. 몇 분 안에요. 날짜, 시간대, 기사님 이름이 들어 있어요.
+라울 : 아주 좋아요. 정말 감사합니다, 소니아 씨.
+라울 : 소니아 씨, 마지막 질문이에요. 안에 있던 옷이 흠뻑 젖었고 습기 냄새가 나요. 보증이 그것도 보장하나요?
+소니아 : 유감이지만 아니에요. 보증은 기기만 보장하고 안에 든 것은 아니에요.
+라울 : 그럴 줄 알았어요. 그럼 손빨래하거나 빨래방에 가야겠네요.
+소니아 : 고객님 거리 근처에 빨래방이 있을 거예요. 라바피에스에는 여러 곳이 있어요.
+라울 : 네, 2분 거리에 하나 있어요. 근데 세탁에 3유로, 건조에 또 3유로예요.
+소니아 : 6유로. 많지는 않지만 쌓이죠.
+라울 : 특히 세 번 빨아야 하면요. 뭐, 어쩔 수 없죠.
+발렌티나 : (멀리서) 수건은 보상받을 수 있는지 물어봐.
+라울 : 수건? 발렌티나, 그건 아니야.
+발렌티나 : (멀리서) 우리 할머니 거였어.
+소니아 : (웃는다) 룸메이트분께 정말 유감이지만 수건도 옷도 보증에 해당하지 않는다고 전해 주세요.
+라울 : 전할게요. 발렌티나, 소니아 씨가 수건 건은 유감이래.
+발렌티나 : (멀리서) 참 친절하네. 그럼 그분이 빨아 주면 되겠다.
+라울 : (소니아에게) 죄송해요, 제 룸메이트가 많이 속상해해요.
+소니아 : 이해해요. 할머니 수건은 신성한 거죠.
+라울 : 아주 신성하죠. 더 알아야 할 게 있나요?
+소니아 : 제 쪽에서는 없어요. 다시 말씀드릴게요. 화요일, 8시에서 12시, 메디테라네오 전자제품 기사, 보증 적용입니다.
+라울 : 좋아요. 적어 놨어요. 화요일, 8시에서 12시.
+소니아 : 더 도와드릴 일이 있을까요?
+라울 : 아니요, 없어요. 정말 친절하셨어요.
+소니아 : 저희가 감사합니다. 끊기 전에 만족도 조사를 할게요. 30초 걸려요.
+라울 : 좋아요. 하세요.
+안내 음성 : 1점에서 10점까지, 받으신 상담에 몇 점을 주시겠습니까?
+라울 : 10점. 10점으로 해 주세요.
+안내 음성 : 감사합니다. 1점에서 10점까지, 처음 대기 시간은 몇 점입니까?
+라울 : 3점. 아니, 2점. '엘리제를 위하여'를 6분 동안 들었어요.
+소니아 : (작은 목소리로 웃으며) 이해해요. 아주 반복적인 음악이죠.
+라울 : 다 감사해요, 소니아 씨. 좋은 주말 보내세요.
+소니아 : 라울 님도요. 화요일에 뵙겠습니다.
+라울 : 화요일에 봬요.
+(라울이 전화를 끊는다. 발렌티나가 대걸레를 들고 들어온다.)
+발렌티나 : 뭐래?
+라울 : 화요일 8시에서 12시래. 그리고 네 할머니 수건은 보증에 안 들어간대.
+발렌티나 : 부끄럽네. 이렇게 친절한 분이 우리 할머니 수건은 보장 안 해 주다니.
+라울 : 어쩔 수 없지. 자, 대걸레.
+발렌티나 : 그럼 넌 뭐 해?
+라울 : 나는 기사님께 확인할 것들의 목록을 써 둘게. 그리고 넌 닦아.
+발렌티나 : 늘 똑같은 얘기야. 너는 쓰고 나는 닦고.
+라울 : 이번엔 달라. 이번엔 빨래방에서 밥 살게.
+발렌티나 : 빨래방에서 밥을 산다고?
+라울 : 옆에 카페가 있어. 세탁 3유로, 건조 3유로는 내가 낼게. 커피도.

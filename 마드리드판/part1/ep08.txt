@@ -1,0 +1,296 @@
+# 1부 8화. El casero que no daba la cara (얼굴을 안 보이는 집주인)
+난이도: 주 C1 | 구간: C1→C1→C1→C1→B2→B2 | 형식: 전화 + 메시지 + 마지막 대면 | 장소: 라바피에스 엘레나의 집, 전화·왓츠앱, 건물 1층 바 | 시간: 화요일 밤 10시 30분 ~ 수요일 오전 11시
+등장인물: Elena, Gonzalo, Marta, Armando
+이슈: 주 ○ 집주인과의 연락·수리 요청 | 곡선: 0-0-1-1-1-0 (잔잔형, 상한 1) | 입장: 해당 없음(코미디. 수리 책임이 한마디 스침)
+상황 카드: 사흘째 온수가 안 나오는 엘레나가 집주인 곤살로에게 연락하지만 그는 보이스메일, 긴 음성 메시지, "내일 전화할게"로만 피한다. 정중한 항의, 경고 메일, 왓츠앱을 거쳐 엘레나는 음성 메시지 속 배경 소리로 그가 바로 아래층 바에 있다는 걸 알아챈다. 대면하면 곤살로는 갈등이 부담스러웠다고 털어놓고, 전화 한 통으로 배관공이 10분 만에 도착한다.
+학습 포인트: 격식체와 구어체의 전환(Estimado…, te agradecería que…) · 완곡한 항의 · 반어와 비꼼 · 전화 표현(salta el buzón, te llamo en diez minutos) · 관용구(se me ha ido el santo al cielo, no hay escapatoria)
+
+## 대화
+(Martes por la noche, diez y media. Elena sale de la ducha en albornoz, con el pelo mojado. Llama por teléfono a su amiga Marta.)
+Elena : Marta, no te lo vas a creer. Me acabo de pegar una ducha de agua helada. Helada, helada.
+Marta : ¿Otra vez el calentador?
+Elena : Otra vez. Es el tercer día seguido. Parece que el termo se ha declarado en huelga.
+Marta : Pues llama a Gonzalo, que para eso es el casero.
+Elena : Ya lo he intentado esta tarde. Dos veces. Salta el buzón de voz.
+Marta : ¿Y le has dejado mensaje?
+Elena : Uno cortés y otro menos cortés. El segundo contenía la palabra «urgente» en mayúsculas.
+Marta : En mayúsculas se oye, ¿eh?
+Elena : Se nota en el tono. Mira, voy a llamarle otra vez, que si no, no me duermo.
+Marta : Suerte. Y abrígate, que te vas a constipar.
+Elena : Gracias, madre. Te cuento.
+(Elena cuelga y marca otro número. Suena el tono varias veces.)
+Gonzalo : (voz grabada) Hola, soy Gonzalo. No puedo atender tu llamada. Deja tu mensaje después de la señal… o no lo dejes y ya te llamo yo.
+Elena : (al contestador) Gonzalo, soy Elena, la del segundo B. Es la tercera vez que te llamo en dos días por el calentador. Llevo tres días sin agua caliente. Te agradecería que me devolvieras la llamada con la mayor brevedad posible. Gracias.
+Elena : (cuelga y suspira) «O no lo dejes y ya te llamo yo.» Qué optimismo.
+Marta : (mensaje de voz) Elena, ¿qué tal? ¿Lo has localizado ya?
+Elena : (mensaje de voz) Nada. Ni rastro. Debe de estar en una cumbre diplomática, porque no hay otra explicación.
+Marta : (mensaje de voz) Prueba por WhatsApp. A los de su edad les da menos apuro que una llamada.
+Elena : (mensaje de voz) Buena idea. A ver cómo lo redacto sin que parezca un telegrama de despido.
+Marta : (mensaje de voz) Pon algo como: «Buenas noches, Gonzalo, el termo no funciona…» y cinco emojis de gota.
+Elena : (mensaje de voz) Voy a ser seria. Le mando el mensaje y me meto en la cama con tres mantas.
+(Elena escribe un mensaje y espera.)
+Elena : (WhatsApp) Buenas noches, Gonzalo. Te escribo porque el calentador lleva tres días sin funcionar y no consigo hablar contigo por teléfono. ¿Podrías decirme cuándo puede venir alguien a mirarlo? Gracias.
+(Pasan quince minutos. Entra una notificación.)
+Gonzalo : (WhatsApp, audio de tres minutos) Elena, hola, buenas noches, perdona, estaba en el coche, es que he tenido un día… Fíjate que primero tuve la reunión en el banco, luego fui a comer con mi cuñado, que ha vuelto a lo del pádel, y después un atasco en la M-30… Perdona que no te haya cogido el teléfono, pero estaba en un túnel y no hay cobertura. Mañana te llamo.
+Elena : (WhatsApp) Gracias por el audio, Gonzalo. Tres minutos para decir «mañana te llamo». Muy completo. ¿A qué hora?
+Gonzalo : (WhatsApp) Por la mañana.
+Elena : (WhatsApp) «Por la mañana» abarca de las seis a las doce. ¿Puedes concretar?
+Gonzalo : (WhatsApp) Sobre las diez.
+Elena : (WhatsApp) Perfecto. Esperaré tu llamada a las diez. Y para que no haya malentendidos: es un calentador, no un asunto de Estado.
+Gonzalo : (WhatsApp) Jajaja. Qué graciosa. Buenas noches.
+Marta : (mensaje de voz) ¿Y bien? ¿Ha picado?
+Elena : (mensaje de voz) Ha contestado con un audio de tres minutos y la palabra «mañana». Ni un solo detalle útil.
+Marta : (mensaje de voz) Es el típico casero. Dice «ahora te llamo» desde 2018.
+Elena : (mensaje de voz) Qué ironía. Si me llama a las diez, hasta le invito a un café.
+Marta : (mensaje de voz) Y si no te llama, le mandas un fontanero de tu parte.
+Elena : (mensaje de voz) Qué mala eres. Pero me gusta.
+Marta : (mensaje de voz) Buenas noches. Y enciende la estufa.
+Elena : (mensaje de voz) No tengo estufa. Tengo una bolsa de agua caliente… que, curiosamente, no tiene dónde calentar el agua.
+Marta : (mensaje de voz) Pues te vas a tomar una sopa de sobre.
+Elena : (mensaje de voz) Eso sí. Con una galleta.
+Marta : (mensaje de voz) Hasta mañana, cielo.
+Elena : (mensaje de voz) Hasta mañana.
+(Miércoles, once menos cuarto. Elena mira el reloj. Llama.)
+Gonzalo : ¿Sí?
+Elena : Gonzalo, buenos días. Son las once menos cuarto. Quedamos en que me llamabas a las diez.
+Gonzalo : Ay, Elena, es verdad. Se me ha ido el santo al cielo. He tenido una mañana…
+Elena : Seguro que sí. Pero yo llevo cuatro días sin agua caliente. ¿Cuándo puede venir un técnico?
+Gonzalo : A ver. Ahora mismo no sé de ningún fontanero que esté libre. Esta semana es complicada.
+Elena : ¿Y la semana que viene?
+Gonzalo : La semana que viene sí. Seguro que sí. A ver si consigo que alguien pase el lunes.
+Elena : ¿El lunes? Gonzalo, hoy es miércoles. Son seis días más sin agua caliente.
+Gonzalo : Entiendo tu enfado. Pero entiende tú que estas cosas llevan su tiempo.
+Elena : Lo entiendo. Pero en el contrato pone que las reparaciones importantes corren de tu cuenta, ¿no?
+Gonzalo : Eso depende. Si es una avería normal, sí. Si es por mal uso…
+Elena : ¿Mal uso? Gonzalo, es un calentador. Lo único que hago es abrir el grifo.
+Gonzalo : Hombre, a veces la gente lo pone al máximo y se estropea.
+Elena : Yo lo pongo en cuarenta grados, como todo el mundo. ¿Quieres que te mande una foto del selector?
+Gonzalo : No hace falta, mujer. Era un comentario sin importancia.
+Elena : Pues entonces, ¿puedo llamar yo a un fontanero y descontarlo del alquiler?
+Gonzalo : ¿Descontarlo? Eso no se hace así. Lo hablamos primero.
+Elena : Llevamos cuatro días hablándolo. Bueno, escribiéndolo. Bueno, grabándolo.
+Gonzalo : (ríe nervioso) Tienes razón. A ver, déjame que mire mi agenda y te llamo en diez minutos.
+Elena : Gonzalo, ¿tú sabes cuántas veces he oído «te llamo en diez minutos»?
+Gonzalo : (silencio) Perdona. Es la costumbre.
+Elena : Te voy a mandar un correo. Formal. Con copia a mi hermano, que es abogado.
+Gonzalo : ¿Un correo? Elena, no hace falta ponerse así. Somos gente civilizada.
+Elena : Precisamente por eso. Entre gente civilizada, las cosas se dejan por escrito.
+Gonzalo : Pues mándalo, mándalo. Total, lo voy a leer cuando pueda.
+Elena : Lo sé. Pero cuando lo leas, ya estará registrado.
+(Elena cuelga. Llama a Marta.)
+Marta : ¿Qué ha pasado?
+Elena : Me ha dicho que lo arreglan el lunes. Y que a lo mejor es culpa mía por haber puesto el selector demasiado alto.
+Marta : ¡Qué cara! ¿Y tú qué le has dicho?
+Elena : Que le mando un correo con copia a mi hermano. Pero no sé si he hecho bien.
+Marta : Has hecho muy bien. Lo que no se escribe, no existe.
+Elena : (lee en voz alta mientras escribe) «Estimado Gonzalo: Por la presente le comunico que el calentador del inmueble sito en la calle del Ave María, segundo B, lleva cuatro días sin funcionar…».
+Marta : «Estimado Gonzalo.» Qué miedo.
+Elena : «…y le solicito que proceda a su reparación en un plazo máximo de cuarenta y ocho horas; en caso contrario, me veré obligada a contratar a un profesional y a repercutir el coste.»
+Marta : Perfecto. Tiene un tono de «no me toques las narices» muy elegante.
+Elena : Gracias. Lo he ensayado toda la mañana.
+Marta : ¿Lo vas a mandar ya?
+Elena : Lo voy a mandar ya. Y también por WhatsApp, por si acaso no abre el correo.
+Marta : Lo del WhatsApp es muy inteligente. Ve los dos ticks azules y ya no tiene escapatoria.
+Elena : Pues ahí va. (pulsa «enviar») Enviado.
+(Media hora más tarde. Entra un audio de Gonzalo.)
+Gonzalo : (WhatsApp, audio) Elena, he recibido tu correo. Me ha parecido un poco duro, la verdad. No hace falta ponerse así. Estoy intentando resolverlo. Dame un poco de margen, por favor.
+Elena : (mensaje de voz, a Marta) Escucha este audio. ¿No oyes algo de fondo?
+Marta : (mensaje de voz) Espera. Sí. Se oyen platos. Y una cafetera.
+Elena : (mensaje de voz) Y alguien que pide «una caña y unas bravas».
+Marta : (mensaje de voz) Ese no está en un túnel ni en una reunión. Ese está en un bar.
+Elena : (mensaje de voz) Y se oye una máquina tragaperras que dice «¡premio!». La conozco: es la del bar de abajo.
+Marta : (mensaje de voz) ¿El bar de abajo? ¿Está en el bar de debajo de tu casa?
+Elena : (mensaje de voz) Si no me equivoco, a doce metros de mi puerta. Voy a bajar.
+Marta : (mensaje de voz) Esto lo tengo que ver. ¿Te acompaño?
+Elena : (mensaje de voz) No hace falta. Te cuento luego.
+(Elena baja las escaleras y entra en el bar. En la última mesa, junto a la máquina, está Gonzalo, con el móvil en una mano y una cerveza en la otra.)
+Elena : Buenos días, Gonzalo.
+Gonzalo : (se atraganta) ¡Elena! Qué sorpresa. Qué casualidad.
+Elena : No es casualidad. Es una máquina tragaperras con muy buena acústica.
+Gonzalo : ¿Cómo dices?
+Elena : Que tu audio decía «estoy intentando resolverlo» y por detrás se oía «premio».
+Gonzalo : (suspira) Me has pillado.
+Elena : Llevo cuatro días intentando hablar contigo y estás a doce metros de mi casa.
+Gonzalo : Lo sé, lo sé. Es que… me da apuro. Me da mucho apuro hablar de problemas.
+Elena : Pues a mí me da mucho más apuro ducharme con agua helada.
+Gonzalo : (se ríe a su pesar) Tienes toda la razón del mundo.
+Gonzalo : Mira, voy a llamar ahora mismo a un fontanero que conozco. A ver si puede venir hoy.
+Elena : ¿Hoy? Llevo cuatro días pidiéndolo.
+Gonzalo : Tienes razón. Debería haberlo hecho el primer día. (marca) Armando, soy Gonzalo. Tengo un calentador roto en la calle del Ave María.
+Armando : (por el teléfono) ¿Ahora? Estoy a cinco minutos. ¿Es el segundo B?
+Gonzalo : (tapando el teléfono) Dice que está a cinco minutos. ¿Sigues en casa?
+Elena : Sí, hasta la tarde. No me lo puedo creer.
+Gonzalo : (al teléfono) Perfecto, Armando. Pasa ya. Te espero en el portal.
+Armando : (por el teléfono) Voy para allá. Dame diez minutos.
+Elena : ¿Diez minutos? ¿Como tus diez minutos o como los diez minutos de verdad?
+Gonzalo : Como los de verdad. Armando es un hombre de palabra.
+Elena : A diferencia de otros.
+Gonzalo : A diferencia de otros. Tienes razón. Perdóname.
+Elena : Te perdono con una condición: la próxima vez que algo se estropee, me coges el teléfono. O me contestas con una frase corta. Una sola.
+Gonzalo : Prometido. Una frase corta. «Voy a mirarlo.» Ya está.
+Elena : Eso es todo lo que necesito.
+Gonzalo : Y tú prométeme una cosa: que no me vuelves a mandar un correo con copia a un abogado.
+Elena : (ríe) Mi hermano ni siquiera ejerce. Es abogado en una empresa de seguros.
+Gonzalo : ¿Y me has asustado con eso?
+Elena : Es una estrategia. Lo mismo que tu túnel sin cobertura.
+Gonzalo : (levanta la cerveza) Entonces, por las estrategias. Y por el agua caliente.
+
+## 낭독 포인트
+- z/c: gracias, cinco, doce, diez, hace, cobertura — [θ]. «Diez minutos»에서 z는 [θ].
+- j/g: mujer, hijo, ejerce, gente, ojos — 강한 [x]. «Gonzalo»의 g는 [g].
+- ll/y: llamo, llamada, ya, calle — [ʝ]. «Ave María»는 [a-be-ma-rí-a]로 이어 읽는다.
+- 묵음 h: hace, hay, hermano, hombre, hasta.
+- 어조: 정중한 문어체(Por la presente le comunico…)는 느리고 또박또박, 구어(Qué cara, qué mala eres)는 빠르고 가볍게. 이 대비가 이 화의 재미다.
+- 억양: 반어 의문(¿Hoy?, ¿El lunes?)은 높게 올렸다가 단호하게 끝낸다.
+
+## 학습 포인트 정리
+- C1 구간(1~80턴): 격식과 구어의 오가기
+  · 격식 문어체: «Estimado Gonzalo: Por la presente le comunico que…», «le solicito que proceda a su reparación en un plazo máximo de…», «me veré obligada a…», «repercutir el coste».
+  · 정중한 요청: «Te agradecería que me devolvieras la llamada con la mayor brevedad posible.» (agradecer que + 불완료 접속법)
+  · 반어와 비꼼: «Qué optimismo.», «Muy completo.», «Es un calentador, no un asunto de Estado.»
+  · 관용구: «Se me ha ido el santo al cielo.»(깜빡 잊었다), «Ni rastro.»(흔적도 없다), «No tiene escapatoria.»(빠져나갈 길이 없다), «No me toques las narices.»(귀찮게 하지 마, 속어 약함), «Me da apuro.»(부담스럽다·쑥스럽다).
+  · 전화·메시지: «Salta el buzón de voz.», «Te llamo en diez minutos.», «¿Has localizado ya…?», «Ha picado.»(낚였다)
+  · 책임 말하기: «Las reparaciones importantes corren de tu cuenta.»
+- B2 구간(81~120턴): 대면 후의 해결
+  · 약속과 조건: «Te perdono con una condición: …», «Prométeme que no me vuelves a mandar…»
+  · 비교와 대조: «A diferencia de otros.»
+  · 전화로 사람 부르기: «Pasa ya. Te espero en el portal.»
+
+## 속어 노트
+- «Qué cara»: 뻔뻔하다(상대의 말이나 행동에 놀랄 때).
+- «Me da apuro»: 쑥스럽다, 부담스럽다, 난처하다.
+- «Total»: (구어 접속사) 어차피, 결국.
+- «Un hombre de palabra»: 약속을 지키는 사람.
+- «Salta el buzón»: 음성사서함으로 넘어간다.
+- 레지스터 주의: «No me toques las narices»는 점잖은 속어. 친구 사이의 농담이다.
+- 수리 책임과 배상 문구는 가공이다. 실제 계약과 법적 책임은 사안마다 다르다.
+
+## 한글 해석
+(화요일 밤, 열 시 반. 엘레나가 목욕 가운을 입고 젖은 머리로 샤워실에서 나온다. 친구 마르타에게 전화를 건다.)
+엘레나 : 마르타, 믿기지 않을 거야. 방금 얼음물 샤워를 했어. 얼음장, 얼음장 같은 물로.
+마르타 : 또 온수기야?
+엘레나 : 또야. 사흘째 연속이야. 온수 탱크가 파업 선언한 모양이야.
+마르타 : 그럼 곤살로한테 전화해, 그러라고 집주인이잖아.
+엘레나 : 오늘 오후에 이미 해 봤어. 두 번. 음성사서함으로 넘어가.
+마르타 : 메시지는 남겼어?
+엘레나 : 하나는 정중하게, 하나는 덜 정중하게. 두 번째에는 "긴급"이라는 단어가 대문자로 들어갔어.
+마르타 : 대문자는 들리지, 응?
+엘레나 : 어조에서 티가 나지. 있잖아, 다시 걸어 볼게, 안 그러면 잠이 안 와.
+마르타 : 행운을 빌어. 그리고 따뜻하게 입어, 감기 걸려.
+엘레나 : 고마워요, 엄마. 이따 얘기해 줄게.
+(엘레나가 전화를 끊고 다른 번호를 누른다. 신호음이 여러 번 울린다.)
+곤살로 : (녹음된 목소리) 안녕하세요, 곤살로입니다. 전화를 받을 수 없습니다. 신호음 뒤에 메시지를 남기세요… 아니면 남기지 않아도 제가 전화할게요.
+엘레나 : (자동응답기에) 곤살로 씨, 2층 B호 엘레나예요. 온수기 때문에 이틀 동안 세 번째 전화 드려요. 사흘째 온수가 안 나와요. 가능한 한 빨리 회신 주시면 감사하겠습니다. 감사합니다.
+엘레나 : (전화를 끊고 한숨을 쉰다) "아니면 남기지 않아도 제가 전화할게요." 참 낙관적이네.
+마르타 : (음성 메시지) 엘레나, 어때? 연락은 닿았어?
+엘레나 : (음성 메시지) 전혀. 흔적도 없어. 외교 정상회담에라도 간 게 틀림없어, 다른 설명이 없잖아.
+마르타 : (음성 메시지) 왓츠앱으로 해 봐. 그 연배 사람들은 전화보다 그게 덜 부담스러워해.
+엘레나 : (음성 메시지) 좋은 생각이야. 해고 통지서처럼 안 보이게 쓰는 게 문제지.
+마르타 : (음성 메시지) 이렇게 써 봐. "안녕하세요, 곤살로 씨, 온수기가 안 돼요…" 그리고 물방울 이모티콘 다섯 개.
+엘레나 : (음성 메시지) 진지하게 쓸 거야. 메시지 보내고 담요 세 장 덮고 잘래.
+(엘레나가 메시지를 쓰고 기다린다.)
+엘레나 : (왓츠앱) 안녕하세요, 곤살로 씨. 온수기가 사흘째 작동하지 않고 전화로 연락이 닿지 않아 메시지 드립니다. 언제쯤 누가 와서 봐 줄 수 있을지 알려 주실 수 있을까요? 감사합니다.
+(15분이 지난다. 알림이 들어온다.)
+곤살로 : (왓츠앱, 3분짜리 음성) 엘레나, 안녕, 밤인데, 미안해, 차 안이었어, 하루가 어찌나… 글쎄, 먼저 은행에서 회의가 있었고, 그다음에 처남이랑 점심을 먹었는데 걔가 또 패들 얘기를 시작했고, 그러고 나서 M-30에서 정체가… 전화 못 받아서 미안한데 터널 안이라 신호가 없었어. 내일 전화할게.
+엘레나 : (왓츠앱) 음성 감사해요, 곤살로 씨. "내일 전화할게"라고 말하는 데 3분이라니. 아주 알차네요. 몇 시에요?
+곤살로 : (왓츠앱) 오전에.
+엘레나 : (왓츠앱) "오전"은 여섯 시부터 열두 시까지예요. 구체적으로 말해 주실 수 있어요?
+곤살로 : (왓츠앱) 열 시쯤.
+엘레나 : (왓츠앱) 좋아요. 열 시에 전화 기다릴게요. 그리고 오해 없도록 말씀드리면, 온수기 문제지 국가 대사가 아니에요.
+곤살로 : (왓츠앱) 하하하. 재밌네. 잘 자.
+마르타 : (음성 메시지) 어떻게 됐어? 걸려들었어?
+엘레나 : (음성 메시지) 3분짜리 음성이랑 "내일"이라는 단어로 답했어. 쓸 만한 정보는 하나도 없어.
+마르타 : (음성 메시지) 전형적인 집주인이야. 2018년부터 "지금 전화할게"라고 해.
+엘레나 : (음성 메시지) 얼마나 아이러니해. 열 시에 전화하면 커피도 사 줄 수 있겠어.
+마르타 : (음성 메시지) 전화 안 하면 네 이름으로 배관공을 보내.
+엘레나 : (음성 메시지) 너 참 못됐다. 근데 마음에 들어.
+마르타 : (음성 메시지) 잘 자. 그리고 난로 켜.
+엘레나 : (음성 메시지) 난로 없어. 보온 물주머니는 있는데… 신기하게도 물을 데울 데가 없어.
+마르타 : (음성 메시지) 그럼 봉지 수프나 먹어.
+엘레나 : (음성 메시지) 그건 하지. 과자랑 같이.
+마르타 : (음성 메시지) 내일 봐, 자기야.
+엘레나 : (음성 메시지) 내일 봐.
+(수요일, 열한 시 십오 분 전. 엘레나가 시계를 본다. 전화를 건다.)
+곤살로 : 여보세요?
+엘레나 : 곤살로 씨, 안녕하세요. 열한 시 십오 분 전이에요. 열 시에 전화하기로 했잖아요.
+곤살로 : 아이고, 엘레나, 맞아. 깜빡했네. 오전이 어찌나…
+엘레나 : 그러셨겠죠. 하지만 저는 나흘째 온수가 안 나와요. 기술자가 언제 올 수 있어요?
+곤살로 : 글쎄. 지금 당장 한가한 배관공은 아는 사람이 없어. 이번 주는 복잡해.
+엘레나 : 다음 주는요?
+곤살로 : 다음 주는 괜찮아. 분명히. 월요일에 누가 들를 수 있게 해 볼게.
+엘레나 : 월요일요? 곤살로 씨, 오늘은 수요일이에요. 엿새를 더 온수 없이 지내라는 거예요.
+곤살로 : 화난 건 이해해. 하지만 이런 일은 시간이 걸린다는 것도 이해해 줘.
+엘레나 : 이해해요. 그런데 계약서에는 중요한 수리는 집주인 부담이라고 되어 있잖아요, 아닌가요?
+곤살로 : 그건 경우에 따라 달라. 일반 고장이면 맞고, 잘못 써서 그런 거면…
+엘레나 : 잘못 썼다고요? 곤살로 씨, 온수기예요. 제가 하는 거라곤 수도꼭지를 여는 것뿐이에요.
+곤살로 : 글쎄, 가끔 사람들이 최대로 틀어서 망가지기도 해.
+엘레나 : 저는 40도로 해요, 다들 그러듯이. 온도 선택기 사진 보내 드릴까요?
+곤살로 : 안 그래도 돼, 참. 별 뜻 없는 말이었어.
+엘레나 : 그럼 제가 배관공을 불러서 월세에서 빼도 되나요?
+곤살로 : 빼다니? 그렇게는 안 하는 거야. 먼저 얘기를 해 보자.
+엘레나 : 나흘째 얘기하고 있잖아요. 아니, 글로 쓰고 있잖아요. 아니, 녹음하고 있잖아요.
+곤살로 : (어색하게 웃는다) 맞아. 일정표 좀 보고 10분 뒤에 전화할게.
+엘레나 : 곤살로 씨, "10분 뒤에 전화할게"를 제가 몇 번이나 들었는지 아세요?
+곤살로 : (침묵) 미안해. 버릇이야.
+엘레나 : 메일을 보낼게요. 정식으로요. 변호사인 오빠를 참조로 넣어서요.
+곤살로 : 메일? 엘레나, 이럴 필요까진 없어. 우린 교양 있는 사람들이잖아.
+엘레나 : 그러니까요. 교양 있는 사람들 사이에서는 일을 글로 남기는 거예요.
+곤살로 : 그럼 보내, 보내. 어차피 읽을 수 있을 때 읽을 거야.
+엘레나 : 알아요. 하지만 읽으실 때는 이미 기록이 되어 있을 거예요.
+(엘레나가 전화를 끊는다. 마르타에게 전화한다.)
+마르타 : 어떻게 됐어?
+엘레나 : 월요일에 고친대. 그리고 어쩌면 내가 온도 선택기를 너무 높게 틀어서 내 탓일 수도 있대.
+마르타 : 뻔뻔하네! 그래서 넌 뭐라고 했어?
+엘레나 : 변호사인 오빠를 참조로 넣어서 메일을 보내겠다고. 근데 잘한 건지 모르겠어.
+마르타 : 아주 잘했어. 글로 안 쓰면 존재하지 않는 거야.
+엘레나 : (쓰면서 소리 내어 읽는다) "곤살로 귀하: 아베 마리아 거리 2층 B호 건물의 온수기가 나흘째 작동하지 않음을 이 글로 알려 드립니다…"
+마르타 : "곤살로 귀하." 무섭다.
+엘레나 : "…그리고 48시간 이내에 수리를 진행해 주시기를 요청드립니다. 그렇지 않을 경우 전문 업체를 고용하고 비용을 청구할 수밖에 없습니다."
+마르타 : 완벽해. "귀찮게 하지 마" 느낌이 아주 우아하게 나네.
+엘레나 : 고마워. 아침 내내 연습했어.
+마르타 : 지금 보낼 거야?
+엘레나 : 지금 보낼 거야. 그리고 혹시 메일을 안 열어 볼까 봐 왓츠앱으로도 보낼 거야.
+마르타 : 왓츠앱은 아주 똑똑한 생각이야. 파란 체크 두 개를 보면 빠져나갈 길이 없어.
+엘레나 : 그럼 간다. (전송을 누른다) 보냈어.
+(30분 뒤. 곤살로의 음성 메시지가 들어온다.)
+곤살로 : (왓츠앱, 음성) 엘레나, 메일 받았어. 솔직히 좀 거칠다고 느꼈어. 이럴 필요까진 없는데. 해결하려고 애쓰고 있어. 조금만 여유를 줘, 부탁이야.
+엘레나 : (마르타에게 음성 메시지) 이 음성 들어 봐. 배경에서 뭔가 들리지 않아?
+마르타 : (음성 메시지) 잠깐. 응. 접시 소리가 나. 그리고 커피 머신.
+엘레나 : (음성 메시지) 그리고 누가 "맥주 한 잔이랑 브라바스 주세요" 하고 주문해.
+마르타 : (음성 메시지) 터널도 회의도 아니야. 저건 바야.
+엘레나 : (음성 메시지) 그리고 슬롯머신이 "당첨!" 하고 말해. 알아, 아래층 바 거야.
+마르타 : (음성 메시지) 아래층 바? 너희 집 바로 아래 바에 있다고?
+엘레나 : (음성 메시지) 내가 틀리지 않으면 우리 집 문에서 12미터야. 내려가 볼게.
+마르타 : (음성 메시지) 이건 봐야겠다. 같이 갈까?
+엘레나 : (음성 메시지) 안 그래도 돼. 나중에 얘기해 줄게.
+(엘레나가 계단을 내려가 바에 들어간다. 맨 안쪽 테이블, 슬롯머신 옆에 곤살로가 한 손에 휴대폰, 한 손에 맥주를 들고 앉아 있다.)
+엘레나 : 안녕하세요, 곤살로 씨.
+곤살로 : (사레들린다) 엘레나! 이런 우연이! 세상에.
+엘레나 : 우연이 아니에요. 음향이 아주 좋은 슬롯머신이에요.
+곤살로 : 뭐라고?
+엘레나 : 음성에서 "해결하려고 애쓰고 있어"라고 하는데 뒤에서 "당첨"이라고 들렸어요.
+곤살로 : (한숨) 들켰군.
+엘레나 : 나흘째 연락하려 애썼는데 우리 집에서 12미터 떨어진 곳에 계셨네요.
+곤살로 : 알아, 알아. 그게… 부담스러워서. 문제 얘기하는 게 너무 부담스러워.
+엘레나 : 저는 얼음물로 샤워하는 게 훨씬 더 부담스러워요.
+곤살로 : (마지못해 웃는다) 네 말이 백번 맞아.
+곤살로 : 자, 지금 당장 아는 배관공한테 전화할게. 오늘 올 수 있는지 보자.
+엘레나 : 오늘요? 나흘째 부탁드리고 있는데요.
+곤살로 : 맞아. 첫날 했어야 했어. (전화를 건다) 아르만도, 곤살로야. 아베 마리아 거리에 온수기가 고장 났어.
+아르만도 : (전화로) 지금요? 5분 거리에 있어요. 2층 B호예요?
+곤살로 : (전화기를 가리고) 5분 거리래. 아직 집에 있어?
+엘레나 : 네, 오후까지요. 믿을 수가 없네요.
+곤살로 : (전화로) 좋아, 아르만도. 지금 와. 현관에서 기다릴게.
+아르만도 : (전화로) 가는 중이에요. 10분만 주세요.
+엘레나 : 10분이요? 곤살로 씨의 10분이에요, 진짜 10분이에요?
+곤살로 : 진짜 10분이야. 아르만도는 약속을 지키는 사람이거든.
+엘레나 : 다른 사람들과는 달리요.
+곤살로 : 다른 사람들과는 달리. 맞아. 용서해 줘.
+엘레나 : 조건이 있어요. 다음에 뭐가 고장 나면 전화를 받으세요. 아니면 짧은 문장 하나로 답해 주세요. 딱 하나요.
+곤살로 : 약속할게. 짧은 문장 하나. "살펴볼게." 그게 다야.
+엘레나 : 제가 필요한 건 그게 전부예요.
+곤살로 : 그리고 너도 약속해 줘. 다시는 변호사를 참조로 넣은 메일을 보내지 않겠다고.
+엘레나 : (웃는다) 우리 오빠는 변호사 일도 안 해요. 보험 회사에서 법무 일을 해요.
+곤살로 : 그런데 그걸로 나를 놀라게 했다고?
+엘레나 : 전략이에요. 신호 없는 터널이랑 똑같이요.
+곤살로 : (맥주잔을 든다) 그럼 전략들을 위해. 그리고 온수를 위해.

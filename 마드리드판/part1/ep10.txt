@@ -1,0 +1,286 @@
+# 1부 10화. La junta de vecinos (입주민 회의)
+난이도: 주 B2 | 구간: B1→C1→B2→B2→B2→B2 | 형식: 다인 대면 (5명) | 장소: 라바피에스 건물 1층 현관 로비 | 시간: 목요일 저녁 7시~8시 30분
+등장인물: Gerardo, Elvira(Doña Elvira), Julián, Marisol, Tomás
+이슈: 주 ○ 입주민 회의 | 곡선: 1-0-1-0-0-1 (잔잔형, 상한 1) | 입장: 해당 없음(코미디. 엘리베이터 점검 비용과 건물 규칙이 한마디 스침)
+상황 카드: 건물의 연례 총회가 열린다. 안건은 크리스마스 장식, 엘리베이터 점검, 현관 자전거 정리, 분리수거 안내문이다. 의장 헤라르도는 질서를 잡으려 하지만 엘비라 할머니는 귀가 안 들리는 척 모든 걸 듣고, 훌리안은 모든 걸 농담으로 받고, 마리솔은 의사록을 맡는다. 결국 어이없는 투표 끝에 모두 만족하며 끝난다.
+학습 포인트: 회의 진행 표현(Tiene la palabra, someter a votación, a favor / en contra / abstención) · 의견 말하기(Yo opino que…, A mí me parece que…) · 접속법(Es importante que…, Prefiero que…) · 동의와 반대 · 농담과 반어
+
+## 대화
+(Jueves por la tarde, siete menos cinco. En el portal hay seis sillas en círculo. Gerardo, el administrador, coloca unos papeles. Llegan los vecinos poco a poco.)
+Gerardo : Buenas tardes a todos. Pasad, pasad, que ya empezamos a las siete. Doña Elvira, ¿cómo está usted?
+Elvira : ¿Cómo dice? ¿Que si tengo frío?
+Gerardo : No, que cómo está.
+Elvira : Ah, estupendamente. Aunque podrías haber puesto la calefacción.
+Gerardo : Es un portal, doña Elvira. No tiene calefacción.
+Elvira : Pues entonces, que pongan mantas.
+Julián : (entra con un termo) Buenas, buenas. Traigo café, que el que sale de la máquina de abajo es un insulto.
+Marisol : (entra con un cuaderno) Hola. Soy la nueva secretaria, ¿verdad? Me han dicho que tomo notas.
+Gerardo : Sí, Marisol. Eres la secretaria de la reunión. Gracias por ofrecerte.
+Marisol : No me he ofrecido. Me han elegido ausente. Estaba en el baño.
+Julián : (ríe) Así se hacen las mejores elecciones.
+Tomás : (desde la portería) Buenas tardes, vecinos. Yo traigo las sillas y el micrófono por si hace falta.
+Gerardo : ¿Micrófono? Tomás, somos seis personas.
+Tomás : Es para doña Elvira. Así no hay que repetir las cosas tres veces.
+Elvira : Yo lo oigo todo, hijo. Pero a veces prefiero no oír.
+Gerardo : Primer punto del orden del día: aprobación del acta de la reunión anterior.
+Julián : ¿Hay acta?
+Marisol : Eso quería preguntar. ¿Quién tomó notas la última vez?
+Gerardo : Fue Rubén, el del tercero, que se mudó en abril.
+Julián : Qué casualidad. Se nos ha ido Rubén y se nos ha ido el acta.
+Elvira : ¿Qué acta? ¿Qué Rubén? ¿Quién se ha ido?
+Gerardo : Doña Elvira, tranquila. Hacemos una cosa: damos por buena el acta que no hay y pasamos al segundo punto.
+Marisol : ¿Se puede aprobar un acta inexistente?
+Gerardo : Se puede si nadie protesta. ¿Alguien protesta?
+Julián : Yo protesto por principio, pero voto a favor.
+Gerardo : Apuntado. Segundo punto: la decoración navideña del portal.
+Elvira : ¿La qué? ¿La navidad? Si estamos en octubre.
+Gerardo : Es para ir planificándolo. Hay que decidir si ponemos árbol, belén o las dos cosas.
+Julián : Yo opino que ponemos las dos cosas. Un árbol y un belén. Y un reno de luces en el buzón.
+Marisol : ¿Un reno en el buzón?
+Julián : Es una idea, mujer. Hay que ser creativos.
+Elvira : A mí me parece que lo más bonito es un belén. Con mulas, con bueyes, con pastores. Como los de antes.
+Gerardo : Pues hay mucha gente a favor del belén. ¿Alguien se opone?
+Julián : Yo me opongo si no hay reno.
+Tomás : Yo pongo el reno en la portería, y así todos contentos.
+Gerardo : Perfecto. Belén en el portal y reno en la portería. Marisol, anota.
+Marisol : Anotado. «Reno, portería». Qué reunión tan productiva.
+Gerardo : Tercer punto, más serio. El ascensor. Tenemos que decidir si contratamos la revisión anual con la misma empresa.
+Julián : ¿La del señor de la corbata? Ese cobra una barbaridad.
+Gerardo : Cobra lo que cobra todo el mundo. Y es la que tiene el contrato.
+Marisol : ¿Cuánto cuesta la revisión?
+Gerardo : Unos novecientos euros al año para todo el edificio.
+Julián : Novecientos entre ocho vecinos son cien euros por cabeza. Con ese dinero me compro un ascensor de juguete.
+Elvira : ¿Qué dice del ascensor de juguete?
+Tomás : Que sale caro, doña Elvira. Pero el ascensor es suyo y de todos.
+Elvira : Es lo único que me sube al primero sin cansarme. Yo pago lo que haga falta.
+Gerardo : Gracias, doña Elvira. Eso es lo que llamo conciencia cívica.
+Julián : Yo también pago. Pero que conste que protesto por el principio.
+Gerardo : Entonces, propongo someter a votación la renovación del contrato de revisión. ¿Votos a favor?
+Elvira : (levanta la mano) A favor.
+Julián : (levanta la mano) A favor, con protesta.
+Marisol : (levanta la mano) Yo, como secretaria, ¿puedo votar?
+Gerardo : Eres vecina y propietaria, claro que puedes.
+Marisol : Entonces, a favor.
+Tomás : Yo no voto, pero si votara, estaría a favor.
+Gerardo : Seis votos. Cuatro a favor, cero en contra, y uno que no vota. Aprobado.
+Julián : ¿Y el sexto?
+Gerardo : ¿Qué sexto? Somos cinco.
+Julián : Había seis sillas.
+Tomás : La silla vacía es por si viene el fantasma de Rubén.
+Marisol : (ríe) Apunto: «Se aprueba el contrato. Se cuenta con un fantasma».
+Gerardo : Cuarto punto: las bicicletas en el portal. Hay cuatro bicicletas aparcadas en el recibidor y un patinete.
+Julián : El patinete es del chaval del tercero. Es pequeño y no molesta.
+Elvira : El otro día me tropecé con una bici. Casi me caigo de espaldas.
+Gerardo : ¿Se hizo daño?
+Elvira : No. Pero me asusté tanto que se me cayó la dentadura.
+Marisol : (reprime la risa) Qué mal rato.
+Elvira : Para mí, hay que prohibir las bicicletas en el portal. O ponerlas en el patio, que tiene un cuarto.
+Tomás : Ese cuarto lo tengo yo cerrado con llave. Quien quiera guardar la bici, que me pida la llave.
+Julián : ¿Y si llueve? La bici se moja.
+Tomás : Estará dentro del cuarto. En el patio hay techo.
+Gerardo : Propongo que las bicicletas se guarden en el cuarto del patio a partir del próximo lunes.
+Elvira : Y los patinetes, también.
+Julián : Y los carritos de bebé, que ocupan lo mismo.
+Marisol : En este edificio no hay carritos de bebé.
+Julián : Es una previsión de futuro.
+Gerardo : Julián, por favor. Votamos: bicis y patinetes al patio. ¿A favor?
+Elvira : A favor.
+Julián : A favor.
+Marisol : A favor.
+Tomás : (levanta una mano) Aunque no voto, por solidaridad.
+Gerardo : Aprobado. Quinto punto, el último: las normas de reciclaje.
+Marisol : Eso lo ha puesto Kenji, el vecino japonés, ¿no? Lo del cartel.
+Gerardo : Eso es. Quiere que pongamos un cartel más grande en el portal y que expliquemos mejor los colores.
+Julián : Pues yo apoyo el cartel. Pero que no salga mi cara.
+Marisol : ¿Cómo va a salir tu cara?
+Julián : Es que el otro día me pillaron tirando una caja de pizza en el contenedor equivocado.
+Elvira : ¿Quién te pilló?
+Julián : Sara, la del cuarto. Con una mirada que me atravesó.
+Gerardo : Entonces, ¿todos de acuerdo con el cartel grande?
+Elvira : De acuerdo.
+Julián : De acuerdo, pero sin mi cara.
+Marisol : De acuerdo.
+Tomás : De acuerdo, por si sirve de algo.
+Gerardo : Perfecto. Hemos terminado el orden del día. ¿Alguien quiere añadir algo en «ruegos y preguntas»?
+Elvira : Yo tengo un ruego.
+Gerardo : Dígame, doña Elvira.
+Elvira : Que la próxima reunión sea con merienda. A las siete, con un café y un bizcocho.
+Julián : Eso sí que es un buen ruego. Secundo.
+Marisol : Yo también.
+Tomás : Y yo pongo el café.
+Gerardo : ¿Votamos?
+Elvira : Votemos. A favor, naturalmente.
+Julián : A favor, con aplauso.
+Marisol : A favor.
+Tomás : A favor, y esto sí que lo voto.
+Gerardo : (ríe) Tomás, tú no votas.
+Tomás : Hoy me han dejado. Es el único día del año.
+Gerardo : Está bien. Se aprueba la merienda por unanimidad. Marisol, apunta: «Próxima reunión, con merienda».
+Marisol : Apuntado. Con letras grandes.
+Gerardo : Entonces damos por terminada la reunión. Gracias a todos por venir.
+Elvira : ¿Hemos terminado ya? ¿Tan pronto?
+Julián : Son las ocho y media, doña Elvira. Hemos tardado hora y media.
+Elvira : Pues a mí se me ha pasado volando.
+Julián : Es que usted no oye la mitad.
+Elvira : Oigo lo que me conviene. Por eso me conservo tan bien.
+Marisol : (cierra el cuaderno) Yo me voy contenta. Hemos aprobado un acta que no existe, un belén con reno y una merienda.
+Gerardo : Como balance, no está mal. Hasta la próxima.
+Tomás : Hasta la próxima. Y no olvidéis llevaros las sillas.
+Julián : Las sillas, no. Yo me llevo el fantasma de Rubén.
+
+## 낭독 포인트
+- z/c: gracias, decidir, cinco, cien, hacemos — [θ].
+- j/g: jueves, Julián, Gerardo, mujer — 강한 [x]. «Gerardo»의 G, «jueves»의 j는 [x].
+- ll/y: llave, ellos, yo, ya — [ʝ]. «Yo opino que…»의 y는 짧게.
+- 연음: «Yo opino que ponemos las dos cosas»는 단어를 이어 읽는다. «Es una idea, mujer»는 mujer에 강세.
+- 억양: 회의 진행 문장(Primer punto del orden del día…)은 평탄하고 또렷하게. 농담(A favor, con aplauso)은 가볍게 올린다.
+- 호칭: «doña Elvira»에게는 usted, 이웃끼리는 tú — 같은 장면 안에서의 전환에 주의.
+
+## 학습 포인트 정리
+- B2 구간(21~120턴): 회의와 의견
+  · 의견 말하기: «Yo opino que…», «A mí me parece que…», «Para mí, hay que…»
+  · 동의와 반대: «Estoy a favor / en contra.», «Me opongo si…», «De acuerdo.», «Secundo.»
+  · 투표 표현: someter a votación, a favor, en contra, abstención, por unanimidad, aprobado.
+  · 접속법: «Que la próxima reunión sea con merienda.», «Quien quiera guardar la bici, que me pida la llave.», «Prefiero que…»
+  · 제안: «Propongo que las bicicletas se guarden en el cuarto del patio.»
+  · 부사절: aunque, a partir de, por si, siempre que.
+  · 회의 용어: el orden del día, el acta, la secretaria, el administrador, ruegos y preguntas, la comunidad, el propietario.
+- B1 구간(1~20턴): 모임 시작
+  · 인사와 안부: «¿Cómo está usted?», «¿Alguien protesta?»
+  · 되묻기와 오해: «¿Cómo dice?», «No, que cómo está.»
+  · 이유와 목적: para que, para + 부정사.
+- C1 구간(21~40턴 일부): 농담과 반어
+  · «Se nos ha ido Rubén y se nos ha ido el acta.», «Con ese dinero me compro un ascensor de juguete.»
+  · «Yo protesto por principio, pero voto a favor.»
+
+## 속어 노트
+- «Qué mal rato»: 불쾌했겠다, 마음고생 했겠다.
+- «Por si sirve de algo»: 도움이 될지 모르지만.
+- «Que conste que…»: 분명히 해 두는데…
+- «Ruegos y preguntas»: 회의 마지막의 자유 발언 시간(공식 용어).
+- «Hijo»: 나이 든 사람이 젊은 사람을 부르는 애정 어린 호칭.
+- 금액(점검비 900유로)과 투표 규칙은 가공이다. 실제 입주자 총회는 규약과 법에 따라 진행한다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(목요일 오후, 일곱 시 오 분 전. 현관 로비에 의자 여섯 개가 원을 그리고 있다. 관리인 헤라르도가 서류를 정리한다. 이웃들이 하나둘 도착한다.)
+헤라르도 : 다들 안녕하세요. 들어오세요, 들어오세요, 일곱 시에 시작합니다. 엘비라 할머니, 안녕하세요?
+엘비라 : 뭐라고? 내가 춥냐고?
+헤라르도 : 아니요, 어떠시냐고요.
+엘비라 : 아, 아주 좋아. 그래도 난방을 틀어 줄 수도 있었을 텐데.
+헤라르도 : 여긴 현관이에요, 엘비라 할머니. 난방이 없어요.
+엘비라 : 그럼 담요라도 가져다 놔.
+훌리안 : (보온병을 들고 들어온다) 안녕하세요. 커피를 가져왔어요, 아래층 기계에서 나오는 건 모욕이니까요.
+마리솔 : (공책을 들고 들어온다) 안녕하세요. 제가 새 서기 맞죠? 필기하라고 들었어요.
+헤라르도 : 네, 마리솔. 회의 서기예요. 자원해 줘서 고마워요.
+마리솔 : 자원 안 했어요. 부재중에 뽑혔어요. 화장실에 있었거든요.
+훌리안 : (웃는다) 최고의 선거는 그렇게 이루어지지.
+토마스 : (관리실에서) 안녕하세요, 이웃 여러분. 의자랑 마이크를 가져왔어요, 필요할지 몰라서.
+헤라르도 : 마이크요? 토마스, 여섯 명인데요.
+토마스 : 엘비라 할머니를 위해서요. 세 번씩 되풀이 안 해도 되게요.
+엘비라 : 나는 다 들어, 얘야. 근데 가끔은 안 듣는 쪽을 택해.
+헤라르도 : 안건 1번: 지난 회의록 승인.
+훌리안 : 회의록이 있어?
+마리솔 : 저도 그걸 묻고 싶었어요. 지난번에 누가 기록했어요?
+헤라르도 : 3층 루벤이요. 4월에 이사 갔어요.
+훌리안 : 우연이네. 루벤이 갔고 회의록도 사라졌어.
+엘비라 : 무슨 회의록? 무슨 루벤? 누가 갔다고?
+헤라르도 : 엘비라 할머니, 진정하세요. 이렇게 합시다. 없는 회의록을 승인된 걸로 하고 두 번째 안건으로 넘어가요.
+마리솔 : 존재하지 않는 회의록을 승인할 수 있어요?
+헤라르도 : 아무도 항의하지 않으면 돼요. 항의하실 분?
+훌리안 : 나는 원칙상 항의하지만 찬성표를 던져요.
+헤라르도 : 기록했어요. 안건 2번: 현관의 크리스마스 장식.
+엘비라 : 뭐? 크리스마스? 지금 10월인데.
+헤라르도 : 미리 계획하려고요. 트리를 놓을지, 구유(베렌)를 놓을지, 둘 다 놓을지 정해야 해요.
+훌리안 : 내 의견은 둘 다 놓자는 거야. 트리랑 구유랑. 그리고 우편함에 불빛 순록도.
+마리솔 : 우편함에 순록이요?
+훌리안 : 아이디어일 뿐이야, 참. 창의적이어야지.
+엘비라 : 내가 보기엔 제일 예쁜 건 구유야. 노새도 있고 소도 있고 목동도 있는, 옛날 그대로.
+헤라르도 : 구유에 찬성하시는 분이 많네요. 반대하시는 분?
+훌리안 : 순록이 없으면 반대해.
+토마스 : 순록은 내가 관리실에 놓을게요, 그럼 다들 만족하죠.
+헤라르도 : 좋아요. 구유는 현관에, 순록은 관리실에. 마리솔, 적어 주세요.
+마리솔 : 적었어요. "순록, 관리실." 정말 생산적인 회의네요.
+헤라르도 : 세 번째 안건, 좀 더 진지한 것. 엘리베이터요. 연간 점검을 같은 업체와 계약할지 정해야 해요.
+훌리안 : 넥타이 맨 신사 있는 곳? 그 사람은 터무니없이 받아.
+헤라르도 : 다른 데도 다 받는 만큼 받아요. 그리고 계약을 가진 업체예요.
+마리솔 : 점검 비용이 얼마예요?
+헤라르도 : 건물 전체로 1년에 900유로쯤이에요.
+훌리안 : 900유로를 여덟 세대가 나누면 한 사람당 100유로야. 그 돈이면 장난감 엘리베이터를 사겠다.
+엘비라 : 장난감 엘리베이터가 뭐라고?
+토마스 : 비싸다는 말이에요, 엘비라 할머니. 하지만 엘리베이터는 할머니 것이고 모두의 것이에요.
+엘비라 : 나를 힘들이지 않고 2층까지 올려 주는 건 그것밖에 없어. 필요한 만큼 낼게.
+헤라르도 : 고맙습니다, 엘비라 할머니. 그게 바로 시민 의식이죠.
+훌리안 : 나도 내. 하지만 원칙에 대해선 항의한다는 점은 알아 둬.
+헤라르도 : 그럼 점검 계약 갱신을 표결에 부치겠습니다. 찬성하시는 분?
+엘비라 : (손을 든다) 찬성.
+훌리안 : (손을 든다) 찬성, 항의 포함.
+마리솔 : (손을 든다) 서기인 저도 투표할 수 있나요?
+헤라르도 : 이웃이자 소유주이니 물론이죠.
+마리솔 : 그럼 찬성이에요.
+토마스 : 저는 투표권이 없지만 있었다면 찬성이었을 거예요.
+헤라르도 : 여섯 표. 찬성 넷, 반대 없음, 투표 안 하는 사람 하나. 가결되었습니다.
+훌리안 : 그럼 여섯 번째는?
+헤라르도 : 무슨 여섯 번째요? 다섯 명인데요.
+훌리안 : 의자는 여섯 개였잖아.
+토마스 : 빈 의자는 루벤의 유령이 올까 봐 둔 거예요.
+마리솔 : (웃는다) 적을게요. "계약 승인. 유령 한 명 포함."
+헤라르도 : 네 번째 안건: 현관의 자전거. 현관에 자전거 네 대와 킥보드 하나가 세워져 있어요.
+훌리안 : 킥보드는 3층 꼬마 거야. 작아서 방해가 안 돼.
+엘비라 : 며칠 전에 자전거에 걸려 넘어질 뻔했어. 뒤로 자빠질 뻔했지.
+헤라르도 : 다치셨어요?
+엘비라 : 아니. 하지만 너무 놀라서 틀니가 빠졌어.
+마리솔 : (웃음을 참는다) 얼마나 놀라셨을까요.
+엘비라 : 내 생각엔 현관에 자전거는 금지해야 해. 아니면 마당에 둬, 거기 방이 있잖아.
+토마스 : 그 방은 제가 열쇠로 잠가 놨어요. 자전거를 두고 싶은 분은 열쇠를 달라고 하세요.
+훌리안 : 비가 오면? 자전거가 젖잖아.
+토마스 : 방 안에 있으니까요. 마당에는 지붕이 있어요.
+헤라르도 : 다음 주 월요일부터 자전거는 마당 방에 보관하도록 제안합니다.
+엘비라 : 킥보드도.
+훌리안 : 그리고 유모차도, 같은 자리를 차지하니까.
+마리솔 : 이 건물에는 유모차가 없는데요.
+훌리안 : 미래를 대비한 거야.
+헤라르도 : 훌리안, 제발요. 표결합니다. 자전거와 킥보드는 마당으로. 찬성?
+엘비라 : 찬성.
+훌리안 : 찬성.
+마리솔 : 찬성.
+토마스 : (손을 든다) 투표권은 없지만 연대의 뜻으로요.
+헤라르도 : 가결. 마지막 다섯 번째 안건: 분리수거 규칙.
+마리솔 : 그건 일본인 이웃 켄지가 올린 거죠? 안내문 말이에요.
+헤라르도 : 맞아요. 현관에 더 큰 안내문을 붙이고 색깔을 더 잘 설명하자는 거예요.
+훌리안 : 나는 안내문에 찬성이야. 내 얼굴만 안 나오면.
+마리솔 : 왜 훌리안 씨 얼굴이 나와요?
+훌리안 : 며칠 전에 잘못된 수거함에 피자 상자를 버리다가 걸렸거든.
+엘비라 : 누가 잡았어?
+훌리안 : 4층 사라. 나를 꿰뚫는 눈빛으로.
+헤라르도 : 그럼 큰 안내문에 모두 동의하십니까?
+엘비라 : 동의해.
+훌리안 : 동의해, 내 얼굴만 빼고.
+마리솔 : 동의해요.
+토마스 : 동의해요, 도움이 될지 모르지만.
+헤라르도 : 좋아요. 안건이 모두 끝났습니다. "건의와 질문"에서 더 추가하실 분 계신가요?
+엘비라 : 나한테 건의가 있어.
+헤라르도 : 말씀하세요, 엘비라 할머니.
+엘비라 : 다음 회의는 간식을 곁들였으면 해. 일곱 시에 커피랑 카스텔라랑.
+훌리안 : 그거야말로 좋은 건의네. 찬성해요.
+마리솔 : 저도요.
+토마스 : 커피는 제가 낼게요.
+헤라르도 : 표결할까요?
+엘비라 : 하자. 당연히 찬성.
+훌리안 : 찬성, 박수와 함께.
+마리솔 : 찬성.
+토마스 : 찬성, 이건 정말 투표해요.
+헤라르도 : (웃는다) 토마스, 투표권 없잖아요.
+토마스 : 오늘은 허락받았어요. 일 년에 단 하루.
+헤라르도 : 좋아요. 간식은 만장일치로 가결. 마리솔, 적어 주세요. "다음 회의, 간식 포함."
+마리솔 : 적었어요. 큰 글씨로요.
+헤라르도 : 그럼 회의를 마치겠습니다. 모두 와 주셔서 감사합니다.
+엘비라 : 벌써 끝났어? 이렇게 빨리?
+훌리안 : 여덟 시 반이에요, 엘비라 할머니. 한 시간 반 걸렸어요.
+엘비라 : 나한테는 날아가듯 지나갔어.
+훌리안 : 할머니는 절반은 못 들으시니까요.
+엘비라 : 나한테 유리한 건 들어. 그래서 이렇게 건강한 거야.
+마리솔 : (공책을 덮는다) 저는 만족하고 갑니다. 없는 회의록, 순록이 있는 구유, 간식을 통과시켰네요.
+헤라르도 : 결산으로는 나쁘지 않네요. 다음에 봬요.
+토마스 : 다음에 봐요. 의자들 가져가는 거 잊지 마세요.
+훌리안 : 의자는 안 가져가. 나는 루벤의 유령을 데려갈게.

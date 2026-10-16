@@ -6,7 +6,7 @@
 학습 포인트: 회의 진행(On reprend) · 의견 부딪치기(Je ne signerai pas une date que je sais intenable) · 기술 문제 말하기(Je suis en muet, l'image se fige) · 침묵과 마이크 예절 · 조건·양보(tant que, à condition que)
 
 ## 대화
-(월요일 오전 9시 30분. 프로젝트 회의가 화상으로 열린다. 소피는 파리 사무실에, 말리크는 몽트뢰유 집에, 이네스는 낭트에 있고, 토마는 기차 안에서 접속했다.)
+(Lundi, neuf heures trente. La réunion de projet se tient en visio. Sophie est au bureau à Paris, Malik chez lui à Montreuil, Inès à Nantes, et Thomas s'est connecté depuis le train.)
 Sophie : Bonjour à tous. On attend Thomas deux minutes, ou on commence ? Je vois qu'il est connecté, mais sans image.
 Thomas : Je suis là, je suis là ! Je suis dans le train, la connexion est capricieuse, donc je coupe la caméra pour ne pas faire sauter le son.
 Sophie : Très bien. Alors, ordre du jour. Un, le point sur la version deux de l'appli. Deux, la date de livraison. Trois, le retour du client.

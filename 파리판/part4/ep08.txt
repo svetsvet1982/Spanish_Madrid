@@ -6,7 +6,7 @@
 학습 포인트: 계좌 개설 표현(Je voudrais ouvrir un compte) · 서류 이름(un justificatif de domicile, une attestation d'hébergement) · 수수료·조건 묻기(C'est une commission de combien ?) · 비교하며 거절하기(J'ai le droit de comparer, non ?) · 약속 정하기(Vendredi à dix heures)
 
 ## 대화
-(월요일 오전, 볼테르 대로의 은행 지점. 창구 하나가 비어 있다. 라비가 플라스틱 서류철을 들고 들어온다.)
+(Lundi matin. Agence bancaire du boulevard Voltaire. Un guichet est libre. Ravi entre avec une pochette en plastique remplie de papiers.)
 Sandrine : Bonjour, monsieur. Je peux vous aider ?
 Ravi : Bonjour, madame. Je voudrais ouvrir un compte, s'il vous plaît.
 Sandrine : Très bien. C'est un premier compte en France ?

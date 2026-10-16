@@ -6,7 +6,7 @@
 학습 포인트: 전화로 문제 설명하기(Je vous appelle parce que) · 제도 이름(le médecin traitant, le parcours de soins, une consultation) · 숫자·날짜 말하기(quatre-vingt-dix-sept, le quatorze mars) · 가능성 묻고 답하기(Probablement, à condition que...) · 이의 제기(déposer une réclamation)
 
 ## 대화
-(화요일 오후 2시. 사미르가 생투앙의 집 소파에서 환급 내역서를 손에 들고 건강보험 상담센터에 전화한다.)
+(Mardi, quatorze heures. Assis sur le canapé de son appartement de Saint-Ouen, Samir appelle le centre de la caisse d'assurance maladie, un relevé de remboursements à la main.)
 Claire : Assurance maladie, bonjour, Claire à l'appareil. Comment puis-je vous aider ?
 Samir : Bonjour, madame. Je vous appelle parce que je viens de recevoir un relevé qui me laisse perplexe, pour ne pas dire plus.
 Claire : Je vous écoute. De quoi s'agit-il ?

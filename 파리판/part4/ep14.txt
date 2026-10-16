@@ -6,7 +6,7 @@
 학습 포인트: 첫 출근 인사(Bienvenue chez nous) · 사무실 사물 이름(le badge, l'imprimante, la salle de réunion) · 길 안내(au fond à gauche, à droite) · 취향 말하기(Je préfère...) · 내일 일정 묻기(Qu'est-ce que je fais demain ?)
 
 ## 대화
-(월요일 오전 9시. 파리의 한 회사 4층 입구. 선배 빅토르가 신입 노라를 기다리고 있다.)
+(Lundi, neuf heures. Hall du quatrième étage d'une entreprise parisienne. Victor, le collègue plus ancien, attend Nora, la nouvelle recrue.)
 Victor : Bonjour ! Tu es Nora, c'est ça ?
 Nora : Oui, bonjour. Vous êtes... euh, tu es Victor ?
 Victor : Oui, c'est moi. On se tutoie ici, ne t'inquiète pas.

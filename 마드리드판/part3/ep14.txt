@@ -1,0 +1,284 @@
+# 3부 14화. ¿Lleva gluten? (글루텐 들어가요?)
+난이도: 주 B1 | 구간: A2→B2→B1→A2→B1→B1 | 형식: 2인 대면 | 장소: 사라고사 거리 식당 홀 | 시간: 일요일 오후 2시
+등장인물: Clara, Julián
+이슈: 주 ◐ 식품 알레르기·셀리악 표시와 식당의 책임 | 곡선: 1-2-2-2-1-0 (정점형, 상한 2) | 입장: A 클라라(셀리악이라 교차 오염이 위험하다) / B 훌리안(종업원, 주방이 작아 완벽하게 보장은 못 한다고 솔직히 말한다)
+상황 카드: 셀리악 진단을 받은 클라라가 일요일 점심에 식당에 온다. 종업원 훌리안은 처음엔 '글루텐 없는 메뉴'가 있다고 하지만 교차 오염을 묻자 대답이 흔들린다. 둘은 사실대로 확인하며 안전한 요리를 고른다. 걸림돌은 정확한 정보와 시간. 결말은 클라라가 안전한 요리를 고르고 훌리안이 주방에 이를 전하는 것.
+학습 포인트: 알레르기와 식이 표현(Soy celíaca, ¿Lleva…?, sin gluten) · 질문과 확인 · 불확실성의 표현(No puedo asegurar, Creo que…) · 정중한 부탁 · 정보를 정확하게 묻는 법
+
+## 대화
+(Domingo, dos de la tarde. Un restaurante de barrio en la calle Zaragoza. Clara entra, se sienta y mira la carta con atención. Julián se acerca con la libreta.)
+Julián : Buenas tardes. ¿Quiere que le explique la carta?
+Clara : Buenas tardes. Sí, por favor. Una cosa antes.
+Julián : Dígame.
+Clara : Soy celíaca. No puedo comer gluten.
+Julián : Ah, vale. Tenemos algunos platos sin gluten.
+Clara : ¿Cuáles son?
+Julián : La ensalada, la merluza a la plancha y el arroz.
+Clara : ¿Y la tortilla?
+Julián : La tortilla sí lleva... bueno, no sé. Creo que no.
+Clara : ¿Creo que no? Necesito estar segura.
+Julián : Tiene razón. Déjeme preguntar en cocina.
+Clara : Gracias. Espero.
+(Julián va a cocina. Clara mira el móvil. Vuelve a los dos minutos.)
+Julián : Me dicen que la tortilla no lleva harina. Solo huevos, patatas y cebolla.
+Clara : ¿Y la sartén? ¿Se usa para otras cosas?
+Julián : Supongo que sí. Es la misma sartén de todo.
+Clara : Entonces puede haber contaminación cruzada.
+Julián : ¿Contaminación... qué?
+Clara : Que si antes se frió algo con harina, quedan restos.
+Julián : Ah, entiendo. No lo había pensado.
+Clara : Para mí es importante. Si hay restos, me siento mal.
+Julián : ¿Muy mal?
+Clara : Bastante. Dolor de estómago y cansancio durante días.
+Julián : Vaya. Lo siento mucho.
+Clara : No pasa nada. Pero tengo que tener cuidado.
+Julián : Claro. Entonces, la tortilla mejor no.
+Clara : Mejor no, si no hay sartén aparte.
+Julián : No la hay. Somos un sitio pequeño.
+Clara : Lo imaginaba. ¿Y la merluza?
+Julián : La merluza va en la plancha. Con un poco de aceite.
+Clara : ¿La plancha es la misma que para el pan?
+Julián : Para el pan usamos la tostadora. No la plancha.
+Clara : Bien. ¿Y el rebozado? Hay platos que llevan harina.
+Julián : La merluza a la plancha no lleva rebozado. Es limpia.
+Clara : Perfecto. ¿Y el aceite se usa para freír otras cosas?
+Julián : La plancha no. Es de uso diario solo con pescado.
+Clara : Entonces la merluza parece segura.
+Julián : Yo diría que sí. Pero no puedo asegurarlo al cien por cien.
+Clara : Se lo agradezco. Es mejor que lo diga.
+Julián : Prefiero ser claro. El otro día un cliente se puso malo.
+Clara : ¿Ah, sí? ¿Y qué pasó?
+Julián : Pidió algo «sin gluten» y llevaba salsa de soja. Fue un error de la cocina.
+Clara : La salsa de soja suele llevar trigo.
+Julián : Ahora lo sé. Desde entonces tengo más cuidado.
+Clara : Me alegra oírlo.
+Julián : Y mi jefa también. Está pensando comprar utensilios aparte.
+Clara : ¿Utensilios aparte?
+Julián : Una sartén y una espátula solo para celíacos.
+Clara : Sería una buena idea.
+Julián : Ya, pero cuesta dinero. Y nuestro margen es pequeño.
+Clara : Lo entiendo. No es fácil para un restaurante pequeño.
+Julián : Pero cada vez hay más gente con alergias.
+Clara : Y más celíacos diagnosticados, sí.
+Julián : A ver si la jefa se decide.
+Clara : Ojalá. Sería un buen servicio para el barrio.
+Julián : Bueno, mientras tanto, merluza a la plancha.
+Clara : Merluza a la plancha, entonces.
+Julián : ¿Con ensalada o con patatas?
+Clara : Con ensalada. Sin pan, por favor.
+Julián : Sin pan. ¿Aliño de aceite y vinagre?
+Clara : Sí. Solo aceite y vinagre, sin salsas.
+Julián : Aceite y vinagre. Apunto «celíaca» en la comanda.
+Clara : Se lo agradezco mucho.
+Julián : Y le aviso al cocinero para que cambie los guantes.
+Clara : Perfecto. Eso ayuda.
+Julián : ¿Algo de beber? ¿Una cerveza?
+Clara : No, gracias. La cerveza lleva cebada.
+Julián : Claro, tiene razón. ¿Un vino?
+Clara : Un vino tinto, sí. Ese está bien.
+Julián : Tenemos Rioja y Ribera. ¿Cuál prefiere?
+Clara : El Rioja, por favor.
+Julián : Estupendo. Un Rioja, merluza con ensalada, sin pan.
+Clara : Eso es. Gracias, Julián.
+Julián : Gracias a usted. Enseguida se lo traigo.
+(Julián se va. Clara espera. Pasan unos minutos.)
+Julián : Aquí tiene el vino. La merluza sale en cinco minutos.
+Clara : Gracias. ¿Puedo preguntarle algo más?
+Julián : Claro.
+Clara : ¿Hay una lista de ingredientes por escrito?
+Julián : Había una, pero está desactualizada. La actualizamos a final de mes.
+Clara : Entiendo. ¿Y los alérgenos? ¿Están marcados?
+Julián : En la carta pone un número. Mire, el uno es gluten.
+Clara : Ah, sí. Ya lo veo. Las ensaladas llevan el cuatro.
+Julián : El cuatro es pescado. Y el siete es lácteos.
+Clara : Está muy bien. Debería estar más visible.
+Julián : Se lo diré a mi jefa.
+Clara : Si quiere, le doy un consejo.
+Julián : Claro.
+Clara : Una página al final de la carta, con una tabla clara.
+Julián : Qué buena idea. Voy a proponerlo.
+Clara : A mí me facilitaría mucho la vida. Y a los otros celíacos también.
+Julián : Seguro. Ya me anoto lo de la tabla.
+Clara : Y no pasa nada si no lo tienen todo perfecto. Lo importante es avisar.
+Julián : Gracias por ser comprensiva.
+Clara : Es que sé lo difícil que es.
+Julián : ¿Su familia es celíaca?
+Clara : Mi hermana también. Por eso lo vivo desde pequeña.
+Julián : Qué cosa más difícil.
+Clara : Se aprende. Y cada vez hay más productos.
+Julián : ¿Y son caros?
+Clara : Un poco. El pan sin gluten cuesta el doble.
+Julián : Pues es injusto.
+Clara : Un poco. Pero ya me he acostumbrado.
+Julián : Oiga, aquí llega la merluza.
+Clara : Qué buena pinta.
+Julián : Con cuidado, que quema. Que aproveche.
+Clara : Gracias. Si necesito algo, le aviso.
+Julián : Estoy aquí al lado. No se corte.
+Clara : (prueba) Mmm. Está riquísima.
+(Pasa un rato. Clara termina. Julián recoge.)
+Julián : ¿Todo bien? ¿Se encuentra bien?
+Clara : Perfectamente. Gracias por el cuidado.
+Julián : A usted, por la paciencia.
+Clara : ¿Puedo pedir el postre?
+Julián : Claro. Tenemos fruta, helado y cuajada.
+Clara : ¿La cuajada lleva gluten?
+Julián : No creo. Pero déjeme comprobarlo.
+Clara : Gracias. Mejor comprobar.
+Julián : Tiene razón. Mejor preguntar siempre.
+Clara : Es lo que hago yo, y así vivo tranquila.
+Julián : Pues me quedo con esa lección.
+Clara : Y yo con su sinceridad.
+Julián : Ahora vuelvo con la respuesta.
+
+## 낭독 포인트
+- z/c: «celíaca», «gracias», «cerveza», «cinco», «cebada» — [θ]. «Celíaca»는 [θe-lí-a-ka].
+- j/g: «gluten», «jefa», «alergia», «ingredientes» — g+l/u는 부드러운 [ɣ], j와 g+e/i는 강한 [x]. «Alergia»는 [a-lér-xja].
+- ll/y: «ya», «yo», «calle» — [ʝ]. «Zaragoza»는 [θa-ra-ɣó-θa].
+- 억양: 클라라의 확인 질문(¿Y la sartén?)은 올리고, 단호한 설명(Necesito estar segura)은 분명하게. 훌리안의 불확실성(No puedo asegurarlo)은 솔직하고 낮게.
+- 호칭: 손님과 종업원은 usted. 후반에 이름(Julián)을 부른다.
+
+## 학습 포인트 정리
+- B2 구간(21~40턴): 오염과 정확한 질문
+  · 질문: «¿Y la sartén? ¿Se usa para otras cosas?», «¿Y el aceite se usa para freír otras cosas?»
+  · 불확실성: «Creo que no.», «Yo diría que sí. Pero no puedo asegurarlo al cien por cien.»
+  · 설명: «Contaminación cruzada», «Si antes se frió algo con harina, quedan restos.»
+- B1 구간(41~60, 81~120턴): 요청과 확인
+  · 요청: «Sin pan, por favor.», «Solo aceite y vinagre, sin salsas.»
+  · 제안: «Una página al final de la carta, con una tabla clara.»
+- A2 구간(1~20, 61~80턴): 주문 기본
+  · 주문 표현: «Soy celíaca.», «¿Lleva gluten?», «Merluza a la plancha.»
+- 어휘: celíaco, el gluten, el alérgeno, la contaminación cruzada, la comanda, la harina, el rebozado, la cebada.
+
+## 속어 노트
+- «No se corte»: 사양 마세요, 편하게 말하세요.
+- «Pinta»: 겉모습(«Qué buena pinta»는 맛있어 보인다).
+- «Ponerse malo»: 몸이 안 좋아지다.
+- 알레르기 표시 번호와 식당의 설비 상황은 이야기 속 설정이다. 실제 알레르겐 표시는 법령을 확인해야 한다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(일요일 오후 두 시. 사라고사 거리의 동네 식당. 클라라가 들어와 자리에 앉아 메뉴를 꼼꼼히 본다. 훌리안이 수첩을 들고 다가온다.)
+훌리안 : 안녕하세요. 메뉴 설명해 드릴까요?
+클라라 : 안녕하세요. 네, 부탁해요. 먼저 한 가지만요.
+훌리안 : 말씀하세요.
+클라라 : 저는 셀리악이에요. 글루텐을 못 먹어요.
+훌리안 : 아, 네. 글루텐 없는 요리가 몇 가지 있어요.
+클라라 : 어떤 거예요?
+훌리안 : 샐러드, 구운 대구, 밥이요.
+클라라 : 토르티야는요?
+훌리안 : 토르티야는 들어가... 글쎄요, 모르겠어요. 아닐 거예요.
+클라라 : 아닐 거라고요? 확실해야 해요.
+훌리안 : 맞는 말씀이에요. 주방에 물어볼게요.
+클라라 : 고마워요. 기다릴게요.
+(훌리안이 주방으로 간다. 클라라는 휴대폰을 본다. 이 분 뒤에 돌아온다.)
+훌리안 : 토르티야에는 밀가루가 안 들어간대요. 달걀, 감자, 양파뿐이에요.
+클라라 : 팬은요? 다른 것에도 쓰나요?
+훌리안 : 아마 그럴 거예요. 모든 요리에 같은 팬을 써요.
+클라라 : 그럼 교차 오염이 있을 수 있어요.
+훌리안 : 교차... 뭐라고요?
+클라라 : 앞서 밀가루 묻힌 걸 튀겼다면 찌꺼기가 남는다는 뜻이에요.
+훌리안 : 아, 알겠어요. 생각을 못 했어요.
+클라라 : 저한테는 중요해요. 찌꺼기가 있으면 몸이 나빠져요.
+훌리안 : 많이 나빠요?
+클라라 : 꽤요. 며칠 동안 배가 아프고 피곤해요.
+훌리안 : 저런. 정말 안됐네요.
+클라라 : 괜찮아요. 하지만 조심해야 해요.
+훌리안 : 그렇죠. 그럼 토르티야는 안 하는 게 좋겠어요.
+클라라 : 따로 쓰는 팬이 없다면 그게 좋겠어요.
+훌리안 : 없어요. 작은 가게라서요.
+클라라 : 그럴 줄 알았어요. 대구는요?
+훌리안 : 대구는 철판에 구워요. 기름을 조금 써서요.
+클라라 : 그 철판은 빵 굽는 것과 같은 건가요?
+훌리안 : 빵은 토스터를 써요. 철판에는 안 올려요.
+클라라 : 좋아요. 튀김옷은요? 밀가루를 쓰는 요리도 있잖아요.
+훌리안 : 구운 대구는 튀김옷이 없어요. 깨끗해요.
+클라라 : 완벽해요. 기름으로 다른 걸 튀기기도 하나요?
+훌리안 : 철판은 안 해요. 생선 전용으로 매일 써요.
+클라라 : 그럼 대구는 안전해 보이네요.
+훌리안 : 그렇다고 봐요. 하지만 백 퍼센트 장담은 못 해요.
+클라라 : 고마워요. 그렇게 말해 주는 게 더 낫네요.
+훌리안 : 분명히 하는 게 좋아서요. 얼마 전에 손님 한 분이 탈이 났어요.
+클라라 : 그래요? 무슨 일이었어요?
+훌리안 : '글루텐 없음'을 시켰는데 간장 소스가 들어갔어요. 주방 실수였죠.
+클라라 : 간장에는 보통 밀이 들어가요.
+훌리안 : 이제 알아요. 그 뒤로 더 조심해요.
+클라라 : 듣기 좋네요.
+훌리안 : 사장님도요. 따로 쓸 기구를 사려고 생각 중이에요.
+클라라 : 따로 쓸 기구요?
+훌리안 : 셀리악 전용 팬과 뒤집개요.
+클라라 : 좋은 생각이에요.
+훌리안 : 그렇지만 돈이 들고 우리 마진은 작아요.
+클라라 : 이해해요. 작은 식당엔 쉽지 않죠.
+훌리안 : 그래도 알레르기 있는 사람이 점점 늘어요.
+클라라 : 진단받은 셀리악도 늘고요.
+훌리안 : 사장님이 결심하면 좋겠어요.
+클라라 : 그랬으면 좋겠네요. 동네에도 좋은 서비스일 거예요.
+훌리안 : 그럼 일단은 구운 대구로 하시죠.
+클라라 : 그럼 구운 대구로 할게요.
+훌리안 : 샐러드로 하시겠어요, 감자로 하시겠어요?
+클라라 : 샐러드로요. 빵은 빼 주세요.
+훌리안 : 빵은 없이요. 올리브유랑 식초로 드레싱할까요?
+클라라 : 네. 올리브유랑 식초만, 소스는 빼고요.
+훌리안 : 올리브유와 식초. 주문서에 '셀리악'이라고 적을게요.
+클라라 : 정말 고마워요.
+훌리안 : 그리고 요리사에게 장갑을 바꾸라고 말해 둘게요.
+클라라 : 좋아요. 도움이 돼요.
+훌리안 : 마실 건요? 맥주 드릴까요?
+클라라 : 아니요, 괜찮아요. 맥주에는 보리가 들어가요.
+훌리안 : 맞네요. 와인은 어떠세요?
+클라라 : 레드 와인이요, 네. 그건 괜찮아요.
+훌리안 : 리오하와 리베라가 있어요. 어느 쪽이 좋으세요?
+클라라 : 리오하로 주세요.
+훌리안 : 좋아요. 리오하, 샐러드를 곁들인 대구, 빵은 빼고요.
+클라라 : 맞아요. 고마워요, 훌리안.
+훌리안 : 제가 감사하죠. 바로 가져올게요.
+(훌리안이 간다. 클라라가 기다린다. 몇 분이 흐른다.)
+훌리안 : 와인 여기 있어요. 대구는 오 분 뒤에 나가요.
+클라라 : 고마워요. 하나 더 물어봐도 될까요?
+훌리안 : 그럼요.
+클라라 : 성분 목록이 서면으로 있나요?
+훌리안 : 있었는데 오래됐어요. 월말에 갱신해요.
+클라라 : 알겠어요. 알레르겐 표시는요? 표시돼 있나요?
+훌리안 : 메뉴에 숫자가 있어요. 보세요, 일이 글루텐이에요.
+클라라 : 아, 보여요. 샐러드에는 사가 있네요.
+훌리안 : 사는 생선이에요. 칠은 유제품이고요.
+클라라 : 아주 좋아요. 더 눈에 띄면 좋겠어요.
+훌리안 : 사장님께 말씀드릴게요.
+클라라 : 괜찮다면 제안 하나 드릴게요.
+훌리안 : 그럼요.
+클라라 : 메뉴 맨 끝에 분명한 표 한 장이요.
+훌리안 : 좋은 생각이에요. 제안해 볼게요.
+클라라 : 제 삶이 많이 편해질 거예요. 다른 셀리악들도요.
+훌리안 : 그럴 거예요. 표 얘기는 적어 둘게요.
+클라라 : 다 완벽하지 않아도 괜찮아요. 알려 주는 게 중요해요.
+훌리안 : 이해해 주셔서 고맙습니다.
+클라라 : 얼마나 어려운지 알아서요.
+훌리안 : 가족도 셀리악이세요?
+클라라 : 언니도요. 그래서 어릴 때부터 겪었어요.
+훌리안 : 정말 힘든 일이네요.
+클라라 : 익숙해져요. 제품도 점점 늘고요.
+훌리안 : 비싸기도 하죠?
+클라라 : 조금요. 글루텐 프리 빵은 두 배예요.
+훌리안 : 그건 부당하네요.
+클라라 : 조금요. 하지만 이젠 익숙해요.
+훌리안 : 저기, 대구 나왔어요.
+클라라 : 맛있어 보여요.
+훌리안 : 뜨거우니 조심하세요. 맛있게 드세요.
+클라라 : 고마워요. 필요하면 부를게요.
+훌리안 : 바로 옆에 있어요. 부담 갖지 마세요.
+클라라 : (맛본다) 음. 정말 맛있어요.
+(시간이 흐른다. 클라라가 식사를 마친다. 훌리안이 접시를 치운다.)
+훌리안 : 다 괜찮으세요? 속은 편하세요?
+클라라 : 아주 좋아요. 신경 써 줘서 고마워요.
+훌리안 : 인내해 주셔서 제가 감사하죠.
+클라라 : 후식을 시켜도 될까요?
+훌리안 : 그럼요. 과일, 아이스크림, 쿠하다가 있어요.
+클라라 : 쿠하다에 글루텐이 들어가나요?
+훌리안 : 아닐 거예요. 하지만 확인해 볼게요.
+클라라 : 고마워요. 확인하는 게 좋아요.
+훌리안 : 맞는 말씀이에요. 항상 묻는 게 낫죠.
+클라라 : 저는 그렇게 해서 마음 편히 살아요.
+훌리안 : 그 교훈을 새겨 둘게요.
+클라라 : 저는 솔직함을 새겨 둘게요.
+훌리안 : 답을 가지고 금방 올게요.

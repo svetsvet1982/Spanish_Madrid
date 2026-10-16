@@ -1,0 +1,285 @@
+# 3부 10화. El rider de las diez (밤 열 시의 배달원)
+난이도: 주 B2 | 구간: C1→B2→B2→B2→B2→B2 | 형식: 2인 대면(현관) | 장소: 아파트 현관과 계단참 | 시간: 목요일 밤 10시
+등장인물: Marta, Kevin
+이슈: 주 ● 배달 플랫폼 노동의 평가 점수와 보수 | 곡선: 1-0-0-2-2-3 (반전형, 상한 3) | 입장: A 마르타(주문이 늦어서 화가 났지만 사정을 듣고 흔들린다) / B 케빈(건당 수입, 평점과 지연 벌점, 사고 위험을 짊어진 배달원)
+상황 카드: 야근을 마친 마르타가 밤 열 시에 시킨 저녁이 사십 분 늦게 도착한다. 문을 열자 배달원 케빈이 숨을 몰아쉬며 서 있다. 처음엔 불평이지만 케빈의 하루 열한 시간, 건당 보수, 평점 벌점 이야기를 들으며 마르타의 태도가 바뀐다. 걸림돌은 별점 하나가 케빈의 수입을 좌우한다는 점. 결말은 마르타가 별점을 어떻게 줄지 정하는 순간.
+학습 포인트: 불만 표현(Llevo esperando…, Esto es inaceptable) · 완곡한 항의와 사과 · 노동 어휘(el repartidor, la plataforma, la valoración, el autónomo) · 가정법(Si pudiera, Ojalá) · 입장 바꿔 생각하는 표현
+
+## 대화
+(Jueves, diez de la noche. Un portal de Tetuán. Marta baja con el móvil en la mano y la cena sin llegar. Abre la puerta y Kevin, con la mochila térmica, apoya la bici contra la pared. Está sudando.)
+Marta : ¡Por fin! Llevo cuarenta minutos esperando.
+Kevin : Buenas noches. Perdona el retraso. Aquí tienes tu pedido.
+Marta : Cuarenta minutos, para una hamburguesa. Es inaceptable.
+Kevin : Lo sé. Lo siento mucho.
+Marta : La aplicación decía veinte. Y mira cómo llega esto.
+Kevin : Tienes razón. Si quieres, te lo cambio.
+Marta : ¿Cambiarlo? ¿Cuánto tardaría en volver?
+Kevin : No sé. Quizá otros cuarenta.
+Marta : Entonces no. Déjalo.
+Kevin : De verdad que lo siento.
+Marta : Mira, no es contra ti. Pero llevo trece horas trabajando.
+Kevin : Te entiendo. Yo también.
+Marta : ¿También trabajas desde las nueve?
+Kevin : Desde las once de la mañana. Llevo once horas.
+Marta : ¿Once horas? ¿Sin parar?
+Kevin : Con una parada de media hora para comer.
+Marta : Madre mía. Pasa, si quieres un vaso de agua.
+Kevin : No puedo entrar. Tengo otro pedido en la calle de al lado.
+Marta : Ahora mismo te saco el agua. Espera aquí.
+Kevin : Gracias, de verdad.
+(Marta vuelve con un vaso. Kevin bebe con prisa.)
+Marta : ¿Por qué ha tardado tanto mi pedido?
+Kevin : El restaurante tenía cola de pedidos. Esperé veinte minutos.
+Marta : Pero el tiempo corre en tu contra, ¿no?
+Kevin : Sí. La aplicación me marca los minutos desde que acepto.
+Marta : ¿Y si llegas tarde?
+Kevin : Me bajan la puntuación. Y con eso, me dan menos pedidos.
+Marta : O sea, que el retraso del restaurante lo pagas tú.
+Kevin : A veces sí. No siempre. Depende del algoritmo.
+Marta : Qué fuerte.
+Kevin : Es lo que hay. Yo elegí esto.
+Marta : ¿Elegiste esto? ¿O no había otra cosa?
+Kevin : Un poco de las dos. Llegué hace dos años de Colombia.
+Marta : Entiendo. ¿Tienes contrato?
+Kevin : Soy autónomo. Pago yo la cuota y el seguro.
+Marta : ¿Y cuánto cobras por pedido?
+Kevin : Entre dos y cuatro euros, según la distancia y la hora.
+Marta : ¿Y por esta hamburguesa?
+Kevin : Dos con ochenta. Menos la cuota y el desgaste de la bici.
+Marta : O sea, más o menos nada.
+Kevin : No es mucho, pero suma. Hago unos veinte pedidos al día.
+Marta : Cincuenta y seis euros brutos. Menos gastos.
+Kevin : Eso es. Con suerte, tres mil al mes si trabajo seis días.
+Marta : Seis días, once horas. Y descontando gastos.
+Kevin : Y sin vacaciones pagadas. Ni baja si me caigo.
+Marta : ¿Te has caído alguna vez?
+Kevin : Dos veces. La segunda me rompí la muñeca.
+Marta : ¿Y quién te pagó ese mes?
+Kevin : Nadie. Estuve cuatro semanas sin cobrar.
+Marta : ¿Cuatro semanas? ¿Y el alquiler?
+Kevin : Mi compañero de piso me lo adelantó. Se lo devolví después.
+Marta : Menos mal que tenías a alguien.
+Marta : Pero la empresa tendrá seguro...
+Kevin : Tiene uno, pero tardó dos meses en responder. Y cubría poco.
+Marta : Madre mía. No tenía ni idea.
+Kevin : Nadie lo sabe. La gente solo ve el pedido en el móvil.
+Marta : Es verdad. Yo solo veo la fotito del rider.
+Kevin : Y la estrellita que le pones al final.
+Marta : Ah, la estrellita. ¿Eso cuenta mucho?
+Kevin : Muchísimo. Si bajo de cuatro punto cinco, me quitan los mejores turnos.
+Marta : ¿Una estrella puede arruinarte?
+Kevin : Una sola no. Pero si dos clientes seguidos me ponen una, sí.
+Marta : Y yo, hace diez minutos, pensaba ponerte una.
+Kevin : Lo sé. Es normal. Si el pedido llega tarde, todos se enfadan.
+Marta : ¿Y tú qué haces cuando te ponen una estrella?
+Kevin : Nada. Me callo. Reclamar da más problemas.
+Marta : Pero ¿no hay un sindicato o algo así?
+Kevin : Hay uno de repartidores. Pero en mi plataforma pocos se afilian.
+Marta : ¿Por qué?
+Kevin : Por miedo. Si protestas, te desconectan.
+Marta : ¿Pueden hacer eso?
+Kevin : En teoría, no. En la práctica, pasa. Y es difícil probar nada.
+Marta : Esto no me lo imaginaba.
+Kevin : Nadie se lo imagina. Hasta que le toca.
+Marta : Y a ti, ¿qué te gustaría?
+Kevin : Un contrato. Un sueldo fijo, aunque fuera menos. Y seguro de verdad.
+Marta : Tiene sentido. ¿Y las empresas qué dicen?
+Kevin : Dicen que somos libres, que elegimos nuestras horas.
+Marta : Libres para trabajar once horas.
+Kevin : Eso mismo digo yo.
+Marta : Aunque ellos también tendrán sus razones, ¿no?
+Kevin : Sí. Dicen que si pagan más, suben los precios para ti.
+Marta : Y yo no pagaría tanto por una hamburguesa.
+Kevin : Ni yo. Ahí está el problema.
+Marta : ¿Y entonces cuál es la solución?
+Kevin : No lo sé. Quizá que cada uno pague un poco más, y que nadie pierda.
+Marta : Yo estaría dispuesta, la verdad. Un euro más.
+Kevin : Un euro por pedido ya cambiaría mucho.
+Marta : Pero igual me da rabia que me hagan elegir.
+Kevin : A mí también. No elegí este sistema. Solo llegué y lo encontré.
+Marta : Y yo solo quería cenar tranquila.
+Kevin : Y yo solo quería entregártelo a tiempo.
+Marta : Entonces los dos somos víctimas.
+Kevin : O los dos somos piezas. Depende de cómo lo mires.
+(Suena el móvil de Kevin. Mira la pantalla con ansiedad.)
+Kevin : Perdona, me llaman de la plataforma. Tengo que irme.
+Marta : Espera. Una cosa antes de que te vayas.
+Kevin : Dime, pero rápido.
+Marta : ¿Cómo prefieres que te valore? ¿Qué me pides?
+Kevin : Lo que te parezca justo. De verdad.
+Marta : No, pregunto qué ayudaría. Los cuarenta minutos de espera no son tu culpa.
+Kevin : Si puedes, cinco estrellas. Y un comentario que diga que el retraso fue del restaurante.
+Marta : Eso lo hago ahora mismo. Con comentario y todo.
+Kevin : Gracias. Eso me ayuda más que una propina.
+Marta : Y la propina también. ¿Aceptas efectivo?
+Kevin : Si es poco, sí. Pero no hace falta.
+Marta : Toma cinco euros. Es de parte de una clienta que ha aprendido algo.
+Kevin : Gracias, Marta. De verdad. Me voy.
+Marta : Ten cuidado con la bici. Hay mucho coche a esta hora.
+Kevin : Siempre. Buenas noches.
+Marta : Buenas noches. Y gracias por contármelo.
+Kevin : Gracias a ti por escucharme.
+Marta : Escucha, ¿quieres mi número? Por si tienes algún problema.
+Kevin : ¿Para qué?
+Marta : Soy abogada laboralista. No cobraría nada si me cuentas lo de la baja.
+Kevin : No sabía. ¿Lo harías?
+Marta : Sí. Pero no por pena. Es mi trabajo, y el tuyo merece protección.
+Kevin : Vale. Me lo apunto. Un segundo, que me suena otra vez el móvil.
+Marta : Corre. Hablamos otro día.
+Kevin : Hablamos. Gracias otra vez. Buenas noches.
+Marta : Buenas noches, Kevin.
+(Kevin monta en la bici y se va. Marta se queda en el portal con la bolsa fría.)
+Marta : (para sí) Cinco estrellas. Y una conversación pendiente.
+
+## 낭독 포인트
+- z/c: «cinco», «cena», «gracias», «cuarenta», «hacer» — [θ]. «Gracias»는 [ɡɾá-θjas].
+- j/g: «bajo», «gente», «mejor», «abogada» — j와 ge/gi는 강한 [x]. «Bajo»는 [bá-xo].
+- ll/y: «llevo», «llama», «ya», «yo» — [ʝ]. «Llevo cuarenta minutos»는 [ʝé-βo].
+- 억양: 마르타의 항의(Es inaceptable)는 날카롭게 짧게, 케빈의 설명(Entre dos y cuatro euros)은 담담하게. 후반 마르타의 변화는 속도를 늦춘다.
+- 숫자: dos con ochenta, cuatro punto cinco는 정확하게. 평점 4.5는 «cuatro punto cinco».
+- 호칭: 처음엔 tú로 다소 날 선 분위기, 끝에서 이름을 부르며 부드러워진다.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 항의와 사과
+  · 항의: «Llevo cuarenta minutos esperando.», «Es inaceptable.», «No es contra ti.»
+  · 사과: «Perdona el retraso.», «De verdad que lo siento.»
+- B2 구간(21~120턴): 노동 이야기
+  · 질문: «¿Tienes contrato?», «¿Cuánto cobras por pedido?», «¿Y quién te pagó ese mes?»
+  · 노동 어휘: el repartidor, el autónomo, la cuota, la baja, el sindicato, la plataforma, la valoración, el algoritmo.
+  · 입장 바꿔 보기: «Los dos somos piezas.», «Hasta que le toca.», «Yo estaría dispuesta.»
+  · 제안: «Si puedes, cinco estrellas.», «No cobraría nada si me cuentas lo de la baja.»
+- 균형: 회사의 입장(가격 인상 우려)도 «Ellos también tendrán sus razones» 로 한 번 짚는다.
+
+## 속어 노트
+- «Qué fuerte»: 심하네, 대단하네(놀람).
+- «Madre mía»: 세상에.
+- «Es lo que hay»: 어쩔 수 없다.
+- «La estrellita»: 별점(애교 있는 말투).
+- 단가, 평점 기준, 보험 내용은 이야기 속 설정이다. 실제 플랫폼 노동 규정은 시기와 회사에 따라 다르므로 확인이 필요하다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(목요일 밤 열 시. 테투안의 한 건물 현관. 마르타가 휴대폰을 든 채 내려온다. 저녁은 아직 안 왔다. 문을 열자 보온 배낭을 멘 케빈이 자전거를 벽에 기대 놓는다. 땀을 흘리고 있다.)
+마르타 : 드디어! 사십 분째 기다렸어요.
+케빈 : 안녕하세요. 늦어서 죄송합니다. 주문하신 거예요.
+마르타 : 햄버거 하나에 사십 분이요. 용납이 안 돼요.
+케빈 : 알아요. 정말 죄송합니다.
+마르타 : 앱에는 이십 분이라고 나왔어요. 그런데 이게 뭐예요.
+케빈 : 맞는 말씀이에요. 원하시면 바꿔 드릴게요.
+마르타 : 바꿔요? 돌아오는 데 얼마나 걸려요?
+케빈 : 모르겠어요. 아마 또 사십 분요.
+마르타 : 그럼 됐어요. 그냥 놔둬요.
+케빈 : 정말 죄송해요.
+마르타 : 저기, 당신한테 화가 난 게 아니에요. 열세 시간째 일하고 있어서요.
+케빈 : 이해해요. 저도요.
+마르타 : 당신도 아홉 시부터 일했어요?
+케빈 : 아침 열한 시부터요. 열한 시간째예요.
+마르타 : 열한 시간이요? 쉬지도 않고?
+케빈 : 점심 먹는 삼십 분만 쉬어요.
+마르타 : 세상에. 원하면 들어와서 물 한 잔 마셔요.
+케빈 : 못 들어가요. 옆 거리에 다른 주문이 있어서요.
+마르타 : 지금 바로 물 가져올게요. 여기서 기다려요.
+케빈 : 정말 고맙습니다.
+(마르타가 컵을 들고 돌아온다. 케빈이 서둘러 마신다.)
+마르타 : 내 주문은 왜 이렇게 늦었어요?
+케빈 : 식당에 주문이 밀려 있었어요. 이십 분을 기다렸어요.
+마르타 : 그래도 시간은 당신에게 불리하게 흐르죠?
+케빈 : 네. 앱은 제가 주문을 수락한 때부터 분을 재요.
+마르타 : 늦으면요?
+케빈 : 점수를 깎아요. 그러면 주문을 덜 줘요.
+마르타 : 그러니까 식당이 늦은 값을 당신이 치르는 거네요.
+케빈 : 가끔은요. 항상은 아니고, 알고리즘에 달렸어요.
+마르타 : 너무하네요.
+케빈 : 어쩔 수 없죠. 제가 선택한 거예요.
+마르타 : 선택한 거예요? 아니면 다른 방법이 없었어요?
+케빈 : 반반이에요. 이 년 전에 콜롬비아에서 왔어요.
+마르타 : 그렇군요. 계약은 있어요?
+케빈 : 자영업자예요. 회비와 보험을 제가 내요.
+마르타 : 주문 하나에 얼마 받아요?
+케빈 : 거리와 시간대에 따라 이 유로에서 사 유로요.
+마르타 : 이 햄버거는요?
+케빈 : 이 유로 팔십 센트요. 회비와 자전거 마모를 빼고요.
+마르타 : 그러니까 거의 아무것도 아니네요.
+케빈 : 많진 않지만 모이면 돼요. 하루에 스무 건쯤 해요.
+마르타 : 세전 오십육 유로. 경비를 빼고.
+케빈 : 맞아요. 운이 좋으면 엿새 일해서 한 달에 삼천이에요.
+마르타 : 엿새, 열한 시간. 경비까지 빼고요.
+케빈 : 유급휴가도 없고, 넘어져도 병가도 없어요.
+마르타 : 넘어진 적 있어요?
+케빈 : 두 번요. 두 번째에는 손목이 부러졌어요.
+마르타 : 그 달 급여는 누가 줬어요?
+케빈 : 아무도요. 사 주 동안 수입이 없었어요.
+마르타 : 사 주요? 집세는요?
+케빈 : 룸메이트가 먼저 내줬어요. 나중에 갚았죠.
+마르타 : 곁에 사람이 있어서 다행이네요.
+마르타 : 그래도 회사는 보험이 있을 텐데...
+케빈 : 있어요. 하지만 답변까지 두 달 걸렸고 보장도 적었어요.
+마르타 : 세상에. 전혀 몰랐어요.
+케빈 : 아무도 몰라요. 사람들은 휴대폰 속 주문만 보니까요.
+마르타 : 맞아요. 나는 배달원의 작은 사진만 봐요.
+케빈 : 그리고 끝에 주는 작은 별이요.
+마르타 : 아, 그 별. 그게 많이 중요해요?
+케빈 : 아주 많이요. 사점오 밑으로 내려가면 좋은 시간대를 빼앗겨요.
+마르타 : 별 하나가 당신을 망칠 수 있다고요?
+케빈 : 하나로는 안 돼요. 하지만 두 손님이 연달아 하나씩 주면 그래요.
+마르타 : 십 분 전에 나도 하나를 주려고 했어요.
+케빈 : 알아요. 당연해요. 주문이 늦으면 다 화나죠.
+마르타 : 별을 받으면 당신은 어떻게 해요?
+케빈 : 아무것도 안 해요. 입 다물어요. 항의하면 더 문제가 돼요.
+마르타 : 그래도 노조 같은 건 없어요?
+케빈 : 배달원 노조가 있어요. 하지만 제 플랫폼에선 가입하는 사람이 적어요.
+마르타 : 왜요?
+케빈 : 겁이 나서요. 항의하면 접속이 끊겨요.
+마르타 : 그런 일이 가능해요?
+케빈 : 이론상은 아니에요. 현실에서는 일어나요. 증명하기가 어렵고요.
+마르타 : 이건 상상도 못 했어요.
+케빈 : 아무도 상상 못 해요. 자기 일이 되기 전까지는요.
+마르타 : 당신은 어떻게 되면 좋겠어요?
+케빈 : 계약이요. 적더라도 고정 급여. 그리고 제대로 된 보험이요.
+마르타 : 이해가 가요. 회사들은 뭐라고 해요?
+케빈 : 우리가 자유롭고 근무 시간을 고른다고 해요.
+마르타 : 열한 시간 일할 자유네요.
+케빈 : 제가 하는 말이 그거예요.
+마르타 : 하지만 그쪽도 사정이 있겠죠, 아닌가요?
+케빈 : 네. 더 주면 손님이 내는 가격이 오른다고 해요.
+마르타 : 나는 햄버거 하나에 그렇게 많이 내진 않겠죠.
+케빈 : 저도요. 거기에 문제가 있어요.
+마르타 : 그럼 해결책은 뭐예요?
+케빈 : 모르겠어요. 각자 조금씩 더 내고 아무도 손해 보지 않는 거겠죠.
+마르타 : 나는 솔직히 낼 의향이 있어요. 일 유로 더.
+케빈 : 주문마다 일 유로면 많이 달라질 거예요.
+마르타 : 하지만 선택을 강요당하는 건 화가 나요.
+케빈 : 저도요. 제가 이 제도를 고른 게 아니에요. 와 보니 이랬어요.
+마르타 : 나는 그냥 조용히 저녁을 먹고 싶었어요.
+케빈 : 저는 그냥 제시간에 가져다 드리고 싶었어요.
+마르타 : 그럼 우리 둘 다 피해자네요.
+케빈 : 아니면 둘 다 부품이거나요. 어떻게 보느냐에 달렸죠.
+(케빈의 휴대폰이 울린다. 그는 불안한 얼굴로 화면을 본다.)
+케빈 : 죄송해요, 플랫폼에서 전화가 와요. 가야 해요.
+마르타 : 잠깐만요. 가기 전에 한 가지만.
+케빈 : 말씀하세요, 빨리요.
+마르타 : 어떻게 평가해 주길 바라요? 뭘 부탁하겠어요?
+케빈 : 공정하다고 생각하는 대로요. 정말요.
+마르타 : 아니요, 뭐가 도움이 될지 묻는 거예요. 사십 분 기다린 건 당신 잘못이 아니에요.
+케빈 : 가능하다면 별 다섯 개요. 그리고 지연은 식당 탓이라는 댓글이요.
+마르타 : 지금 바로 할게요. 댓글까지 달고요.
+케빈 : 고맙습니다. 팁보다 그게 더 도움이 돼요.
+마르타 : 팁도 줄게요. 현금 받아요?
+케빈 : 적은 돈이면 받아요. 안 주셔도 돼요.
+마르타 : 오 유로 받아요. 뭔가 배운 손님이 드리는 거예요.
+케빈 : 고맙습니다, 마르타 씨. 정말요. 갈게요.
+마르타 : 자전거 조심해요. 이 시간엔 차가 많아요.
+케빈 : 늘 그래요. 안녕히 계세요.
+마르타 : 안녕히 가요. 그리고 이야기해 줘서 고마워요.
+케빈 : 들어 주셔서 제가 감사해요.
+마르타 : 번호 줄까요? 문제가 생길 때를 위해서요.
+케빈 : 무슨 용도로요?
+마르타 : 나는 노동 전문 변호사예요. 병가 얘기 해 주면 비용은 안 받아요.
+케빈 : 몰랐어요. 정말 해 주시겠어요?
+마르타 : 네. 동정이 아니라 내 일이고, 당신의 일은 보호받을 가치가 있으니까요.
+케빈 : 알겠어요. 적어 둘게요. 또 전화가 와요, 잠깐만요.
+마르타 : 달려가요. 다음에 얘기해요.
+케빈 : 얘기해요. 다시 한번 감사합니다. 안녕히 주무세요.
+마르타 : 안녕히, 케빈.
+(케빈이 자전거에 올라타 떠난다. 마르타는 식은 봉지를 든 채 현관에 서 있다.)
+마르타 : (혼잣말) 별 다섯 개. 그리고 남은 대화 하나.

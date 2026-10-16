@@ -1,0 +1,285 @@
+# 2부 7화. Je n'ai plus besoin du plan (이젠 지도가 필요 없어)
+난이도: 주 C1 | 구간: C1→C1→C1→B2→B2→C1 | 형식: 2인 | 장소: 뤽상부르 공원 연못가 의자와 근처 지하철 입구 | 시간: 일요일 늦은 오후
+등장인물: Marta, Étienne
+이슈: 주 ◐ 이방인의 적응과 정체성 | 곡선: 0-0-1-1-1-0 (잔잔형, 상한 1) | 입장: A 마르타(파리 팔 년 차, 이제 길을 외웠지만 어디에도 속하지 않은 기분이다) / B 에티엔(고향에서 자란 파리 토박이, 오히려 도시가 낯설어진 기분을 말한다)
+상황 카드: 파리에서 팔 년을 산 마르타가 옛 룸메이트 에티엔과 오랜만에 공원 의자에 앉는다. 주머니 속 낡은 지하철 노선도를 발견하고 처음 도착했던 날을 되짚는다. 이제 길은 다 알지만 이 도시의 사람이 된 건지는 아직 모르겠다. 걸림돌은 정리되지 않는 소속감. 결말은 노선도를 버릴지 말지 정하지 않은 채 일어나 걸어가는 것.
+학습 포인트: 회고와 뉘앙스(Il m'arrive de…, À force de…) · 완곡·반어(Disons que…, Ce n'est pas faute d'avoir essayé) · 긴 문장과 관계대명사(ce dont, là où) · 구어체 관용구(avoir le mal du pays, se sentir chez soi) · 격식과 구어 오가기
+
+## 대화
+(Dimanche, fin d'après-midi. Au Luxembourg, autour du grand bassin, des enfants font naviguer des petits voiliers. Marta et Étienne sont assis sur deux chaises métalliques vertes. Marta fouille dans la poche de son manteau et en sort un papier plié en huit.)
+Marta : Tiens, regarde ce que je viens de retrouver dans ma poche.
+Étienne : Un plan du métro ? Mais il est complètement usé, on dirait un vieux parchemin.
+Marta : C'est celui que j'ai acheté le jour de mon arrivée, il y a huit ans, à la gare de l'Est.
+Étienne : Huit ans ? Tu l'as gardé tout ce temps sans t'en rendre compte ?
+Marta : Je crois que je l'ai glissé dans ce manteau et que je ne l'ai plus jamais mis, jusqu'à cet hiver.
+Étienne : Autrement dit, ce plan a survécu à trois déménagements et à deux hivers rigoureux.
+Marta : Il a même survécu à ma mère, qui voulait absolument le plastifier.
+Étienne : Elle avait peut-être raison, vu l'état dans lequel il est.
+Marta : Peut-être. Mais regarde les annotations, c'est mon écriture de l'époque.
+Étienne : « Attention, ne pas confondre Châtelet et Les Halles. » Elle est belle, celle-là.
+Marta : Je m'étais perdue trois fois dans la même journée, ce jour-là.
+Étienne : Je m'en souviens, tu m'avais appelé à vingt-trois heures pour que je te guide par téléphone.
+Marta : Et tu avais fini par me dire d'aller dormir à la station où j'étais.
+Étienne : J'étais fatigué, j'avais bu un verre de trop.
+Marta : Je te pardonne, avec le recul, c'est même drôle.
+Étienne : Et aujourd'hui, tu te déplaces comment ?
+Marta : À l'instinct, honnêtement. Je descends à la station avant d'avoir regardé où je vais.
+Étienne : Ça, c'est le signe qu'on est de quelque part.
+Marta : Ou le signe qu'on a trop pris le métro.
+Étienne : Ha ha, les deux ne sont pas incompatibles.
+Marta : Il m'arrive pourtant de me tromper de sortie, comme une touriste.
+Étienne : Moi aussi, et je suis né à deux stations d'ici.
+Marta : À force de vivre ici, j'ai appris des choses que mes amis français ne savent pas.
+Étienne : Comme quoi, par exemple ?
+Marta : Quelle rame s'arrête à quel endroit du quai, pour sortir au plus près de l'escalier.
+Étienne : Ça, c'est de la science d'initiée.
+Marta : Disons que c'est le fruit de huit années de lassitude matinale.
+Étienne : Et pourtant, tu ne parais pas lasse.
+Marta : Je ne le suis pas, c'est plutôt une forme de familiarité un peu étrange.
+Étienne : Étrange en quel sens ?
+Marta : Je connais chaque couloir, mais j'ai l'impression de passer à côté de quelque chose.
+Étienne : De quelque chose de précis, ou d'un sentiment diffus ?
+Marta : Plutôt un sentiment diffus, une sorte de distance que je n'arrive pas à nommer.
+Étienne : Tu veux dire que tu ne te sens toujours pas chez toi ?
+Marta : Je me sens chez moi, mais pas tout à fait de chez moi, si tu vois la nuance.
+Étienne : Je la vois très bien, c'est même ce que je ressens à Paris, où je suis pourtant né.
+Marta : Toi ? Mais tu es de ces gens qui connaissent la boulangère par son prénom.
+Étienne : Justement, elle a pris sa retraite l'an dernier, et le magasin est devenu une boutique de bougies.
+Marta : Ah, la gentrification, ce vieux refrain.
+Étienne : Ne te moque pas, ça fait quand même un drôle d'effet de ne plus reconnaître sa rue.
+Marta : Je ne me moque pas, je cherche seulement à ne pas être sentimentale.
+Étienne : Ce n'est pas faute d'avoir essayé, d'ailleurs, de ta part.
+Marta : J'ai tout essayé. Les cours d'histoire, les expositions, les vide-greniers, même le bridge.
+Étienne : Le bridge ! Mais tu es la seule personne de moins de soixante ans à y jouer.
+Marta : Le club m'a adoptée comme une petite-fille, ça compte aussi.
+Étienne : Ça compte énormément, c'est même ce que beaucoup d'étrangers cherchent sans le trouver.
+Marta : Je sais. J'ai de la chance, et je n'aime pas qu'on me prenne pour une ingrate.
+Étienne : Personne ne te prend pour une ingrate, tu te le dis toute seule.
+Marta : C'est possible. Le français que je parle est impeccable, mais mon accent trahit toujours mon origine.
+Étienne : Un charmant accent, qui donne du caractère à ce que tu racontes.
+Marta : C'est gentil, mais quand je réserve une table au téléphone, on me demande toujours d'où je viens.
+Étienne : Avec la meilleure intention du monde, sans doute.
+Marta : Sans doute, et pourtant ça me renvoie à chaque fois à ma case départ.
+Étienne : Moi, on ne me demande jamais d'où je viens, et pourtant je ne sais pas si je suis d'ici.
+Marta : Tu veux dire que l'appartenance, ce n'est pas qu'une question d'état civil ?
+Étienne : Voilà. On peut avoir le bon passeport et se sentir étranger dans son propre quartier.
+Marta : Alors la différence entre nous, c'est que toi, tu as une carte postale de ton enfance.
+Étienne : Une carte postale qui pâlit chaque année, malheureusement.
+Marta : Et moi, une carte du métro qui ne me sert plus à rien.
+Étienne : Tu la jettes ?
+Marta : Je ne sais pas. C'est idiot, mais je ne peux pas me résoudre à la mettre à la poubelle.
+Étienne : Garde-la dans un livre, comme un marque-page.
+Marta : Pas mal comme idée, mais dans quel livre ?
+Étienne : Celui que tu liras le jour où tu auras le mal du pays.
+Marta : J'ai le mal du pays, de temps en temps, mais je ne saurais pas dire de quel pays.
+Étienne : C'est une belle phrase. Tu devrais l'écrire quelque part.
+Marta : Je l'ai déjà notée dans mon carnet, entre une liste de courses et un numéro de plombier.
+Étienne : Voilà une manière très parisienne de ranger ses pensées.
+Marta : Ha ha, tu vois, l'intégration marche.
+(Une petite fille court après son voilier, qui dérive vers le milieu du bassin. Un homme âgé, avec un grand bâton, le rattrape et le lui rend. Étienne sourit.)
+Étienne : C'est ça, Paris : un inconnu qui te rend ce que tu pensais avoir perdu.
+Marta : Tu es en train de faire du lyrisme, là.
+Étienne : Disons que le Luxembourg m'y pousse.
+Marta : Je veux bien te croire, c'est un endroit où l'on est tenté d'être meilleur qu'on ne l'est.
+Étienne : Et toi, tu es meilleure que tu ne l'imagines, voilà ce que je voulais te dire.
+Marta : Merci. Même si je soupçonne que tu dis ça pour que je paie le prochain café.
+Étienne : Ce serait trop machiavélique, même pour moi.
+Marta : Je te rappelle que tu as laissé la note à ma charge la dernière fois.
+Étienne : Un oubli, qui n'engage que ma mémoire.
+Marta : Une mémoire sélective, comme tous les gens de ta famille.
+Étienne : Ça, je ne le nie pas.
+Marta : Bon, trêve de plaisanteries. Je voulais te demander un conseil.
+Étienne : Je t'écoute, avec toute la gravité requise.
+Marta : Je pense à rester ici, durablement, peut-être même à demander la nationalité.
+Étienne : Ah. Voilà un sujet qui sort un peu de la conversation sur les cartes postales.
+Marta : Oui, mais il n'est pas sans rapport. Ce plan, c'est un peu le symbole de ma décision.
+Étienne : Et qu'est-ce qui te retient ?
+Marta : L'idée de devoir choisir une appartenance au lieu de les garder toutes.
+Étienne : Mais rien ne t'oblige à renoncer à rien, tu sais.
+Marta : En théorie, non, en pratique, c'est plus compliqué.
+Étienne : Parce que ta famille ne comprendrait pas ?
+Marta : Parce qu'elle comprendrait trop bien, et qu'elle ne le dirait pas.
+Étienne : Ça, c'est le pire, effectivement.
+Marta : Voilà. Et toi, tu ne m'as pas dit si tu étais heureux, en ce moment.
+Étienne : Je suis occupé, ce qui est une manière élégante de répondre à côté.
+Marta : Je connais le procédé, je l'utilise moi-même.
+Étienne : Alors on se comprend, ce qui n'est déjà pas mal.
+Marta : Ce n'est pas rien, en tout cas.
+Étienne : Tu sais ce que je me dis, parfois, en voyant les touristes avec leur plan ?
+Marta : Je t'en prie, éclaire-moi.
+Étienne : Que ce sont eux qui regardent la ville avec le plus d'attention.
+Marta : C'est vrai. Nous, on la traverse sans la voir.
+Étienne : Ce qui est triste, quand on y pense.
+Marta : Ou rassurant, ça dépend du jour.
+Étienne : Aujourd'hui, c'est lequel ?
+Marta : Aujourd'hui, c'est plutôt rassurant.
+Étienne : Alors profitons-en. Tu viens marcher un peu ?
+Marta : Volontiers. Jusqu'où ?
+Étienne : Jusqu'à ce qu'on ait envie de s'arrêter.
+Marta : C'est la meilleure façon de se déplacer, finalement.
+(Ils se lèvent. Marta replie soigneusement le plan, le regarde un instant, puis le glisse dans sa poche au lieu de le jeter.)
+Étienne : Tu le gardes, alors ?
+Marta : Pour l'instant, oui. Je déciderai plus tard.
+Étienne : Je te trouve plus sage qu'il y a dix minutes.
+Marta : C'est le charme de l'après-midi, il ne faut pas en abuser.
+Étienne : On passe par la rue Vavin ? Il y a ce petit café que j'aimais.
+Marta : S'il existe encore. Rappelle-toi la boulangère.
+Étienne : Tu es cruelle, mais tu as raison. On vérifiera sur place.
+Marta : Et si le café n'existe plus, on en cherchera un autre.
+Étienne : À l'instinct, sans plan ?
+Marta : Sans plan, exactement.
+Étienne : Alors allons-y, avant que la nuit tombe.
+
+
+## 낭독 포인트
+- 비음 모음: «plan», «temps», «bon», «un inconnu» — an, en, on, in은 코로 울리는 모음, 끝의 n은 따로 발음하지 않는다.
+- 연음·앙샹느망: «tu es», «c'est un», «il m'arrive», «à l'instinct» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «Paris», «rassurant», «retrouver», «regarde» — 목젖 근처에서 내는 마찰음.
+- u / ou: «plus», «tu», «une» vs «toute», «pourtant» — u는 입술을 모아 [y], ou는 [u].
+- 억양: 마르타는 차분하고 약간 쓸쓸하게, 에티엔은 반어와 농담을 섞어 가볍게 읽는다. 긴 문장은 쉼표마다 숨을 쉰다.
+- 호칭: 오래된 친구라 tu를 쓴다. 고유명 «Luxembourg», «Châtelet», «Les Halles», «Vavin»은 프랑스어식으로 읽는다.
+
+## 학습 포인트 정리
+- C1 구간(1~60턴): 회고와 뉘앙스
+  · 반어·완곡: «Disons que c'est le fruit de huit années de lassitude matinale.», «Ce n'est pas faute d'avoir essayé.»
+  · 긴 문장과 관계절: «C'est celui que j'ai acheté le jour de mon arrivée.», «Je me sens chez moi, mais pas tout à fait de chez moi.»
+  · 정체성 어휘: «le mal du pays», «l'appartenance», «l'état civil», «ma case départ»
+- B2 구간(61~100턴): 고민 털어놓기
+  · «Je pense à rester ici, durablement.», «Ce plan, c'est un peu le symbole de ma décision.», «Qu'est-ce qui te retient ?»
+- C1 구간(101~120턴): 결정을 미루는 마무리
+  · «Je déciderai plus tard.», «Sans plan, exactement.», «Jusqu'à ce qu'on ait envie de s'arrêter.»
+- 어휘: le plan, l'annotation, la boutique, l'accent, la nationalité, le marque-page, la gentrification, la retraite.
+
+## 속어 노트
+- «à force de»: 계속 …한 끝에, …하다 보니.
+- «répondre à côté»: 질문을 비껴가며 대답하다.
+- «ma case départ»: 출발점(보드게임에서 온 말).
+- «avoir le mal du pays»: 향수병을 앓다.
+- «trêve de plaisanteries»: 농담은 그만.
+- 국적 신청 요건이나 분위기 설명은 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 오랜 친구 사이라 tu를 쓴다.
+
+## 한글 해석
+(일요일 늦은 오후. 뤽상부르 공원의 큰 연못 둘레에서 아이들이 작은 돛단배를 띄운다. 마르타와 에티엔이 초록색 철제 의자에 앉아 있다. 마르타가 외투 주머니를 뒤져 여덟 겹으로 접힌 종이를 꺼낸다.)
+마르타 : 이거 봐, 방금 주머니에서 찾았어.
+에티엔 : 지하철 노선도? 완전히 닳아서 오래된 양피지 같네.
+마르타 : 도착한 날 동역에서 산 거야, 팔 년 전에.
+에티엔 : 팔 년이나? 그걸 모르고 지금까지 갖고 있었어?
+마르타 : 이 외투에 넣고 올겨울까지 한 번도 안 입었던 것 같아.
+에티엔 : 그러니까 이 노선도는 이사 세 번과 혹독한 겨울 두 번을 버텼다는 거네.
+마르타 : 코팅하겠다고 우기던 우리 엄마도 이겨 냈어.
+에티엔 : 상태를 보면 어머니 말씀이 맞았을지도 몰라.
+마르타 : 어쩌면. 근데 메모들 봐, 그땐 내 글씨야.
+에티엔 : "주의, 샤틀레와 레알을 혼동하지 말 것." 이거 좋은데.
+마르타 : 그날 하루에 같은 곳에서 세 번이나 길을 잃었어.
+에티엔 : 기억나, 밤 열한 시에 전화해서 내가 길 안내해 줬잖아.
+마르타 : 그러다 결국 있던 역에서 자라고 했지.
+에티엔 : 피곤했고, 한 잔 더 마셨었거든.
+마르타 : 용서할게, 돌아보면 오히려 웃기니까.
+에티엔 : 지금은 어떻게 다녀?
+마르타 : 솔직히 감으로. 어디 가는지 보기도 전에 역에 내려가 있어.
+에티엔 : 그게 어딘가 사람이 됐다는 신호지.
+마르타 : 아니면 지하철을 너무 많이 탔다는 신호이거나.
+에티엔 : 하하, 둘이 양립 못 하는 건 아니지.
+마르타 : 그래도 가끔은 관광객처럼 출구를 잘못 나가기도 해.
+에티엔 : 나도 그래, 여기서 두 정거장 떨어진 곳에서 태어났는데.
+마르타 : 여기 오래 살다 보니 프랑스 친구들도 모르는 걸 배웠어.
+에티엔 : 예를 들면?
+마르타 : 계단 가장 가까이로 나가려면 어느 칸이 승강장 어디에 서는지 같은 거.
+에티엔 : 그건 내부자나 아는 지식이네.
+마르타 : 팔 년 동안의 아침 피로가 낳은 열매라고 해 두자.
+에티엔 : 그런데 지쳐 보이진 않아.
+마르타 : 지친 건 아니고, 좀 낯선 형태의 익숙함이랄까.
+에티엔 : 어떤 면에서 낯설어?
+마르타 : 복도마다 다 아는데, 뭔가를 놓치고 지나가는 기분이야.
+에티엔 : 구체적인 거야, 아니면 막연한 느낌이야?
+마르타 : 막연한 느낌에 가까워, 이름 붙이지 못하는 거리감 같은 거.
+에티엔 : 아직도 집 같지 않다는 뜻이야?
+마르타 : 내 집 같긴 한데 완전히 우리 동네 사람은 아닌, 그 미묘한 차이 알겠어?
+에티엔 : 아주 잘 알겠어, 나야말로 파리에서 태어났는데도 그렇게 느껴.
+마르타 : 너가? 빵집 주인을 이름으로 아는 사람이잖아.
+에티엔 : 바로 그 아주머니가 작년에 은퇴하셨고 가게는 양초 가게가 됐어.
+마르타 : 아, 젠트리피케이션, 그 오래된 후렴구.
+에티엔 : 놀리지 마, 자기 동네를 못 알아보는 건 기분이 묘하다고.
+마르타 : 놀리는 게 아니라 감상적이지 않으려는 거야.
+에티엔 : 네 쪽에서도 시도하지 않은 건 아니잖아.
+마르타 : 다 해 봤어. 역사 강좌, 전시, 벼룩시장, 브리지 게임까지.
+에티엔 : 브리지라니! 거기서 육십 살 미만은 너 하나잖아.
+마르타 : 클럽에서 손녀처럼 받아 줬어, 그것도 쳐줘야지.
+에티엔 : 엄청 쳐주지, 많은 외국인이 찾으면서도 못 찾는 거야.
+마르타 : 알아. 난 운이 좋고, 은혜도 모르는 사람으로 보이는 건 싫어.
+에티엔 : 아무도 그렇게 안 봐, 너 혼자 그렇게 말하는 거야.
+마르타 : 그럴 수도. 내 프랑스어는 흠 잡을 데 없지만 억양에서 늘 출신이 드러나.
+에티엔 : 매력적인 억양이야, 네 이야기에 개성을 더해 주지.
+마르타 : 친절하네, 하지만 전화로 자리를 예약할 때마다 어디 출신이냐고 물어.
+에티엔 : 아마 세상에서 가장 좋은 의도로겠지.
+마르타 : 아마도, 그런데도 그럴 때마다 출발선으로 돌려보내지는 느낌이야.
+에티엔 : 나는 어디 출신이냐고 한 번도 안 묻는데도 여기 사람인지 모르겠어.
+마르타 : 소속이라는 게 호적만의 문제가 아니라는 말이야?
+에티엔 : 맞아. 맞는 여권이 있어도 자기 동네에서 이방인처럼 느낄 수 있어.
+마르타 : 그럼 우리 차이는 너한텐 어린 시절의 엽서가 있다는 거네.
+에티엔 : 해마다 빛이 바래 가는 엽서지, 안타깝게도.
+마르타 : 나는 이제 아무 쓸모 없는 지하철 지도고.
+에티엔 : 버릴 거야?
+마르타 : 모르겠어. 바보 같지만 쓰레기통에 넣을 마음이 안 들어.
+에티엔 : 책 속에 끼워 둬, 책갈피처럼.
+마르타 : 나쁘지 않은 생각인데, 어떤 책에?
+에티엔 : 향수병이 생기는 날 읽을 책에.
+마르타 : 가끔 향수병이 와, 근데 어느 나라인지는 말 못 하겠어.
+에티엔 : 좋은 문장이야. 어딘가에 써 둬.
+마르타 : 이미 수첩에 적어 뒀어, 장 볼 목록과 배관공 번호 사이에.
+에티엔 : 아주 파리다운 생각 정리법이네.
+마르타 : 하하, 봐, 통합이 잘되고 있잖아.
+(한 어린 여자아이가 연못 한가운데로 떠내려가는 돛단배를 쫓아 달린다. 긴 막대를 든 노인이 배를 건져 돌려준다. 에티엔이 미소 짓는다.)
+에티엔 : 이게 파리지, 잃어버렸다고 생각한 걸 낯선 사람이 돌려주는 거.
+마르타 : 지금 서정을 부리고 있네.
+에티엔 : 뤽상부르 탓이라고 해 두자.
+마르타 : 믿을게, 실제보다 더 나은 사람이 되고 싶어지는 곳이니까.
+에티엔 : 그리고 너는 네가 생각하는 것보다 나은 사람이야, 그게 하고 싶던 말이야.
+마르타 : 고마워. 다음 커피를 내가 사게 하려고 그러는 것 같긴 하지만.
+에티엔 : 그건 나한테도 너무 마키아벨리적이야.
+마르타 : 지난번에 계산서를 나한테 떠넘긴 거 상기시켜 줄게.
+에티엔 : 건망증이었을 뿐이고 내 기억력 탓이야.
+마르타 : 선택적인 기억력이네, 너희 집안사람들 다 그렇듯.
+에티엔 : 그건 부인 안 해.
+마르타 : 자, 농담은 그만하고. 조언을 구하고 싶었어.
+에티엔 : 필요한 진지함을 다해 들을게.
+마르타 : 여기에 오래 머물 생각이야, 어쩌면 국적을 신청할지도 몰라.
+에티엔 : 아. 엽서 얘기에서 꽤 벗어난 주제네.
+마르타 : 응, 하지만 상관없진 않아. 이 노선도가 내 결정의 상징 같은 거야.
+에티엔 : 그럼 무엇이 붙잡아?
+마르타 : 소속을 다 간직하지 않고 하나를 골라야 한다는 생각이야.
+에티엔 : 하지만 아무것도 포기하라고 강요하진 않아, 알잖아.
+마르타 : 이론상은 그렇지, 현실은 더 복잡해.
+에티엔 : 가족이 이해 못 할까 봐?
+마르타 : 너무 잘 이해하면서 말을 안 하실 것 같아서.
+에티엔 : 그게 최악이긴 하지.
+마르타 : 맞아. 그런데 너는 요즘 행복한지 말 안 했네.
+에티엔 : 바쁘게 지내, 비껴가는 우아한 대답이지.
+마르타 : 그 수법 알아, 나도 쓰는걸.
+에티엔 : 그럼 서로 이해하는 거네, 그것만 해도 나쁘지 않아.
+마르타 : 어쨌든 아무것도 아닌 건 아니야.
+에티엔 : 가끔 지도 든 관광객을 보면서 내가 무슨 생각을 하는지 알아?
+마르타 : 어서, 깨우쳐 줘.
+에티엔 : 도시를 가장 주의 깊게 보는 건 그 사람들이라는 거.
+마르타 : 맞아. 우리는 보지도 않고 지나가니까.
+에티엔 : 생각해 보면 슬픈 일이지.
+마르타 : 아니면 안심되는 일이거나, 날에 따라 달라.
+에티엔 : 오늘은 어느 쪽이야?
+마르타 : 오늘은 안심되는 쪽에 가까워.
+에티엔 : 그럼 즐기자. 좀 걸을래?
+마르타 : 좋지. 어디까지?
+에티엔 : 멈추고 싶어질 때까지.
+마르타 : 결국 그게 가장 좋은 이동 방법이네.
+(둘이 일어난다. 마르타가 노선도를 조심스레 접어 잠시 바라보다가 버리는 대신 주머니에 넣는다.)
+에티엔 : 그럼 간직하는 거야?
+마르타 : 일단은. 결정은 나중에 할게.
+에티엔 : 십 분 전보다 더 현명해 보여.
+마르타 : 오후의 매력일 뿐이야, 남용하면 안 돼.
+에티엔 : 바뱅 가로 갈까? 내가 좋아하던 작은 카페가 있어.
+마르타 : 아직 있다면. 빵집 아주머니를 떠올려 봐.
+에티엔 : 잔인하네, 하지만 맞는 말이야. 가서 확인해 보자.
+마르타 : 카페가 없어졌으면 다른 곳을 찾으면 되지.
+에티엔 : 감으로, 지도 없이?
+마르타 : 지도 없이, 정확히.
+에티엔 : 그럼 가자, 해 지기 전에.

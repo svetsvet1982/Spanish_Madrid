@@ -1,0 +1,283 @@
+# 2부 3화. Taxis contre VTC (택시 대 차량공유)
+난이도: 주 B2 | 구간: B2→B2→B1→B1→B2→B2 | 형식: 3인 | 장소: 생라자르 역 앞 택시 승강장과 차도 | 시간: 금요일 저녁 6시
+등장인물: Gérard, Samir, Léa
+이슈: 주 ● 택시와 차량공유의 경쟁 | 곡선: 2-3-3-1-0-0 (초반충격형, 상한 3) | 입장: A 제라르(면허 값을 내고 오래 일한 택시 기사, 규칙이 같아야 한다고 본다) / B 사미르(앱으로 일하는 기사, 손님이 원하는 서비스를 따라가야 한다고 본다) / C 레아(승객, 어느 쪽이든 싸고 안전하면 된다고 본다)
+상황 카드: 금요일 저녁 생라자르 역 앞에서 승객 레아가 앱으로 부른 차량을 기다리는데 택시 승강장 줄 바로 옆이라 택시 기사 제라르가 항의한다. 사미르는 예약 손님을 태우러 왔을 뿐이라고 맞선다. 레아는 둘 사이에서 곤란해지지만 두 사람의 사정을 차분히 듣는다. 결말은 레아가 어느 쪽 차를 탈지 열어 둔 채 각자 명함을 건네는 것.
+학습 포인트: 입장 밝히기(Ce que je reproche, c'est que...) · 조건법으로 완곡하게(Je dirais que…) · 접속법(il faut que, bien que) · 대조 접속사(en revanche, alors que) · 양보하며 마무리하기
+
+## 대화
+(Vendredi, dix-huit heures. Devant la gare Saint-Lazare, la file des taxis s'étire sur le trottoir. Léa, valise à la main, guette l'arrivée d'une voiture réservée sur son téléphone. Gérard, adossé à son capot, la regarde. Samir arrive et met ses feux de détresse juste devant la file.)
+Gérard : Hé, jeune homme, vous ne pouvez pas vous mettre là !
+Samir : Bonsoir, monsieur. J'ai une cliente qui m'attend, j'en ai pour une minute.
+Gérard : Une minute, c'est toujours une minute, et pendant ce temps, nous, on attend depuis quarante minutes.
+Léa : Excusez-moi, c'est peut-être pour moi, la voiture noire ?
+Samir : Vous êtes Léa ? J'ai votre course, direction gare Montparnasse.
+Léa : Oui, c'est moi. Je viens de recevoir la notification.
+Gérard : Voilà, c'est exactement ce que je disais : la file, elle est là pour ça.
+Samir : Mais moi je ne prends personne dans la file, je ne vole la place de personne.
+Gérard : Vous la volez en vous garant ici, devant la gare, là où nous avons le droit de stationner.
+Samir : Mon appli me dit de m'arrêter ici, ce n'est pas moi qui décide.
+Gérard : Votre appli, votre appli ! Et la loi, elle dit quoi, votre appli ?
+Léa : Messieurs, je ne voudrais pas vous interrompre, mais mon train part dans quarante minutes.
+Gérard : Mademoiselle, vous pouvez monter dans mon taxi, il est juste devant.
+Samir : Elle a déjà réservé avec moi, elle a même payé en ligne.
+Léa : C'est vrai, j'ai réservé, mais je ne savais pas qu'il y aurait un problème de place.
+Gérard : Ce n'est pas un problème de place, c'est un problème de règles, ma petite dame.
+Samir : Alors parlons règles : vous payez la licence combien, monsieur ?
+Gérard : Dans cette histoire, deux cent mille euros, que j'ai mis vingt ans à rembourser.
+Samir : Deux cent mille ! Moi, je n'ai jamais eu les moyens de payer ça.
+Gérard : Et c'est précisément mon problème : vous gagnez votre vie sans avoir payé ce que j'ai payé.
+Samir : Je ne conteste pas que ce soit injuste de votre point de vue.
+Samir : Mais ce n'est pas moi qui ai fixé le prix de votre licence.
+Gérard : Non, mais vous en profitez, et c'est ça qui me met hors de moi.
+Léa : Je peux dire quelque chose ? J'aimerais comprendre les deux côtés.
+Gérard : Allez-y, mademoiselle. Au moins, vous, vous écoutez.
+Léa : Moi, je prends l'un ou l'autre selon le prix et selon le moment.
+Samir : C'est ce que font la plupart des gens, soyons honnêtes.
+Gérard : Oui, parce que c'est moins cher, mais à quel prix pour les chauffeurs ?
+Samir : Vous croyez que je roule à ma guise ? Je travaille douze heures par jour.
+Gérard : Et vous avez une retraite, une mutuelle, des congés payés ?
+Samir : Non. Mais j'ai une liberté que vous n'avez pas toujours.
+Gérard : La liberté de ne pas être protégé, c'est ça ? Belle liberté.
+Samir : Je préfère ça au fait d'attendre quarante minutes comme vous, à la queue.
+Léa : Vous deux, vous êtes plus proches que vous ne le croyez, non ?
+Gérard : Comment ça, plus proches ?
+Léa : Vous attendez tous les deux un client, et vous travaillez tous les deux beaucoup.
+Samir : Elle n'a pas tort, vous savez.
+Gérard : Oui, mais ça ne change pas la question de la règle.
+Samir : Je suis d'accord qu'il faudrait des règles plus claires pour tout le monde.
+Gérard : Voilà, enfin quelque chose sur quoi on s'entend !
+Léa : Bon, c'est déjà un début, non ?
+(Un car de touristes klaxonne derrière eux. Samir lève la main pour s'excuser, Gérard hausse les épaules. Léa pose sa valise et sort un mouchoir.)
+Samir : Bon, je vais me ranger un peu plus loin, ça vous va ?
+Gérard : Cinq mètres plus loin, c'est mieux. Merci.
+Samir : Voilà. Mais attention, hein, ce n'est pas un aveu de culpabilité.
+Gérard : Je ne vous accuse pas de tout, je vous demande juste de la courtoisie.
+Léa : Je vous remercie tous les deux, vraiment, on a gagné du temps.
+Samir : Voulez-vous monter, mademoiselle ? J'ai de l'eau et un chargeur.
+Gérard : Moi aussi, j'ai de l'eau, et en plus, un vrai compteur, qui ne change pas de prix en route.
+Léa : Ha ha, vous vous battez pour moi, là ?
+Samir : Non, mais je suis honnête : mon prix est fixé à l'avance, il ne changera pas.
+Gérard : Il change aux heures de pointe, mon garçon, on le sait bien.
+Samir : Parfois, oui. C'est vrai que ça peut grimper en cas de forte demande.
+Gérard : Et ça, les gens ne le savent pas toujours avant de monter.
+Léa : Moi, je l'ai vu avant, il y a une alerte dans l'appli.
+Samir : Voilà, on affiche le tarif avant que vous confirmiez.
+Gérard : Heureusement. Mais tout le monde ne lit pas les petites lignes.
+Léa : Ça, c'est vrai. J'avoue que moi non plus, parfois.
+Gérard : Moi, ce qui m'inquiète, c'est la sécurité des voyageuses le soir.
+Samir : Chez nous aussi, on envoie nos papiers et notre casier à la plateforme.
+Gérard : Et vous croyez qu'elle vérifie tout, la plateforme ?
+Samir : Pas tout, j'imagine, mais plus que ce qu'on raconte.
+Léa : Moi, avant de monter, je regarde toujours la plaque et le prénom du chauffeur.
+Gérard : C'est une très bonne habitude, dans un taxi comme dans une voiture réservée.
+Léa : Et je partage mon trajet avec ma sœur, elle voit ma position.
+Samir : Excellent réflexe, je le conseille à toutes mes clientes.
+Gérard : Dans mon taxi, on voit mon numéro de licence et ma photo à l'intérieur.
+Léa : Oui, je l'ai remarqué tout à l'heure, sur la vitre.
+Samir : Chacun a ses petites protections, au fond.
+Gérard : Oui, et c'est tant mieux, ça rassure tout le monde.
+Léa : Le plus important, c'est d'arriver à bon port, en fait.
+Samir : Bien dit. Et à l'heure, si possible, pour votre train.
+Gérard : Oui, et je ne voudrais pas être celui qui vous fait rater un train.
+Samir : Au fond, ce qu'il faut, c'est que les clients soient bien informés.
+Gérard : Et que les règles soient les mêmes pour tous, c'est ma seule demande.
+Samir : Je ne suis pas contre, à vrai dire.
+Gérard : Ah bon ? Je pensais que vous alliez me dire le contraire.
+Samir : Non, je veux travailler tranquillement, comme vous, sans être traité comme un voleur.
+Gérard : Je ne vous traite pas de voleur, jeune homme.
+Samir : Pourtant, tout à l'heure, vous disiez que je volais la place des autres.
+Gérard : Une façon de parler, je le reconnais. J'étais énervé.
+Samir : Et moi, j'ai été un peu sec. Donc on est quittes.
+Léa : Vous me rassurez, j'avais peur que vous en veniez aux mains.
+Gérard : Ah non, à mon âge, je fais attention à mon dos !
+Samir : Ha ha, et moi, à mon âge, je fais attention à mes notes sur l'appli.
+Léa : Dites-moi, vous trouvez que les touristes préfèrent quoi, en général ?
+Gérard : Les étrangers prennent le taxi parce qu'ils ne connaissent pas l'appli.
+Samir : Pas toujours. Beaucoup préfèrent l'appli parce que c'est traduit.
+Gérard : Il faut dire que votre appli est bien faite, je dois le reconnaître.
+Samir : Et vos taxis sont plus rassurants pour les personnes âgées, c'est certain.
+Léa : Voilà, vous voyez, chacun a son public.
+Gérard : Oui, mais le public change vite.
+Samir : Alors il faudra bien s'adapter, tous les deux.
+Gérard : Ce n'est pas faux. Je prends déjà les réservations par téléphone depuis un an.
+Samir : Sérieusement ? Alors vous avez commencé à bouger avant moi.
+Gérard : J'ai bien dû, mon fils m'a poussé.
+Léa : Je peux avoir votre carte, monsieur Gérard ? Pour une prochaine fois.
+Gérard : Bien sûr, mademoiselle. Tenez, mon numéro est dessus.
+Samir : Et moi, vous avez déjà mon profil dans l'appli.
+Léa : Oui, et je vais vous mettre cinq étoiles pour cette conversation.
+Samir : Merci, c'est gentil, mais je préférerais une vraie réponse à ma question.
+Léa : Quelle question ?
+Samir : Avec qui vous partez, finalement ?
+(Léa regarde sa montre, puis les deux hommes. Elle sourit, sans répondre tout de suite.)
+Léa : Honnêtement, je ne sais pas encore, il me reste dix minutes pour choisir.
+Gérard : Prenez le temps. Un bon trajet, ça commence par une bonne décision.
+Samir : Et si vous voulez, on peut même faire le trajet à deux voitures, en convoi !
+Léa : Ha ha, ce serait une belle publicité pour la ville !
+Gérard : Je préfère vous laisser monter dans la voiture qui vous convient.
+Samir : Moi aussi. Je ne veux pas vous forcer.
+Léa : Je vous remercie. Vous m'avez vraiment fait réfléchir.
+Gérard : Bonne soirée, mademoiselle. Et à vous aussi, jeune homme.
+Samir : Bonne soirée à vous, monsieur. Et sans rancune.
+Gérard : Sans rancune. Mais garez-vous mieux la prochaine fois !
+Samir : Promis. Cinq mètres plus loin, c'est noté.
+Léa : Bon, je vais regarder les deux options une dernière fois.
+Gérard : Faites. Et si vous prenez mon taxi, je vous mets la musique que vous voulez.
+Samir : Moi aussi, vous choisissez la playlist.
+Léa : Ha ha, vous êtes insupportables tous les deux.
+Gérard : C'est ce qu'on dit de nous à la maison.
+Samir : Moi, on me le dit sur l'appli.
+Léa : Je vais choisir dans une minute, promis.
+
+
+## 낭독 포인트
+- 비음 모음: «bonsoir», «attendre», «temps», «moment» — on, an, en은 코로 울리는 모음, 끝의 n은 따로 발음하지 않는다.
+- 연음·앙샹느망: «un an», «en ligne», «on attend» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «règles», «rassurants», «réservée», «rembourser» — 목젖 근처에서 내는 마찰음.
+- u / ou: «plus loin», «une» vs «tout», «pour» — u는 입술을 모아 [y], ou는 [u].
+- 억양: 제라르는 느리고 단호하게, 사미르는 빠르고 설명하듯, 레아는 중재하듯 부드럽게 읽는다. 지문에서는 승강장의 경적과 소음을 떠올려 읽는다.
+- 호칭: 낯선 사이라 vous를 유지하고, «mon garçon», «ma petite dame» 같은 호칭의 말투 차이를 살린다.
+
+## 학습 포인트 정리
+- B2 구간(1~40턴): 입장 밝히기와 반박
+  · «Ce n'est pas un problème de place, c'est un problème de règles.», «Je ne conteste pas que ce soit injuste de votre point de vue.»
+  · 양보·대조: «Mais ce n'est pas moi qui ai fixé le prix de votre licence.», «Je suis d'accord qu'il faudrait des règles plus claires.»
+- B1 구간(41~80턴): 합의점 찾기
+  · «Au fond, ce qu'il faut, c'est que les clients soient bien informés.», «Voilà, on affiche le tarif avant que vous confirmiez.»
+- B2 구간(81~120턴): 화해와 열린 결론
+  · «Sans rancune.», «Je ne veux pas vous forcer.», «Un bon trajet, ça commence par une bonne décision.»
+- 어휘: le taxi, la licence, la course, le compteur, le tarif, la file, la retraite, la mutuelle.
+
+## 속어 노트
+- «hors de moi»: 화가 치밀어서.
+- «en venir aux mains»: 몸싸움으로 번지다.
+- «on est quittes»: 비겼다, 서로 빚 없다.
+- «sans rancune»: 감정 없이, 앙금 없이.
+- 면허 값, 요금 방식, 법 규정은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 낯선 사이라 서로 vous를 쓴다.
+
+## 한글 해석
+(금요일 저녁 6시. 생라자르 역 앞 택시 줄이 인도를 따라 길게 이어진다. 레아가 여행 가방을 들고 휴대폰으로 예약한 차량이 오는지 살핀다. 제라르는 차 보닛에 기대어 그녀를 본다. 사미르가 도착해 줄 바로 앞에 비상등을 켠다.)
+제라르 : 이봐요, 젊은 양반, 거기 서면 안 돼요!
+사미르 : 안녕하세요, 선생님. 기다리는 손님이 있어서 일 분이면 돼요.
+제라르 : 일 분이라고들 하죠, 그동안 우리는 사십 분째 기다리고 있고요.
+레아 : 실례합니다, 저 때문에 온 차일 수도 있어요, 검은 차요?
+사미르 : 레아 씨 맞죠? 몽파르나스 역 방면 예약이 있네요.
+레아 : 네, 저예요. 방금 알림을 받았어요.
+제라르 : 그러니까 제가 말한 게 바로 그거예요, 줄은 이럴 때 쓰라고 있는 거라고요.
+사미르 : 저는 줄에 서 있는 손님을 태우는 게 아니에요, 누구 자리도 안 뺏어요.
+제라르 : 역 앞 여기 주차하는 것만으로 뺏는 거예요, 우리가 정차할 권리가 있는 자리인데.
+사미르 : 앱이 여기 서라고 알려 주는 거지, 제가 정하는 게 아니에요.
+제라르 : 앱, 앱! 그럼 법은 뭐라고 하는데요, 그 앱이?
+레아 : 두 분, 끼어들고 싶진 않지만 제 기차가 사십 분 뒤에 출발해요.
+제라르 : 아가씨, 제 택시를 타도 돼요, 바로 앞에 있어요.
+사미르 : 이분은 이미 저로 예약했고 온라인으로 결제까지 했어요.
+레아 : 맞아요, 예약했는데 자리 문제가 있을 줄은 몰랐어요.
+제라르 : 자리 문제가 아니라 규칙의 문제예요, 아가씨.
+사미르 : 그럼 규칙 얘기를 하죠, 면허에 얼마 내셨어요, 선생님?
+제라르 : 이 이야기에서는 이십만 유로고, 갚는 데 이십 년 걸렸어요.
+사미르 : 이십만이요! 저는 그런 돈을 마련할 형편이 된 적이 없어요.
+제라르 : 바로 그게 제 문제예요, 제가 낸 걸 내지도 않고 먹고사시잖아요.
+사미르 : 선생님 입장에서 부당하다는 건 부인하지 않아요.
+사미르 : 하지만 선생님 면허 값을 정한 건 제가 아니에요.
+제라르 : 그렇죠, 근데 그걸 이용하시잖아요, 그래서 제가 화가 나는 겁니다.
+레아 : 한마디 해도 될까요? 두 분 입장을 다 이해하고 싶어요.
+제라르 : 해 보세요, 아가씨. 적어도 아가씨는 듣잖아요.
+레아 : 저는 가격이랑 상황에 따라 이쪽도 저쪽도 타요.
+사미르 : 대부분 사람들이 그렇게 하죠, 솔직히 말하면.
+제라르 : 네, 더 싸니까요, 그런데 기사들한텐 어떤 대가를 치르죠?
+사미르 : 제가 마음 편히 운전한다고 생각하세요? 하루 열두 시간 일해요.
+제라르 : 연금이나 보험, 유급 휴가는 있어요?
+사미르 : 없죠. 하지만 선생님이 늘 갖진 못하는 자유가 있어요.
+제라르 : 보호받지 않을 자유라는 거네요? 대단한 자유군요.
+사미르 : 저는 선생님처럼 줄 서서 사십 분 기다리는 것보단 그게 나아요.
+레아 : 두 분 생각보다 비슷한 처지 아닌가요?
+제라르 : 무슨 말이죠, 비슷하다니?
+레아 : 두 분 다 손님을 기다리고, 둘 다 일을 많이 하시잖아요.
+사미르 : 틀린 말은 아니에요, 아시겠지만.
+제라르 : 네, 하지만 규칙 문제가 달라지는 건 아니죠.
+사미르 : 모두에게 더 분명한 규칙이 필요하다는 데는 동의해요.
+제라르 : 자, 드디어 의견이 맞는 게 하나 나왔네요!
+레아 : 자, 그래도 시작은 한 거죠?
+(뒤에서 관광버스가 경적을 울린다. 사미르가 손을 들어 사과하고, 제라르는 어깨를 으쓱한다. 레아는 가방을 내려놓고 손수건을 꺼낸다.)
+사미르 : 자, 조금 더 멀리 댈게요, 괜찮으시죠?
+제라르 : 오 미터만 더 가면 낫죠. 고맙습니다.
+사미르 : 됐죠. 하지만 이게 잘못을 인정하는 건 아니에요.
+제라르 : 모든 걸 비난하는 게 아니라 예의만 부탁하는 겁니다.
+레아 : 두 분 다 고맙습니다, 정말로, 시간을 벌었네요.
+사미르 : 타시겠어요, 아가씨? 물이랑 충전기가 있어요.
+제라르 : 저도 물 있고, 게다가 도중에 요금이 안 바뀌는 진짜 미터기가 있죠.
+레아 : 하하, 지금 저를 두고 싸우시는 거예요?
+사미르 : 아니요, 하지만 솔직히 말하면 제 요금은 미리 정해져 있고 안 바뀌어요.
+제라르 : 출퇴근 시간엔 바뀌잖아요, 젊은이, 다들 알아요.
+사미르 : 가끔요. 수요가 몰리면 올라갈 수 있는 건 사실이에요.
+제라르 : 그리고 사람들은 타기 전에 그걸 늘 아는 건 아니죠.
+레아 : 저는 미리 봤어요, 앱에 경고가 뜨거든요.
+사미르 : 그래요, 확정하기 전에 요금을 보여 줘요.
+제라르 : 다행이네요. 하지만 모두가 작은 글씨를 읽진 않아요.
+레아 : 그건 맞아요. 고백하자면 저도 가끔 안 읽어요.
+제라르 : 저는 밤에 여성 승객들의 안전이 걱정돼요.
+사미르 : 저희도 서류와 범죄 경력 증명을 플랫폼에 보내요.
+제라르 : 그 플랫폼이 전부 확인한다고 믿으세요?
+사미르 : 전부는 아니겠지만 사람들 말보다는 많이 해요.
+레아 : 저는 타기 전에 항상 번호판과 기사 이름을 봐요.
+제라르 : 아주 좋은 습관이에요, 택시든 예약 차량이든요.
+레아 : 그리고 언니한테 경로를 공유해서 위치를 볼 수 있게 해요.
+사미르 : 아주 좋은 습관이에요, 모든 여성 손님들께 권해요.
+제라르 : 제 택시는 안쪽에 면허 번호와 사진이 붙어 있어요.
+레아 : 네, 아까 유리창에서 봤어요.
+사미르 : 결국 각자 작은 안전장치가 있는 거죠.
+제라르 : 네, 그래서 다행이죠, 모두 안심시키니까요.
+레아 : 사실 가장 중요한 건 무사히 도착하는 거죠.
+사미르 : 맞는 말이에요. 가능하면 기차 시간에 맞춰서요.
+제라르 : 네, 저는 기차를 놓치게 만든 사람이 되고 싶진 않아요.
+사미르 : 결국 필요한 건 손님들이 정보를 잘 아는 거예요.
+제라르 : 그리고 모두에게 같은 규칙이 적용되는 거고, 제 유일한 요구예요.
+사미르 : 사실 저도 반대하지 않아요.
+제라르 : 그래요? 반대로 말씀하실 줄 알았는데요.
+사미르 : 아니에요, 저도 선생님처럼 도둑 취급 안 받고 조용히 일하고 싶어요.
+제라르 : 저는 도둑이라고 부르는 게 아니에요, 젊은이.
+사미르 : 그래도 아까는 제가 남의 자리를 훔친다고 하셨잖아요.
+제라르 : 말이 그렇다는 거였죠, 인정해요. 제가 화가 났었어요.
+사미르 : 저도 좀 퉁명스러웠고요. 그러니 비긴 걸로 해요.
+레아 : 안심이 되네요, 몸싸움이라도 날까 겁났거든요.
+제라르 : 아이고, 제 나이엔 허리부터 조심해야죠!
+사미르 : 하하, 저는 제 나이에 앱 평점을 조심해요.
+레아 : 말해 주세요, 두 분이 보기에 관광객들은 보통 뭘 더 좋아해요?
+제라르 : 외국인들은 앱을 모르니까 택시를 타죠.
+사미르 : 항상은 아니에요. 번역이 돼서 앱을 더 좋아하는 사람도 많아요.
+제라르 : 그쪽 앱이 잘 만들어진 건 인정해야겠네요.
+사미르 : 그리고 택시가 어르신들께 더 믿음을 주는 건 확실하고요.
+레아 : 보세요, 각자 단골층이 있잖아요.
+제라르 : 네, 하지만 손님층은 빨리 변하죠.
+사미르 : 그럼 둘 다 적응해야겠죠.
+제라르 : 틀린 말은 아니네요. 저는 일 년 전부터 전화 예약도 받아요.
+사미르 : 정말요? 그럼 저보다 먼저 움직이셨네요.
+제라르 : 안 할 수 없었죠, 아들이 떠밀었어요.
+레아 : 제라르 씨 명함 받을 수 있을까요? 다음번을 위해서요.
+제라르 : 물론이죠, 아가씨. 자, 번호가 적혀 있어요.
+사미르 : 그리고 저는 앱에서 이미 프로필을 보셨죠.
+레아 : 네, 이 대화 덕분에 별 다섯 개 드릴게요.
+사미르 : 고맙지만 제 질문에 진짜 답을 주시면 더 좋겠어요.
+레아 : 무슨 질문이요?
+사미르 : 결국 누구랑 가실 거예요?
+(레아가 시계를 보고 두 사람을 번갈아 본다. 곧바로 대답하지 않고 미소를 짓는다.)
+레아 : 솔직히 아직 모르겠어요, 고를 시간이 십 분 남았어요.
+제라르 : 천천히 고르세요. 좋은 길은 좋은 결정에서 시작하니까요.
+사미르 : 원하시면 차 두 대가 호송하듯 같이 가도 되고요!
+레아 : 하하, 도시 홍보로는 멋지겠네요!
+제라르 : 저는 아가씨한테 맞는 차에 타시게 하는 게 좋아요.
+사미르 : 저도요. 강요하고 싶지 않아요.
+레아 : 감사합니다. 덕분에 정말 생각을 많이 하게 됐어요.
+제라르 : 좋은 저녁 보내세요, 아가씨. 그리고 젊은이도요.
+사미르 : 선생님도 좋은 저녁 보내세요. 감정은 없는 걸로요.
+제라르 : 감정 없어요. 하지만 다음엔 주차를 더 잘하세요!
+사미르 : 약속해요. 오 미터 더 멀리, 알겠습니다.
+레아 : 자, 두 가지 선택지를 마지막으로 한 번 더 볼게요.
+제라르 : 그러세요. 제 택시를 타시면 원하는 음악을 틀어 드릴게요.
+사미르 : 저도 플레이리스트는 직접 고르셔도 돼요.
+레아 : 하하, 두 분 다 못 말려요.
+제라르 : 집에서도 우리한테 그렇게들 말하죠.
+사미르 : 저는 앱에서 그런 말을 들어요.
+레아 : 일 분 안에 고를게요, 약속해요.

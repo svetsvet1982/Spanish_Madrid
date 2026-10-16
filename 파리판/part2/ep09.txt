@@ -1,0 +1,286 @@
+# 2부 9화. Crit'Air, c'est quoi ? (크리테어가 뭐예요?)
+난이도: 주 C1 | 구간: B2→C1→C1→C1→B2→C1 | 형식: 다인 | 장소: 파리 교외 질베르의 집 식탁 | 시간: 일요일 점심
+등장인물: Gilbert, Laurent, Camille, Nadia, Lucas
+이슈: 주 ● 저공해구역(ZFE) 진입 제한과 생계 | 곡선: 0-0-1-2-3-3 (후반폭발형, 상한 3) | 입장: A 카미유(대기 질을 위해 규제가 필요하다고 본다) / B 나디아(배송 일을 하는데 낡은 승합차를 바꿀 돈이 없다) / C 질베르(오래 몰아 온 차를 못 쓰게 되는 게 서럽다) / D 로랑(규제는 필요하지만 보조금과 대안이 먼저라고 본다)
+상황 카드: 일요일 점심 식탁에 질베르의 낡은 디젤차에 붙은 스티커 이야기가 올라오고, 손자 뤼카가 크리테어가 뭐냐고 묻는다. 카미유가 설명하자 나디아가 자기 일과 부딪친다고 반박하고 질베르는 서운해한다. 로랑이 중재하지만 모두 조금씩 다치고 결말은 열려 있다. 걸림돌은 숫자와 법의 복잡함, 그리고 가족 사이의 오래된 서운함.
+학습 포인트: 정책 토론 어휘(la restriction, la dérogation, la prime) · 반박과 양보(certes… mais, quitte à) · 접속법 심화(à condition que, pourvu que) · 완곡 비판(Je ne dis pas que…, mais) · 가족 사이에서 감정 가라앉히기
+
+## 대화
+(Dimanche midi, dans la salle à manger de Gilbert, en banlieue. Sur la table, un gigot, des haricots verts, un gratin. Laurent découpe la viande. Camille verse l'eau. Nadia arrive en retard, les clés d'une camionnette à la main. Lucas, quatorze ans, regarde son téléphone sous la nappe.)
+Nadia : Pardon, pardon, je suis en retard ! Il y avait deux livraisons de dernière minute.
+Gilbert : Tu travailles même le dimanche ? Ce n'est pas raisonnable, Nadia.
+Nadia : Papa, je n'ai pas le choix, les clients veulent leurs colis.
+Laurent : Assieds-toi, le gigot refroidit. Camille, tu peux lui servir à boire ?
+Camille : Bien sûr. Du vin ou de l'eau, ma tante ?
+Nadia : De l'eau, j'ai encore trois livraisons après le café.
+Gilbert : Moi, je prends un verre de rouge, il n'y a pas de mal à ça.
+Laurent : Papa, le médecin a dit un verre, pas la bouteille.
+Gilbert : Je sais, je sais. Vous êtes tous contre moi aujourd'hui.
+Camille : On t'aime, papi, c'est pour ça qu'on s'inquiète.
+Gilbert : Bon, bon. Passe-moi le gratin, ça me consolera.
+Lucas : Papi, au fait, il y a un truc collé sur ta voiture, devant.
+Gilbert : Un truc ? Quel truc ?
+Lucas : Un petit rond avec un chiffre, je l'ai vu en arrivant.
+Camille : C'est la vignette Crit'Air, Lucas. Papi l'a depuis des années.
+Lucas : Crit'Air ? C'est quoi, ça ? Un jeu ?
+Laurent : Ha ha, non, mon grand, pas du tout. C'est une étiquette qui classe les voitures.
+Lucas : Classe comment ?
+Camille : Selon la pollution qu'elles produisent. Plus le chiffre est élevé, plus elles polluent.
+Lucas : Ah. Et celle de papi, c'est combien ?
+Gilbert : Trois. Une belle voiture, d'ailleurs, que j'ai depuis seize ans.
+(Un silence passe. Camille échange un regard discret avec Laurent. Nadia coupe son gigot sans lever les yeux.)
+Lucas : Et alors, pourquoi tout le monde fait cette tête-là ?
+Laurent : Parce que dans notre histoire, Paris et les villes autour restreignent peu à peu les vieilles voitures.
+Lucas : Restreignent comment ? Elles les interdisent ?
+Camille : Dans certaines zones, oui, ça s'appelle la zone à faibles émissions. On dit ZFE.
+Lucas : Zeffe ? On dirait un sort de magie.
+Nadia : Ça, c'est surtout un casse-tête, mon grand. Un casse-tête sans solution.
+Camille : Pas sans solution, ma tante, il y a des aides.
+Nadia : Parlons-en, des aides ! Elles couvrent un quart du prix d'un utilitaire neuf.
+Laurent : Nadia, mangeons d'abord, on en parlera après.
+Nadia : Tu as raison, pardon. Mais ça me reste en travers de la gorge.
+Gilbert : Moi aussi, figure-toi, ça me reste en travers de la gorge.
+Lucas : Papi, tu as l'air triste.
+Gilbert : Je ne suis pas triste, je suis... disons déconcerté.
+Lucas : C'est un synonyme poli, ça.
+Gilbert : Tu as de l'esprit, toi. Tu tiens ça de ta grand-mère.
+Laurent : Elle aurait bien ri de toute cette histoire, d'ailleurs.
+Gilbert : Elle aurait surtout dit : « Gilbert, change de voiture ».
+Camille : Papi, je ne voulais pas te faire de peine.
+Gilbert : Tu ne m'en fais pas, ma chérie. C'est le monde qui change trop vite.
+Laurent : Ceci dit, papa, vous ne roulez presque plus. Vous pourriez vous en passer, non ?
+Gilbert : Je roule pour aller au marché, chez le médecin, et ici, chez moi.
+Camille : Ça, je comprends, tout le monde n'a pas un métro en bas de chez soi.
+Nadia : Voilà, enfin quelqu'un qui comprend qu'on habite en banlieue.
+Camille : Je comprends, mais ça ne change pas le fond : l'air est pollué, et ça tue.
+Nadia : Je ne dis pas le contraire, mais ce n'est pas ma camionnette qui fait ça toute seule.
+Camille : Personne ne fait ça tout seul, c'est justement l'effet cumulé.
+Laurent : Camille, tu peux nuancer un peu ? Ta tante gagne sa vie avec ce véhicule.
+Camille : Pardon, tante Nadia, je ne voulais pas minimiser votre situation.
+Nadia : Je sais, ma grande, tu es sincère, et c'est ce qui rend ça plus dur.
+Camille : Mais honnêtement, ma génération s'inquiète de ce qu'elle respirera à cinquante ans.
+Nadia : Et la mienne s'inquiète de payer son loyer à la fin du mois.
+Laurent : Les deux inquiétudes sont légitimes, et elles ne s'excluent pas.
+Lucas : Je ne comprends rien, mais c'est intéressant.
+Gilbert : Mange ton gratin, mon grand, tu comprendras plus tard.
+Lucas : Plus tard, c'est ce qu'on me dit toujours.
+Laurent : Parce que c'est vrai, mon grand.
+(Nadia pose ses couverts et se frotte le front. Dehors, une moto passe en pétaradant sur la route.)
+Nadia : Je vais vous dire une chose : quand ils parlent de pollution, ils pensent aux grandes entreprises, mais ce sont les petits qui trinquent.
+Camille : Je suis d'accord que la charge est mal répartie, certes.
+Nadia : Certes, mais ?
+Camille : Mais ça ne justifie pas de repousser sans cesse les règles qui protègent les poumons des enfants.
+Nadia : Je ne parle pas de repousser sans cesse, je parle d'accompagner les gens.
+Laurent : Tout est là : l'accompagnement. Une règle sans transition, c'est injuste.
+Camille : Une règle sans règle, ça ne fonctionne pas non plus, papa.
+Laurent : Je ne dis pas qu'il ne faut pas de règle, je dis qu'il faut que la règle arrive avec une prime et une alternative.
+Gilbert : À mon âge, l'alternative, c'est quoi ? Un vélo ?
+Camille : Pas un vélo, papi. Un bus qui passe devant chez toi, ou un taxi à tarif réduit.
+Gilbert : Un bus qui passe toutes les quarante minutes, tu appelles ça une alternative ?
+Camille : Non, c'est pour ça qu'il faut en parler, pour que ça change.
+Nadia : Parler, parler... j'ai vu des élus faire des promesses depuis dix ans.
+Camille : Alors votez, ou présentez-vous vous-même, ma tante !
+Nadia : Ah ! Tu me parles comme une donneuse de leçons.
+Camille : Ce n'est pas mon intention, mais je suis fatiguée qu'on dise que rien ne peut bouger.
+Laurent : Camille, doucement.
+Camille : Pardon papa. Je m'emballe.
+Lucas : C'est bizarre de vous voir vous disputer comme ça, vous êtes toujours d'accord d'habitude.
+Gilbert : On n'est pas d'accord sur tout, mon petit. On s'aime quand même.
+Nadia : Oui, mais c'est dur de s'entendre dire que son gagne-pain est un problème pour la planète.
+Camille : Je ne dis pas que c'est vous le problème, ma tante, je dis que le système l'est.
+Nadia : Alors qui paie pour changer le système ?
+Camille : Les grandes entreprises, l'État, les gens qui polluent le plus.
+Laurent : Dans l'idéal, oui. Dans la pratique, on demande d'abord aux plus fragiles de s'adapter.
+Camille : C'est vrai, et c'est là que les règles sont mal pensées.
+Nadia : Tu vois, tu finis par me donner raison.
+Camille : Je vous donne raison sur la méthode, pas sur le fond.
+Nadia : La méthode, le fond... C'est facile quand on a vingt-deux ans et un abonnement de métro.
+Camille : Ce n'est pas facile du tout, j'ai deux petits boulots pour payer mon loyer !
+Nadia : Je sais, ma chérie, pardon. Je n'aurais pas dû.
+Camille : Moi non plus, je n'aurais pas dû dire ça.
+Laurent : Bon, tout le monde respire. Je vous ressers du vin ?
+Gilbert : Je veux bien, une goutte, juste pour trinquer à la paix.
+Laurent : À la paix, alors. Mais le problème reste entier.
+Nadia : Et si on essayait de trouver une solution concrète, plutôt que de se disputer ?
+Camille : Je suis partante. Par exemple ?
+Nadia : Par exemple, que les petits professionnels aient une dérogation de deux ans.
+Camille : Deux ans, ça peut se défendre, à condition qu'il y ait un vrai plan pour la suite.
+Nadia : Voilà, un plan, pas un slogan.
+Laurent : Dans la réalité, il y a déjà ce genre de dispositifs, mais personne ne sait vraiment lesquels.
+Camille : Justement, pourquoi ne pas les expliquer mieux ?
+Gilbert : Parce que expliquer, c'est la dernière chose que fait l'administration.
+Laurent : Papa, ne soyez pas trop sévère avec les administrations.
+Gilbert : Quarante ans de paperasse, j'ai le droit d'être sévère.
+Lucas : Quarante ans ? Tu faisais quoi comme métier, papi ?
+Gilbert : J'étais mécanicien, mon petit. J'ai réparé des milliers de voitures.
+Camille : Ah, c'est pour ça que tu tiens tant à celle-là.
+Gilbert : C'est la dernière que j'ai remise en état avec mes propres mains.
+Nadia : Papa, je ne le savais pas. Tu ne m'avais jamais dit ça.
+Gilbert : On ne dit pas ce genre de choses. On les garde pour soi.
+Camille : Papi, je suis désolée, je ne savais pas non plus.
+Gilbert : Tu n'avais pas à le savoir. Mais maintenant, tu comprends pourquoi je râle.
+Camille : Oui. Et je comprends aussi que ce n'est pas qu'une question de chiffres.
+Laurent : C'est ce que j'essaie de dire depuis le début, sans y arriver.
+Nadia : Tu y arrives très bien, Laurent. Tu as juste besoin de nous laisser finir nos phrases.
+Laurent : Message reçu.
+Camille : Je crois qu'on a au moins avancé sur une chose : il faut écouter ceux qui sont touchés.
+Nadia : Et moi, sur une autre : il faut aussi que les règles ne ferment pas les yeux sur l'air que respirent les enfants.
+Gilbert : Et moi, sur le fait que je garderai ma voiture un peu plus longtemps, si je peux.
+Lucas : Moi, j'ai compris que Crit'Air, ce n'est pas un jeu.
+Laurent : Et c'est déjà beaucoup. Allez, qui veut du fromage ?
+Gilbert : Moi, avec un autre petit verre, si personne ne regarde.
+
+
+## 낭독 포인트
+- 비음 모음: «dimanche», «gratin», «un quart», «temps» — an, in, un은 코로 울리는 모음, 끝의 n은 따로 발음하지 않는다.
+- 연음·앙샹느망: «un truc», «c'est un», «plus tard», «tu es sincère» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «règle», «respirer», «rouge», «restreignent» — 목젖 근처에서 내는 마찰음.
+- u / ou: «plus», «voiture» vs «pour», «tout» — u는 입술을 모아 [y], ou는 [u].
+- 억양: 카미유는 또렷하고 확신 있게, 나디아는 억울함이 실린 빠른 말투, 질베르는 낮고 천천히, 로랑은 중재하듯 부드럽게 읽는다. 끼어드는 «Camille, doucement.»는 짧게.
+- 호칭: 가족이라 tu가 기본이다. 다만 로랑만 아버지에게 «vous pourriez», «ne soyez pas»처럼 vous로 존대한다.
+
+## 학습 포인트 정리
+- B2 구간(1~20턴): 식탁 잡담과 질문
+  · «Il y a un truc collé sur ta voiture.», «Plus le chiffre est élevé, plus elles polluent.»
+- C1 구간(21~100턴): 정책 토론과 반박
+  · 개념 설명: «Dans notre histoire, Paris et les villes autour restreignent peu à peu les vieilles voitures.», «zone à faibles émissions»
+  · 양보 후 반박: «Certes, mais ?», «Je vous donne raison sur la méthode, pas sur le fond.»
+  · 조건·접속법: «à condition qu'il y ait un vrai plan», «Il faut que la règle arrive avec une prime et une alternative.»
+- B2 구간(81~100턴): 타협안 찾기
+  · «Une dérogation de deux ans», «un plan, pas un slogan», «Je suis partante.»
+- C1 구간(101~120턴): 속마음과 열린 마무리
+  · «On ne dit pas ce genre de choses. On les garde pour soi.», «Ce n'est pas qu'une question de chiffres.»
+- 어휘: la vignette, la zone à faibles émissions, le casse-tête, la dérogation, l'aide, l'utilitaire, le gagne-pain.
+
+## 속어 노트
+- «ça me reste en travers de la gorge»: 도저히 삼킬 수 없다, 마음에 걸린다.
+- «les petits trinquent»: 약한 사람들이 대가를 치른다.
+- «je suis partante»: 난 찬성이야, 같이 할래.
+- «un casse-tête»: 골칫거리, 머리 아픈 문제.
+- 차량 등급, 지원금 비율, 유예 기간은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 가족 사이라 tu를 쓰고, 로랑이 아버지에게 vous를 쓰는 건 습관적인 존대다.
+
+## 한글 해석
+(일요일 정오, 교외에 있는 질베르의 식당. 식탁에는 양고기 다리와 껍질콩, 그라탱이 놓여 있다. 로랑이 고기를 자른다. 카미유가 물을 따른다. 나디아가 승합차 열쇠를 든 채 늦게 도착한다. 열네 살 뤼카는 식탁보 아래서 휴대폰을 본다.)
+나디아 : 미안, 미안, 늦었어! 막판에 배송이 두 건 더 들어왔어.
+질베르 : 일요일에도 일하니? 합리적이지 않다, 나디아.
+나디아 : 아빠, 선택지가 없어요, 손님들이 소포를 원해요.
+로랑 : 앉아, 양고기 식어. 카미유, 이모 마실 것 좀 따라 줄래?
+카미유 : 그럼요. 와인 드릴까요, 물 드릴까요, 이모?
+나디아 : 물이요, 커피 마시고 나서도 배송이 세 건 남았거든.
+질베르 : 나는 레드 한 잔 하련다, 그게 뭐 어떠니.
+로랑 : 아빠, 의사가 한 잔이라고 했지 병째라고 안 했어요.
+질베르 : 알아, 알아. 오늘은 너희 다 내 편이 아니구나.
+카미유 : 사랑해서 걱정하는 거예요, 할아버지.
+질베르 : 알았다, 알았어. 그라탱 좀 줘라, 그걸로 위로받으마.
+뤼카 : 할아버지, 근데 할아버지 차 앞에 뭐가 붙어 있어요.
+질베르 : 뭐가? 무슨 뭐?
+뤼카 : 숫자 써진 작은 동그라미요, 오다가 봤어요.
+카미유 : 크리테어 스티커야, 뤼카. 할아버지가 몇 년 전부터 붙여 놨어.
+뤼카 : 크리테어? 그게 뭔데요? 게임이에요?
+로랑 : 하하, 아니야, 얘야, 전혀. 차를 등급 매기는 라벨이야.
+뤼카 : 어떻게 등급을 매겨요?
+카미유 : 차가 내는 오염 정도에 따라서. 숫자가 높을수록 오염이 심해.
+뤼카 : 아. 그럼 할아버지 차는 몇이에요?
+질베르 : 삼이다. 그나저나 멋진 차야, 십육 년째 타고 있어.
+(잠시 정적이 흐른다. 카미유가 로랑과 조심스레 눈빛을 주고받는다. 나디아는 눈을 들지 않은 채 양고기를 썬다.)
+뤼카 : 그런데 왜 다들 그런 표정이에요?
+로랑 : 이 이야기 속에서는 파리와 주변 도시가 낡은 차를 점점 제한하고 있어서란다.
+뤼카 : 어떻게 제한해요? 금지해요?
+카미유 : 일부 구역에서는 그래, 저배출구역이라고 해. ZFE라고 부르지.
+뤼카 : 제프? 마법 주문 같아요.
+나디아 : 그건 주로 골칫거리야, 얘야. 해결책 없는 골칫거리.
+카미유 : 해결책 없는 건 아니에요, 이모, 지원금도 있고요.
+나디아 : 지원금 얘기나 해 보자! 새 승합차 값의 사 분의 일이나 겨우 대 줘.
+로랑 : 나디아, 먼저 먹자, 얘기는 나중에 하고.
+나디아 : 맞아, 미안. 근데 목에 걸려서 안 내려가.
+질베르 : 나도 마찬가지란다, 그게 목에 걸려.
+뤼카 : 할아버지, 슬퍼 보여요.
+질베르 : 슬픈 게 아니라... 당황스럽다고 하자.
+뤼카 : 그건 에둘러 말한 동의어네요.
+질베르 : 말솜씨가 있구나. 네 할머니를 닮았어.
+로랑 : 어머니가 이 모든 일을 두고 아주 웃으셨겠어요.
+질베르 : 그 사람은 "질베르, 차를 바꿔요"라고 했겠지.
+카미유 : 할아버지, 마음 아프게 하려던 건 아니에요.
+질베르 : 아프게 하지 않았다, 얘야. 세상이 너무 빨리 변하는 거야.
+로랑 : 그렇긴 한데 아빠는 거의 운전을 안 하시잖아요. 없어도 되지 않으세요?
+질베르 : 시장 가고 병원 가고 여기 우리 집에 올 때 타지.
+카미유 : 그건 이해해요, 모두가 집 아래에 지하철이 있는 건 아니니까요.
+나디아 : 그래, 드디어 교외에 산다는 걸 이해하는 사람이 있네.
+카미유 : 이해해요, 하지만 본질은 달라지지 않아요, 공기가 오염돼 있고 그게 사람을 죽여요.
+나디아 : 그 반대로 말하는 건 아니지만 우리 승합차 혼자 그러는 건 아니야.
+카미유 : 혼자 하는 사람은 없죠, 바로 누적된 효과예요.
+로랑 : 카미유, 조금 완곡하게 말할 수 없니? 네 이모는 그 차로 생계를 꾸려.
+카미유 : 죄송해요, 나디아 이모, 이모 사정을 깎아내리려던 건 아니었어요.
+나디아 : 알아, 얘야, 넌 진심이고 그래서 더 힘든 거야.
+카미유 : 하지만 솔직히 제 세대는 오십 살에 무슨 공기를 마시게 될지 걱정해요.
+나디아 : 우리 세대는 월말에 월세를 낼 수 있을까 걱정하고.
+로랑 : 두 걱정 모두 정당하고 서로 배척하지 않아.
+뤼카 : 하나도 모르겠는데 재밌어요.
+질베르 : 그라탱이나 먹어라, 나중에 알게 될 거다.
+뤼카 : 나중에, 늘 그 말을 들어요.
+로랑 : 정말 그러니까 그런 거야.
+(나디아가 포크와 나이프를 내려놓고 이마를 문지른다. 밖에서는 오토바이 한 대가 부르릉거리며 길을 지나간다.)
+나디아 : 한 가지 말해 줄게, 오염을 얘기할 때 큰 회사들을 떠올리지만 정작 값을 치르는 건 작은 사람들이야.
+카미유 : 부담이 고르게 나뉘지 않았다는 건 동의해요, 물론이죠.
+나디아 : 물론, 그래서요?
+카미유 : 하지만 그렇다고 아이들 폐를 지키는 규칙을 계속 미룰 수는 없어요.
+나디아 : 계속 미루자는 게 아니라 사람들을 돕자는 거야.
+로랑 : 핵심이 그거야, 지원. 이행 기간 없는 규칙은 부당해.
+카미유 : 규칙 없는 규칙도 작동하지 않아요, 아빠.
+로랑 : 규칙이 필요 없다는 게 아니라 규칙이 보조금과 대안과 함께 와야 한다는 거야.
+질베르 : 내 나이에 대안이 뭐냐? 자전거냐?
+카미유 : 자전거 말고요, 할아버지. 집 앞을 지나는 버스나 할인 택시요.
+질베르 : 사십 분마다 오는 버스를 대안이라고 부르는 거냐?
+카미유 : 아니요, 그래서 이야기해야 하는 거죠, 바뀌려면요.
+나디아 : 말, 말... 십 년 동안 선출직들이 약속하는 걸 봤어.
+카미유 : 그럼 투표하시든지 직접 출마하세요, 이모!
+나디아 : 아! 나한테 훈계하는 사람처럼 말하네.
+카미유 : 그럴 의도는 아니지만 아무것도 못 바꾼다는 말에 지쳤어요.
+로랑 : 카미유, 천천히.
+카미유 : 죄송해요 아빠. 제가 흥분했어요.
+뤼카 : 이렇게 싸우는 거 처음 봐서 이상해요, 보통은 늘 의견이 같았잖아요.
+질베르 : 모든 걸 다 같이 생각하진 않는다, 얘야. 그래도 사랑하지.
+나디아 : 맞아, 하지만 밥벌이가 지구에 문제라는 말을 듣는 건 힘들어.
+카미유 : 이모가 문제라는 게 아니라 시스템이 문제라는 거예요.
+나디아 : 그럼 누가 돈을 내서 시스템을 바꾸는데?
+카미유 : 큰 기업들, 국가, 가장 많이 오염시키는 사람들이요.
+로랑 : 이상적으로는 그렇지. 현실에서는 먼저 가장 약한 사람들에게 적응하라고 해.
+카미유 : 맞아요, 거기가 규칙이 잘못 설계된 지점이에요.
+나디아 : 봐, 결국 내 말이 맞다고 하잖아.
+카미유 : 방법에 대해서는 이모가 맞다고 하지만 본질에 대해서는 아니에요.
+나디아 : 방법, 본질... 스물두 살에 지하철 정기권이 있으면 쉽지.
+카미유 : 전혀 쉽지 않아요, 월세 내려고 아르바이트를 두 개 해요!
+나디아 : 알아, 얘야, 미안. 그러지 말았어야 했어.
+카미유 : 저도 그렇게 말하지 말았어야 했어요.
+로랑 : 자, 다들 숨 좀 쉬자. 와인 더 따라 줄까?
+질베르 : 좋지, 한 방울만, 화해를 위해 건배만 하게.
+로랑 : 화해를 위해 건배죠. 그래도 문제는 그대로 남아 있어요.
+나디아 : 싸우는 대신 구체적인 해결책을 찾아보면 어떨까?
+카미유 : 좋아요. 예를 들면요?
+나디아 : 예를 들어 소규모 사업자에게 이 년 유예를 주는 거지.
+카미유 : 이 년은 일리 있어요, 그 뒤를 위한 진짜 계획이 있다는 조건이라면요.
+나디아 : 그래, 구호가 아니라 계획이지.
+로랑 : 현실에도 그런 제도가 이미 있지만 정확히 어떤 건지 아는 사람이 없어.
+카미유 : 바로 그래서 더 잘 설명하면 좋잖아요.
+질베르 : 설명은 행정이 제일 마지막에 하는 일이니까.
+로랑 : 아빠, 행정에 너무 가혹하게 굴지 마세요.
+질베르 : 사십 년 서류에 시달렸으니 가혹해도 되죠.
+뤼카 : 사십 년이요? 할아버지는 무슨 일 하셨어요?
+질베르 : 정비사였다, 얘야. 수천 대를 고쳤지.
+카미유 : 아, 그래서 그 차를 그렇게 아끼시는군요.
+질베르 : 내 손으로 마지막에 되살린 차야.
+나디아 : 아빠, 몰랐어요. 한 번도 그렇게 말씀 안 하셨잖아요.
+질베르 : 그런 건 말하지 않는 법이다. 마음에 담아 두는 거지.
+카미유 : 할아버지, 죄송해요, 저도 몰랐어요.
+질베르 : 알 필요 없었지. 그래도 이제 내가 왜 투덜대는지 알겠지.
+카미유 : 네. 그리고 숫자만의 문제가 아니라는 것도 알겠어요.
+로랑 : 제가 처음부터 하려던 말인데 잘 안 됐네요.
+나디아 : 잘하고 있어, 로랑. 우리가 문장을 끝맺게 두기만 하면 돼.
+로랑 : 알겠어요.
+카미유 : 적어도 한 가지는 나아간 것 같아요, 영향받는 사람들 말을 들어야 한다는 거요.
+나디아 : 나는 다른 한 가지, 규칙이 아이들이 마시는 공기를 외면해서도 안 된다는 거.
+질베르 : 그리고 나는 가능하면 내 차를 조금 더 오래 갖고 있겠다는 거지.
+뤼카 : 저는 크리테어가 게임이 아니라는 걸 알았어요.
+로랑 : 그것만도 많이 알았네. 자, 치즈 먹을 사람?
+질베르 : 나는 한 잔 더랑 같이, 아무도 안 본다면.

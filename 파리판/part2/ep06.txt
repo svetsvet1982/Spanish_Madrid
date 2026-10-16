@@ -1,0 +1,292 @@
+# 2부 6화. J'ai raté le dernier métro (막차를 놓쳤어)
+난이도: 주 B1 | 구간: B1→B2→A2→B1→B1→B2 | 형식: 2인 | 장소: 바스티유 역 입구 앞과 야간버스 정류장 | 시간: 토요일 새벽 0시 50분
+등장인물: Jade, Mehdi
+이슈: 주 ○ 막차 후 귀가 방법 | 곡선: 0-1-1-0-1-0 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 택시비와 걷기 사이에서 가볍게 의견이 갈린다)
+상황 카드: 친구 집들이를 마치고 나온 제이드와 메디는 바스티유 역에 도착하자마자 셔터가 내려오는 걸 본다. 제이드는 집이 멀고 메디는 비교적 가깝다. 택시, 야간버스, 걷기, 친구 집에서 자기를 놓고 이야기하다 야간버스를 타 보기로 한다. 걸림돌은 배터리가 떨어져 가는 휴대폰과 쌀쌀한 날씨. 결말은 버스를 기다리며 다음 주말 약속을 잡는 열린 결말.
+학습 포인트: 놓치다·늦다(rater, être en retard) · 대안 제안(On pourrait…, Et si on…) · 이유와 후회(J'aurais dû…) · 시간·교통 표현(le dernier, le premier, toutes les vingt minutes) · 걱정 달래기
+
+## 대화
+(Samedi, zéro heure cinquante. Devant la station Bastille, une grille métallique est à moitié baissée. Jade et Mehdi, encore en tenue de soirée, regardent les panneaux éteints.)
+Jade : Non, ne me dis pas que c'est fermé !
+Mehdi : Si, regarde, la grille est en train de descendre.
+Jade : Mais il est à peine une heure moins dix !
+Mehdi : Le dernier métro est parti à minuit quarante, d'après l'appli.
+Jade : Minuit quarante ? Et tu ne m'as rien dit ?
+Mehdi : Je regardais mes messages, j'ai oublié l'heure, désolé.
+Jade : Bon, ce n'est pas grave, on va trouver une solution.
+Mehdi : Tu habites où, déjà ? Je ne me souviens plus.
+Jade : À Montreuil, à l'autre bout de la ligne 9.
+Mehdi : Ah oui, c'est loin. Moi, j'habite à Oberkampf, c'est dix minutes à pied.
+Jade : Tu as de la chance. Moi, j'en ai pour une heure à pied, au moins.
+Mehdi : Une heure ? Il fait six degrés, ce n'est pas raisonnable.
+Jade : J'aurais dû partir plus tôt, comme tout le monde.
+Mehdi : On aurait dû tous les deux, mais la soirée était trop bien.
+Jade : Oui, ça, c'est vrai. Marie a fait un gâteau incroyable.
+Mehdi : Bon, voyons les options. Il y a le taxi.
+Jade : Le taxi, jusqu'à Montreuil, ça va coûter combien ?
+Mehdi : Dans notre histoire, quarante euros, la nuit.
+Jade : Quarante euros ! Je ne les ai pas, sur mon compte, ce mois-ci.
+Mehdi : Je peux t'avancer la moitié si tu veux.
+Jade : C'est gentil, mais je préférerais éviter, tu es étudiant aussi.
+Mehdi : D'accord. Alors, il y a le bus de nuit, le Noctilien.
+Jade : Ah oui, j'en ai déjà entendu parler. Il passe toutes les combien de temps ?
+Mehdi : Je regarde. Toutes les vingt minutes, la nuit.
+Jade : Et il va jusqu'à Montreuil ?
+Mehdi : Pas directement. Il faut prendre un autre bus à la porte de Montreuil.
+Jade : Ah, il y a une correspondance. Ça rallonge le trajet.
+Mehdi : Oui, quarante minutes environ, plus l'attente.
+Jade : Hmm. Ce n'est pas terrible, mais c'est moins cher que le taxi.
+Mehdi : Tu peux aussi dormir chez moi, si tu veux. J'ai un canapé.
+Jade : Merci, c'est sympa. Mais mes parents m'attendent demain matin pour le déjeuner.
+Mehdi : Ah, d'accord. Donc il faut vraiment que tu rentres.
+Jade : Oui, et je n'aime pas les arriver en retard, ma mère fait la tête.
+Mehdi : Ha ha, ça, je connais. La mienne aussi.
+Jade : Bon, alors, le bus de nuit. Où est l'arrêt ?
+Mehdi : Il y a un plan, là, sur le trottoir d'en face.
+(Ils traversent la place. L'air est froid et humide. Quelques fêtards passent en chantant. Jade serre son manteau contre elle.)
+Mehdi : Tu as froid ? Je te prête mon écharpe.
+Jade : Non, garde-la, je m'en sors.
+Mehdi : Prends-la, je te dis. Je n'ai pas froid, moi.
+Jade : Merci. C'est vraiment gentil.
+Mehdi : Voilà l'arrêt. Le bus passe dans onze minutes.
+Jade : Onze minutes. On peut attendre.
+Mehdi : Tu veux un café ? Il y a un distributeur, là.
+Jade : Je veux bien, un chocolat chaud si c'est possible.
+Mehdi : Je vais voir.
+(Mehdi s'éloigne vers le distributeur. Jade regarde son téléphone, qui affiche douze pour cent de batterie.)
+Jade : Oh non, il me reste douze pour cent de batterie !
+Mehdi : Je t'ai dit de le charger avant de partir !
+Jade : Je sais, je sais. Tu as une batterie externe ?
+Mehdi : Oui, dans mon sac, attends. Voilà, tiens.
+Jade : Merci, tu me sauves la vie.
+Mehdi : De rien. Mais c'est la dernière fois que je te prête mes affaires !
+Jade : Ha ha, c'est ça. Et le chocolat chaud ?
+Mehdi : Il n'y avait que du café, désolé. Tiens.
+Jade : Ça ira très bien. Merci.
+Mehdi : Dis, on pourrait aussi partager un vélo.
+Jade : À une heure du matin ? Tu es fou !
+Mehdi : Non, mais il y a un Vélib' juste là.
+Jade : Je n'ai jamais fait de vélo de nuit. Et avec ma robe...
+Mehdi : D'accord, oublions le vélo.
+Jade : Merci. Dis-moi, comment tu rentres, toi ? Tu marches ?
+Mehdi : Oui, dix minutes, ça va. Mais je ne veux pas te laisser seule.
+Jade : C'est gentil, mais je vais attendre le bus sans problème.
+Mehdi : Non, je reste avec toi jusqu'à ce que le bus arrive.
+Jade : Tu es sûr ? Il fait froid.
+Mehdi : Oui, de toute façon, je n'ai pas sommeil.
+Jade : Merci. C'est vraiment très sympa.
+Mehdi : C'est normal, on est amis.
+Jade : Dis, on se voit bientôt, non ? Un cinéma, peut-être ?
+Mehdi : Bonne idée. Samedi prochain ?
+Jade : D'accord, mais cette fois, on regarde l'heure !
+Mehdi : Promis. Je mets une alarme sur mon téléphone.
+Jade : À minuit, comme Cendrillon !
+Mehdi : Ha ha, mais avec des chaussures, nous.
+(Un groupe de jeunes passe en riant, des gobelets à la main. Jade et Mehdi se serrent contre le poteau pour les laisser passer.)
+Jade : Ils ont l'air de bien s'amuser, eux.
+Mehdi : Eux aussi, ils vont rater le dernier métro.
+Jade : Ou alors ils habitent juste à côté.
+Mehdi : Possible. Paris est petit quand on y habite.
+Jade : Moi, je trouve que c'est grand, surtout la nuit.
+Mehdi : Oui, et un peu inquiétant, parfois.
+Jade : Tu as déjà eu peur, en rentrant la nuit ?
+Mehdi : Une fois, oui. Un homme m'a suivi pendant dix minutes.
+Jade : Et qu'est-ce que tu as fait ?
+Mehdi : Je suis entré dans une boulangerie encore ouverte.
+Jade : Bonne idée. Moi, j'appelle toujours ma sœur quand je rentre tard.
+Mehdi : Tu devrais lui envoyer un message maintenant, pour qu'elle sache.
+Jade : Tu as raison. Je lui dis que je prends le Noctilien.
+Mehdi : Dis-lui aussi à quelle heure tu penses arriver.
+Jade : Vers deux heures et demie, trois heures peut-être.
+Mehdi : Alors écris trois heures, et elle ne s'inquiétera pas.
+Jade : Voilà, c'est envoyé. Elle répond déjà.
+Mehdi : Elle dit quoi ?
+Jade : « Écris-moi quand tu es dans le bus. Bises. »
+Mehdi : Elle est adorable, ta sœur.
+Jade : Oui, elle est plus raisonnable que moi, d'ailleurs.
+Mehdi : Ça, c'est facile.
+Jade : Hé !
+Mehdi : Ha ha, je plaisante.
+Jade : Bon, tu me dois un chocolat chaud, un vrai, pour samedi.
+Mehdi : Marché conclu, avec de la chantilly.
+Jade : Alors là, tu me fais vraiment plaisir.
+(Au bout de la rue, deux phares apparaissent. Un bus orange et blanc s'approche lentement.)
+Mehdi : Le voilà, le Noctilien ! Il est en avance.
+Jade : Déjà ? C'est bizarre, on avait onze minutes.
+Mehdi : Peut-être qu'il a moins de monde, alors il roule plus vite.
+Jade : Ça, c'est la logique des bus de nuit, j'imagine.
+Mehdi : Tiens, ta carte de transport. Tu l'as, au moins ?
+Jade : Oui, je l'ai dans mon sac. Attends, où est-elle ?
+Mehdi : Ne me dis pas que tu l'as perdue !
+Jade : Non, la voilà, ouf ! Dans la poche intérieure.
+Mehdi : Tu m'as fait peur. Allez, monte.
+Jade : Merci pour cette soirée, et pour le chocolat... enfin, le café.
+Mehdi : Je t'écris samedi pour le cinéma, d'accord ?
+Jade : D'accord. Et toi, fais attention en rentrant, hein.
+Mehdi : Dix minutes à pied, ça va aller.
+Jade : Envoie-moi un message quand tu arrives.
+Mehdi : D'accord, comme ta sœur.
+Jade : Exactement, tu as compris !
+Mehdi : Allez, bonne nuit, ou plutôt bon matin !
+Jade : Bonne nuit, Mehdi. À samedi !
+Mehdi : À samedi, Jade !
+(Jade monte dans le bus, s'assoit près d'une fenêtre et fait un signe de la main. Le bus démarre doucement dans la nuit.)
+Mehdi : Dis-moi, tu as bien mis ton alarme pour samedi ?
+
+
+## 낭독 포인트
+- 비음 모음: «bon», «moins», «attendre», «vingt» — on, oin, an, in은 코로 울리는 모음, 끝의 n은 따로 발음하지 않는다.
+- 연음·앙샹느망: «il est», «on avait», «tu es» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «rater», «rentres», «très», «froid» — 목젖 근처에서 내는 마찰음.
+- u / ou: «tu», «une» vs «toujours», «pour» — u는 입술을 모아 [y], ou는 [u].
+- 억양: 자드는 지친 듯 낮게, 메디는 장난기 있게 올려 읽는다. 지문 속 새벽의 정적을 떠올리며 느리게.
+- 시간·숫자: «minuit quarante», «une heure moins dix», «douze pour cent»는 또박또박. 친구 사이라 tu를 쓴다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 놓친 상황과 후회
+  · «Le dernier métro est parti à minuit quarante.», «J'aurais dû partir plus tôt.»
+- B2 구간(21~40턴): 선택지 비교
+  · «Je préférerais éviter.», «Je peux t'avancer la moitié si tu veux.», «Il faut prendre un autre bus.»
+- A2 구간(41~60턴): 짧은 대화와 부탁
+  · «Tu as une batterie externe ?», «Je te prête mon écharpe.»
+- B1 구간(61~100턴): 걱정과 안부
+  · «Je ne veux pas te laisser seule.», «Tu devrais lui envoyer un message pour qu'elle sache.»
+- B2 구간(101~120턴): 헤어짐과 약속
+  · «Je t'écris samedi pour le cinéma.», «Envoie-moi un message quand tu arrives.»
+- 어휘: le dernier métro, le bus de nuit, la correspondance, la batterie, l'écharpe, l'arrêt, la grille.
+
+## 속어 노트
+- «Ça ira très bien»: 그걸로 충분해.
+- «tu me sauves la vie»: 너 덕분에 살았다(과장 표현).
+- «faire la tête»: 토라지다, 뚱해 있다.
+- «ouf»: 휴, 다행이다.
+- 야간버스 배차 간격, 택시 요금, 노선 환승은 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 친구 사이라 tu를 쓴다.
+
+## 한글 해석
+(토요일 새벽 0시 50분. 바스티유 역 앞 철제 셔터가 반쯤 내려와 있다. 아직 파티 차림인 자드와 메디가 꺼진 표지판을 바라본다.)
+자드 : 안 돼, 닫혔다고 하지 마!
+메디 : 맞아, 봐, 셔터가 내려오고 있어.
+자드 : 아직 한 시 십 분 전밖에 안 됐는데!
+메디 : 앱을 보니 막차는 열두 시 사십 분에 떠났대.
+자드 : 열두 시 사십 분이라고? 말 한마디 안 했어?
+메디 : 메시지 보다가 시간을 잊었어, 미안해.
+자드 : 뭐, 괜찮아, 방법을 찾아보자.
+메디 : 너 어디 산다고 했지? 기억이 안 나.
+자드 : 몽트뢰유야, 9호선 반대쪽 끝이야.
+메디 : 아 맞다, 멀지. 나는 오베르캉프라 걸어서 십 분이야.
+자드 : 좋겠다. 나는 걸어서 적어도 한 시간은 걸려.
+메디 : 한 시간? 지금 육 도인데, 말도 안 돼.
+자드 : 다들 그랬듯이 일찍 나올걸.
+메디 : 우리 둘 다 그랬어야 했는데 파티가 너무 좋았잖아.
+자드 : 맞아, 그건 그래. 마리가 만든 케이크 대단했어.
+메디 : 자, 선택지를 보자. 택시가 있어.
+자드 : 몽트뢰유까지 택시면 얼마 나올까?
+메디 : 우리 이야기에서는 밤엔 사십 유로야.
+자드 : 사십 유로! 이번 달엔 계좌에 그만한 돈이 없어.
+메디 : 원하면 절반은 내가 먼저 내줄 수 있어.
+자드 : 고맙지만 피하고 싶어, 너도 학생이잖아.
+메디 : 알겠어. 그럼 야간버스가 있어, 노크틸리앵.
+자드 : 아, 들어 본 적 있어. 얼마마다 와?
+메디 : 볼게. 밤에는 이십 분마다 와.
+자드 : 몽트뢰유까지 가?
+메디 : 바로는 아니야. 몽트뢰유 문에서 다른 버스를 갈아타야 해.
+자드 : 아, 환승이 있네. 시간이 더 걸리겠다.
+메디 : 응, 대략 사십 분에 대기 시간 더하고.
+자드 : 음. 썩 좋진 않지만 택시보다는 싸네.
+메디 : 원하면 우리 집에서 자도 돼. 소파가 있어.
+자드 : 고마워, 친절하다. 근데 내일 아침에 부모님이 점심 때문에 기다리셔.
+메디 : 아, 그렇구나. 그럼 정말 들어가야 하네.
+자드 : 응, 늦는 거 싫어, 엄마가 토라지시거든.
+메디 : 하하, 그건 나도 알아. 우리 엄마도 그래.
+자드 : 자, 그럼 야간버스야. 정류장이 어디야?
+메디 : 건너편 인도에 안내도가 있어.
+(둘은 광장을 건넌다. 공기가 차고 눅눅하다. 몇몇 취객이 노래하며 지나간다. 자드가 외투를 몸에 바짝 여민다.)
+메디 : 추워? 내 목도리 빌려줄게.
+자드 : 아냐, 네가 해, 괜찮아.
+메디 : 받아, 말했잖아. 난 안 추워.
+자드 : 고마워. 정말 친절하다.
+메디 : 정류장이다. 버스가 십일 분 뒤에 와.
+자드 : 십일 분. 기다릴 수 있어.
+메디 : 커피 마실래? 저기 자판기 있어.
+자드 : 좋아, 되면 핫초코로.
+메디 : 가서 볼게.
+(메디가 자판기 쪽으로 걸어간다. 자드가 휴대폰을 보니 배터리가 십이 퍼센트 남아 있다.)
+자드 : 아 안 돼, 배터리가 십이 퍼센트밖에 안 남았어!
+메디 : 나가기 전에 충전하라고 했잖아!
+자드 : 알아, 알아. 보조 배터리 있어?
+메디 : 응, 가방에 있어, 기다려. 자, 여기.
+자드 : 고마워, 너 덕분에 살았어.
+메디 : 별말을. 그래도 내 물건 빌려주는 건 이번이 마지막이야!
+자드 : 하하, 그래 알았어. 핫초코는?
+메디 : 커피밖에 없더라, 미안. 자.
+자드 : 그것도 괜찮아. 고마워.
+메디 : 있잖아, 자전거를 같이 타도 되고.
+자드 : 새벽 한 시에? 너 미쳤어!
+메디 : 아니, 바로 저기 공공자전거 대여소가 있어.
+자드 : 밤에 자전거는 한 번도 안 타 봤어. 게다가 드레스 차림인데...
+메디 : 알았어, 자전거는 잊자.
+자드 : 고마워. 있잖아, 너는 어떻게 가? 걸어가?
+메디 : 응, 십 분이니까 괜찮아. 근데 너를 혼자 두고 싶진 않아.
+자드 : 고맙지만 버스는 문제없이 기다릴 수 있어.
+메디 : 아니야, 버스 올 때까지 같이 있을게.
+자드 : 확실해? 춥잖아.
+메디 : 응, 어차피 졸리지도 않아.
+자드 : 고마워. 정말 친절하다.
+메디 : 당연하지, 우리 친구잖아.
+자드 : 있잖아, 곧 또 보지? 영화관 어때?
+메디 : 좋은 생각이야. 다음 토요일 어때?
+자드 : 좋아, 근데 이번엔 시간을 보자!
+메디 : 약속해. 휴대폰에 알람 맞춰 둘게.
+자드 : 신데렐라처럼 자정에!
+메디 : 하하, 근데 우린 신발은 신고 있잖아.
+(젊은 무리가 컵을 들고 웃으며 지나간다. 자드와 메디가 지나가게 길을 터 주려고 기둥에 바짝 붙는다.)
+자드 : 쟤들은 정말 재밌게 노는 것 같네.
+메디 : 쟤들도 막차를 놓칠 텐데.
+자드 : 아니면 바로 근처에 살든가.
+메디 : 그럴 수도. 살면 파리는 작아.
+자드 : 나는 크다고 생각해, 특히 밤에는.
+메디 : 응, 가끔은 좀 불안하기도 하고.
+자드 : 밤에 귀가하다 무서웠던 적 있어?
+메디 : 한 번 있었어. 어떤 남자가 십 분 동안 따라왔어.
+자드 : 그래서 어떻게 했어?
+메디 : 아직 열려 있던 빵집에 들어갔어.
+자드 : 좋은 생각이다. 나는 늦게 올 때 항상 언니한테 전화해.
+메디 : 지금 문자 보내 둬, 언니가 알도록.
+자드 : 맞아. 야간버스 탄다고 말할게.
+메디 : 몇 시쯤 도착할지도 말해 줘.
+자드 : 두 시 반쯤, 어쩌면 세 시.
+메디 : 그럼 세 시라고 써, 걱정 안 하실 거야.
+자드 : 자, 보냈어. 벌써 답이 왔네.
+메디 : 뭐라는데?
+자드 : "버스 타면 연락해. 뽀뽀."
+메디 : 언니 정말 다정하다.
+자드 : 응, 사실 나보다 훨씬 합리적이야.
+메디 : 그건 쉽지.
+자드 : 야!
+메디 : 하하, 농담이야.
+자드 : 그럼 토요일에 진짜 핫초코 하나 사 줘.
+메디 : 좋아, 휘핑크림 얹어서.
+자드 : 그럼 정말 기쁘겠는데.
+(길 끝에 헤드라이트 두 개가 나타난다. 주황색과 흰색 버스가 천천히 다가온다.)
+메디 : 저기 온다, 야간버스! 일찍 왔네.
+자드 : 벌써? 이상하네, 십일 분이라고 했는데.
+메디 : 사람이 적어서 더 빨리 달렸나 봐.
+자드 : 그게 야간버스의 논리겠지.
+메디 : 자, 교통카드. 최소한 갖고 있지?
+자드 : 응, 가방에 있어. 잠깐, 어디 갔지?
+메디 : 잃어버렸다고 하지 마!
+자드 : 아니, 여기 있다, 휴! 안주머니에 있었어.
+메디 : 놀랐잖아. 자, 타.
+자드 : 오늘 밤 고마워, 핫초코... 아니 커피도.
+메디 : 영화 일은 토요일에 연락할게, 알았지?
+자드 : 알았어. 너도 들어갈 때 조심해, 알았지?
+메디 : 걸어서 십 분이야, 괜찮을 거야.
+자드 : 도착하면 문자 보내.
+메디 : 알았어, 네 언니처럼.
+자드 : 맞아, 이제 알았네!
+메디 : 자, 잘 자, 아니 좋은 아침이라고 해야 하나!
+자드 : 잘 자, 메디. 토요일에 봐!
+메디 : 토요일에 봐, 자드!
+(자드가 버스에 올라 창가에 앉아 손을 흔든다. 버스가 밤 속으로 천천히 출발한다.)
+메디 : 있잖아, 토요일 알람은 제대로 맞춰 놨어?

@@ -1,0 +1,288 @@
+# 4부 2화. Une réclamation (불만 제기)
+난이도: 주 B2 | 구간: B2→C1→B2→B2→C1→B2 | 형식: 3인 | 장소: 라데팡스 쇼핑몰 안 소형 가전 매장 | 시간: 토요일 오후 3시
+등장인물: Odile, Théo, Nadia
+이슈: 주 ◐ 환불 기한 규정과 제품 결함 | 곡선: 1-2-1-2-1-2 (파도형, 상한 2) | 입장: A 오딜(구입 열여드레 만에 새는 커피 머신, 결함이니 환불받고 싶다) / B 테오(규정상 환불은 열나흘까지, 결정 권한이 없다) / C 나디아(매장 책임자, 규정과 고객 사정 사이에서 절충안을 찾는다)
+상황 카드: 오딜은 산 지 열여드레 된 커피 머신이 새서 환불을 요구하며 매장을 찾는다. 판매원 테오는 열나흘 규정을 설명하고, 책임자 나디아가 와서 수리 점검과 대여 기계를 제안한다. 오딜은 기한 규정 자체에는 여전히 동의하지 않지만 점검 결과를 보기로 한다. 환불 여부는 수요일의 결과에 달려 있는 열린 결말이다.
+학습 포인트: 불만 제기하기(Je viens pour un problème avec) · 환불·교환·크레딧 구분(un échange, un avoir) · 완곡한 거절(Je n'ai pas le pouvoir d'aller au-delà) · 양보하기(Disons que) · 약속 확인(Vous me le promettez ?)
+
+## 대화
+(토요일 오후, 라데팡스 쇼핑몰 안 소형 가전 매장. 오딜 마르샹이 커피 머신이 든 상자를 들고 계산대로 온다. 판매원 테오가 응대한다.)
+Théo : Bonjour madame, je peux vous aider ?
+Odile : Bonjour. Oui, je viens pour un problème avec cette machine à café, que j'ai achetée ici il y a dix-huit jours.
+Théo : D'accord. Qu'est-ce qui ne va pas, exactement ?
+Odile : Elle fuit. Dès le deuxième jour, j'ai trouvé une flaque sous la machine, et depuis, c'est à chaque fois.
+Théo : Ah, c'est embêtant. Vous avez bien rempli le réservoir jusqu'au repère ?
+Odile : Bien sûr. J'ai lu la notice, je ne suis pas à mon premier appareil.
+Théo : Pardon, c'est la question qu'on pose d'abord. Vous avez le ticket de caisse ?
+Odile : Oui, tenez. Je l'ai gardé dans mon sac, au cas où.
+Théo : Merci. Alors, achat du deux du mois, donc dix-huit jours, effectivement.
+Odile : Voilà. Donc je voudrais être remboursée, tout simplement.
+Théo : Je comprends, mais je dois vous expliquer comment ça se passe chez nous.
+Odile : Je vous écoute, mais je vous préviens, je n'ai pas toute la journée.
+Théo : Notre politique, c'est quatorze jours pour un remboursement sans condition. Après, c'est un échange ou un avoir.
+Odile : Quatorze jours ? Mais là, c'est un défaut de fabrication, ce n'est pas un changement d'avis !
+Théo : Je ne dis pas le contraire, madame. Mais le règlement interne ne fait pas la différence.
+Odile : Autrement dit, pour être remboursée d'un produit défectueux, il fallait que je réagisse avant le quatorzième jour ?
+Théo : Pour le remboursement immédiat, oui. Pour le défaut, il existe d'autres solutions.
+Odile : Lesquelles ? J'aimerais que vous soyez plus précis.
+Théo : Une réparation, un échange, ou un avoir du même montant.
+Odile : Un avoir, c'est de l'argent que je ne peux dépenser qu'ici. Or je n'ai pas envie de racheter une machine chez vous.
+Théo : Je comprends votre réticence. Mais permettez-moi de préciser que l'échange se fait avec un modèle équivalent, voire supérieur.
+Odile : Un modèle « supérieur » qui peut fuir lui aussi. Si le modèle est défectueux de série, vous me proposez de rejouer à la loterie ?
+Théo : Ce n'est pas ce que je dis. Cela étant, c'est la première réclamation que je vois sur ce modèle.
+Odile : C'est possible, mais ça ne change rien à ma cuisine inondée un mardi matin.
+Théo : Vous avez raison de le souligner. Je ne minimise pas votre désagrément.
+Odile : Ah, « désagrément ». On dirait une lettre d'assurance.
+Théo : Je m'efforce simplement d'être poli, madame. Je n'ai aucune envie de vous froisser.
+Odile : Je ne suis pas froissée, je suis agacée, nuance.
+Théo : Je note la nuance. Et l'emballage d'origine, vous l'avez gardé ?
+Odile : Oui, tout y est, la boîte, la notice, même les cales en carton. J'ai été très consciencieuse.
+Théo : Très bien, c'est un point en votre faveur. Beaucoup de clients jettent tout.
+Odile : Je suppose que ça aide, sauf que le règlement s'applique de toute façon.
+Théo : Pas forcément. Une direction peut faire un geste, surtout quand le client est de bonne foi.
+Odile : Alors pourquoi ne pas le faire tout de suite, vous, là, maintenant ?
+Théo : Parce que ce n'est pas moi qui décide. Je n'ai pas le pouvoir d'aller au-delà de quatorze jours.
+Odile : Donc je parle à quelqu'un qui n'a pas le droit de me répondre. Quelle perte de temps.
+Théo : Ce n'est pas du tout mon intention. Je vais appeler la responsable du rayon, elle est là aujourd'hui.
+Odile : Parfait. Qu'elle vienne.
+Théo : Un instant, je vous prie. Je tente de la joindre.
+Odile : Faites. Je ne bouge pas.
+(Théo s'éloigne de deux pas et parle dans un talkie-walkie.)
+Théo : Nadia, tu peux venir au rayon électro ? J'ai une cliente pour une machine à café.
+Nadia : J'arrive ! Dis-lui que je termine avec un client, deux minutes.
+Théo : Elle arrive dans deux minutes, madame. Vous voulez vous asseoir ?
+Odile : Non merci, ça ira. Dites-moi, c'est souvent comme ça, ici ?
+Théo : Le samedi, oui. C'est le jour où tout le monde ramène ses cartons.
+Odile : Ha, je ne suis donc pas la seule.
+Théo : Pas du tout. Mais d'habitude, les gens râlent moins poliment.
+Odile : Je râle poliment par éducation, pas par faiblesse.
+Théo : Je n'en doute pas.
+(Nadia arrive en rangeant un stylo dans sa poche de chemise.)
+Nadia : Bonjour madame, Nadia Haddad, responsable du rayon. Théo m'a résumé la situation.
+Odile : Bonjour. Alors, vous avez compris l'essentiel ? Machine qui fuit, dix-huit jours, ticket en main.
+Nadia : J'ai compris, oui. Vous permettez que je regarde la machine ?
+Odile : Je vous en prie. Elle est dans le carton, j'ai même vidé le réservoir.
+Nadia : Merci, c'est prévenant. Le joint a l'air correct, au premier coup d'œil.
+Théo : Moi non plus, je n'ai rien vu d'anormal.
+Odile : Évidemment, ça ne fuit que sous pression, quand elle chauffe.
+Nadia : C'est ce que je comprends. Vous avez des photos de la flaque ?
+Odile : Oui, j'en ai trois sur mon téléphone, prises le deuxième jour.
+Nadia : Parfait, ça m'aidera. Vous pouvez me les envoyer ?
+Odile : Je peux vous les montrer tout de suite, si vous voulez.
+Nadia : Je veux bien les voir. Oui, il y a bien de l'eau sous la machine, on ne peut pas le nier.
+Odile : Merci, c'est déjà ça.
+Nadia : Bon, je vais être franche avec vous. Le règlement parle de quatorze jours, et il y a une raison.
+Odile : Laquelle ? Je serais curieuse de la connaître.
+Nadia : Au-delà, on ne sait plus si l'appareil a été mal utilisé, et on ne peut plus le revendre comme neuf.
+Odile : Mais là, c'est justement un défaut qui apparaît au deuxième jour. Ce n'est pas de la mauvaise utilisation.
+Nadia : Je l'entends. Sauf que ça, c'est à un technicien de le confirmer, pas à moi.
+Théo : Il y a un atelier à l'arrière, ils peuvent la tester en trois jours.
+Odile : Trois jours sans machine à café, c'est un drame domestique, vous savez.
+Nadia : J'imagine. Je peux vous prêter un modèle d'exposition, si ça peut vous aider.
+Odile : Un prêt ? Ça, c'est nouveau. Personne ne me l'avait proposé.
+Théo : Je ne savais pas qu'on pouvait faire ça, honnêtement.
+Nadia : C'est rare, mais c'est possible quand le dossier est sérieux.
+Odile : Et si le technicien dit que la machine est en bon état ? C'est moi la responsable de la fuite ?
+Nadia : Dans ce cas, on la récupère après contrôle, et je ne peux pas vous promettre un remboursement.
+Odile : Voilà, c'est exactement ce que je craignais. Vous voyez, on tourne en rond.
+Nadia : Je comprends que vous le ressentiez ainsi. Mais je préfère être honnête que vous vendre du rêve.
+Odile : D'accord, ça, je l'apprécie. Mais je ne peux pas accepter de risquer de n'avoir rien du tout.
+Nadia : Le risque est faible. Le joint est visiblement l'élément en cause, et ça, on le voit en dix minutes.
+Odile : Alors pourquoi attendre trois jours ?
+Nadia : Parce que le technicien n'est là que le mardi. Je ne vais pas vous raconter d'histoires.
+Odile : Le mardi, c'est dans trois jours. Je commence à voir le tableau.
+Nadia : Je vous propose autre chose en attendant. Je note votre dossier, je mets la mention « cliente de bonne foi », et je plaide votre cause auprès de la direction.
+Odile : « Plaider ma cause », vous parlez comme une avocate. Ça me fait presque sourire.
+Nadia : Mon père était juriste, ça doit être génétique.
+Odile : Ah ! Eh bien, ça se sent. Moi, je suis infirmière, et croyez-moi, je comprends qu'on ait des règles.
+Nadia : Alors vous comprenez mon embarras. Entre le règlement et le bon sens, il faut parfois choisir.
+Odile : Disons que ce que j'attends d'un magasin, c'est qu'on ne me traite pas comme si j'essayais de le rouler.
+Théo : Madame, personne ici ne pense ça. On vous croit, sincèrement.
+Odile : Merci, Théo. Je le sentais déjà, d'ailleurs. Vous avez été correct depuis le début.
+Théo : Merci, ça me fait plaisir.
+Nadia : Moi aussi, je préfère qu'une cliente reparte contente, même quand je ne peux pas tout accorder.
+Odile : Je comprends. Mais j'aimerais quand même savoir quand vous me donnerez une réponse définitive.
+Nadia : Mardi pour le test, mercredi pour la décision. Je vous appelle personnellement.
+Odile : Vous me le promettez ?
+Nadia : Oui. Je note votre numéro, et c'est moi qui appelle, pas un standard.
+Odile : C'est un détail qui compte, croyez-moi.
+Nadia : Je le sais. L'important, c'est que vous ne repartiez pas avec le sentiment d'avoir été renvoyée.
+Odile : Ce n'est pas encore le cas, mais c'est juste.
+Théo : Je prépare la fiche de dépôt, si vous êtes d'accord.
+(Théo sort un formulaire et un stylo. Odile pose son sac sur le comptoir.)
+Odile : Attendez. Avant de signer, je veux être sûre de ce que je signe.
+Théo : Bien sûr. Je vous lis la fiche, ligne par ligne.
+Odile : Merci. J'ai déjà eu de mauvaises surprises avec des petits caractères.
+Nadia : Vous avez raison d'être prudente. Je veux que ce soit clair pour tout le monde.
+Théo : Alors, première ligne, dépôt de la machine, numéro de série, état complet avec accessoires.
+Odile : C'est bon. Et le prêt du modèle d'exposition, c'est écrit ?
+Nadia : Oui, ligne quatre. Je l'ajoute à la main, si vous voulez.
+Odile : S'il vous plaît. Et la date du rappel, aussi.
+Nadia : Mercredi, avant midi. Je l'écris.
+Odile : Parfait. Franchement, je suis venue ici prête à me disputer.
+Nadia : Ça arrive, et vous aviez vos raisons.
+Odile : Oui, mais ça s'est mieux passé que prévu. Même si, sur le fond, nous ne sommes pas d'accord.
+Nadia : C'est vrai. Vous pensez que le délai est trop court, et moi, je pense qu'il est là pour une raison.
+Odile : Je continue à penser qu'un défaut au deuxième jour devrait être traité autrement.
+Nadia : Je vais le remonter à la direction. Je ne peux rien promettre de plus.
+Odile : C'est déjà beaucoup. On verra mercredi.
+Théo : Voici le modèle de prêt. Il est un peu moins beau, mais il fait du bon café.
+Odile : Pourvu qu'il ne fuie pas ! Merci, Théo.
+Nadia : Merci de votre patience, madame Marchand. À mercredi.
+Odile : À mercredi. Et bonne fin de samedi à tous les deux.
+
+## 낭독 포인트
+- 비음 모음: «remboursée», «un instant», «mon intention», «Bonjour» — on, an, in, un은 코로 울리는 모음이고 n은 따로 발음하지 않는다.
+- 연음: «un avoir», «un échange», «vous avez» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어가 한 덩어리로 들린다.
+- 프랑스어 r: «remboursée», «réclamation», «merci», «règlement» — 목젖 근처에서 내는 마찰음. 단어 첫머리에서도 분명하게.
+- u / ou: «défaut», «vous» vs «du», «tout» — u는 입술을 모아 [y], ou는 [u].
+- 억양: 오딜은 처음엔 단단하고 빠르게, 나디아가 오면서 서서히 부드럽게. 테오는 정중하고 조심스러운 속도.
+- 호칭: 고객과 직원은 vous, 테오와 나디아 둘이서는 tu(«Nadia, tu peux venir»). 같은 사람이 상대에 따라 말투를 바꾼다.
+
+## 학습 포인트 정리
+- B2 구간(1~20턴): 문제 설명과 규정 안내
+  · «Je viens pour un problème avec cette machine à café», «Elle fuit.», «Notre politique, c'est quatorze jours pour un remboursement sans condition.»
+- C1 구간(21~40턴): 완곡한 반박과 선 긋기
+  · «Je ne minimise pas votre désagrément.», «Je ne suis pas froissée, je suis agacée, nuance.», «Je n'ai pas le pouvoir d'aller au-delà de quatorze jours.»
+- B2 구간(41~80턴): 책임자의 개입과 절충안
+  · «Je peux vous prêter un modèle d'exposition», «Je préfère être honnête que vous vendre du rêve.», «on tourne en rond»
+- C1 구간(81~100턴): 신뢰 쌓기와 약속
+  · «Je plaide votre cause auprès de la direction.», «Vous me le promettez ?», «c'est moi qui appelle, pas un standard»
+- B2 구간(101~120턴): 서류 확인과 열린 결말
+  · «Avant de signer, je veux être sûre de ce que je signe.», «Sur le fond, nous ne sommes pas d'accord.», «On verra mercredi.»
+- 어휘: le remboursement, un échange, un avoir, un défaut de fabrication, le joint, le ticket de caisse, la fiche de dépôt, le modèle d'exposition.
+
+## 속어 노트
+- «tourner en rond»: 제자리를 맴돌다, 진전이 없다.
+- «vendre du rêve»: 헛된 기대를 심어 주다, 좋은 말만 하다.
+- «rouler quelqu'un»: 속이다, 한 푼 더 뜯다.
+- «râler»: 투덜대다. 보통 «râler» 자체는 가벼운 표현이다.
+- «de bonne foi»: 악의 없이, 정직하게.
+- 환불 기한, 책임자 권한, 점검 절차는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 손님과 직원 사이는 vous, 동료 테오와 나디아 사이는 tu.
+
+## 한글 해석
+(토요일 오후, 라데팡스 쇼핑몰 안 소형 가전 매장. 오딜 마르샹이 커피 머신이 든 상자를 들고 계산대로 온다. 판매원 테오가 응대한다.)
+테오 : 안녕하세요, 도와드릴까요?
+오딜 : 안녕하세요. 네, 이 커피 머신 문제로 왔어요. 열여드레 전에 여기서 샀거든요.
+테오 : 알겠습니다. 정확히 뭐가 문제인가요?
+오딜 : 새요. 둘째 날부터 기계 밑에 물웅덩이가 있었고, 그 뒤로 쓸 때마다 그래요.
+테오 : 아, 곤란하시겠네요. 물은 표시선까지만 채우셨죠?
+오딜 : 물론이죠. 설명서도 읽었어요. 처음 쓰는 기계도 아니고요.
+테오 : 죄송합니다, 제일 먼저 드리는 질문이라서요. 영수증은 가지고 계세요?
+오딜 : 네, 여기요. 혹시 몰라서 가방에 넣어 뒀어요.
+테오 : 감사합니다. 그럼 이 일에 구입했으니 열여드레가 맞네요.
+오딜 : 그렇죠. 그러니까 그냥 환불받고 싶어요.
+테오 : 이해합니다. 그래도 저희가 어떻게 처리하는지 설명드려야 해요.
+오딜 : 들을게요. 다만 오늘 하루 종일 시간이 있는 건 아니에요.
+테오 : 저희 방침은 조건 없는 환불이 열나흘까지예요. 그 뒤에는 교환이나 크레딧이고요.
+오딜 : 열나흘이요? 이건 제조 결함이지, 마음이 바뀐 게 아니잖아요!
+테오 : 그렇지 않다는 말씀은 아니에요. 그런데 내부 규정은 그 차이를 구분하지 않습니다.
+오딜 : 그러니까 불량품 환불을 받으려면 열나흘이 되기 전에 움직였어야 한다는 말이죠?
+테오 : 즉시 환불은 그렇습니다. 결함의 경우에는 다른 해결 방법이 있어요.
+오딜 : 어떤 거요? 더 정확하게 말씀해 주세요.
+테오 : 수리, 교환, 아니면 같은 금액의 크레딧입니다.
+오딜 : 크레딧은 여기서만 쓸 수 있는 돈이잖아요. 그런데 전 이 가게에서 다시 기계를 사고 싶지 않아요.
+테오 : 꺼리시는 건 이해합니다. 다만 교환은 동급, 혹은 더 좋은 모델로 해 드립니다.
+오딜 : "더 좋은" 모델도 새면요? 이 모델이 원래 결함이 있다면 다시 복권을 긁으라는 건가요?
+테오 : 그렇게 말씀드린 건 아니에요. 다만 이 모델 불만 접수는 제가 처음 봅니다.
+오딜 : 그럴 수 있어요. 그래도 화요일 아침에 물바다가 된 제 주방이 달라지진 않아요.
+테오 : 맞는 말씀이십니다. 불편하셨던 건 가볍게 보지 않습니다.
+오딜 : 아, "불편". 보험사 편지 같네요.
+테오 : 그냥 예의를 지키려는 거예요, 손님. 기분을 상하게 할 마음은 전혀 없습니다.
+오딜 : 기분 상한 게 아니라 짜증이 난 거예요. 다르거든요.
+테오 : 그 차이는 새겨 둘게요. 그리고 원래 포장은 보관하셨나요?
+오딜 : 네, 상자랑 설명서, 포장 완충재까지 다 있어요. 아주 꼼꼼하게 챙겼죠.
+테오 : 좋습니다, 손님께 유리한 점이에요. 많은 분이 다 버리시거든요.
+오딜 : 도움이 되겠죠. 그래도 어차피 규정은 적용되겠지만요.
+테오 : 꼭 그렇진 않아요. 본사가 성의를 보일 수도 있어요, 특히 손님이 선의로 오셨을 때요.
+오딜 : 그럼 왜 지금 당장 해 주지 않는 거예요, 당신이?
+테오 : 제가 결정하는 사람이 아니라서요. 열나흘을 넘겨서 처리할 권한이 없습니다.
+오딜 : 그러니까 저는 대답할 권한도 없는 사람과 얘기하고 있네요. 시간 낭비예요.
+테오 : 그럴 의도는 전혀 아닙니다. 매장 책임자를 부르겠습니다, 오늘 나와 계세요.
+오딜 : 좋아요. 오라고 하세요.
+테오 : 잠시만 기다려 주세요. 연락해 볼게요.
+오딜 : 하세요. 여기 있을게요.
+(테오가 두 걸음 떨어져 무전기로 말한다.)
+테오 : 나디아, 전자제품 코너로 와 줄 수 있어? 커피 머신 때문에 오신 손님이 있어.
+나디아 : 갈게! 손님 한 분 마치고 이 분 뒤에 간다고 전해 줘.
+테오 : 이 분 뒤에 오신답니다, 손님. 앉아서 기다리시겠어요?
+오딜 : 아니요, 괜찮아요. 그런데 여기는 자주 이런가요?
+테오 : 토요일에는요. 다들 상자를 들고 오는 날이거든요.
+오딜 : 하, 그럼 저만 그런 건 아니군요.
+테오 : 전혀요. 그래도 보통은 이렇게 정중하게 화내지는 않으세요.
+오딜 : 저는 약해서가 아니라 교육을 받아서 정중하게 화내는 거예요.
+테오 : 그럴 거라고 생각했어요.
+(나디아가 셔츠 주머니에 펜을 꽂으며 다가온다.)
+나디아 : 안녕하세요, 매장 책임자 나디아 아다드입니다. 테오가 상황을 요약해 줬어요.
+오딜 : 안녕하세요. 핵심은 이해하셨나요? 기계가 새고, 열여드레이고, 영수증은 여기 있어요.
+나디아 : 네, 이해했어요. 기계를 좀 봐도 될까요?
+오딜 : 그러세요. 상자 안에 있어요, 물통도 비워 놨고요.
+나디아 : 감사합니다, 세심하시네요. 처음 보기엔 패킹은 괜찮아 보여요.
+테오 : 저도 이상한 점은 못 봤어요.
+오딜 : 당연하죠, 압력이 걸릴 때, 그러니까 가열될 때만 새니까요.
+나디아 : 그렇게 이해했어요. 물웅덩이 사진은 있으세요?
+오딜 : 네, 휴대폰에 세 장 있어요. 둘째 날에 찍었고요.
+나디아 : 좋아요, 도움이 될 거예요. 보내 주실 수 있나요?
+오딜 : 지금 바로 보여 드릴 수도 있어요, 원하시면.
+나디아 : 보고 싶어요. 네, 기계 밑에 물이 있네요, 부인할 수 없겠어요.
+오딜 : 감사합니다, 그것만으로도 다행이에요.
+나디아 : 그럼 솔직하게 말씀드릴게요. 규정이 열나흘이라고 하는 데는 이유가 있어요.
+오딜 : 어떤 이유요? 알고 싶네요.
+나디아 : 그 이후에는 기계를 잘못 쓴 건지 알 수 없고, 새것으로 다시 팔 수도 없거든요.
+오딜 : 그런데 이건 이틀째에 나타난 결함이에요. 잘못 쓴 게 아니에요.
+나디아 : 그건 이해해요. 다만 그걸 확인하는 건 제가 아니라 기술자예요.
+테오 : 매장 뒤에 작업실이 있어요, 사흘이면 시험해 볼 수 있어요.
+오딜 : 사흘 동안 커피 머신이 없는 건 집안 비극이에요, 아시겠지만.
+나디아 : 짐작해요. 전시 모델을 빌려 드릴 수 있어요, 도움이 되신다면.
+오딜 : 대여요? 그건 새롭네요. 아무도 제안한 적이 없어요.
+테오 : 솔직히 저도 그게 되는 줄 몰랐어요.
+나디아 : 드물지만 사안이 확실할 때는 가능해요.
+오딜 : 그런데 기술자가 기계가 멀쩡하다고 하면요? 새는 게 제 탓이 되는 건가요?
+나디아 : 그러면 점검 후에 기계를 돌려받고, 환불은 약속해 드릴 수 없어요.
+오딜 : 그거예요, 제가 걱정한 게. 보세요, 계속 제자리를 맴돌잖아요.
+나디아 : 그렇게 느끼시는 건 이해해요. 그래도 헛된 기대를 드리느니 솔직한 게 낫다고 생각해요.
+오딜 : 알겠어요, 그건 고맙네요. 하지만 아무것도 못 받을 위험을 감수할 수는 없어요.
+나디아 : 위험은 작아요. 패킹이 원인으로 보이고, 그건 십 분이면 알 수 있어요.
+오딜 : 그럼 왜 사흘을 기다려야 하죠?
+나디아 : 기술자가 화요일에만 나오세요. 거짓말은 하지 않을게요.
+오딜 : 화요일이면 사흘 뒤네요. 그림이 보이기 시작하네요.
+나디아 : 그동안 다른 방법을 제안할게요. 기록에 "선의의 고객"이라고 적고, 본사에 손님 입장을 대변해 볼게요.
+오딜 : "입장을 대변"이라니, 변호사 같으세요. 웃음이 나려고 하네요.
+나디아 : 아버지가 법조인이셔서 유전인가 봐요.
+오딜 : 아! 그러게요, 티가 나요. 저는 간호사인데, 규칙이 있어야 하는 건 저도 이해해요.
+나디아 : 그럼 제 난처함도 이해하시겠네요. 규정과 상식 사이에서 가끔은 골라야 해요.
+오딜 : 제가 가게에 바라는 건, 가게를 속이려 한다는 눈으로 저를 대하지 않는 거예요.
+테오 : 손님, 여기 누구도 그렇게 생각하지 않아요. 진심으로 믿어요.
+오딜 : 고마워요, 테오. 사실 처음부터 느꼈어요. 처음부터 예의 바르셨어요.
+테오 : 감사합니다, 기분이 좋네요.
+나디아 : 저도 다 들어 드리진 못하더라도 손님이 기분 좋게 돌아가시면 좋겠어요.
+오딜 : 알겠어요. 그래도 최종 답은 언제 주실지 알고 싶어요.
+나디아 : 화요일에 점검, 수요일에 결정이에요. 제가 직접 전화드릴게요.
+오딜 : 약속해 주시는 거죠?
+나디아 : 네. 번호를 적을게요, 전화는 안내 센터가 아니라 제가 합니다.
+오딜 : 그런 게 중요해요, 정말로요.
+나디아 : 알아요. 중요한 건 쫓겨난 느낌으로 돌아가시지 않는 거예요.
+오딜 : 아직은 아닌데, 아슬아슬하네요.
+테오 : 동의하시면 접수 서류를 준비할게요.
+(테오가 서식과 펜을 꺼낸다. 오딜이 가방을 계산대에 올려놓는다.)
+오딜 : 잠깐만요. 서명하기 전에 뭘 서명하는지 확실히 알고 싶어요.
+테오 : 물론이죠. 서류를 한 줄씩 읽어 드릴게요.
+오딜 : 감사합니다. 작은 글씨 때문에 곤란했던 적이 있어서요.
+나디아 : 조심하시는 게 맞아요. 모두에게 분명하게 해 두고 싶어요.
+테오 : 그럼 첫 줄, 기계 접수, 일련번호, 부속품 포함 전체 상태입니다.
+오딜 : 괜찮아요. 전시 모델 대여는 적혀 있나요?
+나디아 : 네, 네 번째 줄에요. 원하시면 손으로 추가해 드릴게요.
+오딜 : 부탁해요. 그리고 연락 날짜도요.
+나디아 : 수요일 정오 전. 적을게요.
+오딜 : 좋아요. 솔직히 저는 싸울 각오로 왔어요.
+나디아 : 그럴 수 있죠, 이유도 있으셨고요.
+오딜 : 네, 그래도 생각보다는 잘 풀렸어요. 근본적으로는 의견이 다르지만요.
+나디아 : 맞아요. 기한이 너무 짧다고 하시고, 저는 이유가 있어서 있는 거라고 생각해요.
+오딜 : 저는 이틀째에 나타난 결함은 다르게 다뤄야 한다고 계속 생각해요.
+나디아 : 본사에 올려 볼게요. 더는 약속드릴 수 없어요.
+오딜 : 그것만 해도 많아요. 수요일에 봐요.
+테오 : 여기 대여 모델입니다. 조금 덜 예쁘지만 커피는 잘 나와요.
+오딜 : 새지만 않으면요! 고마워요, 테오.
+나디아 : 기다려 주셔서 감사합니다, 마르샹 씨. 수요일에 뵙겠습니다.
+오딜 : 수요일에 봐요. 두 분 다 즐거운 토요일 보내세요.

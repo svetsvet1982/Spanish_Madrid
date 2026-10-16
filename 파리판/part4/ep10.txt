@@ -1,0 +1,288 @@
+# 4부 10화. Le café avec les collègues (동료들과 커피)
+난이도: 주 A2 | 구간: A2→A2→A2→B1→A2→A2 | 형식: 다인 | 장소: 불로뉴비양쿠르 소프트웨어 회사의 휴게실 | 시간: 월요일 오전 9시 15분
+등장인물: Josiane, Léa, Mehdi, Paul
+이슈: 주 ○ 점심 습관, 재택근무 선호, 공용 주방 예절 | 곡선: 0-0-1-1-1-0 (잔잔형, 상한 1) | 입장: A 조지안(회사에 나와서 일하는 걸 좋아한다) / B 레아(집에서 더 집중이 잘 된다) / C 메흐디(맛있는 점심에 돈을 쓰는 걸 좋아한다) / D 폴(신입으로 모두에게 맞춰 간다)
+상황 카드: 월요일 아침 휴게실에서 동료들이 커피를 마시고 있는데 새로 온 폴이 들어온다. 주말 이야기와 소개, 점심을 어디서 먹을지, 재택근무와 전자레인지 청소 이야기가 가볍게 오간다. 마지막에는 다음 날 폴이 크루아상을 사 오기로 하며 웃으며 일터로 돌아간다.
+학습 포인트: 자기소개와 환영(Bienvenue ! Moi, c'est Léa) · 주말 이야기하기(On a marché toute la journée) · 취향 말하기(Moi, je préfère) · 규칙 설명(On nettoie ce qu'on salit) · 약속하기(À midi, à la cantine)
+
+## 대화
+(월요일 오전 9시 15분. 불로뉴비양쿠르 소프트웨어 회사의 휴게실. 조지안이 커피를 내리고 있다. 레아와 메흐디가 들어온다.)
+Josiane : Bonjour, bonjour ! Le café est prêt, qui en veut ?
+Léa : Moi, s'il te plaît. Avec un nuage de lait.
+Josiane : Un nuage, voilà. Mehdi, et toi ?
+Mehdi : Noir, sans sucre. J'ai besoin de force, ce matin.
+Josiane : Ça ne va pas ?
+Mehdi : Si, mais j'ai mal dormi. Les voisins ont fait la fête jusqu'à trois heures.
+Léa : Oh non. Samedi soir ou dimanche soir ?
+Mehdi : Les deux. Je crois qu'ils ont gagné à la loterie.
+Josiane : Ha ! Ou alors ils fêtent le printemps, avec six mois de retard.
+Léa : Moi, j'ai dormi comme un bébé. Je suis allée me coucher à neuf heures.
+Mehdi : À neuf heures ? Un dimanche ?
+Léa : J'étais fatiguée. On a marché toute la journée, au parc de Saint-Cloud.
+Josiane : Avec ton chien ?
+Léa : Oui, avec Pistache. Il a couru derrière des canards pendant une heure.
+Mehdi : Il les a attrapés ?
+Léa : Non, heureusement. Les canards sont plus rapides que lui.
+Josiane : Pauvre Pistache ! Tiens, voilà ton café.
+Léa : Merci. Il sent bon.
+Mehdi : C'est le café de Josiane. Elle l'achète dans une petite boutique près de chez elle.
+Josiane : Oui, un torréfacteur à Issy. C'est un peu plus cher, mais il est vraiment meilleur.
+(Paul entre, avec un badge neuf accroché à sa chemise.)
+Paul : Bonjour. Je peux entrer ? Je cherche la salle de pause.
+Josiane : Tu es dedans ! Bienvenue. Tu es le nouveau, non ?
+Paul : Oui. Je m'appelle Paul. Je commence aujourd'hui, dans l'équipe de Mehdi.
+Mehdi : Ah, c'est toi ! Salut Paul. Moi, c'est Mehdi, ton chef d'équipe, mais ne t'inquiète pas, je ne mords pas.
+Paul : Enchanté. On m'a dit de venir ici pour rencontrer tout le monde.
+Léa : Bienvenue ! Moi, c'est Léa, je travaille au support client. Tu veux un café ?
+Paul : Volontiers. Noir, avec un peu de sucre.
+Josiane : Un peu de sucre, voilà. Moi, c'est Josiane, je suis à la comptabilité.
+Paul : Enchanté, Josiane. Il est très bon, ce café.
+Josiane : Ha ! Tu vois, quelqu'un qui comprend.
+Léa : Tu viens d'où, Paul ? On dirait que tu n'es pas de Paris.
+Paul : Je viens de Lille. Je suis arrivé il y a deux semaines, avec ma copine.
+Mehdi : Lille ! J'adore. Les frites, la bière, le temps pourri...
+Paul : Oui, le temps est un peu pareil ici, finalement.
+Josiane : Pas du tout ! Il pleut moins souvent à Paris. Tu verras.
+Paul : Je vais vérifier. Pour l'instant, j'ai surtout vu le métro.
+Léa : Ah, le métro. Le matin, c'est tout un programme.
+Paul : J'ai pris la ligne 9 depuis Montreuil. On était serrés comme des sardines.
+Mehdi : Bienvenue dans la vraie vie parisienne !
+Paul : Merci pour l'accueil. Je me sens déjà un peu mieux.
+Josiane : Alors, Paul, ce midi, tu manges avec nous ?
+Paul : Avec plaisir. On va où ?
+Léa : Il y a une cantine au rez-de-chaussée. C'est correct, pas cher.
+Mehdi : Moi, je préfère le petit restaurant du coin. Les plats sont meilleurs.
+Josiane : Mais c'est plus cher, Mehdi. Douze euros contre six.
+Mehdi : D'accord, mais six euros de plus pour être heureux, c'est raisonnable.
+Léa : Moi, j'apporte ma gamelle, souvent. Ça ne coûte presque rien.
+Paul : Ta gamelle ? C'est un repas dans une boîte ?
+Léa : Oui. Hier, j'avais des pâtes au pesto. Je les ai chauffées au micro-ondes.
+Josiane : Attention, le micro-ondes est sale en ce moment.
+Mehdi : Ce n'est pas moi ! Je ne l'utilise jamais.
+Josiane : Je ne dis pas que c'est toi. Mais quelqu'un a fait exploser une soupe.
+Léa : Peut-être moi, lundi dernier. Pardon.
+Josiane : Ha ! Je le savais. Tu nettoieras ?
+Léa : Oui, oui, aujourd'hui, promis.
+Paul : Il y a une règle pour la cuisine ?
+Josiane : Oui, un petit papier sur le frigo. On nettoie ce qu'on salit, et on jette ses restes le vendredi.
+Mehdi : Le vendredi, parce que sinon les yaourts deviennent des expériences scientifiques.
+Paul : D'accord. Je ferai attention.
+Léa : Parfait. Alors ce midi, cantine ou restaurant ?
+Paul : Moi, je prends la cantine pour aujourd'hui. Je ne connais pas encore le quartier.
+Mehdi : Alors on y va ensemble. Demain, je te montre le restaurant.
+Josiane : Et vendredi, c'est télétravail pour toi, Paul ?
+Paul : Je ne sais pas. On m'a dit qu'il y a deux jours possibles par semaine.
+Léa : Oui, mais il faut choisir avec ton chef. Mehdi, tu prends quels jours, toi ?
+Mehdi : Le mardi et le jeudi. Comme ça, je viens le lundi, le mercredi et le vendredi, et je vois mon équipe.
+Josiane : Moi, je préfère être au bureau tous les jours. Chez moi, je me laisse distraire par le linge ou la vaisselle.
+Léa : Moi, c'est le contraire. Je suis plus efficace à la maison, parce qu'il n'y a pas de bruit.
+Paul : Pas de bruit ? Moi, j'ai un voisin qui joue de la batterie.
+Mehdi : Ha ! Le voisin musicien. Il faut se mettre d'accord avec lui.
+Paul : Je lui ai déjà demandé de jouer plus tôt le matin. Il a dit non.
+Josiane : Alors, venez au bureau, Paul. Il y a le café, et il y a nous.
+Paul : C'est un argument sérieux.
+Léa : Et la vue, aussi. Regarde par la fenêtre, on voit un bout de la Seine.
+Paul : Oh oui ! Très joli. Vous avez de la chance.
+Mehdi : La Seine, et le parking à côté. On ne peut pas tout avoir.
+Josiane : Mais on peut avoir un croissant. Quelqu'un en veut un ? Il en reste trois dans la boîte.
+Léa : Oui, merci. Ils viennent d'où ?
+Josiane : De la boulangerie en bas. J'en achète chaque lundi, c'est ma tradition.
+Paul : Alors, bonne tradition !
+Mehdi : Et toi, Paul, tu fais du sport ?
+Paul : Un peu de football, le samedi. Je suis supporter de Lille, évidemment.
+Mehdi : Évidemment ! Moi, je suis pour Paris. On ne sera jamais d'accord.
+Paul : Ce n'est pas grave. On peut regarder un match ensemble, de temps en temps.
+Mehdi : Avec plaisir. Je connais un bar sympa près d'ici.
+Josiane : Sans moi. Le football, c'est trop long pour moi.
+Léa : Moi non plus. Je préfère faire du vélo le dimanche, avec Pistache dans le panier.
+Paul : Dans le panier ? Un chien ?
+Léa : Un tout petit chien, oui. Il pèse quatre kilos.
+Paul : Je pensais à un gros chien, comme un labrador.
+Léa : Ha ! Non, pas du tout. Tu veux voir une photo ?
+Paul : Oui, avec plaisir.
+Léa : Tiens. Là, il est dans son panier. Il porte un petit manteau rouge.
+Paul : Il est adorable. Il a un air très sérieux.
+Josiane : Il ne rigole jamais. C'est un chien comptable, comme moi.
+Mehdi : Josiane, tu es la personne la plus drôle de l'entreprise.
+Josiane : Merci. Mais c'est mon secret, ne le dis à personne.
+Paul : Je vois que l'ambiance est très bonne ici.
+Léa : Oui, on s'entend bien. Les réunions sont plus tendues que le café.
+Mehdi : Parce qu'il n'y a pas de café dans les réunions.
+(L'horloge indique neuf heures quarante. Les tasses sont vides.)
+Josiane : Bon, il est déjà neuf heures quarante. Il faut y retourner.
+Léa : Oui, j'ai un appel à dix heures. Je prépare mes notes.
+Mehdi : Paul, viens avec moi. Je te montre ton bureau.
+Paul : D'accord. Merci pour le café, tout le monde.
+Josiane : De rien. Demain, c'est ton tour d'apporter les croissants.
+Paul : Ah bon ? C'est une règle ?
+Léa : Une règle un peu inventée. Mais c'est une tradition, maintenant.
+Paul : D'accord, je m'en souviendrai. Vous les aimez comment ?
+Josiane : Au beurre, bien sûr. Les croissants à la margarine sont interdits.
+Paul : Compris. Au beurre, de la boulangerie en bas.
+Mehdi : Voilà. Tu vois, tu t'intègres déjà.
+Paul : C'est facile, avec vous.
+Léa : Si tu as une question, viens nous voir. On est au deuxième étage, au support.
+Paul : Merci. Je viendrai, c'est sûr.
+Josiane : Et si tu cherches la comptabilité, c'est à droite, derrière la plante verte.
+Paul : La plante verte, d'accord.
+Mehdi : Allez, au travail ! Bonne journée à tous.
+Léa : Bonne journée ! À midi, à la cantine ?
+Josiane : À midi, à la cantine. Ou au restaurant, si Mehdi paie.
+Mehdi : Je n'ai rien entendu. À tout à l'heure !
+
+## 낭독 포인트
+- 비음 모음: «bonjour», «volontiers», «comptabilité», «enchanté» — on, an, in 계열은 코로 울리는 모음이고 n은 따로 발음하지 않는다.
+- 연음·앙샹느망: «Tu es dedans», «chez elle», «Il en reste trois» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «croissant», «très», «merci», «supporter» — 목젖 근처에서 내는 마찰음.
+- u / ou: «tu», «du» vs «tout», «vous» — u는 입술을 모아 [y], ou는 [u].
+- 억양: 조지안은 활기차고 약간 장난스럽게, 레아는 밝고 빠르게, 메흐디는 느긋하게, 폴은 조심스럽게 시작해 점점 편하게. 말끝을 올려 묻는 질문 억양에 유의.
+- 호칭: 직장 동료끼리 모두 tu. 처음 만난 폴에게도 바로 tu를 쓰는 것이 이 회사의 분위기다.
+
+## 학습 포인트 정리
+- A2 구간(1~20턴): 월요일 아침 인사와 주말 이야기
+  · «J'ai mal dormi.», «On a marché toute la journée, au parc de Saint-Cloud.», «Il a couru derrière des canards pendant une heure.»
+- A2 구간(21~40턴): 새 동료 환영하기
+  · «Je m'appelle Paul.», «Moi, c'est Mehdi, ton chef d'équipe», «Tu viens d'où, Paul ?»
+- A2 구간(41~60턴): 점심과 주방 규칙
+  · «Moi, je préfère le petit restaurant du coin.», «On nettoie ce qu'on salit, et on jette ses restes le vendredi.»
+- B1 구간(61~80턴): 재택근무 취향 이유 말하기
+  · «Je me laisse distraire par le linge ou la vaisselle.», «Je suis plus efficace à la maison, parce qu'il n'y a pas de bruit.»
+- A2 구간(81~100턴): 취미와 반려견
+  · «Je suis supporter de Lille, évidemment.», «Il pèse quatre kilos.», «On s'entend bien.»
+- A2 구간(101~120턴): 일터로 돌아가며 약속하기
+  · «Il est déjà neuf heures quarante.», «C'est ton tour d'apporter les croissants.», «À midi, à la cantine.»
+- 어휘: la salle de pause, la cantine, la gamelle, le micro-ondes, le frigo, le télétravail, le croissant, la comptabilité.
+
+## 속어 노트
+- «comme des sardines»: 정어리처럼 빽빽이(지하철이 붐빌 때).
+- «je ne mords pas»: 난 물지 않아, 편하게 대해(농담).
+- «la gamelle»: 도시락(구어).
+- «tout un programme»: 쉽지 않은 일, 한바탕 소동이 예상되는 일.
+- «dormir comme un bébé»: 아기처럼 푹 자다.
+- 재택근무 일수, 구내식당 가격, 휴게실 규칙은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 직장 동료 사이의 편한 tu 대화다.
+
+## 한글 해석
+(월요일 오전 9시 15분. 불로뉴비양쿠르 소프트웨어 회사의 휴게실. 조지안이 커피를 내리고 있다. 레아와 메흐디가 들어온다.)
+조지안 : 안녕, 안녕! 커피 다 됐어, 마실 사람?
+레아 : 나, 부탁해. 우유 한 방울만.
+조지안 : 우유 한 방울, 여기. 메흐디는?
+메흐디 : 블랙, 설탕 없이. 오늘 아침엔 힘이 필요해.
+조지안 : 무슨 일 있어?
+메흐디 : 아니, 잠을 잘 못 잤어. 이웃이 세 시까지 파티를 했거든.
+레아 : 어머. 토요일 밤이야, 일요일 밤이야?
+메흐디 : 둘 다. 아마 복권에 당첨됐나 봐.
+조지안 : 하! 아니면 여섯 달 늦게 봄을 축하하는 거겠지.
+레아 : 나는 아기처럼 잤어. 아홉 시에 자러 갔거든.
+메흐디 : 아홉 시? 일요일에?
+레아 : 피곤했어. 하루 종일 생클루 공원에서 걸었거든.
+조지안 : 강아지랑?
+레아 : 응, 피스타슈랑. 한 시간 동안 오리를 쫓아 뛰어다녔어.
+메흐디 : 잡았어?
+레아 : 아니, 다행히. 오리가 걔보다 빨라.
+조지안 : 불쌍한 피스타슈! 자, 네 커피.
+레아 : 고마워. 냄새 좋다.
+메흐디 : 조지안 커피야. 집 근처 작은 가게에서 사 오거든.
+조지안 : 응, 이시에 있는 로스터리. 조금 더 비싸지만 정말 맛있어.
+(폴이 새 사원증을 셔츠에 달고 들어온다.)
+폴 : 안녕하세요. 들어가도 될까요? 휴게실을 찾고 있어요.
+조지안 : 거기가 휴게실이야! 어서 와. 신입이지?
+폴 : 네. 폴이라고 해요. 오늘부터 메흐디 팀에서 일해요.
+메흐디 : 아, 너구나! 안녕, 폴. 나는 메흐디, 네 팀장이야. 걱정 마, 안 물어.
+폴 : 반가워요. 여기 와서 다 만나 보라고 하셨어요.
+레아 : 어서 와! 난 레아, 고객 지원 일해. 커피 마실래?
+폴 : 좋아요. 블랙으로, 설탕 조금요.
+조지안 : 설탕 조금, 여기. 난 조지안, 회계 일해.
+폴 : 반가워요, 조지안. 이 커피 아주 맛있네요.
+조지안 : 하! 봐, 아는 사람이 있네.
+레아 : 폴은 어디서 왔어? 파리 사람은 아닌 것 같은데.
+폴 : 릴에서 왔어요. 두 주 전에 여자친구랑 왔어요.
+메흐디 : 릴! 좋아해. 감자튀김, 맥주, 궂은 날씨...
+폴 : 네, 날씨는 여기도 결국 비슷하네요.
+조지안 : 전혀 아니야! 파리가 비는 덜 와. 곧 알게 될 거야.
+폴 : 확인해 볼게요. 지금까지는 지하철만 봤어요.
+레아 : 아, 지하철. 아침엔 한바탕 소동이지.
+폴 : 몽트뢰유에서 9호선을 탔어요. 정어리처럼 끼어 있었어요.
+메흐디 : 진짜 파리 생활에 온 걸 환영해!
+폴 : 반겨 주셔서 고마워요. 벌써 조금 나아졌어요.
+조지안 : 그럼 폴, 점심은 우리랑 같이 먹을래?
+폴 : 좋아요. 어디로 가요?
+레아 : 1층에 구내식당이 있어. 괜찮고 안 비싸.
+메흐디 : 난 모퉁이 작은 식당이 더 좋아. 음식이 더 맛있어.
+조지안 : 하지만 더 비싸잖아, 메흐디. 십이 유로 대 육 유로.
+메흐디 : 알아, 그래도 육 유로 더 내고 행복해지면 합리적이야.
+레아 : 나는 도시락을 자주 싸 와. 거의 돈이 안 들어.
+폴 : 도시락이요? 상자에 담은 밥이에요?
+레아 : 응. 어제는 페스토 파스타였어. 전자레인지에 데웠고.
+조지안 : 조심해, 전자레인지가 지금 더러워.
+메흐디 : 나 아니야! 난 한 번도 안 써.
+조지안 : 네가 그랬다는 게 아니야. 누가 수프를 터뜨렸어.
+레아 : 아마 나야, 지난 월요일에. 미안.
+조지안 : 하! 알고 있었어. 네가 닦을래?
+레아 : 응, 응, 오늘, 약속할게.
+폴 : 주방에 규칙이 있어요?
+조지안 : 응, 냉장고에 작은 종이가 붙어 있어. 더럽힌 건 닦고, 남은 음식은 금요일에 버려.
+메흐디 : 금요일에, 안 그러면 요거트가 과학 실험이 되거든.
+폴 : 알겠어요. 조심할게요.
+레아 : 좋아. 그럼 점심은 구내식당이야, 식당이야?
+폴 : 저는 오늘은 구내식당이요. 아직 이 동네를 몰라서요.
+메흐디 : 그럼 같이 가자. 내일은 식당을 보여 줄게.
+조지안 : 그리고 금요일은 폴, 재택근무야?
+폴 : 모르겠어요. 일주일에 이틀 가능하다고 들었어요.
+레아 : 응, 근데 팀장하고 정해야 해. 메흐디는 무슨 요일에 해?
+메흐디 : 화요일과 목요일. 그래서 월, 수, 금에 와서 팀을 봐.
+조지안 : 나는 매일 사무실에 있는 게 좋아. 집에선 빨래나 설거지에 정신이 팔려.
+레아 : 난 반대야. 소음이 없어서 집에서 더 효율적이야.
+폴 : 소음이 없다고요? 저는 이웃이 드럼을 쳐요.
+메흐디 : 하! 음악가 이웃. 서로 합의를 봐야겠네.
+폴 : 아침에 더 일찍 쳐 달라고 부탁했는데 안 된다고 했어요.
+조지안 : 그럼 사무실로 와, 폴. 커피도 있고 우리도 있잖아.
+폴 : 설득력 있는 이유네요.
+레아 : 전망도 있어. 창밖을 봐, 센강이 조금 보여.
+폴 : 오 맞네요! 예뻐요. 운이 좋으시네요.
+메흐디 : 센강이랑 옆에 주차장도. 다 가질 순 없지.
+조지안 : 그래도 크루아상은 가질 수 있어. 먹을 사람? 상자에 세 개 남았어.
+레아 : 응, 고마워. 어디 거야?
+조지안 : 아래층 빵집. 매주 월요일에 사 와, 내 전통이야.
+폴 : 그럼 좋은 전통이네요!
+메흐디 : 폴은 운동 해?
+폴 : 토요일에 축구를 조금요. 당연히 릴 팬이고요.
+메흐디 : 당연하지! 난 파리 편이야. 우린 절대 의견이 안 맞겠네.
+폴 : 괜찮아요. 가끔 같이 경기를 볼 수 있잖아요.
+메흐디 : 좋지. 근처에 괜찮은 바 알아.
+조지안 : 난 빼 줘. 축구는 나한테 너무 길어.
+레아 : 나도. 난 일요일에 피스타슈를 바구니에 태우고 자전거 타는 게 좋아.
+폴 : 바구니에요? 강아지를요?
+레아 : 응, 아주 작은 강아지야. 사 킬로그램이야.
+폴 : 래브라도 같은 큰 개인 줄 알았어요.
+레아 : 하! 아니야, 전혀. 사진 볼래?
+폴 : 네, 좋아요.
+레아 : 자. 여기 바구니에 있어. 작은 빨간 외투를 입었어.
+폴 : 귀엽네요. 아주 진지한 표정이에요.
+조지안 : 절대 안 웃어. 나처럼 회계 강아지야.
+메흐디 : 조지안, 네가 회사에서 제일 웃긴 사람이야.
+조지안 : 고마워. 그런데 비밀이니까 아무한테도 말하지 마.
+폴 : 여기 분위기가 아주 좋네요.
+레아 : 응, 잘 지내. 회의가 커피보다 더 긴장돼.
+메흐디 : 회의엔 커피가 없으니까.
+(시계가 아홉 시 사십 분을 가리킨다. 잔들이 비었다.)
+조지안 : 자, 벌써 아홉 시 사십 분이야. 돌아가야 해.
+레아 : 응, 열 시에 통화가 있어. 메모를 준비할게.
+메흐디 : 폴, 나랑 같이 가. 네 자리를 보여 줄게.
+폴 : 알겠어요. 커피 고마워요, 모두.
+조지안 : 별말씀. 내일은 폴이 크루아상 가져올 차례야.
+폴 : 네? 규칙이에요?
+레아 : 조금 지어낸 규칙이야. 그래도 이제 전통이야.
+폴 : 알겠어요, 기억할게요. 어떤 걸 좋아하세요?
+조지안 : 당연히 버터 크루아상이지. 마가린 크루아상은 금지야.
+폴 : 알겠어요. 아래층 빵집 버터 크루아상.
+메흐디 : 됐어. 벌써 적응하네.
+폴 : 여러분과 있으면 쉬워요.
+레아 : 궁금한 거 있으면 찾아와. 우리는 2층 고객 지원이야.
+폴 : 고마워요. 꼭 갈게요.
+조지안 : 그리고 회계를 찾으면 오른쪽, 화분 뒤야.
+폴 : 화분 뒤, 알겠어요.
+메흐디 : 자, 일하러! 모두 좋은 하루.
+레아 : 좋은 하루! 점심은 구내식당에서?
+조지안 : 점심은 구내식당. 메흐디가 쏘면 식당도 가능하고.
+메흐디 : 못 들었어. 이따 봐!

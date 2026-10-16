@@ -1,0 +1,290 @@
+# 4부 1화. Entretien d'embauche (취업 면접)
+난이도: 주 B1 | 구간: B2→B2→A2→B1→B1→A2 | 형식: 2인 | 장소: 생드니의 물류 회사 2층 회의실 | 시간: 화요일 오전 10시
+등장인물: Hélène, Karim
+이슈: 주 ● 면접에서 나오는 사생활 질문(결혼·자녀 계획) | 곡선: 0-0-2-2-3-3 (후반폭발형, 상한 3) | 입장: A 엘렌(인사 담당자로 회사의 오래된 질문지를 따라야 하지만 스스로도 불편하다) / B 카림(일과 무관한 사생활 질문에는 답하고 싶지 않다)
+상황 카드: 카림은 물류 회사의 관리 보조직 면접을 보러 왔다. 이력과 능력 이야기는 순조로운데, 인사 담당자 엘렌이 회사의 오래된 질문지에 있는 결혼·자녀 계획을 묻기 시작한다. 카림은 답하지 않겠다고 하고, 엘렌은 사장의 방침과 자신의 불편함 사이에서 흔들린다. 카림이 "계획 기간을 묻는 질문으로 바꾸자"고 제안하지만 결론은 나지 않고, 다음 날 답을 주기로 하며 끝난다.
+학습 포인트: 면접 자기소개(J'ai fait un BTS) · 장단점 말하기 · 불편한 질문에 선 긋기(Je préfère parler du poste) · 조건 표현(si le contrat est clair) · 약속 정하기(Je vous appelle à onze heures)
+
+## 대화
+(화요일 아침, 생드니에 있는 물류 회사 2층 회의실. 엘렌 가르니에가 관리 보조직 면접을 보러 온 카림 브날리를 맞이한다.)
+Hélène : Bonjour, monsieur Benali. Merci d'être venu jusqu'ici. Le RER D ne vous a pas trop retardé ?
+Karim : Bonjour, madame. Non, ça s'est bien passé. Je suis même arrivé avec vingt minutes d'avance.
+Hélène : C'est une bonne habitude. Installez-vous, je vous en prie. Vous voulez un verre d'eau ?
+Karim : Volontiers, merci. Il fait un peu chaud dans le couloir.
+Hélène : Oui, le chauffage ne se règle pas, c'est le bâtiment. Alors, je me présente, Hélène Garnier, responsable des ressources humaines.
+Karim : Enchanté. J'ai préparé quelques notes, si vous permettez, mais je peux aussi parler sans.
+Hélène : Parlez sans, ce sera plus naturel. Pour commencer, pouvez-vous me retracer votre parcours en quelques minutes ?
+Karim : Bien sûr. J'ai fait un BTS de gestion à Créteil, puis une licence professionnelle en alternance dans une entreprise de transport.
+Hélène : Vous étiez en alternance pendant combien de temps ?
+Karim : Deux ans. Trois semaines en entreprise, une semaine en cours, et ça m'a énormément appris sur le terrain.
+Hélène : Et depuis la fin de la licence ?
+Karim : J'ai travaillé dix-huit mois dans un entrepôt près de Roissy, au service facturation, jusqu'à ce que le site ferme.
+Hélène : C'est dommage. Qu'est-ce qui s'est passé exactement ?
+Karim : L'entreprise a été rachetée et on a regroupé les services dans une autre région. Je n'ai pas voulu quitter la région parisienne.
+Hélène : Je comprends. Et aujourd'hui, qu'est-ce qui vous attire dans notre société ?
+Karim : Plusieurs choses. D'abord, vous gérez des flux que je connais déjà, ensuite l'équipe me paraît à taille humaine.
+Hélène : À taille humaine, oui, nous sommes quarante. Ça a des avantages et des inconvénients.
+Karim : Autrement dit, on y fait un peu de tout ?
+Hélène : Exactement. Il faut que vous soyez à l'aise avec la polyvalence.
+Karim : Je le suis. Dans mon ancien poste, je faisais déjà la facturation, les relances et un peu de planning.
+Hélène : Parfait. Parlons de vos compétences. Vous maîtrisez quels logiciels ?
+Karim : Excel, évidemment, avec les tableaux croisés dynamiques, et un progiciel de gestion. Je me débrouille aussi avec un outil d'archivage électronique.
+Hélène : Très bien. Et côté langues ?
+Karim : L'anglais courant, parce qu'on avait des clients à Londres, et l'arabe, qui est la langue de ma famille.
+Hélène : L'arabe peut être un atout, nous avons des fournisseurs à Casablanca.
+Karim : Dans ce cas, j'aurais plaisir à les appeler directement. Ça éviterait des malentendus.
+Hélène : Ça nous ferait gagner du temps, en effet. Quel est votre plus grand défaut, selon vous ?
+Karim : La question classique, non ? Je dirais que j'ai du mal à déléguer quand je crains qu'une erreur ne passe.
+Hélène : Et votre plus grande qualité ?
+Karim : La rigueur. Je relis toujours deux fois avant d'envoyer, quitte à rester dix minutes de plus.
+Hélène : Ce n'est pas un défaut, ça. Dites-moi, vous avez déjà eu un conflit avec un collègue ?
+Karim : Une fois. Un collègue contestait mes chiffres, alors j'ai proposé qu'on les vérifie ensemble, ligne par ligne.
+Hélène : Et alors ?
+Karim : On a trouvé une erreur dans son fichier, pas dans le mien, mais je ne l'ai pas dit devant tout le monde.
+Hélène : Vous avez bien fait. Il vaut mieux régler ça en tête à tête.
+Karim : C'est ce que je pense, oui. Sinon, la relation se dégrade pour longtemps.
+Hélène : Parfait. Passons à l'organisation. Le poste est à temps plein, du lundi au vendredi.
+Karim : Avec quels horaires, plutôt ?
+Hélène : De neuf heures à dix-sept heures trente, avec une heure de pause, et parfois on finit plus tard en fin de mois.
+Karim : Pas de problème pour moi, tant que c'est prévu à l'avance.
+(Hélène ouvre un formulaire jauni dans le dossier et lit en diagonale.)
+Hélène : Bon. J'ai quelques questions simples, c'est pour le dossier.
+Karim : Oui, allez-y.
+Hélène : Vous avez quel âge ?
+Karim : J'ai vingt-neuf ans.
+Hélène : Vous habitez où ?
+Karim : À Bagneux, dans le sud. J'y habite depuis cinq ans.
+Hélène : C'est loin d'ici, non ?
+Karim : Environ une heure. Je prends le RER B, puis le D.
+Hélène : D'accord. Et vous êtes marié ?
+Karim : Non, je suis célibataire. Pourquoi cette question ?
+Hélène : C'est dans le formulaire. Je dois la poser à tout le monde.
+Karim : Ah. Je ne savais pas que c'était obligatoire.
+Hélène : Ce n'est pas obligatoire pour vous. C'est une vieille fiche de la société.
+Karim : Je vois. Alors, oui, célibataire.
+Hélène : Merci. Vous avez des enfants ?
+Karim : Non, pas d'enfants. Pas pour l'instant.
+Hélène : Pas pour l'instant ? Vous y pensez ?
+Karim : Euh... c'est une question personnelle, non ?
+Hélène : Oui, un peu. Excusez-moi, je voulais juste noter.
+Karim : Pas de souci, mais je préfère parler du poste.
+Hélène : Vous avez raison. Revenons au poste. Vous pouvez commencer quand ?
+Karim : Dans deux semaines. Je termine une mission d'intérim vendredi prochain.
+Hélène : Très bien. Il y a quand même une chose que je dois vous demander. Le directeur y tient.
+Karim : Laquelle ?
+Hélène : Il veut savoir si vous comptez fonder une famille dans les deux ans. Il cherche quelqu'un de stable.
+Karim : Pardon ? Vous voulez dire que ma vie privée pèse dans ma candidature ?
+Hélène : Non, pas directement. Le poste est essentiel, et le dernier assistant est parti en congé parental au bout de six mois.
+Karim : Je comprends votre souci, mais en France, un homme aussi peut prendre un congé parental.
+Hélène : Oui, c'est vrai. Mais dans les faits, ce sont rarement les hommes.
+Karim : Peut-être, mais je ne peux pas répondre pour les autres.
+Hélène : Vous avez raison. Et si je pose la question à une candidate ? Elle répondrait pareil, je suppose.
+Karim : Sans doute, et elle aurait raison aussi.
+Hélène : Ce n'est pas facile pour moi non plus, vous savez. J'applique la consigne.
+Karim : Je n'en doute pas, madame, et je ne vous reproche rien.
+Hélène : Mais vous êtes quand même gêné.
+Karim : Un peu, oui. Je vous le dis calmement, mais je suis surpris.
+Hélène : Je comprends. Je vais être honnête avec vous.
+Karim : Je vous écoute.
+Hélène : Cette fiche date d'avant mon arrivée, et je l'ai souvent trouvée gênante.
+Karim : Alors pourquoi la garder ?
+(Un silence. Hélène referme le formulaire, puis le rouvre.)
+Hélène : Parce que le directeur dit que c'est le risque principal pour une petite équipe.
+Karim : Mais ce n'est pas à moi de porter ce risque. C'est à l'entreprise de s'organiser.
+Hélène : Dans une équipe de quarante, quand une personne part, tout le monde le sent.
+Karim : Je le comprends. Mais si je réponds, qu'est-ce que vous allez écrire ?
+Hélène : Ce que vous dites. Je note, et le directeur décide.
+Karim : Alors c'est pour ça que je ne réponds pas. Si je dis oui, vous me prenez pour un risque. Si je dis non, vous ne me croirez pas.
+Hélène : Vous voyez les choses trop en noir. Je ne pense pas comme ça.
+Karim : Peut-être pas vous, mais le directeur, si.
+Hélène : Je ne le connais pas si mal. Il est exigeant, pas injuste.
+Karim : Exigeant, d'accord. Mais cette question n'a rien à voir avec mon travail.
+Hélène : Pour vous, non. Pour lui, elle est liée au planning.
+Karim : Alors qu'il pose une question sur le planning, pas sur ma vie privée. Par exemple, « pouvez-vous vous engager sur deux ans ? »
+Hélène : Ah. Ça, c'est une idée. Je pourrais la lui proposer.
+Karim : Et je répondrais oui à celle-là, sans problème.
+Hélène : Vous seriez prêt à vous engager ?
+Karim : Oui, si le contrat et le salaire sont clairs. Je cherche un poste durable.
+Hélène : C'est un CDI, avec deux mois d'essai.
+Karim : C'est bien. Et le salaire ?
+Hélène : Deux mille deux cents euros brut par mois, plus les tickets-restaurant.
+Karim : C'est correct. Je vous avoue que je pensais un peu plus.
+(Hélène regarde l'horloge, puis note quelque chose au crayon.)
+Hélène : On peut en reparler. Ce n'est pas figé.
+Karim : Merci. Mais pour la question sur ma famille, ma réponse reste non.
+Hélène : Je comprends. Je vais écrire « n'a pas souhaité répondre ».
+Karim : Est-ce que ça va me nuire ?
+Hélène : Je ne sais pas. Je vous dis la vérité.
+Karim : Merci de votre honnêteté.
+Hélène : Je vais aussi parler de cette fiche au directeur.
+Karim : Vous pensez qu'il va changer d'avis ?
+Hélène : Peut-être pas. Mais je vais essayer.
+Karim : Et si je dis non à cause de ça ?
+Hélène : Ce serait dommage. Vous avez un bon profil.
+Karim : Mais je ne veux pas commencer comme ça.
+Hélène : Je comprends. Vous voulez réfléchir ?
+Karim : Oui, un peu. Je vous réponds demain ?
+Hélène : Demain, c'est bien. Avant midi, si possible.
+Karim : D'accord. Je vous appelle à onze heures.
+Hélène : Merci, monsieur Benali. Et merci d'avoir été clair.
+Karim : Merci à vous. L'entretien a été honnête.
+Hélène : Je vous raccompagne à l'ascenseur.
+Karim : Merci, madame. À demain.
+
+## 낭독 포인트
+- 비음 모음: «bonjour», «enchanté», «temps plein», «comprends» — on, an, in 계열은 코로 울리는 모음이고 n은 따로 발음하지 않는다.
+- 연음: «vous avez», «un peu», «c'est une» — 이어 읽을 때 끝 자음이 다음 모음 쪽으로 넘어간다.
+- 프랑스어 r: «rigueur», «merci», «raccompagne» — 목젖 근처에서 내는 마찰음.
+- 숫자 읽기: «vingt-neuf ans», «dix-sept heures trente», «deux mille deux cents» — 시각과 금액은 끊지 말고 한 덩어리로 읽는다.
+- 호칭: 엘렌과 카림은 처음부터 끝까지 vous. «monsieur Benali», «madame»을 정중하고 또렷하게.
+- 억양: 엘렌은 차분하고 사무적으로, 후반부에는 조금 머뭇거린다. 카림은 침착하지만 «Pardon ?»에서 살짝 올라간다.
+
+## 학습 포인트 정리
+- B2 구간(1~40턴): 이력과 능력 말하기
+  · 이력: «J'ai fait un BTS de gestion à Créteil», «jusqu'à ce que le site ferme.»
+  · 장단점: «Je dirais que j'ai du mal à déléguer», «La rigueur.»
+  · 의무·조건: «Il faut que vous soyez à l'aise avec la polyvalence.», «Dans ce cas, j'aurais plaisir à les appeler directement.»
+- A2 구간(41~60턴): 개인 정보 묻고 답하기
+  · «Vous avez quel âge ?», «J'ai vingt-neuf ans.», «Je suis célibataire.», «Je préfère parler du poste.»
+- B1 구간(61~80턴): 불편한 질문 거절하기
+  · «Je ne peux pas répondre pour les autres.», «Je ne vous reproche rien.», «Je suis surpris.»
+- B1 구간(81~100턴): 입장 설명과 대안 제시
+  · «Ce n'est pas à moi de porter ce risque.», «Alors qu'il pose une question sur le planning», «si le contrat et le salaire sont clairs»
+- A2 구간(101~120턴): 마무리와 약속
+  · «Je vous réponds demain ?», «Je vous appelle à onze heures.», «Est-ce que ça va me nuire ?»
+- 어휘: l'alternance, la facturation, le préavis, le CDI, la période d'essai, le congé parental, le brut, les tickets-restaurant.
+
+## 속어 노트
+- «à taille humaine»: 규모가 크지 않아 사람 사이가 가까운, 부담 없는 크기의.
+- «en tête à tête»: 둘이서만, 단둘이.
+- «en diagonale»: 대충 훑어서(읽다).
+- «figé»: 정해져 바뀌지 않는. «Ce n'est pas figé»는 아직 조정 여지가 있다는 말.
+- «être gêné»: 거북하다, 불편하다.
+- 면접 질문의 허용 범위, 계약 조건, 금액은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 처음부터 끝까지 vous를 쓰는 격식 있는 면접 장면이다.
+
+## 한글 해석
+(화요일 아침, 생드니에 있는 물류 회사 2층 회의실. 엘렌 가르니에가 관리 보조직 면접을 보러 온 카림 브날리를 맞이한다.)
+엘렌 : 안녕하세요, 브날리 씨. 여기까지 와 주셔서 감사합니다. RER D가 많이 늦지는 않았나요?
+카림 : 안녕하세요. 아니요, 잘 왔습니다. 오히려 이십 분 일찍 도착했어요.
+엘렌 : 좋은 습관이네요. 앉으세요. 물 한 잔 드릴까요?
+카림 : 네, 감사합니다. 복도가 좀 덥더라고요.
+엘렌 : 네, 난방이 조절이 안 돼요, 건물 탓이에요. 그럼 제 소개부터 할게요. 엘렌 가르니에, 인사 담당입니다.
+카림 : 반갑습니다. 메모를 조금 준비했는데, 괜찮으시면 보고, 없이도 말씀드릴 수 있어요.
+엘렌 : 없이 말씀하세요, 그게 더 자연스럽죠. 먼저 지금까지의 이력을 몇 분 안에 말씀해 주시겠어요?
+카림 : 물론입니다. 크레테유에서 경영 전문 학위를 받고, 운송 회사에서 현장 실습을 병행하며 전문 학사를 마쳤습니다.
+엘렌 : 실습은 얼마 동안 하셨어요?
+카림 : 이 년이요. 삼 주는 회사, 한 주는 수업이었는데, 현장에서 정말 많이 배웠어요.
+엘렌 : 학위를 마친 뒤에는요?
+카림 : 루아시 근처 물류 창고에서 청구 업무를 십팔 개월 했습니다. 그곳이 문을 닫을 때까지요.
+엘렌 : 안타깝네요. 정확히 무슨 일이 있었어요?
+카림 : 회사가 인수되면서 부서를 다른 지방으로 통합했어요. 저는 파리 지역을 떠나고 싶지 않았습니다.
+엘렌 : 이해합니다. 그럼 지금은 저희 회사의 어떤 점이 끌리세요?
+카림 : 여러 가지가 있어요. 우선 제가 이미 아는 물류 흐름을 다루시고, 팀도 사람 사이가 가까운 규모로 보입니다.
+엘렌 : 사람 사이가 가까운 규모, 맞아요. 저희는 마흔 명이에요. 장점도 단점도 있죠.
+카림 : 말하자면 이것저것 다 해야 한다는 거군요?
+엘렌 : 맞아요. 여러 일을 하는 데 익숙하셔야 해요.
+카림 : 익숙합니다. 예전 자리에서도 청구, 독촉, 일정 관리를 조금씩 같이 했어요.
+엘렌 : 좋아요. 능력 이야기를 해 보죠. 어떤 프로그램을 다루세요?
+카림 : 엑셀은 당연히 쓰고 피벗 테이블도 하고요, 경영 관리 프로그램도 씁니다. 전자 문서 보관 도구도 어느 정도 다룹니다.
+엘렌 : 아주 좋아요. 언어는요?
+카림 : 영어는 유창합니다. 런던에 고객이 있었거든요. 그리고 가족의 언어인 아랍어도 해요.
+엘렌 : 아랍어는 강점이 될 수 있어요. 카사블랑카에 거래처가 있거든요.
+카림 : 그렇다면 제가 직접 전화하면 좋겠네요. 오해도 줄일 수 있고요.
+엘렌 : 시간도 아낄 수 있겠죠. 본인이 생각하는 가장 큰 단점은 뭔가요?
+카림 : 전형적인 질문이네요. 실수가 지나갈까 걱정돼서 일을 맡기는 게 서툴다고 하겠습니다.
+엘렌 : 그럼 가장 큰 장점은요?
+카림 : 꼼꼼함입니다. 보내기 전에 늘 두 번 다시 읽어요. 십 분 더 남게 되더라도요.
+엘렌 : 그건 단점이 아닌데요. 그런데 동료와 갈등을 겪은 적은 있어요?
+카림 : 한 번 있어요. 동료가 제 숫자에 이의를 제기해서, 같이 한 줄씩 확인하자고 했습니다.
+엘렌 : 그래서요?
+카림 : 제 파일이 아니라 그쪽 파일에서 오류가 나왔는데, 다른 사람들 앞에서는 말하지 않았어요.
+엘렌 : 잘하셨네요. 그런 건 둘이서 푸는 게 낫죠.
+카림 : 저도 그렇게 생각해요. 안 그러면 관계가 오래 나빠지니까요.
+엘렌 : 좋아요. 근무 조건으로 넘어가죠. 정규직 풀타임이고 월요일부터 금요일까지입니다.
+카림 : 시간은 어떻게 되나요?
+엘렌 : 아홉 시부터 다섯 시 반까지고 휴식은 한 시간입니다. 월말에는 더 늦게 끝나기도 해요.
+카림 : 저는 괜찮습니다. 미리 알려 주시기만 하면요.
+(엘렌이 서류철에서 누렇게 바랜 양식을 꺼내 대충 훑어 읽는다.)
+엘렌 : 자, 간단한 질문 몇 개만 할게요. 서류에 필요해서요.
+카림 : 네, 하세요.
+엘렌 : 나이가 어떻게 되세요?
+카림 : 스물아홉 살입니다.
+엘렌 : 어디 사세요?
+카림 : 남쪽에 있는 바뇌예요. 오 년째 살고 있어요.
+엘렌 : 여기서 멀지 않아요?
+카림 : 한 시간쯤요. RER B 타고 D로 갈아탑니다.
+엘렌 : 알겠어요. 결혼은 하셨어요?
+카림 : 아니요, 미혼입니다. 그런데 왜 그걸 묻죠?
+엘렌 : 양식에 있어서요. 모든 분께 물어야 해요.
+카림 : 아. 그게 필수인 줄은 몰랐네요.
+엘렌 : 지원자분께 필수는 아니에요. 회사의 오래된 양식이라서요.
+카림 : 그렇군요. 그럼 네, 미혼입니다.
+엘렌 : 감사합니다. 자녀는 있으세요?
+카림 : 아니요, 없습니다. 아직은요.
+엘렌 : 아직은요? 생각은 있으세요?
+카림 : 음... 개인적인 질문 아닌가요?
+엘렌 : 네, 조금요. 실례했어요, 적어 두려고 했을 뿐이에요.
+카림 : 괜찮습니다, 그래도 일 얘기를 하고 싶어요.
+엘렌 : 맞는 말씀이에요. 일 얘기로 돌아가죠. 언제부터 시작할 수 있어요?
+카림 : 이 주 뒤요. 다음 주 금요일에 파견 근무가 끝나거든요.
+엘렌 : 좋아요. 그래도 꼭 물어야 할 게 하나 있어요. 사장님이 중요하게 여기셔서요.
+카림 : 뭔가요?
+엘렌 : 이 년 안에 가정을 꾸릴 계획이 있는지 알고 싶어 하세요. 안정적인 사람을 찾고 계시거든요.
+카림 : 네? 제 사생활이 지원 심사에 영향을 준다는 말씀인가요?
+엘렌 : 아니요, 직접적으로는요. 이 자리가 중요한데, 전임 보조가 육 개월 만에 육아 휴직을 갔어요.
+카림 : 걱정은 이해하지만, 프랑스에서는 남자도 육아 휴직을 쓸 수 있잖아요.
+엘렌 : 네, 맞아요. 그래도 실제로는 남자가 쓰는 경우가 드물죠.
+카림 : 그럴 수도 있지만, 저는 다른 사람들 대신 대답할 수는 없습니다.
+엘렌 : 맞는 말이에요. 만약 여성 지원자에게 물으면요? 아마 똑같이 대답하겠죠.
+카림 : 그럴 거고, 그분 말도 옳겠죠.
+엘렌 : 저도 쉽지 않아요. 지침을 적용하는 거예요.
+카림 : 의심하지 않아요. 탓하는 것도 아니고요.
+엘렌 : 그래도 불편하신 거죠.
+카림 : 조금요. 차분하게 말씀드리지만, 놀랐습니다.
+엘렌 : 이해해요. 솔직하게 말씀드릴게요.
+카림 : 듣고 있습니다.
+엘렌 : 그 양식은 제가 오기 전부터 있었는데, 저도 자주 불편했어요.
+카림 : 그럼 왜 그대로 두죠?
+(침묵. 엘렌이 양식을 덮었다가 다시 연다.)
+엘렌 : 사장님 말로는 작은 팀에 가장 큰 위험 요소라서요.
+카림 : 그래도 그 위험을 지는 건 제 몫이 아니에요. 회사가 대비할 일이죠.
+엘렌 : 마흔 명 팀에서는 한 사람이 빠지면 다들 느껴요.
+카림 : 그건 이해합니다. 그런데 제가 대답하면 뭐라고 적으실 건가요?
+엘렌 : 말씀하신 대로요. 저는 적고, 사장님이 결정해요.
+카림 : 그래서 대답하지 않는 겁니다. 그렇다고 하면 위험 요소로 보시고, 아니라고 하면 믿지 않으실 테니까요.
+엘렌 : 너무 어둡게 보시네요. 저는 그렇게 생각하지 않아요.
+카림 : 엘렌 씨는 아니겠지만 사장님은 그럴 수 있죠.
+엘렌 : 그렇게까지 모르는 사람은 아니에요. 엄격하지, 부당하진 않아요.
+카림 : 엄격한 건 좋아요. 그래도 이 질문은 제 업무와 상관이 없어요.
+엘렌 : 지원자께는 그렇죠. 사장님께는 일정 문제와 이어져 있고요.
+카림 : 그럼 일정에 대해 물으시면 되죠, 사생활 말고요. 예를 들면 "이 년간 일할 수 있나요?" 하는 식으로요.
+엘렌 : 아. 그건 좋은 생각이네요. 사장님께 제안해 볼 수 있겠어요.
+카림 : 그 질문에는 문제없이 네라고 답하겠습니다.
+엘렌 : 정말 오래 일할 마음이 있으세요?
+카림 : 네, 계약과 급여가 분명하다면요. 오래 갈 수 있는 자리를 찾고 있어요.
+엘렌 : 정규직 계약이고 수습은 두 달이에요.
+카림 : 좋네요. 급여는요?
+엘렌 : 세전 한 달에 이천이백 유로고 식권이 추가됩니다.
+카림 : 괜찮네요. 솔직히 조금 더 생각했습니다.
+(엘렌이 시계를 보고 연필로 무언가를 적는다.)
+엘렌 : 다시 얘기할 수 있어요. 고정은 아니에요.
+카림 : 감사합니다. 그래도 가족에 관한 질문은 제 대답이 여전히 아니요입니다.
+엘렌 : 이해해요. "답변을 원하지 않음"이라고 적을게요.
+카림 : 그게 저한테 불리하게 작용할까요?
+엘렌 : 모르겠어요. 사실대로 말씀드리는 거예요.
+카림 : 솔직히 말씀해 주셔서 감사합니다.
+엘렌 : 그 양식 얘기도 사장님께 해 볼게요.
+카림 : 사장님이 생각을 바꾸실 것 같으세요?
+엘렌 : 아마 아니겠죠. 그래도 해 볼게요.
+카림 : 그리고 제가 그것 때문에 거절하면요?
+엘렌 : 아쉬울 거예요. 좋은 지원자시니까요.
+카림 : 그래도 이렇게 시작하고 싶지는 않아요.
+엘렌 : 이해해요. 생각해 보시겠어요?
+카림 : 네, 조금요. 내일 답을 드려도 될까요?
+엘렌 : 내일 좋아요. 가능하면 정오 전에요.
+카림 : 알겠습니다. 열한 시에 전화드릴게요.
+엘렌 : 고마워요, 브날리 씨. 분명히 말씀해 주셔서도요.
+카림 : 저야말로요. 솔직한 면접이었어요.
+엘렌 : 엘리베이터까지 모셔다 드릴게요.
+카림 : 감사합니다. 내일 뵙겠습니다.

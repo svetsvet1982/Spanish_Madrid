@@ -1,0 +1,289 @@
+# 3부 6화. Le bistrot ferme (문 닫는 비스트로)
+난이도: 주 C1 | 구간: C1→C1→B2→B2→C1→C1 | 형식: 2인+단체메시지 | 장소: 파리 20구 동네 비스트로 | 시간: 화요일 저녁 일곱 시, 마감 한 시간 전
+등장인물: Josiane, Denis, Groupe WhatsApp
+이슈: 주 ● 동네 비스트로 폐업과 단골들의 반응 | 곡선: 0-1-2-3-2-1 (정점형, 상한 3) | 입장: A 조지안(서른한 해 일했고 몸도 지쳤으며 임대료가 두 배 넘게 뛰어 접기로 했다) / B 드니(동네의 얼굴인 가게를 지키고 싶어 청원이나 단골 공동 인수를 제안한다) / 단체방(집주인을 탓하는 사람, 조지안의 결정을 존중하자는 사람이 섞여 있다)
+상황 카드: 화요일 저녁 비스트로 문에 폐업 안내문이 붙어 있다. 단골 드니가 조지안에게 사실이냐고 묻고, 임대료와 건강 때문에 정한 일이라는 말을 듣는다. 드니는 청원과 공동 인수를 이야기하고, 단골들의 단체방에 메시지가 쏟아진다. 조지안은 서운함과 피로 사이에서 흔들리지만 쉽게 약속하지 않는다. 결말은 열려 있다(마지막 날 모임에서 드니가 제안을 설명하기로 한다). 금액과 계약 사정은 모두 이야기 속 가공이다.
+학습 포인트: 아쉬움과 충격 표현(Je n'en reviens pas) · 완곡한 설명(Ce n'est pas une question de...) · 의견 충돌과 존중(Je comprends, mais) · 접속법(Il faut que...) · 관용구(tirer le rideau, mettre la clé sous la porte)
+
+## 대화
+(Mardi soir, dix-neuf heures. Dans un bistrot du vingtième arrondissement, Josiane essuie le zinc. Denis entre, secoue son parapluie et s'installe à son tabouret habituel.)
+Josiane : Tiens, voilà le premier de la soirée. Tu es en avance, Denis.
+Denis : Il pleut à verse, je n'avais pas envie de traîner dehors. Le demi habituel, s'il te plaît.
+Josiane : Tout de suite. Il fait un temps de chien, ce soir, je ne te le fais pas dire.
+Denis : Et toi, ça va ? Tu as l'air un peu fatiguée.
+Josiane : Moi, ça va, ça va. Les jambes, comme d'habitude. Voilà ton demi.
+Denis : Merci. Tiens, tu as changé la lumière ? C'est plus chaud, plus doux.
+Josiane : C'est mon neveu qui a mis des ampoules neuves, il y a une semaine.
+Denis : Ça te va bien. Ça rappelle le bistrot d'avant, celui de ton père.
+Josiane : Tu t'en souviens ? Tu devais avoir trente ans, à l'époque.
+Denis : Trente-quatre. Je venais pour la partie de belote du jeudi.
+Josiane : Et tu perdais toujours.
+Denis : Je perdais avec élégance, nuance.
+Josiane : Si tu veux. Tu prends quelque chose à manger ? Il reste du pâté de campagne.
+Denis : Volontiers, avec du cornichon, comme toujours.
+Josiane : Je te le sors. Tu aimes toujours le pain grillé ?
+Denis : Plus que jamais. Il y a des habitudes qu'on ne perd pas.
+Josiane : Ça, c'est vrai.
+Denis : Dis-moi, Josiane, c'est un nouveau service, les lumières chaudes ? On dirait une soirée spéciale.
+Josiane : Pas vraiment. Je voulais juste que ça fasse joli pour la fin du mois.
+Denis : La fin du mois ? Qu'est-ce qui se passe à la fin du mois ?
+(Josiane repose le torchon. Elle jette un coup d'œil vers la vitrine, où une feuille est scotchée côté rue.)
+Josiane : Tu n'as pas vu l'affichette sur la porte, en entrant ?
+Denis : Non, j'avais la tête dans mon parapluie. C'est quoi ?
+Josiane : Va voir, sinon tu ne me croiras pas.
+Denis : Josiane, tu m'inquiètes. Dis-moi, simplement.
+Josiane : On ferme le trente et un janvier. Définitivement.
+Denis : Pardon ? Je n'ai pas bien entendu.
+Josiane : Tu as très bien entendu, Denis. Le bistrot ferme.
+Denis : Mais enfin, ce n'est pas possible. Après trente ans ?
+Josiane : Trente et un, pour être précise, dont vingt-deux avec ce bail.
+Denis : Je n'en reviens pas. Personne ne m'a rien dit.
+Josiane : Personne ne le sait. Tu es le premier. Je comptais l'annoncer samedi, à tous.
+Denis : Et je tombe dessus par hasard, parce qu'il pleut.
+Josiane : Je suis désolée. Je n'ai pas eu le courage plus tôt.
+Denis : Ne t'excuse pas. Mais dis-moi pourquoi, au moins.
+Josiane : Le propriétaire a augmenté le loyer. Il passe de deux mille huit cents à six mille cinq cents euros par mois.
+Denis : Six mille cinq cents ! Mais c'est de la folie.
+Josiane : C'est son droit, il paraît. Le bail se termine, il en fait un nouveau au prix du marché.
+Denis : Et toi, tu ne peux pas négocier ?
+Josiane : J'ai essayé, deux fois. Il m'a répondu que ce n'était plus de son ressort.
+Denis : Comment ça, plus de son ressort ? C'est lui, le propriétaire !
+Josiane : Il a vendu le mur à une société. Maintenant, c'est une agence qui gère tout.
+Denis : Alors il faut qu'on fasse quelque chose. On ne peut pas laisser faire ça.
+Josiane : Qui, on ? Toi, moi, les clients ?
+Denis : Tous les habitués. On peut lancer une pétition, faire du bruit.
+Josiane : Une pétition, ça ne paie pas un loyer de six mille euros.
+Denis : Non, mais ça fait pression. Les gens comptent, dans un quartier.
+Josiane : Denis, je suis touchée, mais ce n'est pas qu'une question de loyer.
+Denis : Alors qu'est-ce que c'est ?
+Josiane : Mes jambes, mon dos. Je me lève à six heures depuis trente ans. J'ai soixante-trois ans.
+Denis : Je comprends, mais tu pourrais embaucher quelqu'un.
+Josiane : Avec quel argent ? Mon dernier serveur est parti en juin, je n'ai pas pu le remplacer.
+Denis : Et ta fille ? Elle ne veut pas reprendre ?
+Josiane : Elle est comptable à Lyon. Elle a sa vie, ses enfants. Je ne lui demanderai jamais ça.
+Denis : Mais le bistrot, c'est ta vie.
+Josiane : C'était ma vie. Maintenant, c'est mon épuisement, et je préfère le dire franchement.
+Denis : Pardon, je ne voulais pas minimiser.
+Josiane : Je sais. Mais ne me dis pas que je dois me battre, s'il te plaît.
+Denis : Je ne te dis pas ça. Je dis que le quartier va perdre quelque chose.
+Josiane : Le quartier, il en a vu d'autres.
+(Le téléphone de Denis vibre sur le zinc. Puis celui de Josiane. Les deux écrans s'allument en même temps.)
+Denis : C'est le groupe des habitués. J'ai fait un message tout à l'heure avant d'entrer.
+Josiane : Tu as dit quoi ?
+Denis : Juste « Il se passe quelque chose au bistrot, vous passez ce soir ? » Et voilà.
+Groupe WhatsApp : [Marc] Quoi ? Josiane arrête ? Mais c'est une catastrophe !
+Groupe WhatsApp : [Hélène] Comment ça, on ne l'a pas su avant ? Il faut une pétition, tout de suite.
+Josiane : Ah, tu vois, tu lances une pétition sans même m'avoir demandé.
+Denis : Je n'ai rien lancé, ce sont eux qui s'emballent. Je n'ai même pas répondu.
+Groupe WhatsApp : [Paul] Le propriétaire est un vampire. On devrait le boycotter, lui et sa société !
+Groupe WhatsApp : [Nadia] Calmez-vous. C'est son choix à elle, laissez-la tranquille.
+Josiane : Tu vois, Nadia me comprend. Les autres veulent que je me batte, alors que je suis fatiguée.
+Denis : Ils t'aiment, c'est tout. Ils ne veulent pas te perdre.
+Josiane : Ils ne me perdent pas, ils perdent un bar.
+Denis : Non, Josiane, ça, tu te trompes. Un bar, il y en a mille à Paris. Toi, il n'y en a qu'une.
+Josiane : Tu es gentil, mais ne me fais pas pleurer devant les clients.
+Groupe WhatsApp : [Marc] Et si on rachetait le fonds de commerce ? Tous ensemble, en coopérative ?
+Denis : Tiens, c'est une idée qui me plaît. Une coopérative de clients, ça existe.
+Josiane : Une coopérative, avec des gens qui ne sont jamais d'accord sur le prix du demi ?
+Denis : Les gens apprennent à s'entendre quand c'est leur bistrot.
+Josiane : Et qui fera le travail ? Qui se lèvera à six heures ?
+Denis : On embauchera un gérant, ou ta fille peut superviser de loin.
+Josiane : Denis, je n'ai pas dit non, mais je ne dis pas oui. Laisse-moi respirer.
+(Les messages s'enchaînent. Josiane pose son téléphone, retourne l'écran vers le comptoir. Denis fait de même. Le silence retombe, avec seulement le bruit de la pluie.)
+Josiane : Excuse-moi si j'ai été sèche. Ce n'était pas contre toi.
+Denis : Tu n'as pas à t'excuser. C'est moi qui m'emballe.
+Josiane : C'est que je ne sais pas comment on dit adieu à un lieu.
+Denis : On ne dit pas adieu, je crois. On tire le rideau, et on y repense toute sa vie.
+Josiane : Tu dis ça très bien, pour quelqu'un qui perd toujours à la belote.
+Denis : Il faut bien que ma défaite serve à quelque chose.
+Josiane : Tu te souviens du soir où Francis a chanté sur le comptoir ?
+Denis : Comment l'oublier ? Tu as failli appeler les pompiers pour le faire descendre.
+Josiane : Il pesait cent kilos, j'avais peur qu'il défonce le zinc.
+Denis : Et la fois où la panne d'électricité nous a laissés une nuit entière aux bougies ?
+Josiane : Le plus beau soir de l'année. Tout le monde parlait à tout le monde.
+Denis : Voilà ce que ton bistrot a fait. Ce n'est pas rien.
+Josiane : Je le sais. C'est pour ça que je veux partir avant de le détester.
+Denis : Là, je comprends mieux. Ce n'est pas la fuite, c'est la protection.
+Josiane : Voilà. Et ça, personne ne me le dit dans le groupe.
+Denis : Parce qu'ils ne sont pas devant toi. Ils voient une enseigne, toi, tu vois tes jambes.
+Josiane : Tu as raison, mais l'enseigne, moi aussi, je l'aime.
+Denis : Alors laisse-nous une dernière occasion de te le dire.
+Josiane : Samedi, tout le monde sera là. Je ne peux pas l'empêcher.
+Denis : Alors laisse-moi présenter l'idée de la coopérative. Sans pression.
+Josiane : Écoute, je t'accorde dix minutes, samedi, à la fin du repas. Pas plus.
+Denis : Dix minutes me suffisent. Avec des chiffres, des noms, un petit plan.
+Josiane : Et si ça ne marche pas, tu promets de ne pas m'en vouloir ?
+Denis : Je te le promets. Je te ferai quand même la tête une semaine, par principe.
+Josiane : Une semaine, ça, je peux supporter.
+Denis : Je vais répondre au groupe, juste pour qu'ils se calment.
+Josiane : Dis-leur que samedi, c'est apéro pour tout le monde, offert par la maison.
+Denis : Offert par la maison ? Tu es sûre ?
+Josiane : Si c'est le dernier mois, autant faire les choses bien.
+Groupe WhatsApp : [Hélène] Alors ? Elle a dit quoi ? Je suis en train de pleurer dans le métro.
+Denis : Voilà, ils t'attendent. Je leur dis la vérité ?
+Josiane : Dis qu'on se retrouve samedi, que tout est ouvert, et que je ne promets rien.
+Denis : Je tape ça. « Samedi, apéro offert, tout est ouvert. »
+Josiane : Mets aussi : « Apportez des idées, pas des mouchoirs. »
+Denis : Ha ha, ça, c'est du Josiane. Envoyé.
+Josiane : Bon, ton pâté se dessèche. Mange, tu es trop maigre.
+Denis : Je mange. Et un deuxième demi, pour fêter la décision qui n'est pas encore prise.
+Josiane : Un deuxième demi pour une décision pas prise. Il n'y a qu'ici qu'on dit des choses pareilles.
+Denis : Et c'est pour ça qu'on y revient.
+Josiane : Allez, bois, avant que la mousse retombe.
+
+## 낭독 포인트
+- 비음 모음: «bon», «demi», «un bar», «six mille cinq cents euros» — on, an, in, un은 코로 울리는 모음이며 n은 따로 발음하지 않는다.
+- 연음: «trente et un», «tout à l'heure», «c'est une idée» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 숫자 읽기: «deux mille huit cents», «six mille cinq cents euros», «soixante-trois ans» — 큰 수는 mille, cents를 또박또박 끊어 읽는다.
+- 프랑스어 r: «rideau», «bistrot», «prix» — 목젖 근처에서 내는 마찰음이다.
+- 억양: 조지안은 단단하지만 지친 낮은 톤, 드니는 부드럽게 달래는 톤. 단체방 메시지는 빠르고 들뜬 톤으로 읽는다. 지문 뒤에는 한 박자 쉰다.
+- 호칭: 오랜 단골과 주인이므로 tu를 쓴다. 단체방의 «Marc», «Hélène»는 이름만 또렷이 읽는다.
+## 학습 포인트 정리
+- C1 구간(1~20턴): 단골의 일상 대화
+  · «Il fait un temps de chien, ce soir.», «Je perdais avec élégance, nuance.», «Il y a des habitudes qu'on ne perd pas.»
+- C1 구간(21~40턴): 폐업 소식과 충격
+  · «Je n'en reviens pas.», «On ferme le trente et un janvier. Définitivement.», «C'est son droit, il paraît.»
+- B2 구간(41~60턴): 대안과 반박
+  · «Il faut qu'on fasse quelque chose.», «Ce n'est pas qu'une question de loyer.», «Je ne lui demanderai jamais ça.»
+- B2 구간(61~80턴): 단체방과 충돌
+  · «Ils ne me perdent pas, ils perdent un bar.», «Une coopérative de clients, ça existe.», «Laisse-moi respirer.»
+- C1 구간(81~100턴): 추억과 감정
+  · «On tire le rideau, et on y repense toute sa vie.», «Ce n'est pas la fuite, c'est la protection.»
+- C1 구간(101~120턴): 열어 두는 결말
+  · «Je t'accorde dix minutes.», «Je ne promets rien.», «Apportez des idées, pas des mouchoirs.»
+- 어휘: le bail, le loyer, la pétition, la coopérative, le fonds de commerce, le gérant, l'enseigne.
+## 속어 노트
+- «un temps de chien»: 지독하게 궂은 날씨.
+- «je ne te le fais pas dire»: 내 말이 그 말이야, 네 말이 맞아.
+- «tirer le rideau»: 셔터를 내리다, 가게 문을 닫다.
+- «s'emballer»: 흥분하다, 들뜨다.
+- «le zinc»: 카페나 술집의 카운터(구어).
+- 임대료, 계약, 협동조합 인수 같은 사정은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 주인과 단골은 tu로 말하며 단체방 메시지는 구어체다.
+
+
+## 한글 해석
+(화요일 저녁 일곱 시. 20구의 한 비스트로에서 조지안이 카운터를 닦고 있다. 드니가 들어와 우산을 털고 늘 앉는 의자에 자리를 잡는다.)
+조지안 : 어머, 오늘 저녁 첫 손님이네. 일찍 왔네, 드니.
+드니 : 비가 쏟아져서 밖에서 어슬렁거릴 기분이 아니었어. 늘 마시는 생맥주 한 잔 줘.
+조지안 : 바로 줄게. 오늘 저녁 날씨 정말 고약하네, 네 말이 맞아.
+드니 : 너는 괜찮아? 좀 피곤해 보이는데.
+조지안 : 나야 뭐, 괜찮아. 다리는 늘 그렇고. 자, 네 생맥주.
+드니 : 고마워. 어, 조명 바꿨어? 더 따뜻하고 부드러워졌네.
+조지안 : 조카가 일주일 전에 새 전구를 달아 줬어.
+드니 : 잘 어울려. 네 아버지 때의 옛날 비스트로 같아.
+조지안 : 기억해? 그때 서른 살쯤 됐을 텐데.
+드니 : 서른넷. 목요일 벨로트 카드 게임하러 왔었지.
+조지안 : 그리고 늘 졌지.
+드니 : 우아하게 졌지, 구분해 줘.
+조지안 : 원한다면. 먹을 것도 줄까? 시골 파테가 남았어.
+드니 : 좋지, 늘 그렇듯 코르니숑이랑.
+조지안 : 꺼내 줄게. 구운 빵은 아직도 좋아해?
+드니 : 그 어느 때보다. 버리지 않는 습관도 있지.
+조지안 : 그건 맞아.
+드니 : 말해 봐, 조지안, 따뜻한 조명이 새 서비스야? 무슨 특별한 저녁 같아.
+조지안 : 꼭 그렇진 않아. 월말이라 그냥 예쁘게 하고 싶었어.
+드니 : 월말이라고? 월말에 무슨 일이 있는데?
+(조지안이 행주를 내려놓는다. 거리 쪽 유리창에 테이프로 붙은 종이 한 장을 힐끗 바라본다.)
+조지안 : 들어올 때 문에 붙은 안내문 못 봤어?
+드니 : 아니, 우산에 머리 박고 있었어. 뭔데?
+조지안 : 가서 봐, 안 그러면 내 말 안 믿을 테니까.
+드니 : 조지안, 걱정되네. 그냥 말해 줘.
+조지안 : 1월 31일에 문을 닫아. 영영.
+드니 : 뭐라고? 잘 못 들었어.
+조지안 : 아주 잘 들었어, 드니. 비스트로가 문을 닫아.
+드니 : 아니, 말도 안 돼. 30년이나 됐는데?
+조지안 : 정확히는 31년이고, 이번 계약으로는 22년이야.
+드니 : 믿기지가 않아. 아무도 나한테 말 안 했어.
+조지안 : 아무도 몰라. 네가 처음이야. 토요일에 모두에게 알릴 생각이었어.
+드니 : 그리고 난 비 때문에 우연히 알게 된 거고.
+조지안 : 미안해. 더 일찍 말할 용기가 없었어.
+드니 : 사과하지 마. 하지만 이유는 말해 줘야지.
+조지안 : 건물주가 임대료를 올렸어. 한 달에 2천8백 유로에서 6천5백 유로가 돼.
+드니 : 6천5백이라니! 그건 미친 짓이야.
+조지안 : 법적으로는 그의 권리라더라. 계약이 끝나니 시장 가격으로 새로 맺는 거지.
+드니 : 넌 협상할 수 없어?
+조지안 : 두 번 해 봤어. 자기 소관이 아니라고 하더라.
+드니 : 소관이 아니라니, 무슨 소리야? 건물주는 그 사람이잖아!
+조지안 : 그 사람이 건물을 회사에 팔았어. 이제는 대행사가 전부 관리해.
+드니 : 그럼 우리가 뭔가 해야 해. 이대로 내버려 둘 순 없어.
+조지안 : 우리가 누구? 너, 나, 손님들?
+드니 : 단골 전부. 청원을 시작하고 시끄럽게 알릴 수 있어.
+조지안 : 청원이 6천 유로 임대료를 내 주진 않아.
+드니 : 그렇진 않지만 압박은 돼. 동네에선 사람들이 힘이 있어.
+조지안 : 드니, 고맙지만 임대료 문제만은 아니야.
+드니 : 그럼 뭔데?
+조지안 : 내 다리, 내 허리. 30년째 여섯 시에 일어나. 난 예순셋이야.
+드니 : 이해하지만 사람을 고용할 수도 있잖아.
+조지안 : 무슨 돈으로? 마지막 종업원이 6월에 떠났는데 대신할 사람을 못 구했어.
+드니 : 딸은? 이어받고 싶어 하지 않아?
+조지안 : 리옹에서 회계사로 일해. 자기 삶과 아이들이 있어. 그런 부탁은 절대 안 할 거야.
+드니 : 하지만 비스트로가 네 삶이잖아.
+조지안 : 내 삶이었지. 이제는 내 탈진이야, 솔직히 말하는 편이 나아.
+드니 : 미안, 하찮게 여기려던 건 아니야.
+조지안 : 알아. 하지만 내가 싸워야 한다고는 말하지 말아 줘.
+드니 : 그렇게 말하는 게 아니야. 동네가 뭔가를 잃게 될 거라는 말이지.
+조지안 : 이 동네는 더한 일도 겪었어.
+(드니의 전화기가 카운터 위에서 진동한다. 이어 조지안의 전화기도 울린다. 두 화면이 동시에 켜진다.)
+드니 : 단골 단체방이야. 들어오기 전에 메시지를 하나 보냈어.
+조지안 : 뭐라고 했는데?
+드니 : 그냥 "비스트로에 무슨 일이 있어, 오늘 저녁에 들를래?"라고. 그랬더니 이래.
+단체방 : [마르크] 뭐라고? 조지안이 그만둔다고? 이건 재앙이야!
+단체방 : [엘렌] 우리가 미리 몰랐다니 무슨 말이야? 당장 청원이 필요해.
+조지안 : 아, 봐, 내 허락도 없이 청원을 벌이고 있잖아.
+드니 : 난 시작한 게 없어, 사람들이 흥분하는 거지. 답장도 안 했어.
+단체방 : [폴] 건물주는 흡혈귀야. 그 사람이랑 회사를 보이콧해야 해!
+단체방 : [나디아] 진정해. 그건 그분의 선택이야, 가만히 두자.
+조지안 : 봐, 나디아는 날 이해해 주잖아. 다른 사람들은 내가 싸우길 바라는데 난 지쳤어.
+드니 : 다들 너를 좋아하니까 그러는 거야. 널 잃고 싶지 않은 거지.
+조지안 : 날 잃는 게 아니라 술집 하나를 잃는 거야.
+드니 : 아니, 조지안, 그건 네가 틀렸어. 술집은 파리에 천 개가 있지. 너는 한 사람뿐이고.
+조지안 : 고마운데 손님들 앞에서 울리진 마.
+단체방 : [마르크] 영업권을 우리가 사면 어때? 다 같이 협동조합으로?
+드니 : 어, 마음에 드는 생각이네. 손님 협동조합이라는 게 있기도 하고.
+조지안 : 생맥주 가격 하나도 의견이 안 맞는 사람들로 협동조합을?
+드니 : 자기 비스트로가 되면 사람들은 서로 맞추는 법을 배워.
+조지안 : 그럼 누가 일해? 누가 여섯 시에 일어나?
+드니 : 관리인을 고용하거나, 네 딸이 멀리서 감독할 수도 있어.
+조지안 : 드니, 아니라고 하진 않았지만 좋다고도 안 해. 숨 좀 쉬게 해 줘.
+(메시지가 이어진다. 조지안이 전화기를 카운터 쪽으로 엎어 놓는다. 드니도 똑같이 한다. 빗소리만 남기고 정적이 내려앉는다.)
+조지안 : 내가 쌀쌀맞았다면 미안해. 너한테 그런 건 아니야.
+드니 : 사과할 필요 없어. 흥분한 건 나야.
+조지안 : 장소와 작별하는 법을 모르겠어서 그래.
+드니 : 작별 인사를 하는 게 아닌 것 같아. 셔터를 내리고 평생 떠올리는 거지.
+조지안 : 벨로트에서 늘 지는 사람치고는 말을 참 잘하네.
+드니 : 내 패배도 뭔가에는 쓸모가 있어야지.
+조지안 : 프랑시스가 카운터에 올라가 노래한 날 기억나?
+드니 : 어떻게 잊겠어? 내려오게 하려고 소방관을 부를 뻔했잖아.
+조지안 : 백 킬로였어, 카운터가 부서질까 봐 무서웠지.
+드니 : 정전 때문에 밤새 촛불만 켜고 있던 때는?
+조지안 : 그해 가장 아름다운 밤이었지. 모두가 모두와 이야기했으니까.
+드니 : 네 비스트로가 한 일이 그거야. 작은 일이 아니야.
+조지안 : 알아. 그래서 싫어지기 전에 떠나고 싶은 거야.
+드니 : 이제야 더 이해돼. 도망이 아니라 지키는 거네.
+조지안 : 그래. 그건 단체방에서 아무도 말해 주지 않아.
+드니 : 그들은 네 앞에 있지 않으니까. 그들은 간판을 보고, 넌 네 다리를 보는 거지.
+조지안 : 맞아, 하지만 간판은 나도 사랑해.
+드니 : 그럼 마지막으로 그걸 말할 기회를 우리에게 줘.
+조지안 : 토요일엔 다들 올 거야. 막을 수가 없지.
+드니 : 그럼 협동조합 아이디어를 설명하게 해 줘. 압박 없이.
+조지안 : 들어 봐, 토요일 식사 끝에 10분을 줄게. 그 이상은 안 돼.
+드니 : 10분이면 충분해. 숫자와 이름, 작은 계획까지 갖출게.
+조지안 : 그리고 안 되면 날 원망하지 않겠다고 약속할래?
+드니 : 약속할게. 그래도 원칙상 일주일은 삐쳐 있을 거야.
+조지안 : 일주일은 견딜 수 있지.
+드니 : 단체방에 답장할게, 사람들이 진정하도록.
+조지안 : 토요일은 모두에게 아페로야, 가게가 쏜다고 전해.
+드니 : 가게가 쏜다고? 확실해?
+조지안 : 마지막 달이라면 제대로 하는 게 낫지.
+단체방 : [엘렌] 그래서? 뭐라셨어? 지금 지하철에서 울고 있어.
+드니 : 봐, 다들 기다려. 사실대로 말해 줄까?
+조지안 : 토요일에 만나자고, 모든 게 열려 있고 난 아무것도 약속하지 않는다고 전해.
+드니 : 그렇게 칠게. "토요일, 아페로는 가게가 쏜다, 모든 게 열려 있다."
+조지안 : "아이디어를 가져오세요, 손수건 말고"도 넣어 줘.
+드니 : 하하, 이건 완전 조지안이네. 보냈어.
+조지안 : 자, 파테 말라 가. 먹어, 넌 너무 말랐어.
+드니 : 먹을게. 그리고 아직 내려지지 않은 결정을 기념해서 두 번째 생맥주도.
+조지안 : 안 내린 결정을 위한 두 번째 생맥주라. 이런 말은 여기서나 하지.
+드니 : 그래서 우리가 여기에 다시 오는 거야.
+조지안 : 자, 마셔, 거품 꺼지기 전에.

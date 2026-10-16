@@ -1,0 +1,289 @@
+# 5부 8화. Théâtre à tarif réduit (할인 연극)
+난이도: 주 B1 | 구간: B2→A2→B1→B1→B1→B1 | 형식: 2인 | 장소: 룸메이트의 부엌, 소극장 앞 줄, 극장 앞 보도 | 시간: 토요일 아침부터 밤까지
+등장인물: Zoé, Anatole
+이슈: 주 ○ 할인 요금 자격과 예매 방식(온라인 수수료 대 매표소) | 곡선: 0-1-1-0-1-0 (잔잔형, 상한 1) | 입장: A 조에(27세 박사 과정, 온라인 예매가 안전하다고 보고 학생증으로 할인받을 수 있을지 걱정한다) / B 아나톨(25세, 매표소나 발코니석이 더 낫다고 생각하고 약간의 위험은 즐긴다)
+상황 카드: 룸메이트인 조에와 아나톨이 토요일 아침 소극장 연극 프로그램을 보다가 저녁 공연을 보기로 한다. 26세 미만 또는 학생 할인으로 얼마에 살 수 있는지, 수수료를 내고 온라인으로 살지 매표소에 갈지, 오케스트라석과 발코니석 중 어디가 나은지를 두고 가볍게 의견이 갈린다. 공연 전 줄에서 신분 확인을 걱정하지만 무사히 통과한다. 결말은 산책 후 어떻게 돌아갈지 열어 두는 마무리.
+학습 포인트: 가격 비교(quatorze euros chacun) · 장단점 말하기(plus proche, mais plus cher) · 걱정 표현(Et si on ne me laisse pas entrer ?) · 조건(au pire, sauf si) · 계획 세우기(On peut dîner à dix-neuf heures)
+
+## 대화
+(Samedi matin, dans la cuisine d'une colocation. Zoé et Anatole boivent un café en regardant le programme des théâtres sur le téléphone de Zoé.)
+Zoé : Regarde, il y a une comédie du dix-septième siècle ce soir, dans un petit théâtre du cinquième.
+Anatole : Une pièce classique ? Ça fait des années que je n'en ai pas vu, enfin pas depuis le lycée.
+Zoé : Moi, c'était une comédie classique, en troisième, avec toute la classe.
+Anatole : Je me souviens que j'avais dormi la moitié du temps, à cause du prof qui lisait toutes les didascalies.
+Zoé : Cette fois, ce serait une mise en scène moderne, avec des costumes de bureau.
+Anatole : Des costumes de bureau ? Voilà qui pourrait me réconcilier avec le classique.
+Zoé : Et il paraît que les places en catégorie unique sont à vingt-deux euros plein tarif.
+Anatole : Vingt-deux euros, c'est un peu cher pour un petit théâtre, quand même.
+Zoé : Mais il y a le tarif réduit pour les moins de vingt-six ans, à quatorze euros.
+Anatole : Ça me convient mieux. J'ai vingt-cinq ans, donc il me reste encore un an de chance.
+Zoé : Moi, j'ai vingt-sept ans, hélas. Je dois payer plein tarif, sauf si je trouve ma carte étudiante.
+Anatole : Tu as encore ta carte étudiante ? Elle doit être périmée depuis longtemps.
+Zoé : Elle expire en septembre prochain. Je fais un doctorat, tu l'as oublié ?
+Anatole : Ah oui, pardon, j'avais complètement oublié que tu étais encore à la fac.
+Zoé : Tu me vexes un peu, là. Je suis étudiante depuis neuf ans, quand même.
+Anatole : Et c'est une bonne nouvelle pour tes billets, non ?
+Zoé : Absolument. Quatorze euros chacun, ce serait un prix honnête.
+Anatole : Il faudrait seulement vérifier si les places sont encore disponibles pour ce soir.
+Zoé : J'ai déjà regardé : il en reste à l'orchestre et au balcon.
+Anatole : Parfait. On les réserve tout de suite, ou on attend ?
+Zoé : Je préfère réserver maintenant, sur le site.
+Anatole : Moi, je préfère aller au théâtre. On parle à une vraie personne.
+Zoé : Mais le site est plus simple. Je clique, je paie, c'est fini.
+Anatole : Il y a peut-être des frais en plus sur le site.
+Zoé : Oui, deux euros par billet. C'est écrit en bas.
+Anatole : Voilà ! Deux euros de plus, c'est beaucoup.
+Zoé : Quatre euros pour nous deux, c'est un café.
+Anatole : Un café, c'est un café. Je préfère le boire.
+Zoé : Mais si on attend, il n'y aura plus de places.
+Anatole : Le théâtre ouvre sa caisse à dix-huit heures. On peut y aller à cinq heures et demie.
+Zoé : Et si on arrive trop tard ?
+Anatole : On aura le temps. Le théâtre est à vingt minutes d'ici.
+Zoé : D'accord, mais je n'aime pas le risque.
+Anatole : Moi, j'aime bien un peu de risque.
+Zoé : Tu es toujours comme ça. Tu te souviens du concert de l'année dernière ?
+Anatole : Oui, on est arrivés et il était complet.
+Zoé : Exactement ! Et nous avons mangé des frites au lieu d'écouter de la musique.
+Anatole : Les frites étaient bonnes, non ?
+Zoé : Ce n'est pas la question.
+Anatole : D'accord, je vais réserver sur le site. Mais tu me dois un café !
+(Anatole prend le téléphone et ouvre le site du théâtre.)
+Anatole : Voilà, je choisis « tarif réduit ». Il y a écrit « justificatif obligatoire à l'entrée ».
+Zoé : Normal. Ils vérifient la carte d'étudiant ou la pièce d'identité.
+Anatole : Moi, j'ai ma carte d'identité, mais tu sais que la photo est horrible.
+Zoé : Peu importe, ils ne vont pas te juger sur ta photo.
+Anatole : Tu en es sûre ? Une fois, un gardien de musée m'a regardé pendant dix secondes avant de me laisser entrer.
+Zoé : Parce que tu avais une barbe sur la photo, et plus maintenant.
+Anatole : C'est vrai. Bon, on prend l'orchestre ou le balcon ?
+Zoé : L'orchestre, ce sera plus proche de la scène, mais plus cher.
+Anatole : Combien de plus ?
+Zoé : Quatre euros par place. Le balcon est à quatorze, l'orchestre à dix-huit.
+Anatole : Alors j'ai envie du balcon. On voit toute la scène, d'en haut.
+Zoé : Moi, je préfère être près des acteurs, pour voir leurs expressions.
+Anatole : Si tu veux des expressions, va au cinéma.
+Zoé : Ça, c'est faux. Au théâtre, les acteurs ont des visages incroyables.
+Anatole : Admettons. Mais pour le prix, je prends le balcon.
+Zoé : Alors prends deux places au balcon, je m'adapterai.
+Anatole : C'est gentil. La prochaine fois, c'est moi qui m'adapte.
+Zoé : Tu dis toujours ça.
+Anatole : Cette fois, je le pense vraiment.
+Zoé : Bon, valide, avant que quelqu'un prenne nos places.
+(La confirmation arrive par courriel. Les deux amis rangent leurs tasses.)
+Anatole : C'est fait. Le billet est dans mon courriel, avec un code pour l'entrée.
+Zoé : Génial. Il commence à quelle heure, au fait ?
+Anatole : À vingt heures trente. Et il dure une heure quarante, sans entracte.
+Zoé : Sans entracte ? Alors il vaut mieux manger avant.
+Anatole : On peut dîner à dix-neuf heures, près du théâtre. Il y a plusieurs restaurants dans la rue.
+Zoé : J'en connais un, tout près, avec un menu étudiant à douze euros.
+Anatole : Tu as déjà un plan pour tout, toi.
+Zoé : C'est parce que j'adore l'organisation. Je note dans mon agenda.
+Anatole : Et ta carte étudiante, tu l'as bien dans ton sac ?
+Zoé : Oui, je la glisse dans mon portefeuille tout de suite, pour ne pas l'oublier.
+Anatole : Tu as déjà oublié une fois ta carte, non ?
+Zoé : Une seule fois, à la bibliothèque. Je n'ai pas pu emprunter mes livres.
+Anatole : Voilà, donc tu comprends l'importance des justificatifs.
+Zoé : Je le comprends tellement bien que je vais prendre une photo de ma carte, au cas où.
+Anatole : Excellente idée. Moi, je fais pareil avec ma carte d'identité.
+Zoé : Dans ce cas, on est prêts. Il nous reste quelques heures.
+Anatole : On pourrait faire un tour avant ? Il fait beau dehors.
+Zoé : Après avoir fait la vaisselle, oui.
+Anatole : Ah, la vaisselle ! J'avais presque réussi à l'oublier.
+Zoé : Presque. Moi je lave, toi tu essuies.
+(Vingt heures. Zoé et Anatole font la queue devant le théâtre, un petit bâtiment aux lettres rouges.)
+Zoé : On est les quarante-deuxièmes dans la queue. Tu crois qu'on aura de bonnes places ?
+Anatole : Au balcon, c'est numéroté, donc on aura nos places, pas de souci.
+Zoé : Et si on ne me laisse pas entrer avec le tarif réduit ? J'ai vingt-sept ans, tu te rappelles ?
+Anatole : Tu as ta carte d'étudiante, c'est écrit sur le site : « moins de vingt-six ans ou étudiant ».
+Zoé : Oui, mais je me demande s'ils ne vont pas être plus stricts sur l'âge.
+Anatole : Tu t'inquiètes trop. Au pire, tu paies la différence, huit euros.
+Zoé : Huit euros, pour moi aussi, c'est un café et un croissant.
+Anatole : Alors je t'offre le café et le croissant, voilà, problème réglé.
+Zoé : Très drôle. Écoute, la file avance, on sort les papiers.
+Anatole : Tiens, mon code sur le téléphone, et ma carte d'identité.
+Zoé : Et moi, ma carte étudiante, avec la photo de mes vingt-trois ans.
+Anatole : Tu avais l'air d'une lycéenne.
+Zoé : C'est pour ça qu'ils ne vont pas me demander mon âge.
+Anatole : Voilà un raisonnement solide.
+Zoé : Merci. Je suis doctorante, il faut bien un peu de logique.
+Anatole : Tiens, c'est notre tour. Le monsieur sourit.
+Zoé : Il sourit, c'est bon signe.
+Anatole : Voilà mon code. Et ma carte, au cas où.
+Zoé : Et ma carte étudiante. Voilà, merci monsieur.
+Anatole : Il nous a laissés passer sans rien dire. Tu vois, tu t'inquiétais pour rien.
+(Le rideau tombe. Applaudissements. Les deux amis sortent sur le trottoir, encore tout riants.)
+Zoé : C'était vraiment drôle ! Je ne m'attendais pas à ça.
+Anatole : Les costumes de bureau, la scène avec le photocopieur... J'ai pleuré de rire.
+Zoé : Moi aussi. Et le personnage du médecin, tu as vu ses lunettes ?
+Anatole : Énormes ! Il ressemblait à mon oncle.
+Zoé : Ton oncle qui est médecin ?
+Anatole : Non, comptable. Mais il a les mêmes lunettes.
+Zoé : Alors la prochaine fois, invite-le à voir la pièce.
+Anatole : Je crois qu'il ne supporterait pas de se voir sur scène.
+Zoé : On pourrait lui offrir des places, pour l'anniversaire.
+Anatole : Tarif réduit, bien sûr.
+Zoé : Évidemment. Il n'a pas vingt-six ans, mais on dira qu'il est étudiant en sciences de la vie.
+Anatole : Ah ah ! Il est surtout étudiant en repas de famille.
+Zoé : On marche un peu avant de rentrer ?
+Anatole : Avec plaisir. Il fait doux, ce soir.
+Zoé : On pourrait descendre jusqu'à la Seine.
+Anatole : Pourquoi pas ? Jusqu'au bord de l'eau, en tout cas.
+Zoé : Et ensuite, on rentre en bus.
+Anatole : Ou à pied, si on n'est pas fatigués.
+Zoé : On verra, on décidera sur place.
+Anatole : Voilà, comme d'habitude : on verra.
+
+## 낭독 포인트
+- 비음 모음: «balcon», «entracte», «restaurant», «chance» — on, an, en은 코로 울리고 n은 따로 발음하지 않는다.
+- 연음: «des acteurs», «vingt-six ans», «un an» — 어말 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «théâtre», «réduit», «moderne» — 목젖 근처에서 내는 마찰음.
+- u / ou: «tu», «plus» vs «tout», «pour» — u는 입술을 모아 [y], ou는 [u].
+- 가격·숫자: «quatorze euros», «dix-huit», «vingt-sept ans» — 숫자를 끊어 또박또박 읽는다.
+- 억양: 조에는 신중하고 걱정스럽게, 아나톨은 가볍고 장난스럽게. 룸메이트끼리 tu를 쓰고 극장 직원에게는 vous를 쓴다.
+
+## 학습 포인트 정리
+- B2 구간(1~20턴): 공연 고르기와 요금 비교
+  · «Ça fait des années que je n'en ai pas vu.», «Je dois payer plein tarif, sauf si je trouve ma carte étudiante.», «Il faudrait seulement vérifier si les places sont encore disponibles.»
+- A2 구간(21~40턴): 온라인 대 매표소
+  · «Je préfère réserver maintenant, sur le site.», «Il y a peut-être des frais en plus.», «Je n'aime pas le risque.»
+- B1 구간(41~100턴): 증빙, 좌석, 저녁 계획, 줄 서기
+  · «Justificatif obligatoire à l'entrée.», «L'orchestre, ce sera plus proche de la scène, mais plus cher.»
+  · «On peut dîner à dix-neuf heures, près du théâtre.», «Au pire, tu paies la différence.»
+- B1 구간(101~120턴): 공연 후 산책
+  · «Je ne m'attendais pas à ça.», «On verra, on décidera sur place.»
+- 어휘: le tarif réduit, le justificatif, l'orchestre, le balcon, l'entracte, la file, la mise en scène.
+
+## 속어 노트
+- «la fac»: 대학 (faculté의 줄임말).
+- «pas de souci»: 문제없다, 걱정 마.
+- «au pire»: 최악의 경우에도.
+- «pleuré de rire»: 웃다가 눈물이 났다.
+- 요금, 할인 자격, 수수료, 공연 시간은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 룸메이트끼리 tu, 극장 직원에게는 vous.
+
+
+## 한글 해석
+(토요일 아침, 셰어하우스 부엌. 조에와 아나톨이 조에의 휴대폰으로 극장 프로그램을 보며 커피를 마시고 있다.)
+조에 : 봐, 오늘 저녁에 오 구의 작은 극장에서 십칠 세기 희극을 해.
+아나톨 : 고전극이라고? 고등학교 이후로는 본 적이 없는 것 같은데, 몇 년은 됐어.
+조에 : 나는 중학교 삼학년 때 반 전체랑 고전 희극을 봤어.
+아나톨 : 선생님이 지문을 전부 읽어서 내가 절반은 졸았던 게 기억나.
+조에 : 이번엔 사무실 정장을 입는 현대식 연출이래.
+아나톨 : 사무실 정장? 그거라면 내가 고전과 화해할 수도 있겠네.
+조에 : 그리고 단일 등급 좌석이 정가 이십이 유로래.
+아나톨 : 작은 극장치고 이십이 유로는 좀 비싸다.
+조에 : 하지만 26세 미만은 할인 요금이 십사 유로야.
+아나톨 : 그게 낫네. 난 스물다섯이니까 아직 일 년은 기회가 남았어.
+조에 : 난 안타깝게도 스물일곱이야. 학생증을 찾지 못하면 정가를 내야 해.
+아나톨 : 아직 학생증이 있어? 만료된 지 오래됐겠네.
+조에 : 다음 구월에 만료돼. 나 박사 과정 중이잖아, 잊었어?
+아나톨 : 아 맞다, 미안. 네가 아직 대학에 있다는 걸 완전히 잊었어.
+조에 : 좀 서운한데. 나 구 년째 학생이거든.
+아나톨 : 하지만 네 표에는 좋은 소식이잖아?
+조에 : 물론이지. 한 사람당 십사 유로면 괜찮은 가격이야.
+아나톨 : 오늘 밤 자리가 아직 있는지만 확인하면 돼.
+조에 : 이미 봤어, 오케스트라석이랑 발코니석이 남아 있어.
+아나톨 : 좋아. 지금 바로 예약할까, 아니면 기다릴까?
+조에 : 난 지금 사이트에서 예약하는 게 좋아.
+아나톨 : 난 극장에 가는 게 좋아. 진짜 사람이랑 얘기할 수 있잖아.
+조에 : 하지만 사이트가 더 간단해. 클릭하고 결제하면 끝이야.
+아나톨 : 사이트는 수수료가 더 붙을 수도 있어.
+조에 : 응, 표당 이 유로야. 아래에 쓰여 있어.
+아나톨 : 거 봐! 이 유로나 더 내는 건 큰돈이야.
+조에 : 둘이 합쳐서 사 유로면 커피 한 잔이야.
+아나톨 : 커피는 커피지. 난 마시는 쪽이 좋아.
+조에 : 하지만 기다리면 자리가 없을 거야.
+아나톨 : 극장 매표소가 여섯 시에 열어. 다섯 시 반에 가면 돼.
+조에 : 너무 늦게 도착하면?
+아나톨 : 시간 충분해. 극장은 여기서 이십 분 거리야.
+조에 : 알겠어, 하지만 난 위험이 싫어.
+아나톨 : 난 약간의 위험은 좋아해.
+조에 : 넌 늘 그렇지. 작년 콘서트 기억나?
+아나톨 : 응, 도착했더니 매진이었지.
+조에 : 맞아! 그래서 음악 대신 감자튀김을 먹었잖아.
+아나톨 : 감자튀김은 맛있었잖아?
+조에 : 그게 중요한 게 아니야.
+아나톨 : 알겠어, 사이트에서 예약할게. 대신 커피 한 잔 사야 해!
+(아나톨이 휴대폰을 들고 극장 사이트를 연다.)
+아나톨 : 자, '할인 요금'을 선택할게. '입장 시 증빙 필수'라고 쓰여 있네.
+조에 : 당연하지. 학생증이나 신분증을 확인해.
+아나톨 : 난 신분증이 있는데, 사진이 끔찍한 거 알잖아.
+조에 : 상관없어, 사진으로 널 평가하진 않을 거야.
+아나톨 : 확실해? 예전에 미술관 경비가 십 초나 날 쳐다보고서야 들여보내 줬어.
+조에 : 사진엔 수염이 있고 지금은 없으니까 그렇지.
+아나톨 : 그건 맞네. 자, 오케스트라석으로 할까, 발코니석으로 할까?
+조에 : 오케스트라석은 무대와 더 가깝지만 더 비싸.
+아나톨 : 얼마나 더?
+조에 : 자리당 사 유로. 발코니석은 십사, 오케스트라석은 십팔이야.
+아나톨 : 그럼 난 발코니석이 좋아. 위에서 무대 전체가 보이잖아.
+조에 : 난 배우들 표정을 보려면 가까운 게 좋아.
+아나톨 : 표정을 보고 싶으면 영화관에 가.
+조에 : 그건 틀렸어. 연극에서 배우들 얼굴은 정말 놀라워.
+아나톨 : 인정할게. 하지만 가격 때문에 난 발코니석으로 할래.
+조에 : 그럼 발코니석 두 자리 사, 내가 맞출게.
+아나톨 : 고마워. 다음엔 내가 맞출게.
+조에 : 넌 항상 그렇게 말해.
+아나톨 : 이번엔 진심이야.
+조에 : 자, 누가 우리 자리를 가져가기 전에 확정해.
+(확인 메일이 도착한다. 두 친구가 컵을 정리한다.)
+아나톨 : 됐다. 표는 메일에 있고 입장용 코드도 있어.
+조에 : 좋아. 그런데 몇 시에 시작하지?
+아나톨 : 여덟 시 반이야. 한 시간 사십 분 동안 하고 중간 휴식은 없어.
+조에 : 휴식이 없다고? 그럼 먼저 먹는 게 낫겠다.
+아나톨 : 극장 근처에서 일곱 시에 저녁 먹을 수 있어. 그 길에 식당이 여러 개 있어.
+조에 : 아주 가까운 데 하나 알아, 학생 메뉴가 십이 유로야.
+아나톨 : 넌 뭐든 벌써 계획이 있구나.
+조에 : 정리하는 걸 좋아해서 그래. 수첩에 적어 둘게.
+아나톨 : 그리고 학생증은 가방에 잘 있어?
+조에 : 응, 잊지 않게 바로 지갑에 넣어 둘게.
+아나톨 : 학생증을 한 번 놓고 간 적 있지 않아?
+조에 : 딱 한 번, 도서관에서. 책을 못 빌렸어.
+아나톨 : 그러니까 증빙이 얼마나 중요한지 알잖아.
+조에 : 너무 잘 알아서 만일을 대비해 카드 사진을 찍어 둘 거야.
+아나톨 : 좋은 생각이야. 나도 신분증으로 똑같이 할게.
+조에 : 그럼 준비 끝이야. 몇 시간 남았네.
+아나톨 : 그 전에 산책이라도 할까? 밖에 날씨가 좋아.
+조에 : 설거지하고 나서라면 좋아.
+아나톨 : 아, 설거지! 거의 잊는 데 성공했는데.
+조에 : 거의. 내가 씻을 테니 넌 닦아.
+(여덟 시. 조에와 아나톨이 빨간 글씨 간판이 달린 작은 극장 앞에서 줄을 서 있다.)
+조에 : 우리가 줄에서 마흔두 번째야. 좋은 자리 앉을 수 있을까?
+아나톨 : 발코니석은 지정석이라 우리 자리가 있을 테니 걱정 마.
+조에 : 할인 요금으로 날 안 들여보내 주면 어쩌지? 나 스물일곱이야, 기억하지?
+아나톨 : 학생증이 있잖아, 사이트에 '26세 미만 또는 학생'이라고 쓰여 있어.
+조에 : 응, 그런데 나이를 더 엄격하게 보는 건 아닐까 싶어서.
+아나톨 : 걱정이 너무 많아. 최악이라도 차액 팔 유로만 내면 돼.
+조에 : 팔 유로면 나한테도 커피랑 크루아상 값이야.
+아나톨 : 그럼 내가 커피랑 크루아상을 사 줄게, 자, 문제 해결.
+조에 : 웃기네. 들어 봐, 줄이 줄어들어, 서류를 꺼내자.
+아나톨 : 자, 휴대폰의 내 코드랑 신분증.
+조에 : 나는 스물세 살 때 사진이 붙은 학생증.
+아나톨 : 넌 고등학생처럼 보였어.
+조에 : 그래서 나이를 안 물어볼 거야.
+아나톨 : 탄탄한 논리네.
+조에 : 고마워. 박사 과정생이니 논리가 조금은 필요하지.
+아나톨 : 아, 우리 차례야. 저 아저씨가 웃고 있어.
+조에 : 웃는 건 좋은 신호야.
+아나톨 : 여기 제 코드예요. 신분증도 혹시 몰라서요.
+조에 : 그리고 제 학생증이에요. 자, 감사합니다.
+아나톨 : 아무 말 없이 들여보내 줬어. 봐, 괜히 걱정했잖아.
+(막이 내린다. 박수가 터진다. 두 친구는 아직 웃음이 가시지 않은 채 보도로 나온다.)
+조에 : 정말 웃겼어! 이럴 줄은 몰랐어.
+아나톨 : 사무실 정장, 복사기 장면... 웃다가 울었어.
+조에 : 나도. 그리고 의사 역 인물 안경 봤어?
+아나톨 : 엄청 컸지! 우리 삼촌 같았어.
+조에 : 의사인 삼촌?
+아나톨 : 아니, 회계사야. 그래도 안경은 똑같아.
+조에 : 그럼 다음에 삼촌을 이 연극에 초대해.
+아나톨 : 무대에서 자기 모습을 보는 건 못 견딜 것 같아.
+조에 : 생일 선물로 표를 선물할 수도 있어.
+아나톨 : 물론 할인 요금으로.
+조에 : 당연하지. 스물여섯은 아니지만 생명과학 전공 학생이라고 하면 되지.
+아나톨 : 하하! 삼촌은 주로 가족 식사 전공 학생이야.
+조에 : 집에 가기 전에 좀 걸을까?
+아나톨 : 좋아. 오늘 밤은 포근하네.
+조에 : 센강까지 내려가 봐도 되겠다.
+아나톨 : 안 될 거 없지? 적어도 물가까지는.
+조에 : 그다음엔 버스로 돌아가자.
+아나톨 : 안 피곤하면 걸어서든가.
+조에 : 두고 보자, 현장에서 정하자.
+아나톨 : 그래, 늘 그렇듯이 두고 보자.

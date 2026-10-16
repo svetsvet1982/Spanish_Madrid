@@ -1,0 +1,292 @@
+# 1부 1화. Révision du loyer (월세 개정)
+난이도: 주 B2 | 구간: B2→B2→B2→B1→B2→B2 | 형식: 3인 | 장소: 파리 9구 부동산 중개사무소 | 시간: 화요일 오후 6시
+등장인물: Julien, Inès, Bernard
+이슈: 주 ● 임대료 인상 상한(IRL)과 개보수 비용 분담 | 곡선: 0-2-0-3-1-3 (파도형, 상한 3) | 입장: A 이네스(세입자, 간호사. 법이 정한 인상분만 내고 싶다) / B 베르나르(집주인. 이중창 설치비와 세금 부담을 월세에 반영하고 싶다) / C 쥘리앵(중개인. 절차를 설명하며 중재한다)
+상황 카드: 목표: 이네스는 월세 개정 서류에 서명하기 전에 계산을 확인하고, 베르나르는 이중창 비용을 회수하고 싶다. 걸림돌: 지수 인상분 외에 월 60유로를 더 요구하는 문제에서 입장이 갈린다. 해소: 쥘리앵이 두 안건을 분리해 지수 인상분만 서명하고 비용 문제는 영수증을 본 뒤 3주 후에 다시 이야기하기로 한다. 결말은 열린 결말.
+학습 포인트: 월세 개정 어휘(le loyer, l'indice, le plafond, les charges) · 이유와 반박(ça n'entre pas dans le calcul) · 조건 표현(à condition que) · 완곡한 거절(Je ne vous promets pas de dire oui)
+
+## 대화
+(Un bureau d'agence immobilière, près de la rue des Martyrs, mardi à dix-huit heures. Julien accueille Inès. Le propriétaire n'est pas encore là.)
+Julien : Ah, madame Benali, entrez, je vous en prie. Vous avez trouvé l'agence sans problème ?
+Inès : Oui, oui, c'est à deux pas de chez moi. Je passe devant tous les matins sans jamais lever la tête.
+Julien : C'est souvent comme ça. Installez-vous, monsieur Lefèvre devrait arriver d'une minute à l'autre.
+Inès : Il vient d'où, déjà ? Il n'habite plus à Paris, si je me souviens bien.
+Julien : Non, il est parti à Orléans il y a deux ans. Il a pris le train de dix-sept heures, il m'a prévenu qu'il aurait peut-être un peu de retard.
+Inès : Pas de souci, j'ai pris mon après-midi. Vous auriez un verre d'eau ?
+Julien : Mieux que ça, j'ai du café. Enfin, du café de machine, il ne faut pas rêver.
+Inès : Ça me va très bien, merci. Il fait une chaleur pour un mois d'octobre !
+Julien : Je sais, j'ai laissé la fenêtre ouverte toute la journée. Dans le quartier, tout le monde est en t-shirt.
+Inès : Et le bail, vous l'avez sous la main ? Je n'ai pas retrouvé ma copie à la maison.
+Julien : Bien sûr, tout est dans le dossier. Vous avez emménagé en novembre, c'est ça ?
+Inès : En novembre, il y a trois ans, oui. Un deux-pièces au troisième, avec le balcon qui donne sur la cour.
+Julien : Je me rappelle, l'appartement était resté vide un mois entier avant vous.
+Inès : Il y avait encore des traces de peinture partout. Enfin, ça a changé depuis, j'ai tout refait.
+Julien : Ah ben ça, monsieur Lefèvre ne l'oublie pas, il en parle à chaque fois.
+(Bernard arrive, un peu essoufflé, son manteau sur le bras.)
+Bernard : Pardon, pardon, je suis désolé ! Un train supprimé à la gare d'Austerlitz, j'ai dû prendre le suivant.
+Julien : Aucun problème, monsieur Lefèvre, on vous attendait pour le café.
+Bernard : Alors j'arrive à point. Bonsoir, madame Benali, ça fait plaisir de vous revoir.
+Inès : Bonsoir, monsieur. Vous avez bonne mine, la campagne vous réussit.
+Bernard : Ah, Orléans, ce n'est pas vraiment la campagne, mais on s'y fait. Alors, on s'y met ?
+Julien : Voilà. Comme je vous l'ai écrit, le bail arrive à sa date anniversaire et le loyer peut être révisé selon l'indice de référence des loyers.
+Inès : Oui, j'ai reçu votre courrier. Mais je voulais comprendre comment vous arrivez au chiffre exact.
+Julien : C'est simple : on compare l'indice du trimestre de référence avec celui de l'année dernière. Ça donne une hausse de trois virgule cinq pour cent.
+Inès : Trois virgule cinq, d'accord. Donc mon loyer passerait de huit cent quarante à peu près à huit cent soixante-neuf euros ?
+Julien : Huit cent soixante-neuf et quarante centimes, pour être précis. Hors charges, bien sûr.
+Bernard : Ce qui reste raisonnable, vous ne trouvez pas ? Le plafond, c'est justement ça : la hausse ne peut pas le dépasser.
+Inès : Je ne dis pas le contraire. Je voulais juste vérifier que le calcul tenait la route.
+Julien : Vous avez raison de poser la question, c'est votre droit. Je peux vous laisser une copie du tableau.
+Inès : Volontiers. Et la date d'effet, ce serait à partir de quand ?
+Julien : Du premier du mois prochain, à condition que la lettre soit signée aujourd'hui, sinon on décale.
+Bernard : Moi, ça ne me dérange pas de décaler, hein. Je ne suis pas à un mois près.
+Inès : C'est gentil, mais je préfère qu'on règle ça proprement, sans flou.
+Julien : Très bien. Autrement dit, vous acceptez le principe, et on discute juste des modalités ?
+Inès : Disons que j'accepte de regarder les chiffres. Le principe, je ne suis pas contre, à condition que ça reste équitable.
+Bernard : Équitable, équitable... Moi aussi, j'ai des dépenses. La taxe foncière a explosé cette année.
+Inès : Oui, je comprends, vous me l'avez dit au téléphone. Mais ça n'entre pas dans le calcul de l'indice.
+Julien : Là, madame a raison. La taxe foncière, c'est un autre sujet.
+Bernard : Enfin bref, moi je veux juste que tout le monde soit content. Vous voulez un autre café, madame Benali ?
+Inès : Pas tout de suite, merci. Je voudrais d'abord finir de lire le document.
+Julien : Prenez votre temps. Je vais chercher des stylos, on n'en a jamais quand il faut.
+(Julien revient avec des stylos et un paquet de gâteaux. La conversation se détend.)
+Julien : Tenez, des stylos, et des madeleines. Un client m'en a apporté ce matin.
+Bernard : Des madeleines de Commercy ? Alors là, je ne résiste pas.
+Inès : Je vous laisse les goûter en premier, monsieur, vous les méritez après ce train.
+Bernard : Ma femme dit toujours que je mange trop de sucre. Elle n'est pas là, c'est le moment.
+Julien : Elle va bien, madame Lefèvre ? Elle ne vient plus jamais à l'agence.
+Bernard : Elle est à fond dans son jardin. Cet automne, elle a planté des tulipes partout, on dirait un champ en Hollande.
+Inès : Ça doit être magnifique au printemps. Moi, j'ai juste réussi à garder un basilic en vie sur mon balcon.
+Bernard : Un basilic, c'est déjà pas mal. Moi, j'ai tué trois cactus, et pourtant ils n'ont besoin de rien.
+Julien : Les cactus, c'est traître, on les oublie et ils meurent quand même.
+Inès : Au fait, le voisin du dessus a enfin réparé sa fenêtre qui claquait ?
+Bernard : Monsieur Diallo ? Oui, je crois que c'était la semaine dernière. Vous n'entendez plus rien ?
+Inès : Plus rien du tout, c'est un miracle. Avant, à chaque coup de vent, on aurait dit un coup de canon.
+Julien : Voilà, quand tout le monde s'y met, l'immeuble tourne bien.
+Bernard : D'ailleurs, la rénovation de la cage d'escalier, ça vous a plu ? Le gris clair, c'était mon idée.
+Inès : Franchement, c'est beaucoup plus lumineux. Les voisins en parlent encore.
+Bernard : Ah, vous voyez ! Ma femme voulait du beige, mais j'ai tenu bon.
+Julien : Vous avez de bons goûts tous les deux, ça se voit. On devrait faire une photo avant/après.
+Inès : Surtout pas, j'ai encore le souvenir d'un seau de peinture renversé devant ma porte.
+Bernard : Ha ha, c'était moi, le seau. Je n'ai jamais osé l'avouer.
+Inès : Je m'en doutais un peu, il y avait vos empreintes de chaussures dessus.
+(Julien pousse le document au milieu de la table. L'ambiance change d'un coup.)
+Julien : Bon, revenons au document. Monsieur Lefèvre, vous aviez une demande en plus, non ?
+Bernard : Oui. Avec le double vitrage que j'ai fait poser l'an dernier, je pensais demander soixante euros de plus par mois.
+Inès : Soixante euros en plus de la hausse ? Vous ne m'en aviez jamais parlé !
+Bernard : Je vous l'ai dit par téléphone, en juin. Vous avez dit que vous alliez y réfléchir.
+Inès : J'ai dit que j'allais réfléchir, pas que j'étais d'accord. Ce n'est pas la même chose.
+Julien : Madame, si je peux me permettre, le double vitrage, c'est un vrai travail, ça a de la valeur.
+Inès : Je ne dis pas non. Mais j'ai déjà payé une partie dans les charges, vous le savez.
+Bernard : Une toute petite partie ! Les fenêtres ont coûté six mille euros, je ne les ai pas trouvées dans la rue.
+Inès : Et moi, je ne gagne pas assez pour absorber tout ça. Je suis infirmière de nuit, pas directrice.
+Bernard : Je ne dis pas que vous gagnez trop. Je dis que j'ai fait un effort, et que ça ne se voit pas dans le loyer.
+Julien : Écoutez, je dois être clair. Pour les travaux, il faut une clause dans le bail, ou un accord signé des deux.
+Inès : Donc sans mon accord, ça ne marche pas ?
+Julien : Exactement. La hausse de l'indice, c'est automatique. Le reste, c'est une négociation.
+Bernard : Alors négocions. Quarante euros, au lieu de soixante ?
+Inès : Non plus. Pas ce soir, pas comme ça, avec un papier sous le nez.
+Bernard : Mais c'est vous qui avez chaud en hiver ! C'est normal que vous participiez.
+Inès : C'est moi qui ai chaud, d'accord, mais c'est vous qui avez un bien qui vaut plus. Ça aussi, c'est normal.
+Julien : Les deux arguments se tiennent, ça ne sert à rien de se fâcher.
+Bernard : Je ne me fâche pas. Je veux juste ne pas perdre d'argent sur mon appartement.
+Inès : Et moi, je veux juste ne pas payer plus que ce que la loi demande.
+(Un silence. Julien range quelques papiers et reprend d'une voix plus douce.)
+Julien : On respire un coup. Je vous propose de séparer les deux sujets, d'accord ?
+Bernard : Séparer comment ? Moi, je veux une réponse ce soir.
+Julien : Ce soir, on signe seulement la révision de l'indice. Le double vitrage, on le met de côté.
+Inès : Ça, ça me convient. Au moins, je sais où on en est.
+Bernard : Et le double vitrage, je le mets de côté jusqu'à quand ?
+Julien : Jusqu'à ce que madame ait pu regarder les factures. C'est normal qu'elle veuille voir les chiffres.
+Inès : Oui, si vous pouviez m'envoyer les factures par mail, je les regarderais tranquillement.
+Bernard : Je les ai quelque part dans un classeur. Il faudra que je cherche, ma femme sait peut-être où elles sont.
+Julien : Je peux m'en occuper si vous me les scannez. Ça évitera des allers-retours.
+Bernard : Bon... d'accord. Mais ça ne veut pas dire que je renonce, hein.
+Inès : Ça ne veut pas dire que j'accepte non plus. On est clairs ?
+Bernard : Clairs comme de l'eau de roche. Au moins, on se parle franchement.
+Julien : C'est le principal. J'imprime la lettre avec seulement l'indice.
+Inès : Vous pouvez aussi mettre la date de prise d'effet en gras ? J'aime bien que ce soit visible.
+Julien : Pas de problème. Je mets aussi votre nom en entier, pour éviter toute confusion.
+Bernard : Pendant ce temps, je me ressers une madeleine. Les négociations, ça creuse.
+Inès : Il en reste deux, vous ne les finissez pas toutes ?
+Bernard : Je vous en laisse une. Je suis un homme raisonnable, quand même.
+Julien : Voilà, c'est imprimé. Je vous laisse relire avant de signer.
+Inès : Merci. Je lis, mais ça ne m'empêche pas de poser encore une question.
+(Inès relit la page, puis lève les yeux. Dehors, la nuit tombe sur la rue.)
+Inès : Cette clause en bas de page, le « réexamen annuel », ça veut dire quoi exactement pour moi ?
+Julien : Ça veut dire que chaque année, à la date anniversaire, on peut refaire ce calcul. Rien de plus.
+Bernard : Et que chaque année, on se retrouve ici pour boire du mauvais café. Voilà.
+Inès : D'accord. Mais ce que je n'aimerais pas, c'est qu'on me présente un autre supplément l'an prochain.
+Bernard : Je ne peux pas vous promettre ça. Si je refais la toiture ou la chaudière, il faudra bien qu'on en reparle.
+Inès : Donc vous me dites que c'est possible chaque année ? Là, je ne suis pas sûre de pouvoir suivre.
+Julien : Il faut distinguer. L'indice a un plafond. Les travaux, eux, il faut qu'ils soient justifiés et acceptés.
+Bernard : Moi, je n'ai jamais voulu vous mettre dehors, madame Benali. Mais je ne suis pas riche non plus.
+Inès : Je n'ai jamais pensé ça. Mais quand on entend « je ne suis pas riche », on se demande si la prochaine étape, c'est la vente.
+Bernard : La vente ? Ma femme y pense depuis qu'elle est à la retraite. Moi, je résiste, c'est l'appartement de ma mère.
+Julien : Si vous vendiez, madame aurait la priorité pour acheter, sous certaines conditions. Je vous expliquerai ça le moment venu.
+Inès : Acheter ? Avec mon salaire, il faudrait un miracle. Mais merci de me le dire.
+Bernard : Écoutez, on n'en est pas là. Je préfère une locataire correcte à un acheteur inconnu.
+Inès : Et moi, un propriétaire correct à un propriétaire qui change d'avis tous les ans.
+Bernard : Touché. Alors disons qu'on est deux personnes correctes qui ne sont pas d'accord sur le prix d'une fenêtre.
+Julien : Voilà, c'est un bon résumé. Je note un rendez-vous dans trois semaines pour regarder les factures ?
+Inès : Je veux bien, mais à condition d'avoir les documents une semaine avant.
+Bernard : Promis, je les cherche demain. Et vous, vous réfléchissez sérieusement.
+Inès : Je réfléchis, oui. Je ne vous promets pas de dire oui, mais je vous promets de lire.
+Julien : C'est un bon début. Alors, madame Benali, on signe la partie indice ?
+
+## 낭독 포인트
+- 비음 모음: «bonsoir», «sans problème», «dans la rue», «trois semaines» — on, an, ain, oi 뒤의 n은 따로 발음하지 않고 코로 울린다.
+- 연음·앙샹느망: «vous avez», «un autre supplément», «un homme raisonnable» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «rue», «raisonnable», «très bien» — 목젖 근처에서 내는 마찰음.
+- u / ou: «plus» vs «tout» — u는 입술을 둥글게 모아 [y], ou는 [u].
+- 숫자·금액: «huit cent soixante-neuf», «trois virgule cinq pour cent», «soixante euros» — 소수점은 virgule, 금액은 천천히 또박또박.
+- 호칭: «madame Benali», «monsieur Lefèvre» — 세 사람 모두 vous. 쥘리앵은 정중하고 차분하게, 베르나르는 조금 급하게, 이네스는 신중하게 읽는다. 갈등 구간(61~80턴)은 속도를 올렸다가 81턴에서 다시 낮춘다.
+
+## 학습 포인트 정리
+- B2 구간(1~60턴): 월세 개정 설명과 잡담
+  · 계산 확인: «comment vous arrivez au chiffre exact», «ça n'entre pas dans le calcul de l'indice.»
+  · 조건: «à condition que la lettre soit signée aujourd'hui», «à condition que ça reste équitable.»
+  · 되묻기: «Autrement dit, vous acceptez le principe ?»
+- B1 구간(61~80턴): 추가 요구와 거절
+  · 입장 말하기: «Ce n'est pas la même chose.», «Je veux juste ne pas perdre d'argent sur mon appartement.»
+  · 제안과 양보: «Quarante euros, au lieu de soixante ?»
+- B2 구간(81~120턴): 쟁점 분리와 열린 결말
+  · 중재: «On respire un coup.», «Je vous propose de séparer les deux sujets.»
+  · 완곡한 거절: «Je ne vous promets pas de dire oui, mais je vous promets de lire.»
+- 어휘: le bail, le loyer, les charges, la taxe foncière, le double vitrage, la facture, la clause, la date anniversaire.
+
+## 속어 노트
+- «à fond dans»: ~에 푹 빠져서. «Elle est à fond dans son jardin.»
+- «tenir la route»: (계산·논리가) 믿을 만하다, 말이 된다.
+- «ça creuse»: 배가 고파진다.
+- «Touché.»: 한 방 먹었네요, 맞는 말이에요.
+- «Enfin bref»: 아무튼, 요컨대. 이야기를 접을 때 쓴다.
+- 이 이야기의 인상률, 금액, 법 조항, 우선 매수 절차는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 세 사람 모두 vous를 쓴다.
+
+## 한글 해석
+(생마르탱 거리 근처 부동산 중개사무소, 화요일 오후 여섯 시. 쥘리앵이 이네스를 맞는다. 집주인은 아직 오지 않았다.)
+쥘리앵 : 아, 베날리 씨, 어서 들어오세요. 사무실은 어렵지 않게 찾으셨어요?
+이네스 : 네, 집에서 두 걸음이에요. 매일 아침 앞을 지나가는데 고개를 든 적이 없네요.
+쥘리앵 : 원래 그래요. 앉으세요, 르페브르 씨가 곧 도착하실 거예요.
+이네스 : 어디서 오시더라? 이제 파리에 안 사시는 걸로 기억하는데.
+쥘리앵 : 네, 이 년 전에 오를레앙으로 이사하셨어요. 열일곱 시 기차를 타셨고, 조금 늦을 수도 있다고 미리 말씀하셨어요.
+이네스 : 괜찮아요, 오후를 비워 뒀거든요. 물 한 잔 있을까요?
+쥘리앵 : 그보다 나은 게 있어요, 커피요. 아, 자판기 커피지만요. 너무 기대는 마시고요.
+이네스 : 충분해요, 고맙습니다. 시월인데 날씨가 엄청 덥네요!
+쥘리앵 : 그러게요, 저는 하루 종일 창문을 열어 놨어요. 동네 사람들이 다 티셔츠 차림이에요.
+이네스 : 그런데 임대차 계약서는 가지고 계세요? 집에서 제 사본을 못 찾았어요.
+쥘리앵 : 물론이죠, 전부 서류철에 있어요. 십일월에 입주하셨죠?
+이네스 : 삼 년 전 십일월이요, 네. 삼 층 투룸이고 발코니가 안뜰로 나 있어요.
+쥘리앵 : 기억나요, 그 집은 이네스 씨 들어오기 전에 한 달 내내 비어 있었어요.
+이네스 : 사방에 페인트 자국이 남아 있었죠. 뭐, 그 뒤로 달라졌어요, 제가 다 새로 했거든요.
+쥘리앵 : 아, 그건 르페브르 씨가 잊지 않으세요, 올 때마다 말씀하세요.
+(베르나르가 코트를 팔에 걸치고 숨을 조금 헐떡이며 들어온다.)
+베르나르 : 미안합니다, 미안해요! 오스테를리츠역에서 기차가 취소돼서 다음 걸 탔어요.
+쥘리앵 : 괜찮습니다, 르페브르 씨. 커피 마시면서 기다리고 있었어요.
+베르나르 : 그럼 딱 맞춰 온 셈이네요. 안녕하세요, 베날리 씨, 다시 뵈니 반갑습니다.
+이네스 : 안녕하세요, 선생님. 얼굴이 좋아 보이세요, 시골 생활이 잘 맞으시나 봐요.
+베르나르 : 아, 오를레앙이 진짜 시골은 아니지만 적응이 되더군요. 자, 시작할까요?
+쥘리앵 : 자, 그럼요. 편지로 알려 드린 대로 계약 기념일이 되어 지수에 따라 월세를 개정할 수 있습니다. 주거 임대료 기준지수를 말씀드리는 거예요.
+이네스 : 네, 편지는 받았어요. 그런데 정확한 숫자가 어떻게 나오는지 이해하고 싶었어요.
+쥘리앵 : 간단해요. 기준 분기 지수를 작년 지수와 비교합니다. 그러면 삼 점 오 퍼센트 인상이 나와요.
+이네스 : 삼 점 오, 알겠어요. 그럼 제 월세가 팔백사십 유로에서 대략 팔백육십구 유로가 되는 건가요?
+쥘리앵 : 정확히는 팔백육십구 유로 사십 센트예요. 물론 관리비는 별도고요.
+베르나르 : 그 정도면 합리적이지 않습니까? 상한이 바로 그거잖아요, 인상이 그걸 넘을 수 없다는 거요.
+이네스 : 아니라고 안 했어요. 계산이 믿을 만한지 확인하고 싶었을 뿐이에요.
+쥘리앵 : 질문하시는 게 맞아요, 권리시니까요. 표 사본을 드릴게요.
+이네스 : 감사해요. 그럼 적용일은 언제부터죠?
+쥘리앵 : 다음 달 일일부터요, 오늘 편지에 서명하신다는 조건으로요. 아니면 미뤄지고요.
+베르나르 : 저는 미뤄져도 상관없어요. 한 달 정도는 괜찮습니다.
+이네스 : 친절하시네요, 그래도 모호하게 두지 말고 깔끔하게 정리하고 싶어요.
+쥘리앵 : 좋습니다. 다시 말해 원칙은 받아들이시고 세부 조건만 이야기하자는 거죠?
+이네스 : 숫자를 살펴보겠다는 정도로 해 두죠. 원칙에 반대하진 않아요, 공평하게 유지된다면요.
+베르나르 : 공평, 공평이라... 저도 지출이 있어요. 올해 재산세가 확 올랐거든요.
+이네스 : 네, 이해해요, 전화로 말씀하셨죠. 그래도 그건 지수 계산에 들어가지 않아요.
+쥘리앵 : 그 부분은 이네스 씨 말이 맞습니다. 재산세는 다른 문제예요.
+베르나르 : 아무튼, 저는 모두가 만족하길 바랄 뿐이에요. 커피 한 잔 더 하시겠어요, 베날리 씨?
+이네스 : 지금은 괜찮아요. 먼저 서류를 다 읽고 싶어서요.
+쥘리앵 : 천천히 하세요. 펜을 가져올게요, 막상 필요할 때는 늘 없네요.
+(쥘리앵이 펜과 과자 한 봉지를 들고 돌아온다. 분위기가 누그러진다.)
+쥘리앵 : 자, 펜이요. 그리고 마들렌도요. 오늘 아침에 손님이 가져다주셨어요.
+베르나르 : 코메르시 마들렌이요? 그건 못 참죠.
+이네스 : 먼저 드세요, 선생님. 그 기차를 타고 오셨으니 그럴 자격 있으세요.
+베르나르 : 아내는 늘 제가 단 걸 너무 먹는다고 해요. 지금 없으니 기회예요.
+쥘리앵 : 사모님은 잘 지내세요? 사무실에 통 안 오시네요.
+베르나르 : 정원에 푹 빠졌어요. 이번 가을엔 튤립을 온 데 심어서 네덜란드 들판 같아요.
+이네스 : 봄엔 정말 멋지겠어요. 저는 발코니에서 바질 하나 살려 낸 게 다예요.
+베르나르 : 바질이면 대단한 거예요. 저는 선인장을 세 개나 죽였어요, 아무것도 필요 없는 애들인데.
+쥘리앵 : 선인장이 오히려 얄궂죠. 잊어버리면 그래도 죽거든요.
+이네스 : 그런데 위층 이웃은 덜컹대던 창문을 드디어 고쳤나요?
+베르나르 : 디알로 씨요? 네, 지난주였던 것 같아요. 이제 아무 소리 안 들리세요?
+이네스 : 전혀 안 들려요, 기적이에요. 전엔 바람이 불 때마다 대포 소리 같았거든요.
+쥘리앵 : 그렇죠, 다 같이 나서면 건물이 잘 돌아가요.
+베르나르 : 그건 그렇고, 계단 보수는 마음에 드셨어요? 밝은 회색은 제 아이디어였어요.
+이네스 : 솔직히 훨씬 환해졌어요. 이웃들이 아직도 얘기해요.
+베르나르 : 아, 보세요! 아내는 베이지를 원했는데 제가 버텼어요.
+쥘리앵 : 두 분 다 취향이 좋으세요, 보면 알아요. 전후 사진을 찍어 둬야겠네요.
+이네스 : 절대 안 돼요, 제 현관 앞에 엎질러진 페인트 통 기억이 아직 생생하거든요.
+베르나르 : 하하, 그 통이 저였어요. 한 번도 털어놓을 엄두를 못 냈죠.
+이네스 : 조금 짐작했어요, 위에 선생님 신발 자국이 찍혀 있었거든요.
+(쥘리앵이 서류를 탁자 한가운데로 밀어 놓는다. 분위기가 갑자기 바뀐다.)
+쥘리앵 : 자, 서류로 돌아가죠. 르페브르 씨, 추가로 요청하실 게 있으셨죠?
+베르나르 : 네. 작년에 이중창을 달았으니 한 달에 육십 유로를 더 받았으면 했어요.
+이네스 : 인상분에 육십 유로를 더요? 한 번도 말씀 안 하셨잖아요!
+베르나르 : 전화로 유월에 말씀드렸어요. 생각해 보겠다고 하셨고요.
+이네스 : 생각해 보겠다고 했지 동의한다고 하진 않았어요. 같은 게 아니에요.
+쥘리앵 : 외람되지만 이중창은 진짜 공사라서 가치가 있습니다.
+이네스 : 아니라는 건 아니에요. 하지만 일부는 이미 관리비로 냈어요, 아시잖아요.
+베르나르 : 아주 작은 일부죠! 창문이 육천 유로가 들었어요, 길에서 주워 온 게 아니라고요.
+이네스 : 저는 그걸 다 감당할 만큼 못 벌어요. 저는 야간 간호사지 원장이 아니에요.
+베르나르 : 너무 많이 번다는 얘기가 아니에요. 제가 노력했는데 월세엔 안 보인다는 거예요.
+쥘리앵 : 들어 보세요, 분명히 말씀드릴게요. 공사비는 계약서에 조항이 있거나 두 분이 서명한 합의가 필요합니다.
+이네스 : 그럼 제 동의 없이는 안 된다는 거죠?
+쥘리앵 : 맞습니다. 지수 인상은 자동이고, 나머지는 협상이에요.
+베르나르 : 그럼 협상하죠. 육십 말고 사십 유로는요?
+이네스 : 그것도 안 돼요. 오늘 밤은 안 되고, 눈앞에 종이를 들이밀며 이런 식으론 안 돼요.
+베르나르 : 하지만 겨울에 따뜻한 건 이네스 씨잖아요! 같이 부담하는 게 당연하죠.
+이네스 : 따뜻한 건 저 맞죠, 그런데 가치가 올라간 집을 가진 건 선생님이세요. 그것도 당연하고요.
+쥘리앵 : 두 말씀 다 일리가 있어요. 화낼 필요 없습니다.
+베르나르 : 화 안 났어요. 제 아파트로 손해 보고 싶지 않을 뿐이에요.
+이네스 : 저도 법이 요구하는 것보다 더 내고 싶지 않을 뿐이고요.
+(침묵. 쥘리앵이 서류 몇 장을 정리하고 더 부드러운 목소리로 다시 말을 잇는다.)
+쥘리앵 : 숨 좀 돌리죠. 두 안건을 나누는 건 어떨까요?
+베르나르 : 어떻게 나눠요? 저는 오늘 밤 대답을 듣고 싶습니다.
+쥘리앵 : 오늘 밤은 지수 개정만 서명하고, 이중창은 따로 둡니다.
+이네스 : 그건 좋아요. 적어도 어디까지 왔는지 알 수 있으니까요.
+베르나르 : 그럼 이중창은 언제까지 따로 두는 거죠?
+쥘리앵 : 이네스 씨가 영수증을 볼 수 있을 때까지요. 숫자를 보고 싶어 하시는 게 당연하죠.
+이네스 : 네, 영수증을 메일로 보내 주시면 천천히 살펴볼게요.
+베르나르 : 어딘가 서류철에 있을 거예요. 찾아봐야겠네요, 아내가 어디 있는지 알지도 모르고요.
+쥘리앵 : 스캔해서 주시면 제가 맡을게요. 오가는 수고를 덜 수 있어요.
+베르나르 : 좋아요... 그러죠. 하지만 포기한다는 뜻은 아닙니다.
+이네스 : 저도 받아들인다는 뜻은 아니에요. 서로 분명하죠?
+베르나르 : 샘물처럼 분명하죠. 적어도 솔직하게 말하고 있으니까요.
+쥘리앵 : 그게 중요하죠. 지수만 넣어서 편지를 출력할게요.
+이네스 : 적용 날짜를 굵게 해 주실 수 있어요? 눈에 잘 띄는 게 좋아서요.
+쥘리앵 : 문제없어요. 혼동이 없도록 성함도 전체로 적을게요.
+베르나르 : 그동안 저는 마들렌을 하나 더 먹겠습니다. 협상을 하면 배가 고파지네요.
+이네스 : 두 개 남았는데 다 드시려고요?
+베르나르 : 하나는 남겨 드리죠. 그래도 저는 합리적인 사람이에요.
+쥘리앵 : 자, 출력됐습니다. 서명하시기 전에 다시 읽어 보세요.
+이네스 : 고마워요. 읽을게요, 그래도 질문 하나 더 하는 건 막지 못하세요.
+(이네스가 한 장을 다시 읽다가 눈을 든다. 바깥 거리에 밤이 내린다.)
+이네스 : 아래쪽의 이 조항, '연례 재검토'는 저한테 정확히 무슨 뜻이에요?
+쥘리앵 : 해마다 기념일에 이 계산을 다시 할 수 있다는 뜻이에요. 그 이상은 아니고요.
+베르나르 : 그리고 해마다 여기서 맛없는 커피를 마시게 된다는 뜻이고요. 자.
+이네스 : 알겠어요. 다만 내년에 또 다른 추가금을 내미는 건 싫어요.
+베르나르 : 그건 약속 못 해요. 지붕이나 보일러를 고치면 다시 얘기해야 할 테니까요.
+이네스 : 그럼 해마다 가능하다는 말씀이네요? 그건 제가 따라갈 수 있을지 모르겠어요.
+쥘리앵 : 구분해야 해요. 지수에는 상한이 있어요. 공사비는 정당한 사유가 있고 동의를 받아야 하고요.
+베르나르 : 저는 이네스 씨를 내보내고 싶었던 적이 없어요. 하지만 저도 부자는 아닙니다.
+이네스 : 그렇게 생각한 적 없어요. 하지만 '부자가 아니다'라는 말을 들으면 다음 단계가 매각인가 싶어요.
+베르나르 : 매각이요? 아내는 은퇴하고부터 그 생각을 해요. 저는 버티고 있어요, 어머니 집이거든요.
+쥘리앵 : 파시게 되면 이네스 씨가 일정 조건에서 먼저 살 수 있습니다. 그때가 되면 설명드릴게요.
+이네스 : 산다고요? 제 월급으로는 기적이 필요해요. 그래도 알려 주셔서 고마워요.
+베르나르 : 들어 봐요, 아직 거기까지 가진 않았어요. 모르는 매수인보다 괜찮은 세입자가 좋아요.
+이네스 : 저도 해마다 마음이 바뀌는 집주인보다 괜찮은 집주인이 좋아요.
+베르나르 : 한 방 먹었네요. 그럼 괜찮은 두 사람이 창문 한 짝 값에 합의하지 못한다고 해 둡시다.
+쥘리앵 : 네, 좋은 요약이에요. 영수증을 보게 삼 주 뒤로 약속을 잡을까요?
+이네스 : 좋아요, 단 서류는 일주일 전에 받는 조건으로요.
+베르나르 : 약속합니다, 내일 찾아볼게요. 이네스 씨도 진지하게 생각해 보세요.
+이네스 : 생각할게요. 좋다고 약속은 못 드리지만 읽겠다고는 약속드려요.
+쥘리앵 : 좋은 시작이에요. 그럼 베날리 씨, 지수 부분에 서명할까요?

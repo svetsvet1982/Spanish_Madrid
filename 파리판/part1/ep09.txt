@@ -1,0 +1,300 @@
+# 1부 9화. Le lave-linge est en panne (세탁기가 고장 났어요)
+난이도: 주 B1 | 구간: B1→A2→B1→B1→B1→A2 | 형식: 전화 | 장소: 파리 아파트 부엌과 상담 센터(전화) | 시간: 평일 오전 열 시
+등장인물: Mathieu, Nadia
+이슈: 주 ○ 고객센터 전화로 세탁기 고장 접수 | 곡선: 0-1-1-0-1-0 (잔잔형, 상한 1) | 입장: A 나디아(빨리 수리받고 시간을 낭비하고 싶지 않다) / B 마티외(절차대로 기록하고 수리 기사 방문 일정을 잡아야 한다)
+상황 카드: 목표: 나디아는 세탁기가 에러를 내고 멈추자 서비스센터에 전화해 수리를 접수한다. 걸림돌: 정보 확인, 필터 청소 안내, 네 시간짜리 방문 시간대가 불편하다. 해소: 필터에서 양말이 나오지만 에러가 계속되어 보증 수리 방문 일정을 잡는다. 두 번째 방문이 필요할 수도 있어 결말은 열려 있다.
+학습 포인트: 고객센터 전화 표현(Service après-vente, Mathieu à l'appareil) · 알파벳과 숫자 읽기(E dix-huit, arobase) · 되묻기(Pouvez-vous répéter ?) · 일정 잡기(entre quatorze et dix-huit heures) · 정중한 요청과 감사
+
+## 대화
+(Dans une petite cuisine, un mardi matin. Nadia tient son téléphone devant la machine à laver, pleine de linge mouillé. Mathieu répond depuis un centre d'appels.)
+Mathieu : Service après-vente MaisonNet, bonjour, Mathieu à l'appareil. Comment puis-je vous aider ?
+Nadia : Bonjour, monsieur. Mon lave-linge est en panne. Il s'arrête au milieu du programme avec un message d'erreur.
+Mathieu : D'accord, je vais vous aider. Pour commencer, pouvez-vous me donner votre nom, s'il vous plaît ?
+Nadia : Nadia Haddad. Haddad, avec deux D.
+Mathieu : Merci, madame Haddad. Quel est le modèle de votre appareil ? Vous trouverez le numéro sur une étiquette, à l'intérieur de la porte.
+Nadia : Attendez, j'ouvre la porte. Il y a une étiquette blanche. Je lis : L, W, huit, quatre, zéro, N.
+Mathieu : LW840N, très bien. C'est une machine de huit kilos, chargement frontal, c'est ça ?
+Nadia : Oui, c'est ça. Je l'ai achetée il y a quatorze mois.
+Mathieu : Quatorze mois, donc vous êtes encore sous garantie. Vous avez la facture ?
+Nadia : Oui, je l'ai retrouvée dans mon classeur. Elle est datée du douze octobre de l'année dernière.
+Mathieu : Parfait. Et quel est le message d'erreur qui s'affiche ?
+Nadia : Il y a écrit « E dix-huit ». Et l'eau reste dans le tambour, avec les vêtements.
+Mathieu : Je vois. Ce code signifie en général un problème de vidange.
+Nadia : De vidange ? Ça veut dire que l'eau ne sort pas ?
+Mathieu : Exactement. Elle peut être bloquée dans le tuyau ou dans le filtre.
+Nadia : Je n'ai jamais touché au filtre. Je ne savais même pas qu'il existait.
+Mathieu : C'est normal, la plupart des gens l'ignorent. Il est en bas, derrière une petite trappe.
+Nadia : Une trappe ? Attendez, je regarde... Ah oui, je vois un petit carré en plastique.
+Mathieu : C'est ça. On y reviendra dans un instant, d'abord je dois enregistrer votre dossier.
+Nadia : Bien sûr. Prenez votre temps.
+(Mathieu tape sur son clavier. Nadia se retourne vers la fenêtre de la cuisine.)
+Mathieu : Quelle est votre adresse, madame ?
+Nadia : Douze, rue des Lilas, à Paris. Le code postal, c'est sept cinq, zéro, deux, zéro.
+Mathieu : Douze, rue des Lilas, soixante-quinze zéro vingt. C'est bien ça ?
+Nadia : Oui, c'est ça.
+Mathieu : Votre numéro de téléphone, s'il vous plaît ?
+Nadia : Zéro six, douze, quarante-cinq, soixante-dix-huit, quatre-vingt-trois.
+Mathieu : Zéro six, douze, quarante-cinq, soixante-dix-huit, quatre-vingt-trois. Je répète : c'est bon ?
+Nadia : Oui, parfait.
+Mathieu : Et votre adresse mail, pour envoyer la confirmation ?
+Nadia : nadia point haddad, tout attaché, arobase mail point fr.
+Mathieu : Pardon, pouvez-vous répéter ? Je n'ai pas bien entendu après « arobase ».
+Nadia : Arobase « mail », point « f », « r ». Et avant : n, a, d, i, a, point, h, a, d, d, a, d.
+Mathieu : Merci, je note. N-A-D-I-A point H-A-D-D-A-D, arobase mail point fr.
+Nadia : Voilà, c'est exact.
+Mathieu : Dernière question : quel est le numéro de commande sur la facture ?
+Nadia : Je regarde... Commande numéro quatre, cinq, huit, deux, un, zéro.
+Mathieu : Quatre cinq huit deux un zéro. Très bien, je l'ai.
+Nadia : Parfait.
+Mathieu : Votre dossier est créé. Je vous demande encore un peu de patience, d'accord ?
+Nadia : Pas de problème. Je suis là.
+(Mathieu se racle la gorge. Il passe à l'étape suivante.)
+Mathieu : Alors, voilà : avant d'envoyer un technicien, on essaie un petit dépannage. Vous êtes devant la machine ?
+Nadia : Oui, je suis dans la cuisine. Elle est juste à côté de moi.
+Mathieu : Débranchez-la d'abord, par sécurité. La prise est derrière ?
+Nadia : Oui, j'ai trouvé. Voilà, c'est débranché.
+Mathieu : Très bien. Maintenant, mettez une serpillière devant la machine, parce qu'un peu d'eau va sortir.
+Nadia : D'accord, j'en prends une. Je la pose par terre.
+Mathieu : Ensuite, ouvrez la petite trappe en bas, à droite. Vous verrez un bouchon rond.
+Nadia : Je vois le bouchon. Je dois le tourner ?
+Mathieu : Oui, doucement, dans le sens inverse des aiguilles d'une montre. Attention, ça coule.
+Nadia : Oh là là ! L'eau sort très vite, il y en a partout !
+Mathieu : C'est normal, c'est l'eau qui était bloquée. Laissez couler, et ne paniquez pas.
+Nadia : Je ne panique pas, mais mes chaussettes sont toutes mouillées.
+Mathieu : Ha ha, désolé. Ça arrive souvent, c'est pour ça que je conseille la serpillière.
+Nadia : Vous auriez dû me prévenir qu'il y en aurait autant.
+Mathieu : Vous avez raison, j'aurais dû insister. Je m'excuse.
+Nadia : Ce n'est pas grave. Je m'attendais à un verre d'eau, pas à un seau.
+Mathieu : Justement, tenez un seau en dessous la prochaine fois. Pour l'instant, regardez le filtre : vous voyez quelque chose dedans ?
+Nadia : Oui... il y a une pièce de monnaie, un bouton, et un truc noir qui ressemble à une chaussette.
+Mathieu : Voilà, c'est probablement la cause de la panne. Les petits objets bloquent la pompe.
+Nadia : Une chaussette ! Je cherchais la deuxième depuis un mois.
+(Nadia nettoie le filtre et le remet en place. Elle rebranche la machine et lance un programme court.)
+Mathieu : Alors, le filtre est propre ? Vous le remettez en tournant dans l'autre sens.
+Nadia : C'est fait. Je rebranche et je lance le programme rapide.
+Mathieu : Parfait. Regardez l'écran. Que voyez-vous ?
+Nadia : Ça démarre... l'eau entre... ça tourne. Ça marche pendant une minute.
+Mathieu : Et ensuite ?
+Nadia : Ah, non. Ça s'arrête à nouveau. Le message « E dix-huit » est revenu.
+Mathieu : Je vois. Dans ce cas, le filtre n'était pas la seule cause. Il y a peut-être un problème avec la pompe elle-même.
+Nadia : Alors qu'est-ce qu'on fait ?
+Mathieu : On envoie un technicien à domicile. C'est couvert par la garantie, vous n'aurez rien à payer pour la réparation.
+Nadia : Même le déplacement ?
+Mathieu : Même le déplacement, tant que l'appareil a moins de deux ans et que la panne n'est pas due à un mauvais usage.
+Nadia : Un mauvais usage ? Mais vous avez vu, c'était une chaussette !
+Mathieu : Ha ha, une chaussette n'est pas un mauvais usage, rassurez-vous. On écrit « usure normale » dans le dossier.
+Nadia : Ouf. Je préfère « usure normale » à « chaussette perdue ».
+Mathieu : Je note que vous avez nettoyé le filtre, ça fait gagner du temps au technicien.
+Nadia : Merci. Je suis contente d'avoir essayé, même si ça n'a pas suffi.
+Mathieu : Vous avez bien fait. Pour la garantie, la loi prévoit deux ans, donc vous êtes tranquille jusqu'en octobre prochain.
+Nadia : Parfait. Et je n'ai rien à envoyer, pas de papier ?
+Mathieu : Non, tout est dans le dossier. Gardez juste la facture quelque part.
+Nadia : Je la garde dans mon classeur, au même endroit.
+(Mathieu consulte son planning. On entend des clics de souris.)
+Mathieu : Passons au rendez-vous. Le technicien peut venir lundi prochain, entre huit heures et midi.
+Nadia : Lundi matin, ce n'est pas possible. Je travaille jusqu'à dix-huit heures.
+Mathieu : Je comprends. Et mardi, entre quatorze et dix-huit heures ?
+Nadia : Mardi après-midi, je suis en télétravail, donc je peux. Mais est-ce qu'il y a une heure plus précise ?
+Mathieu : Malheureusement non. C'est un créneau de quatre heures, le technicien vous préviendra par SMS une heure avant.
+Nadia : Quatre heures d'attente, c'est long. Il n'y a pas de créneau plus court ?
+Mathieu : Pas pour l'instant, désolé. C'est le système de la tournée, les techniciens ne savent pas à l'avance combien de temps ils passent chez chaque client.
+Nadia : Je comprends. Alors va pour mardi après-midi.
+Mathieu : C'est noté. Mardi, entre quatorze et dix-huit heures. Y a-t-il quelqu'un d'autre qui pourrait ouvrir si vous n'étiez pas là ?
+Nadia : Non, je serai là. Je m'organise.
+Mathieu : Bien. Il faudra aussi prévoir un accès libre devant la machine, si possible.
+Nadia : Pas de souci. Je vais déplacer le panier à linge.
+Mathieu : Autre chose : le technicien apporte parfois une pièce de rechange, mais pas toujours. Si la pompe n'est pas en stock, il faudra un deuxième passage.
+Nadia : Un deuxième passage ? Ça ne me plaît pas du tout. Je dois reprendre un après-midi.
+Mathieu : Je comprends votre inquiétude. Je vais noter que la panne vient très probablement de la pompe, pour qu'il l'ait dans sa camionnette.
+Nadia : Ah, ça, c'est une bonne idée. Merci de le faire.
+Mathieu : C'est la moindre des choses. Et si jamais le deuxième passage est nécessaire, vous pouvez me rappeler, je trouverai un créneau rapide.
+Nadia : Je garde votre prénom, alors. Mathieu, c'est bien ça ?
+Mathieu : Oui, Mathieu. Et vous pouvez rappeler le même numéro avec votre numéro de dossier.
+Nadia : Parfait. Merci pour votre patience.
+(Mathieu relit le récapitulatif à voix haute.)
+Mathieu : Je récapitule. Rendez-vous mardi, entre quatorze et dix-huit heures, au douze, rue des Lilas.
+Nadia : Oui, c'est ça.
+Mathieu : Votre numéro de dossier est le W, K, trois, neuf, sept, deux, un.
+Nadia : W, K, trois, neuf, sept, deux, un. Je note sur un papier.
+Mathieu : Vous allez aussi recevoir un mail de confirmation dans quelques minutes.
+Nadia : Très bien. Et en attendant, je fais comment pour mon linge ?
+Mathieu : Il y a sûrement une laverie près de chez vous. C'est pratique pour quelques jours.
+Nadia : Oui, il y en a une au coin de la rue. Je vais y aller ce soir.
+Mathieu : Et pour le linge qui est encore dans la machine, vous pouvez le sortir, maintenant que l'eau est partie.
+Nadia : Oui, je vais le faire. Il est tout mouillé mais pas sale.
+Mathieu : Vous pouvez l'essorer à la main, ou le mettre dans la baignoire.
+Nadia : Bonne idée. Je vais m'en occuper tout de suite.
+Mathieu : Avez-vous d'autres questions, madame Haddad ?
+Nadia : Non, je crois que c'est tout. Vous avez été très gentil.
+Mathieu : Merci beaucoup. C'est mon travail, mais ça fait plaisir de l'entendre.
+Nadia : Bon courage pour le reste de votre journée.
+Mathieu : Merci, à vous aussi. Et surtout, regardez bien dans les poches avant de laver.
+Nadia : Ha ha, promis. Plus de chaussettes dans le filtre !
+Mathieu : C'est le secret d'une longue vie pour un lave-linge. Bonne journée, madame.
+Nadia : Bonne journée, monsieur. Au revoir.
+
+## 낭독 포인트
+- 비음 모음: «Bonjour», «chargement», «lundi prochain» — on, an, un, in은 코로 울리는 모음이고 뒤의 n은 따로 소리 내지 않는다.
+- 연음: «Vous avez», «un instant», «moins de deux ans» — 끝 자음이 다음 모음 앞에서 이어진다.
+- 프랑스어 r: «réparation», «rue des Lilas», «très bien» — 목젖 근처에서 내는 마찰음.
+- u / ou: «usure», «tuyau» vs «tout», «vous» — u는 입술을 모아 [y], ou는 [u].
+- 알파벳·숫자: «E dix-huit», «arobase», «quatre-vingt-trois», «quatorze et dix-huit heures» — 알파벳은 하나씩 또박또박, 전화번호는 두 자리씩 끊어 읽는다.
+- 호칭·억양: «madame Haddad» — 두 사람 모두 vous. 마티외는 상담원답게 일정한 속도와 부드러운 톤으로, 나디아는 점점 가벼워지는 톤으로 읽는다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 문제 설명과 정보 확인
+  · 증상 말하기: «Il s'arrête au milieu du programme avec un message d'erreur.»
+  · 모델과 구매 시기: «Je l'ai achetée il y a quatorze mois.»
+- A2 구간(21~40턴): 신원 확인
+  · 주소·전화·이메일 말하기: «Douze, rue des Lilas», «Zéro six, douze, quarante-cinq...»
+  · 되묻기: «Pardon, pouvez-vous répéter ?»
+- B1 구간(41~60턴): 간단한 점검
+  · 순서 안내 명령형: «Débranchez-la d'abord.», «Ouvrez la petite trappe en bas.»
+  · 놀람과 사과: «Oh là là !», «Vous auriez dû me prévenir.»
+- B1 구간(61~80턴): 보증과 결과
+  · 조건: «tant que l'appareil a moins de deux ans»
+  · 안도: «Ouf. Je préfère « usure normale » à « chaussette perdue ».»
+- B1 구간(81~100턴): 방문 일정 잡기
+  · 시간대: «entre quatorze et dix-huit heures»
+  · 우려 말하기: «Un deuxième passage ? Ça ne me plaît pas du tout.»
+- A2 구간(101~120턴): 마무리
+  · 확인과 감사: «Je récapitule.», «Vous avez été très gentil.»
+- 어휘: le lave-linge, le filtre, la vidange, la garantie, le technicien, le créneau, la laverie, l'étiquette, le numéro de dossier.
+
+## 속어 노트
+- «Oh là là !»: 어머나. 놀람이나 난감함.
+- «Ouf»: 휴, 다행이다.
+- «Pas de souci»: 문제없어요.
+- «va pour mardi»: 화요일로 하죠.
+- «la moindre des choses»: 당연히 해야 할 일.
+- «un truc»: 뭐라고 하기 애매한 물건, 거. (구어)
+- 이 이야기의 보증 기간, 무상 수리 조건, 방문 시간대는 모두 이야기 속 설정이며 실제 적용은 확인 필요. 'MaisonNet'은 가상의 이름이다.
+- 레지스터 주의: 욕설은 없다. 상담원과 고객은 vous를 쓴다.
+
+## 한글 해석
+(작은 부엌, 화요일 아침. 나디아가 젖은 빨래가 가득한 세탁기 앞에서 전화기를 들고 있다. 마티외는 콜센터에서 응대한다.)
+마티외 : 메종넷 서비스센터입니다, 안녕하세요, 마티외입니다. 무엇을 도와드릴까요?
+나디아 : 안녕하세요. 세탁기가 고장 났어요. 프로그램 도중에 에러 메시지가 뜨면서 멈춰요.
+마티외 : 알겠습니다, 도와드리겠습니다. 먼저 성함을 알려 주시겠어요?
+나디아 : 나디아 하다드예요. 하다드, D 두 개요.
+마티외 : 감사합니다, 하다드 고객님. 기기 모델이 어떻게 되나요? 문 안쪽 라벨에 번호가 있어요.
+나디아 : 잠깐만요, 문을 열게요. 흰색 라벨이 있어요. 읽을게요: L, W, 팔, 사, 영, N.
+마티외 : LW840N, 좋습니다. 팔 킬로그램 앞문 열림형이죠?
+나디아 : 네, 맞아요. 십사 개월 전에 샀어요.
+마티외 : 십사 개월이면 아직 보증 기간이네요. 영수증 있으세요?
+나디아 : 네, 서류철에서 찾았어요. 작년 시월 십이 일 자예요.
+마티외 : 좋아요. 그리고 어떤 에러 메시지가 뜨나요?
+나디아 : 'E 십팔'이라고 쓰여 있어요. 그리고 물이 빨래와 함께 통에 남아 있어요.
+마티외 : 알겠습니다. 그 코드는 보통 배수 문제를 뜻해요.
+나디아 : 배수요? 물이 안 빠진다는 뜻인가요?
+마티외 : 맞습니다. 호스나 필터에 막혀 있을 수 있어요.
+나디아 : 필터는 한 번도 만져 본 적이 없어요. 그런 게 있는지도 몰랐어요.
+마티외 : 정상이에요, 대부분 모르세요. 아래쪽 작은 덮개 뒤에 있어요.
+나디아 : 덮개요? 잠깐만요, 볼게요... 아, 작은 플라스틱 네모가 보여요.
+마티외 : 그거예요. 잠시 뒤에 다시 이야기하고, 먼저 접수를 해야 해요.
+나디아 : 그럼요. 천천히 하세요.
+(마티외가 키보드를 친다. 나디아는 부엌 창문 쪽으로 돌아선다.)
+마티외 : 주소가 어떻게 되시나요?
+나디아 : 파리 릴라 거리 십이 번지요. 우편번호는 칠오영이영이에요.
+마티외 : 릴라 거리 십이 번지, 칠십오 영 이십. 맞으신가요?
+나디아 : 네, 맞아요.
+마티외 : 전화번호를 알려 주시겠어요?
+나디아 : 영육, 십이, 사십오, 칠십팔, 팔십삼이에요.
+마티외 : 영육, 십이, 사십오, 칠십팔, 팔십삼. 다시 말씀드릴게요, 맞나요?
+나디아 : 네, 정확해요.
+마티외 : 확인서를 보낼 이메일 주소는요?
+나디아 : nadia 점 haddad, 붙여서, 골뱅이, mail 점 fr이에요.
+마티외 : 죄송하지만 다시 말씀해 주시겠어요? '골뱅이' 뒤를 잘 못 들었어요.
+나디아 : 골뱅이 'mail', 점 'f', 'r'이에요. 그리고 앞은 n, a, d, i, a, 점, h, a, d, d, a, d요.
+마티외 : 감사합니다, 적을게요. N-A-D-I-A 점 H-A-D-D-A-D, 골뱅이 mail 점 fr.
+나디아 : 맞아요, 정확해요.
+마티외 : 마지막 질문입니다. 영수증의 주문 번호가 어떻게 되나요?
+나디아 : 볼게요... 주문 번호 사, 오, 팔, 이, 일, 영이에요.
+마티외 : 사오팔이일영. 좋아요, 확인했습니다.
+나디아 : 좋아요.
+마티외 : 접수가 완료되었습니다. 조금만 더 기다려 주시겠어요?
+나디아 : 문제없어요. 여기 있을게요.
+(마티외가 목을 가다듬는다. 다음 단계로 넘어간다.)
+마티외 : 자, 기사를 보내기 전에 간단한 점검을 해 볼게요. 세탁기 앞에 계신가요?
+나디아 : 네, 부엌에 있어요. 바로 옆이에요.
+마티외 : 먼저 안전을 위해 전원을 뽑아 주세요. 콘센트가 뒤쪽에 있나요?
+나디아 : 네, 찾았어요. 자, 뽑았어요.
+마티외 : 좋아요. 이제 세탁기 앞에 걸레를 깔아 주세요, 물이 조금 나올 거예요.
+나디아 : 알겠어요, 하나 가져올게요. 바닥에 깔아요.
+마티외 : 그다음 아래 오른쪽의 작은 덮개를 여세요. 둥근 마개가 보일 거예요.
+나디아 : 마개가 보여요. 돌려야 하나요?
+마티외 : 네, 천천히 시계 반대 방향으로요. 조심하세요, 물이 흘러요.
+나디아 : 세상에! 물이 아주 빨리 나와요, 사방에 흘러요!
+마티외 : 정상이에요, 막혀 있던 물이에요. 흘러나오게 두시고 당황하지 마세요.
+나디아 : 당황하진 않는데 양말이 다 젖었어요.
+마티외 : 하하, 죄송해요. 자주 있는 일이라 걸레를 권하는 거예요.
+나디아 : 이렇게 많이 나올 거라고 미리 알려 주셨어야죠.
+마티외 : 맞아요, 더 강조했어야 했어요. 죄송합니다.
+나디아 : 괜찮아요. 한 컵인 줄 알았지 양동이만큼일 줄은 몰랐어요.
+마티외 : 그러니까 다음엔 아래에 양동이를 받쳐 두세요. 지금은 필터를 보세요, 안에 뭐가 보이나요?
+나디아 : 네... 동전 하나, 단추 하나, 그리고 양말처럼 생긴 검은 게 있어요.
+마티외 : 아, 그게 아마 고장 원인일 거예요. 작은 물건이 펌프를 막아요.
+나디아 : 양말이라니! 한 달 동안 짝을 찾고 있었어요.
+(나디아가 필터를 닦아 다시 끼운다. 전원을 다시 꽂고 짧은 코스를 돌린다.)
+마티외 : 자, 필터는 깨끗한가요? 반대 방향으로 돌려서 끼우세요.
+나디아 : 했어요. 전원을 꽂고 빠른 코스를 돌릴게요.
+마티외 : 좋아요. 화면을 보세요. 뭐가 보이나요?
+나디아 : 시작되네요... 물이 들어오고... 돌아요. 일 분 동안은 작동해요.
+마티외 : 그다음엔요?
+나디아 : 아, 아니에요. 또 멈췄어요. 'E 십팔' 메시지가 다시 떴어요.
+마티외 : 알겠습니다. 그렇다면 필터가 유일한 원인은 아니었네요. 펌프 자체에 문제가 있을 수 있어요.
+나디아 : 그럼 어떻게 하나요?
+마티외 : 기사를 집으로 보내겠습니다. 보증에 포함되니 수리 비용은 내지 않으셔도 돼요.
+나디아 : 출장비도요?
+마티외 : 출장비도요, 기기가 이 년 미만이고 고장이 잘못된 사용 때문이 아니라면요.
+나디아 : 잘못된 사용이요? 보셨잖아요, 양말이었는데요!
+마티외 : 하하, 양말은 잘못된 사용이 아니니 안심하세요. 접수에는 '정상 마모'라고 적어요.
+나디아 : 휴. '양말 분실'보다 '정상 마모'가 나아요.
+마티외 : 필터를 청소하신 것도 기록해 두겠습니다. 기사님 시간이 절약돼요.
+나디아 : 고맙습니다. 해 보길 잘했어요, 충분하진 않았지만요.
+마티외 : 잘하셨어요. 보증은 법적으로 이 년이니 다음 시월까지 걱정 없으세요.
+나디아 : 좋아요. 그리고 제가 보낼 건 없나요, 서류 같은 거요?
+마티외 : 없어요, 모두 접수 기록에 있어요. 영수증만 어디 보관해 두세요.
+나디아 : 서류철 같은 자리에 보관할게요.
+(마티외가 일정표를 확인한다. 마우스 클릭 소리가 들린다.)
+마티외 : 방문 일정으로 넘어가죠. 기사님이 다음 주 월요일 여덟 시에서 정오 사이에 올 수 있어요.
+나디아 : 월요일 오전은 안 돼요. 여섯 시까지 일해요.
+마티외 : 이해합니다. 화요일 오후 두 시에서 여섯 시 사이는 어떠세요?
+나디아 : 화요일 오후는 재택근무라 가능해요. 그런데 더 정확한 시간은 없나요?
+마티외 : 안타깝게도 없어요. 네 시간 대역이고, 기사님이 한 시간 전에 문자로 알려 드릴 거예요.
+나디아 : 네 시간 대기는 길어요. 더 짧은 시간대는 없나요?
+마티외 : 지금은 없어요, 죄송합니다. 순회 방문 방식이라 기사님도 고객마다 얼마나 걸릴지 미리 몰라요.
+나디아 : 이해해요. 그럼 화요일 오후로 할게요.
+마티외 : 기록했습니다. 화요일 두 시에서 여섯 시 사이요. 안 계실 경우 문을 열어 줄 다른 분이 계신가요?
+나디아 : 아니요, 제가 있을 거예요. 일정 맞출게요.
+마티외 : 좋아요. 가능하면 세탁기 앞 공간도 비워 두셔야 해요.
+나디아 : 문제없어요. 빨래 바구니를 옮길게요.
+마티외 : 하나 더요. 기사님이 교체 부품을 가져오기도 하지만 항상은 아니에요. 펌프 재고가 없으면 두 번째 방문이 필요해요.
+나디아 : 두 번째 방문이요? 전혀 마음에 안 들어요. 오후를 또 비워야 하잖아요.
+마티외 : 걱정되시는 거 이해해요. 고장 원인이 펌프일 가능성이 높다고 적어서 기사님이 차에 싣고 오게 할게요.
+나디아 : 아, 좋은 생각이네요. 그렇게 해 주셔서 감사해요.
+마티외 : 당연히 해야 할 일이에요. 그래도 두 번째 방문이 필요하면 다시 전화 주세요, 빠른 시간대를 찾아 드릴게요.
+나디아 : 그럼 이름을 기억해 둘게요. 마티외 맞죠?
+마티외 : 네, 마티외입니다. 같은 번호로 접수 번호를 말씀하시고 다시 전화하시면 돼요.
+나디아 : 좋아요. 기다려 주셔서 감사해요.
+(마티외가 요약 내용을 소리 내어 읽는다.)
+마티외 : 정리해 드리겠습니다. 화요일 오후 두 시에서 여섯 시 사이, 릴라 거리 십이 번지 방문입니다.
+나디아 : 네, 맞아요.
+마티외 : 접수 번호는 W, K, 삼, 구, 칠, 이, 일입니다.
+나디아 : W, K, 삼, 구, 칠, 이, 일. 종이에 적을게요.
+마티외 : 몇 분 안에 확인 메일도 받으실 거예요.
+나디아 : 좋아요. 그리고 그동안 빨래는 어떻게 하죠?
+마티외 : 근처에 분명 빨래방이 있을 거예요. 며칠은 편리하죠.
+나디아 : 네, 길모퉁이에 하나 있어요. 오늘 저녁에 갈게요.
+마티외 : 아직 세탁기 안에 있는 빨래는 물이 빠졌으니 꺼내셔도 돼요.
+나디아 : 네, 그럴게요. 젖었지만 더럽진 않아요.
+마티외 : 손으로 짜시거나 욕조에 넣어 두세요.
+나디아 : 좋은 생각이에요. 바로 처리할게요.
+마티외 : 다른 질문 있으신가요, 하다드 고객님?
+나디아 : 아니요, 이게 전부인 것 같아요. 정말 친절하셨어요.
+마티외 : 감사합니다. 제 일이지만 그렇게 말씀해 주시니 기쁘네요.
+나디아 : 남은 하루도 힘내세요.
+마티외 : 감사해요, 고객님도요. 그리고 세탁하기 전에 주머니를 꼭 확인하세요.
+나디아 : 하하, 약속해요. 더는 필터에 양말이 없을 거예요!
+마티외 : 그게 세탁기를 오래 쓰는 비결이에요. 좋은 하루 보내세요.
+나디아 : 좋은 하루 보내세요. 안녕히 계세요.

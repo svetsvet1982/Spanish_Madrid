@@ -1,0 +1,288 @@
+# 2부 5화. Le contrôleur et le Navigo (검표원과 정기권)
+난이도: 주 B2 | 구간: C1→B2→B2→B2→B2→B1 | 형식: 2인 | 장소: 파리 지하철 7호선 객차 안과 승강장 | 시간: 수요일 아침 8시 15분
+등장인물: Rolland, Clément
+이슈: 주 ● 정기권 유효 기간과 과태료 | 곡선: 3-2-1-1-0-0 (초반충격형, 상한 3) | 입장: A 롤랑(규정은 규정이라고 보지만 사정을 들을 줄 아는 검표원) / B 클레망(정기권을 갱신했는데 반영이 늦었다고 주장하는 승객)
+상황 카드: 출근길 지하철에서 검표원 롤랑이 승객 클레망의 정기권을 검사한다. 정기권이 어제 자정에 끝난 것으로 나오고 클레망은 이미 갱신했다고 항변한다. 롤랑은 과태료를 말하고 클레망은 억울해하지만 서로 목소리를 낮춘다. 결말은 클레망이 갱신 영수증을 증거로 제출하기로 하고 열린 결말.
+학습 포인트: 격식 있는 요청과 항변(Je vous demanderais de…, Permettez-moi de…) · 조건법·가정(Si j'avais su…) · 접속법(bien que, à moins que) · 증거와 절차 말하기 · 격앙된 상황에서 목소리 낮추기
+
+## 대화
+(Mercredi matin, huit heures quinze. Dans une rame de la ligne 7, bondée, un contrôleur en gilet bleu avance entre les voyageurs. Il s'arrête devant Clément, qui lit son téléphone, un sac de sport entre les pieds.)
+Rolland : Contrôle des titres de transport, bonjour monsieur. Je vous demanderais de bien vouloir me présenter votre titre.
+Clément : Bien sûr, voilà mon Navigo. Je l'ai passé à l'entrée, ça a fonctionné.
+Rolland : Permettez-moi de le vérifier. Il faut que je passe le lecteur dessus.
+Clément : Faites, faites. Je n'ai rien à me reprocher.
+Rolland : Bien. Monsieur, il apparaît que votre abonnement a expiré hier à minuit.
+Clément : Pardon ? Mais c'est impossible, je l'ai renouvelé dimanche soir !
+Rolland : Je ne dis pas que vous mentez, mais le lecteur affiche une date de fin.
+Clément : Alors le lecteur se trompe. J'ai payé en ligne, j'ai même reçu un reçu par mail.
+Rolland : Un paiement en ligne n'est pas forcément synchronisé avec la carte, monsieur.
+Clément : Ce n'est quand même pas ma faute si votre système est lent !
+Rolland : Je comprends votre agacement, mais la règle est claire : le titre doit être valide à bord.
+Clément : Valide ! Il est valide, puisque j'ai payé !
+Rolland : Dans les faits, il ne l'est pas, tant que la carte n'est pas mise à jour.
+Clément : Alors je suis en infraction pour un retard de mise à jour ? C'est absurde.
+Rolland : Je n'ai pas dit absurde, j'ai dit que c'est la procédure. Je ne l'ai pas inventée.
+Clément : Et vous allez me mettre une amende pour ça ?
+Rolland : La procédure prévoit une amende, oui. Dans notre histoire, cinquante euros.
+Clément : Cinquante euros pour un abonnement que j'ai déjà payé ? Mais c'est du racket !
+Rolland : Je vous demanderais de modérer vos propos, monsieur.
+Clément : Modérer mes propos ? Vous me collez une amende de cinquante euros et je devrais rester poli ?
+Rolland : Je ne vous demande pas d'être aimable, monsieur, juste de rester courtois.
+Clément : Courtois, d'accord, mais avouez que la situation est injuste.
+Rolland : Je peux l'entendre, mais ce n'est pas à moi de trancher entre le juste et l'injuste ici.
+Clément : Alors à qui ? À personne ? Les voyageurs paient, et personne n'est responsable ?
+Rolland : Il existe des responsables, mais ils ne prennent pas la ligne sept à huit heures.
+Clément : Vous voyez, vous êtes d'accord avec moi, au fond.
+Rolland : Sur ce point précis, peut-être, mais ça ne m'autorise pas à fermer les yeux.
+Clément : Vous n'avez jamais laissé passer quelqu'un, une seule fois ?
+Rolland : Je ne vous répondrai pas sur ce terrain, monsieur, ce serait une pente glissante.
+Clément : Une pente glissante, vous parlez comme un avocat.
+Rolland : Mon père l'était, il m'a laissé quelques tournures de phrase.
+Clément : Eh bien, voilà au moins un point commun : le mien aussi parlait trop.
+Rolland : Voilà qui nous rapproche.
+Clément : Pardon. Mais vous comprenez que je sois en colère.
+Rolland : Je le comprends parfaitement. Dites-moi, vous avez le mail de confirmation ?
+Clément : Oui, attendez, je cherche dans mon téléphone.
+(Clément fait défiler sa boîte mail, fébrile. Les voyageurs autour regardent discrètement, d'autres font semblant de ne rien voir.)
+Clément : Là ! Dimanche, vingt et une heures douze, paiement accepté.
+Rolland : Je vois. Le montant et la date de début ?
+Clément : Le premier du mois, jusqu'au trente et un.
+Rolland : Alors le problème vient de l'activation sur la carte, pas de votre paiement.
+Clément : Voilà ! C'est exactement ce que je dis depuis le début.
+Rolland : Cela dit, ça ne change pas ce que je dois constater, sur le papier.
+Clément : Même si je prouve que j'ai payé ?
+Rolland : Je peux établir le constat, et vous avez ensuite la possibilité de contester.
+Clément : Contester, ça veut dire des semaines de paperasse, non ?
+Rolland : Ça peut être rapide, si vous apportez le reçu à une agence.
+Clément : À quelle agence ? Je travaille, moi, je ne peux pas passer la matinée en file d'attente.
+Rolland : Il y en a une à la station Opéra, ouverte dès huit heures trente.
+Clément : Opéra ? C'est justement mon arrêt.
+Rolland : Alors vous pourriez y passer dix minutes avant d'aller travailler.
+Clément : Et ça annulerait l'amende ?
+Rolland : Je ne peux pas vous le promettre, ce n'est pas moi qui décide.
+Clément : Mais vous pouvez écrire que j'ai montré le reçu ?
+Rolland : Ça, je peux le faire, c'est une mention possible sur le constat.
+Clément : Alors faites-le, s'il vous plaît.
+(Le métro ralentit, les portes s'ouvrent à Pyramides. Quelques voyageurs descendent, d'autres montent. Rolland sort son carnet à souche et un stylo.)
+Rolland : Je note : abonnement non activé, reçu en ligne présenté, le vingt-quatre.
+Clément : Merci. Vous êtes plus arrangeant que je ne le pensais.
+Rolland : Je ne suis pas contre les voyageurs, monsieur, je suis là pour faire respecter les règles.
+Clément : Et quand les règles sont injustes ?
+Rolland : Je les applique quand même, mais je note ce qui se passe, et ça remonte.
+Clément : Ça remonte jusqu'où, vraiment ?
+Rolland : Jusqu'au service qui gère les titres. Je ne vous cache pas que ça avance lentement.
+Clément : Au moins, vous êtes honnête.
+Rolland : Je préfère ça à faire semblant.
+Clément : Moi aussi. Et pardon d'avoir parlé de racket tout à l'heure.
+Rolland : C'est oublié. Les gens disent ça sous le coup de l'émotion.
+Clément : Vous entendez ça souvent ?
+Rolland : Tous les jours. Parfois pire. Mais vous, vous vous êtes vite calmé.
+Clément : J'ai une fille de six ans. Elle m'a appris à compter jusqu'à dix avant de crier.
+Rolland : Une excellente méthode. Je devrais l'essayer.
+Clément : Je vous la recommande. Ça marche même avec les voyageurs.
+Rolland : Ha ha, si seulement !
+Clément : Dites, ça fait longtemps que vous faites ce métier ?
+Rolland : Onze ans, dont sept sur cette ligne.
+Clément : Onze ans ! Et vous n'êtes jamais fatigué des conflits ?
+Rolland : Si, souvent, mais il y a aussi de belles rencontres.
+Clément : Comme celle-ci, vous voulez dire ?
+Rolland : Disons que celle-ci s'est mieux terminée qu'elle n'avait commencé.
+Clément : On ne vous attaque pas toujours, j'espère.
+Rolland : Pas toujours, mais ça arrive. Une fois, on m'a même lancé un sandwich.
+Clément : Un sandwich ! Au jambon, au moins ?
+Rolland : Au thon. Et j'avoue que j'ai été déçu, je préfère le jambon.
+Clément : Ha ha, vous avez de l'humour, c'est précieux dans votre métier.
+Rolland : C'est la seule arme dont on dispose, avec le sourire.
+Clément : Et le gilet bleu, ça aide ?
+Rolland : Il impressionne quelques secondes, rarement plus.
+Clément : Moi, je ne l'ai même pas remarqué avant que vous me parliez.
+Rolland : Alors vous faites partie des voyageurs absorbés par leur téléphone, comme la plupart.
+(La rame repart. Une dame âgée se lève pour laisser sa place à une femme enceinte. Les deux hommes se déplacent pour dégager le passage.)
+Clément : Dites, si j'avais su que mon abonnement n'était pas actif, j'aurais attendu à l'agence ce matin.
+Rolland : Vous ne pouviez pas le savoir, monsieur, aucun message ne s'affiche.
+Clément : C'est bien là le problème : le portique s'est ouvert sans rien dire.
+Rolland : Parce qu'il a lu un reste de voyages, ou de validité. C'est complexe.
+Clément : Complexe pour vous, imaginez pour nous !
+Rolland : C'est ce que je dis à ma hiérarchie depuis des années.
+Clément : Et ils répondent quoi ?
+Rolland : Que le système va être modernisé.
+Clément : Depuis combien de temps ?
+Rolland : Depuis assez longtemps pour que je ne m'avance plus sur une date.
+Clément : Ha ha, je vois. On est tous dans la même galère, alors.
+Rolland : À peu près, oui. Mais vous, vous n'êtes pas obligé de travailler le mercredi matin à huit heures.
+Clément : Moi, si, j'ai une réunion à neuf heures.
+Rolland : Alors je ne vous retiens pas plus longtemps, voici le constat.
+Clément : Merci. Il y a un numéro à appeler, je suppose ?
+Rolland : Oui, en bas. Vous avez quinze jours pour régulariser, dans notre histoire.
+Clément : Quinze jours, d'accord. J'irai à l'agence d'Opéra tout à l'heure.
+Rolland : Très bien. Gardez votre reçu et votre mail, ça facilitera tout.
+Clément : Je les garde précieusement. Et si l'amende reste ?
+Rolland : Alors vous pourrez en parler avec le service des réclamations.
+Clément : Je vous avoue que j'ai du mal à y croire.
+Rolland : Je vous comprends, mais certaines réclamations aboutissent, je l'ai vu.
+Clément : D'accord. Je tenterai ma chance.
+Rolland : Bonne chance, monsieur.
+Clément : Merci. Et bon courage pour votre journée.
+Rolland : Merci, j'en ai besoin. Encore vingt wagons à contrôler.
+Clément : Vingt wagons ? Vous n'avez pas fini !
+Rolland : Je compte les petits moments comme celui-ci pour tenir le coup.
+(Le métro arrive à Opéra. Clément ramasse son sac. Rolland lui tend la main, un peu raide, puis sourit.)
+Clément : Je descends ici. Merci d'avoir pris le temps de m'écouter.
+Rolland : C'est le minimum, monsieur. Bonne journée.
+Clément : Bonne journée. Et peut-être à bientôt, sans amende, cette fois.
+Rolland : Je l'espère pour vous.
+
+
+## 낭독 포인트
+- 비음 모음: «monsieur», «abonnement», «constat», «attendu» — on, en, an은 코로 울리는 모음, 끝의 n은 따로 발음하지 않는다.
+- 연음·앙샹느망: «un abonnement», «c'est absurde», «vous avez» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «règle», «rapide», «reçu», «renouvelé» — 목젖 근처에서 내는 마찰음.
+- u / ou: «reçu», «plus», «une» vs «vous», «pouvez» — u는 입술을 모아 [y], ou는 [u].
+- 억양: 롤랑은 낮고 정중하게, 클레망은 처음엔 올라갔다가 점점 가라앉게 읽는다. 첫 구간의 격식 있는 문장은 한 단어씩 또박또박.
+- 숫자·날짜: «vingt et une heures douze», «cinquante euros», «quinze jours»를 분명하게. 호칭은 vous를 끝까지 유지한다.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 격식 있는 요청과 항변
+  · «Je vous demanderais de bien vouloir me présenter votre titre.», «Permettez-moi de le vérifier.», «Je n'ai rien à me reprocher.»
+- B2 구간(21~100턴): 절차 설명과 반박
+  · 조건·접속법: «Il faut que je passe le lecteur dessus.», «Vous comprenez que je sois en colère.»
+  · 증거와 절차: «Je peux établir le constat, et vous avez ensuite la possibilité de contester.»
+  · 대과거·조건법: «Si j'avais su que mon abonnement n'était pas actif, j'aurais attendu à l'agence.»
+- B1 구간(101~120턴): 헤어짐
+  · «Merci d'avoir pris le temps de m'écouter.», «Je l'espère pour vous.»
+- 어휘: le contrôleur, le titre de transport, l'abonnement, l'amende, le constat, régulariser, contester, l'agence.
+
+## 속어 노트
+- «c'est du racket»: 이건 갈취다(과장해서 하는 말).
+- «sous le coup de l'émotion»: 감정에 휩쓸려서.
+- «dans la même galère»: 같은 처지, 같은 고생.
+- «tenter sa chance»: 운을 시험해 보다.
+- 과태료 액수, 정정 기한, 단말기 연동 방식은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 낯선 사이라 서로 vous를 쓴다.
+
+## 한글 해석
+(수요일 아침 8시 15분. 만원인 7호선 객차 안, 파란 조끼를 입은 검표원이 승객들 사이로 나아간다. 그는 발 사이에 운동 가방을 둔 채 휴대폰을 보고 있는 클레망 앞에 선다.)
+롤랑 : 승차권 검사입니다, 안녕하세요. 승차권을 보여 주시겠습니까.
+클레망 : 물론이죠, 제 나비고예요. 입구에서 찍었고 잘 열렸어요.
+롤랑 : 확인하겠습니다. 단말기를 대 봐야 해요.
+클레망 : 하세요, 하세요. 저는 잘못한 게 없어요.
+롤랑 : 자. 선생님, 정기권이 어제 자정에 만료된 것으로 나옵니다.
+클레망 : 네? 그럴 리 없어요, 일요일 저녁에 갱신했는데요!
+롤랑 : 거짓말이라는 건 아니지만 단말기에는 종료 날짜가 뜹니다.
+클레망 : 그럼 단말기가 틀린 겁니다. 온라인으로 결제했고 메일로 영수증도 받았어요.
+롤랑 : 온라인 결제가 반드시 카드와 바로 연동되는 건 아닙니다, 선생님.
+클레망 : 시스템이 느린 게 제 잘못은 아니잖아요!
+롤랑 : 짜증 나시는 건 이해하지만 규정은 분명합니다, 탑승 중에 승차권이 유효해야 해요.
+클레망 : 유효하죠! 돈을 냈으니 유효한 거예요!
+롤랑 : 실제로는 카드가 갱신되기 전까지 유효하지 않습니다.
+클레망 : 그럼 갱신이 늦어서 위반이라는 말이에요? 말도 안 돼요.
+롤랑 : 말도 안 된다는 게 아니라 절차라는 겁니다. 제가 만든 게 아니에요.
+클레망 : 그래서 그걸로 과태료를 매기실 건가요?
+롤랑 : 절차상 과태료가 있습니다. 이 이야기에서는 오십 유로입니다.
+클레망 : 이미 낸 정기권에 오십 유로요? 이건 갈취예요!
+롤랑 : 말씀을 삼가 주시기 바랍니다, 선생님.
+클레망 : 말을 삼가라고요? 오십 유로 과태료를 매기면서 저더러 공손하라고요?
+롤랑 : 상냥하라는 게 아니라 예의만 지켜 달라는 겁니다, 선생님.
+클레망 : 예의는 지키죠, 하지만 이 상황이 부당하다는 건 인정하세요.
+롤랑 : 그 말씀은 들을 수 있지만 여기서 옳고 그름을 가르는 건 제 몫이 아닙니다.
+클레망 : 그럼 누구 몫이에요? 아무도 아니에요? 승객은 돈을 내는데 책임지는 사람은 없고요?
+롤랑 : 책임자들은 있지만 그분들은 아침 여덟 시에 7호선을 타지 않죠.
+클레망 : 보세요, 속으로는 저랑 같은 생각이시잖아요.
+롤랑 : 그 한 가지에서는 그럴지도요, 하지만 그렇다고 눈감아도 되는 건 아닙니다.
+클레망 : 단 한 번도 누군가를 그냥 보내 준 적 없어요?
+롤랑 : 그 문제로는 답하지 않겠습니다, 선생님, 위험한 길이 될 테니까요.
+클레망 : 위험한 길이라니, 변호사처럼 말씀하시네요.
+롤랑 : 아버지가 변호사였어요, 말버릇 몇 가지를 물려주셨죠.
+클레망 : 그럼 공통점이 하나 있네요, 저희 아버지도 말씀이 많으셨어요.
+롤랑 : 그러면 우리가 조금 가까워지네요.
+클레망 : 죄송합니다. 하지만 제가 화나는 거 이해하시죠.
+롤랑 : 충분히 이해합니다. 말씀해 보세요, 확인 메일 갖고 계세요?
+클레망 : 네, 잠깐만요, 휴대폰에서 찾아볼게요.
+(클레망이 초조하게 메일함을 넘긴다. 주변 승객들이 슬쩍 쳐다보고, 다른 사람들은 못 본 척한다.)
+클레망 : 여기요! 일요일 밤 아홉 시 십이 분, 결제 승인됐어요.
+롤랑 : 알겠습니다. 금액이랑 시작일은요?
+클레망 : 일일부터 삼십일 일까지예요.
+롤랑 : 그럼 문제는 결제가 아니라 카드 활성화에 있네요.
+클레망 : 바로 그거예요! 처음부터 제가 하는 말이 그거예요.
+롤랑 : 그렇다 해도 서류상 제가 확인해야 하는 건 달라지지 않습니다.
+클레망 : 결제한 걸 증명해도요?
+롤랑 : 확인서는 작성하되 그 뒤에 이의를 제기할 수 있습니다.
+클레망 : 이의 제기면 몇 주 동안 서류 작업이잖아요?
+롤랑 : 영수증을 지점에 가져오시면 빠를 수도 있어요.
+클레망 : 어느 지점이요? 저는 일해야 해서 아침 내내 줄 설 수 없어요.
+롤랑 : 오페라 역에 있어요, 여덟 시 반부터 열어요.
+클레망 : 오페라요? 마침 제가 내릴 역이에요.
+롤랑 : 그럼 출근 전에 십 분 정도 들르실 수 있겠네요.
+클레망 : 그러면 과태료가 취소되나요?
+롤랑 : 약속은 못 드립니다, 제가 결정하는 게 아니라서요.
+클레망 : 하지만 제가 영수증을 보여 줬다고 적어 주실 수는 있죠?
+롤랑 : 그건 가능합니다, 확인서에 적을 수 있는 항목이에요.
+클레망 : 그럼 그렇게 적어 주세요, 부탁드립니다.
+(지하철이 속도를 줄이고 피라미드 역에서 문이 열린다. 몇몇은 내리고 몇몇은 탄다. 롤랑이 수첩과 펜을 꺼낸다.)
+롤랑 : 적습니다, 정기권 미활성화, 온라인 영수증 제시, 이십사 일.
+클레망 : 고맙습니다. 생각보다 융통성 있으시네요.
+롤랑 : 저는 승객들 편을 안 드는 게 아니라 규칙을 지키게 하려고 있는 겁니다.
+클레망 : 규칙이 부당하면요?
+롤랑 : 그래도 적용은 하지만 일어난 일은 기록하고, 그게 위로 올라가요.
+클레망 : 정말 어디까지 올라가요?
+롤랑 : 승차권을 관리하는 부서까지요. 느리게 진행된다는 건 숨기지 않겠습니다.
+클레망 : 적어도 솔직하시네요.
+롤랑 : 모르는 척하는 것보다 낫죠.
+클레망 : 저도요. 그리고 아까 갈취라고 말해서 죄송합니다.
+롤랑 : 잊었습니다. 사람들은 감정이 격해지면 그런 말을 하죠.
+클레망 : 그런 말 자주 들으세요?
+롤랑 : 매일요. 더한 것도 많고요. 하지만 선생님은 금방 진정하셨죠.
+클레망 : 여섯 살 딸이 있어요. 소리치기 전에 열까지 세라고 가르쳐 줬어요.
+롤랑 : 훌륭한 방법이네요. 저도 해 봐야겠어요.
+클레망 : 추천해요. 승객들한테도 통해요.
+롤랑 : 하하, 그럴 수만 있다면!
+클레망 : 저기, 이 일 하신 지 오래됐어요?
+롤랑 : 십일 년이요, 그중 칠 년은 이 노선이에요.
+클레망 : 십일 년이나! 갈등에 지치신 적 없어요?
+롤랑 : 있죠, 자주요, 하지만 좋은 만남도 있어요.
+클레망 : 이번처럼 말인가요?
+롤랑 : 이번 만남은 시작할 때보다 끝이 나아졌다고 해 두죠.
+클레망 : 늘 공격받는 건 아니길 바라요.
+롤랑 : 늘은 아니지만 있어요. 한번은 샌드위치를 던진 사람도 있었어요.
+클레망 : 샌드위치요! 하다못해 햄이었나요?
+롤랑 : 참치였어요. 솔직히 실망했죠, 저는 햄을 더 좋아하거든요.
+클레망 : 하하, 유머 감각이 있으시네요, 그 일에는 소중하겠어요.
+롤랑 : 우리가 가진 유일한 무기죠, 미소와 함께요.
+클레망 : 파란 조끼는 도움이 돼요?
+롤랑 : 몇 초 동안은 위압감이 있지만 그 이상은 드물어요.
+클레망 : 저는 말을 걸기 전까지 조끼도 못 봤어요.
+롤랑 : 그럼 대부분처럼 휴대폰에 빠진 승객이시네요.
+(열차가 다시 출발한다. 한 노부인이 일어나 임산부에게 자리를 양보한다. 두 사람은 길을 터 주려고 자리를 옮긴다.)
+클레망 : 있잖아요, 정기권이 활성화 안 된 걸 알았다면 오늘 아침에 지점에서 기다렸을 거예요.
+롤랑 : 알 수 없었을 겁니다, 선생님, 어떤 메시지도 안 뜨니까요.
+클레망 : 바로 그게 문제죠, 개찰구가 아무 말 없이 열렸어요.
+롤랑 : 남은 횟수나 유효 기간을 읽었으니까요. 복잡합니다.
+클레망 : 선생님들한테 복잡하면 우리는 오죽하겠어요!
+롤랑 : 제가 몇 년째 상부에 하는 말이 그겁니다.
+클레망 : 뭐라고 답해요?
+롤랑 : 시스템이 개선될 거라고요.
+클레망 : 얼마 전부터요?
+롤랑 : 날짜를 장담하지 못할 만큼 오래전부터요.
+클레망 : 하하, 알겠어요. 그럼 우리 다 같은 처지네요.
+롤랑 : 비슷하죠. 하지만 선생님은 수요일 아침 여덟 시에 일할 의무는 없잖아요.
+클레망 : 저는 있어요, 아홉 시에 회의가 있어요.
+롤랑 : 그럼 더 붙잡지 않겠습니다, 확인서 여기 있습니다.
+클레망 : 고맙습니다. 전화할 번호가 있겠죠?
+롤랑 : 네, 아래에요. 이 이야기에서는 보름 안에 정정할 수 있습니다.
+클레망 : 보름이요, 알겠어요. 조금 뒤에 오페라 지점에 갈게요.
+롤랑 : 좋습니다. 영수증과 메일은 꼭 갖고 계세요, 훨씬 수월해질 겁니다.
+클레망 : 소중히 보관할게요. 그래도 과태료가 남으면요?
+롤랑 : 그땐 민원 부서와 얘기해 보실 수 있어요.
+클레망 : 솔직히 믿기 어려워요.
+롤랑 : 이해합니다, 하지만 받아들여지는 이의 신청도 있어요, 제가 봤습니다.
+클레망 : 알겠어요. 한번 해 볼게요.
+롤랑 : 행운을 빕니다, 선생님.
+클레망 : 고맙습니다. 오늘 하루 힘내세요.
+롤랑 : 고맙습니다, 필요해요. 아직 객차 스무 칸을 검사해야 하거든요.
+클레망 : 스무 칸이요? 아직 한참 남으셨네요!
+롤랑 : 이런 작은 순간들을 세면서 버티는 거죠.
+(열차가 오페라 역에 도착한다. 클레망이 가방을 집어 든다. 롤랑이 조금 뻣뻣하게 손을 내밀고, 이어 웃는다.)
+클레망 : 여기서 내려요. 제 말을 들어 주셔서 감사합니다.
+롤랑 : 최소한의 일이죠, 선생님. 좋은 하루 보내세요.
+클레망 : 좋은 하루 보내세요. 그리고 다음엔 과태료 없이 또 뵙죠.
+롤랑 : 선생님을 위해 그러길 바랍니다.

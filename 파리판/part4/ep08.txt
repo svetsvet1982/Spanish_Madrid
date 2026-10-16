@@ -1,0 +1,288 @@
+# 4부 8화. Ouvrir un compte (계좌 개설)
+난이도: 주 B1 | 구간: A2→B1→A2→B1→A2→B1 | 형식: 2인 | 장소: 파리 볼테르 대로의 은행 지점 창구 | 시간: 월요일 오전 10시
+등장인물: Sandrine, Ravi
+이슈: 주 ◐ 은행 수수료와 주소 증빙 서류(숙박 증명서) | 곡선: 0-1-2-2-2-1 (정점형, 상한 2) | 입장: A 상드린(은행원, 절차와 규정을 지켜야 하고 대면 서비스의 가치를 설명한다) / B 라비(새로 온 직장인, 수수료가 아깝고 인터넷 은행도 비교해 보고 싶다)
+상황 카드: 런던에서 온 엔지니어 라비가 은행에 계좌를 열러 왔다. 하지만 사촌 집에 살아서 주소 증빙이 없고, 고용주는 은행 계좌 증명서를 기다린다. 상드린은 규정상 오늘 계좌를 열 수 없다고 하고, 수수료 설명과 인터넷 은행 비교를 거쳐 임시 서류와 금요일 재방문을 제안한다. 라비가 이 지점을 택할지는 열려 있다.
+학습 포인트: 계좌 개설 표현(Je voudrais ouvrir un compte) · 서류 이름(un justificatif de domicile, une attestation d'hébergement) · 수수료·조건 묻기(C'est une commission de combien ?) · 비교하며 거절하기(J'ai le droit de comparer, non ?) · 약속 정하기(Vendredi à dix heures)
+
+## 대화
+(월요일 오전, 볼테르 대로의 은행 지점. 창구 하나가 비어 있다. 라비가 플라스틱 서류철을 들고 들어온다.)
+Sandrine : Bonjour, monsieur. Je peux vous aider ?
+Ravi : Bonjour, madame. Je voudrais ouvrir un compte, s'il vous plaît.
+Sandrine : Très bien. C'est un premier compte en France ?
+Ravi : Oui. J'étais à Londres avant. Je suis arrivé à Paris il y a un mois.
+Sandrine : Bienvenue à Paris. Asseyez-vous, je vous prie.
+Ravi : Merci. Il y a beaucoup de monde ce matin.
+Sandrine : C'est le début du mois. Les gens viennent pour leur loyer.
+Ravi : Ah oui. Moi, je vais payer le mien par virement.
+Sandrine : Très bien. Vous travaillez déjà ?
+Ravi : Oui. Je suis ingénieur, dans une entreprise à Montreuil. J'ai commencé lundi dernier.
+Sandrine : Félicitations. Vous avez un contrat ?
+Ravi : Oui, un CDI. Je l'ai ici.
+Sandrine : Parfait. Je peux voir votre passeport, s'il vous plaît ?
+Ravi : Voilà. Et mon titre de séjour.
+Sandrine : Merci. Un instant, je fais une copie.
+Ravi : Pas de problème. Je ne suis pas pressé.
+Sandrine : Vous avez de la chance. Il y a une machine à café là-bas, servez-vous.
+Ravi : Merci, c'est gentil. Je prends un café plus tard.
+Sandrine : Alors, votre nom complet ?
+Ravi : Ravi Subramanian. R-A-V-I, et Subramanian, S-U-B-R-A-M-A-N-I-A-N.
+Sandrine : Merci. Vous avez une idée du type de compte que vous voulez ?
+Ravi : Pas vraiment. Un compte normal, pour recevoir mon salaire et payer mes dépenses.
+Sandrine : D'accord. Alors c'est un compte courant, avec une carte bancaire.
+Ravi : Oui. Et un compte épargne aussi, plus tard.
+Sandrine : On verra ça dans un deuxième temps. Pour commencer, vous voulez une carte à débit immédiat ou différé ?
+Ravi : C'est quoi, la différence ?
+Sandrine : Avec le débit immédiat, chaque achat sort du compte tout de suite. Avec le débit différé, tout est prélevé à la fin du mois.
+Ravi : Ah, je comprends. Je préfère le débit immédiat, c'est plus clair pour moi.
+Sandrine : C'est un bon choix pour débuter. Beaucoup de nouveaux arrivants font comme vous.
+Ravi : Et la carte marche aussi à l'étranger ?
+Sandrine : Oui, en Europe sans frais. Hors Europe, il y a une petite commission.
+Ravi : Je voyage souvent en Inde, pour voir ma famille. C'est une commission de combien ?
+Sandrine : Deux pour cent du montant, plus un euro cinquante par retrait.
+Ravi : Ça va. J'ai connu pire à Londres.
+Sandrine : Vous voulez aussi les services en ligne ? L'application, les virements...
+Ravi : Oui, bien sûr. C'est important pour moi.
+Sandrine : Parfait. Je vous fais une proposition d'abord, ensuite je vous explique les frais.
+Ravi : D'accord. Je prends des notes, si vous permettez.
+Sandrine : Je vous en prie. Voici un petit papier.
+Ravi : Merci.
+(Sandrine consulte une liste à l'écran et fronce légèrement les sourcils.)
+Sandrine : Bon. Pour ouvrir le compte, j'ai besoin d'un justificatif de domicile.
+Ravi : Un justificatif de domicile ? J'habite chez mon cousin, pour l'instant.
+Sandrine : Il n'y a pas de contrat de location à votre nom ?
+Ravi : Non. Je cherche un appartement, mais c'est difficile.
+Sandrine : Je vois. Dans ce cas, il faut une attestation d'hébergement.
+Ravi : C'est quoi, une attestation d'hébergement ?
+Sandrine : C'est un papier signé par votre cousin. Il dit que vous habitez chez lui.
+Ravi : D'accord. Mais il a un formulaire ?
+Sandrine : Oui, je peux vous en donner un. Il faut aussi sa pièce d'identité.
+Ravi : Sa pièce d'identité ? Il est français.
+Sandrine : Parfait. Une carte d'identité, alors. Et une facture récente à son nom.
+Ravi : Une facture d'électricité, par exemple ?
+Sandrine : Oui, ou de téléphone. De moins de trois mois.
+Ravi : Mais je n'ai rien de tout ça avec moi aujourd'hui.
+Sandrine : Je comprends. Ce n'est pas grave. Je peux préparer le dossier, et vous revenez avec les papiers.
+Ravi : Mais je voulais ouvrir le compte aujourd'hui. Mon employeur attend mon RIB.
+Sandrine : Je suis désolée, c'est la règle. Sans justificatif, je ne peux pas valider.
+Ravi : Même avec mon contrat de travail ?
+Sandrine : Même avec le contrat. Le contrat prouve que vous travaillez, pas que vous habitez ici.
+Ravi : Hmm. C'est logique, mais c'est frustrant.
+Sandrine : Je comprends votre frustration. Voulez-vous quand même que je vous présente les frais ?
+Ravi : Oui, s'il vous plaît. Si c'est trop cher, je regarderai ailleurs.
+Sandrine : Le compte coûte deux euros par mois, et la carte quarante euros par an.
+Ravi : Quarante euros par an pour une carte ? À Londres, c'était gratuit.
+Sandrine : En France, la plupart des banques de quartier font payer la carte. Mais il y a des avantages.
+Ravi : Lesquels, par exemple ?
+Sandrine : Un conseiller en agence, des rendez-vous gratuits, et une assurance sur les achats.
+Ravi : Je n'ai pas besoin d'assurance. Je veux juste un compte qui marche.
+Sandrine : Beaucoup de clients pensent ça au début. Puis ils changent d'avis le jour où on leur vole leur téléphone.
+Ravi : Peut-être. Mais je n'ai pas envie de payer pour un risque que je n'ai pas.
+Sandrine : Je comprends. Je ne vous force pas, c'est une option.
+Ravi : Merci. Franchement, des amis m'ont parlé de banques en ligne, sans frais.
+Sandrine : Oui, ça existe. Elles sont moins chères, c'est vrai. Mais vous ne pouvez pas parler à quelqu'un en agence.
+Ravi : Pour l'instant, je n'ai pas de questions compliquées. Je veux juste payer mon loyer.
+Sandrine : C'est vrai. Mais quand vous aurez un prêt, ou un problème de fraude, vous serez content d'avoir quelqu'un en face.
+Ravi : Peut-être, mais j'ai le droit de comparer, non ?
+Sandrine : Bien sûr que vous avez le droit de comparer. Je ne vous retiens pas.
+Ravi : Ce n'était pas une critique, madame. Je cherche seulement la meilleure solution.
+Sandrine : Je le sais. Moi aussi, j'aimerais que vous repartiez satisfait, même si ce n'est pas chez nous.
+Ravi : C'est honnête de dire ça.
+Sandrine : Je peux vous faire une offre. La première année, la carte est gratuite pour les nouveaux clients.
+Ravi : Ah, c'est mieux. Et le compte, deux euros par mois, ça reste ?
+Sandrine : Oui. Mais je peux enlever les frais de tenue de compte pendant six mois.
+Ravi : Six mois sans frais. Pourquoi vous ne l'avez pas dit avant ?
+Sandrine : Parce que je dois d'abord présenter l'offre normale. C'est la procédure.
+Ravi : Je comprends. Mais c'est un peu comme au marché !
+Sandrine : Ha ! Un peu, oui. Mais je n'ai pas le droit de commencer par le meilleur prix.
+Ravi : Bon. Ça m'intéresse. Mais je n'ai toujours pas les papiers.
+Sandrine : Vous pouvez appeler votre cousin ? Il peut peut-être vous envoyer une photo de sa carte d'identité.
+Ravi : Il travaille. Je ne veux pas le déranger.
+Sandrine : Le formulaire doit être signé à la main. Une photo ne suffit pas.
+Ravi : Donc je dois rentrer, revenir, et recommencer.
+Sandrine : Oui, mais je peux tout préparer maintenant. Vous gagnerez du temps.
+Ravi : Dans ce cas, d'accord. Qu'est-ce que je dois apporter, exactement ?
+Sandrine : Je vous écris la liste. Un moment.
+Ravi : Merci. Vous êtes très patiente.
+Sandrine : C'est mon travail. Et vous êtes très poli, c'est agréable.
+Ravi : Mon père m'a toujours dit d'être poli avec les banquiers.
+Sandrine : Ha ! Il avait raison. Ça ne marche pas toujours, mais c'est mieux.
+Ravi : Je note.
+(Sandrine tourne la feuille vers lui et la lit avec lui, ligne par ligne.)
+Sandrine : Voici. Attestation d'hébergement signée, carte d'identité de votre cousin, et une facture de moins de trois mois.
+Ravi : D'accord. Il faut aussi mon contrat ?
+Sandrine : Oui, et votre dernier bulletin de salaire, si vous en avez un.
+Ravi : Je n'en ai pas encore. J'ai commencé il y a une semaine.
+Sandrine : Alors le contrat suffira. Et si votre employeur attend votre RIB, je peux vous donner un document provisoire.
+Ravi : Provisoire ? Il l'acceptera ?
+Sandrine : Je ne peux pas vous le garantir. La plupart des entreprises acceptent, mais pas toutes.
+Ravi : Je lui demanderai demain. Merci, c'est utile.
+Sandrine : Quand voulez-vous revenir ? Je peux vous donner un rendez-vous jeudi à dix heures.
+Ravi : Jeudi, c'est un peu tôt. Vendredi à la même heure, c'est possible ?
+Sandrine : Vendredi à dix heures, c'est noté. Vous venez avec votre cousin, si vous voulez.
+Ravi : Je vais lui demander. Il sera content de sortir de son bureau, je crois.
+Sandrine : Je lui offrirai un café, alors.
+Ravi : Ha ! Je lui dirai. Et si je trouve une meilleure offre ailleurs, je vous préviendrai.
+Sandrine : C'est correct. Je préfère ça à un client qui disparaît.
+Ravi : Merci pour votre honnêteté. Vous m'avez beaucoup aidé.
+Sandrine : De rien. Bonne chance pour la recherche d'appartement.
+Ravi : Merci. Si vous connaissez une agence sympa, je prends.
+Sandrine : Je n'ai pas de conseil, désolée. Mais courage, ça finit toujours par arriver.
+Ravi : Je l'espère. À vendredi, peut-être.
+
+## 낭독 포인트
+- 비음 모음: «compte courant», «virement», «montant», «commencé» — on, an, in 계열은 코로 울리는 모음이고 n은 따로 발음하지 않는다.
+- 연음: «vous avez», «un instant», «attestation d'hébergement» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «Ravi», «Subramanian», «retrait», «merci» — 목젖 근처에서 내는 마찰음. «Ravi»의 첫 r에 주의.
+- 철자 읽기: «R-A-V-I» — 이름 철자를 알파벳 이름으로 또박또박(에르, 아, 베, 이).
+- 숫자·금액: «deux pour cent», «quarante euros par an», «un euro cinquante» — 숫자는 한 덩어리로, 연음에 주의.
+- 호칭: 두 사람은 처음부터 끝까지 vous. «Je vous en prie», «Asseyez-vous»처럼 정중한 명령형 억양.
+
+## 학습 포인트 정리
+- A2 구간(1~20턴): 계좌 열기 첫 대화
+  · «Je voudrais ouvrir un compte, s'il vous plaît.», «Je suis arrivé à Paris il y a un mois.», «Je peux voir votre passeport ?»
+- B1 구간(21~40턴): 계좌와 카드 종류
+  · «un compte courant, avec une carte bancaire», «débit immédiat ou différé», «C'est une commission de combien ?»
+- A2 구간(41~60턴): 서류 설명 듣기
+  · «J'ai besoin d'un justificatif de domicile.», «Il faut une attestation d'hébergement.», «Le contrat prouve que vous travaillez, pas que vous habitez ici.»
+- B1 구간(61~80턴): 수수료 따지고 비교하기
+  · «La carte quarante euros par an», «Je n'ai pas envie de payer pour un risque que je n'ai pas.», «J'ai le droit de comparer, non ?»
+- A2 구간(81~100턴): 조건 협상과 절차
+  · «La première année, la carte est gratuite.», «Une photo ne suffit pas.», «Qu'est-ce que je dois apporter, exactement ?»
+- B1 구간(101~120턴): 임시 서류와 재방문
+  · «Alors le contrat suffira.», «Je peux vous donner un document provisoire.», «Vendredi à dix heures, c'est noté.»
+- 어휘: le compte courant, la carte bancaire, le débit différé, le virement, le RIB, le bulletin de salaire, le prêt, la banque en ligne.
+
+## 속어 노트
+- «c'est un peu comme au marché»: 장터 같네(값을 깎아 주는 것처럼). 협상하는 느낌을 농담으로.
+- «le RIB»: 은행 계좌 증명(계좌번호 서류)을 부르는 구어.
+- «je ne vous retiens pas»: 붙잡지 않겠습니다(원하면 다른 데 가도 좋다는 뉘앙스).
+- «c'est noté»: 알겠습니다, 적어 두었어요.
+- «avoir connu pire»: 더 나쁜 것도 겪어 봤다, 이 정도는 괜찮다.
+- 은행 수수료, 필요 서류, 임시 서류의 효력은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 처음부터 끝까지 vous를 쓰는 창구 대화다.
+
+## 한글 해석
+(월요일 오전, 볼테르 대로의 은행 지점. 창구 하나가 비어 있다. 라비가 플라스틱 서류철을 들고 들어온다.)
+상드린 : 안녕하세요, 도와드릴까요?
+라비 : 안녕하세요. 계좌를 하나 열고 싶어요.
+상드린 : 네. 프랑스에서 처음 만드는 계좌인가요?
+라비 : 네. 전에는 런던에 있었어요. 파리에 온 지 한 달 됐어요.
+상드린 : 파리에 오신 걸 환영해요. 앉으세요.
+라비 : 감사합니다. 오늘 아침엔 사람이 많네요.
+상드린 : 월초라서요. 월세 때문에 오시는 분이 많아요.
+라비 : 아 그렇군요. 저는 월세를 계좌이체로 낼 거예요.
+상드린 : 좋아요. 이미 일하고 계세요?
+라비 : 네. 몽트뢰유의 회사에서 엔지니어로 일해요. 지난주 월요일에 시작했어요.
+상드린 : 축하드려요. 계약서는 있으세요?
+라비 : 네, 무기 계약이에요. 여기 있어요.
+상드린 : 좋아요. 여권을 볼 수 있을까요?
+라비 : 여기요. 체류증도요.
+상드린 : 감사합니다. 잠깐 복사할게요.
+라비 : 괜찮아요. 급하지 않아요.
+상드린 : 운이 좋으시네요. 저쪽에 커피 머신이 있으니 드세요.
+라비 : 친절하시네요. 커피는 나중에 마실게요.
+상드린 : 그럼 성함 전체가 어떻게 되세요?
+라비 : 라비 수브라마니안이에요. R-A-V-I, 수브라마니안은 S-U-B-R-A-M-A-N-I-A-N.
+상드린 : 감사합니다. 어떤 종류의 계좌를 원하시는지 생각해 두셨어요?
+라비 : 딱히요. 월급을 받고 지출을 하는 평범한 계좌요.
+상드린 : 알겠어요. 그럼 체크카드가 있는 입출금 계좌네요.
+라비 : 네. 그리고 나중에 예금 계좌도요.
+상드린 : 그건 다음 단계에서 보죠. 우선 카드는 즉시 결제와 후불 결제 중에 뭘 원하세요?
+라비 : 차이가 뭐예요?
+상드린 : 즉시 결제는 물건을 살 때마다 바로 계좌에서 빠져나가요. 후불 결제는 월말에 한꺼번에 빠져나가고요.
+라비 : 아, 이해했어요. 저는 즉시 결제가 더 분명해서 좋아요.
+상드린 : 시작하기엔 좋은 선택이에요. 새로 오신 분들이 많이 그렇게 하세요.
+라비 : 카드는 해외에서도 쓸 수 있나요?
+상드린 : 네, 유럽에서는 수수료 없이요. 유럽 밖에서는 작은 수수료가 있어요.
+라비 : 저는 가족을 보러 인도에 자주 가요. 수수료가 얼마나 되나요?
+상드린 : 금액의 이 퍼센트에 인출할 때마다 일 유로 오십 센트예요.
+라비 : 괜찮네요. 런던에선 더 심했어요.
+상드린 : 온라인 서비스도 원하세요? 앱이나 이체 같은 거요.
+라비 : 네, 물론이죠. 저한테 중요해요.
+상드린 : 좋아요. 먼저 제안을 드리고, 그다음에 수수료를 설명할게요.
+라비 : 알겠어요. 괜찮으시면 메모할게요.
+상드린 : 그러세요. 여기 작은 종이요.
+라비 : 감사합니다.
+(상드린이 화면의 목록을 확인하며 살짝 미간을 찌푸린다.)
+상드린 : 자. 계좌를 열려면 주소 증빙이 필요해요.
+라비 : 주소 증빙이요? 지금은 사촌 집에 살아요.
+상드린 : 본인 이름으로 된 임대 계약서가 없나요?
+라비 : 없어요. 집을 구하고 있는데 어려워요.
+상드린 : 알겠어요. 그런 경우에는 숙박 증명서가 있어야 해요.
+라비 : 숙박 증명서가 뭐예요?
+상드린 : 사촌이 서명한 서류예요. 본인이 그 집에 산다는 내용이에요.
+라비 : 알겠어요. 그런데 양식이 있나요?
+상드린 : 네, 드릴 수 있어요. 사촌의 신분증도 있어야 해요.
+라비 : 신분증이요? 프랑스 사람이에요.
+상드린 : 좋아요. 그럼 신분증이요. 그리고 사촌 이름의 최근 고지서도요.
+라비 : 전기요금 고지서 같은 거요?
+상드린 : 네, 아니면 전화요금이요. 석 달 이내 걸로요.
+라비 : 그런데 오늘은 그런 걸 하나도 안 가져왔어요.
+상드린 : 이해해요. 괜찮아요. 서류는 제가 준비해 두고, 서류를 가지고 다시 오시면 돼요.
+라비 : 하지만 오늘 계좌를 열고 싶었어요. 회사에서 제 계좌 증명서를 기다리거든요.
+상드린 : 죄송해요, 규정이에요. 증빙 없이는 승인할 수 없어요.
+라비 : 근로 계약서가 있어도요?
+상드린 : 있어도요. 계약서는 일한다는 걸 증명하지, 여기 산다는 걸 증명하진 않아요.
+라비 : 음. 논리적이긴 한데 답답하네요.
+상드린 : 답답한 건 이해해요. 그래도 수수료는 설명해 드릴까요?
+라비 : 네, 해 주세요. 너무 비싸면 다른 데를 알아볼게요.
+상드린 : 계좌는 한 달에 이 유로, 카드는 일 년에 사십 유로예요.
+라비 : 카드가 일 년에 사십 유로요? 런던에선 무료였어요.
+상드린 : 프랑스에서는 동네 은행 대부분이 카드에 요금을 받아요. 하지만 장점도 있어요.
+라비 : 예를 들면 어떤 거요?
+상드린 : 지점의 상담원, 무료 상담, 구매 보험이요.
+라비 : 보험은 필요 없어요. 그냥 잘 작동하는 계좌면 돼요.
+상드린 : 처음엔 다들 그렇게 생각하세요. 그러다 휴대폰을 도둑맞는 날 생각이 바뀌죠.
+라비 : 그럴 수도 있겠죠. 그래도 없는 위험에 돈을 내고 싶진 않아요.
+상드린 : 이해해요. 강요하진 않아요, 선택 사항이에요.
+라비 : 감사합니다. 솔직히 친구들이 수수료 없는 인터넷 은행 얘기를 했어요.
+상드린 : 네, 있어요. 더 싼 건 맞아요. 하지만 지점에서 사람과 상담은 못 해요.
+라비 : 지금은 복잡한 질문이 없어요. 월세만 내면 돼요.
+상드린 : 맞아요. 하지만 대출을 받거나 사기를 당하면 눈앞에 사람이 있는 게 좋을 거예요.
+라비 : 그럴 수도 있지만 비교할 권리는 있잖아요, 안 그래요?
+상드린 : 물론 비교하실 권리가 있죠. 붙잡진 않아요.
+라비 : 비판하려는 게 아니었어요. 가장 좋은 방법을 찾고 싶을 뿐이에요.
+상드린 : 알아요. 저도 여기가 아니더라도 만족해서 돌아가시면 좋겠어요.
+라비 : 솔직하게 말씀해 주시네요.
+상드린 : 제안을 하나 할 수 있어요. 신규 고객은 첫해 카드가 무료예요.
+라비 : 아, 낫네요. 계좌는 월 이 유로가 그대로인가요?
+상드린 : 네. 하지만 여섯 달 동안 계좌 유지 수수료는 면제해 드릴 수 있어요.
+라비 : 여섯 달 면제요. 왜 처음부터 말하지 않으셨어요?
+상드린 : 먼저 일반 조건을 설명해야 해서요. 절차예요.
+라비 : 이해해요. 그래도 장터 같네요!
+상드린 : 하! 조금은요. 하지만 처음부터 가장 좋은 가격을 말할 순 없어요.
+라비 : 좋아요. 관심이 있어요. 그런데 서류가 아직 없어요.
+상드린 : 사촌에게 전화할 수 있어요? 신분증 사진을 보내 줄 수도 있겠죠.
+라비 : 일하는 중이에요. 방해하고 싶지 않아요.
+상드린 : 양식은 손으로 서명해야 해요. 사진으로는 안 돼요.
+라비 : 그럼 돌아갔다가 다시 와서 다시 해야 하네요.
+상드린 : 네, 하지만 지금 모든 걸 준비해 둘 수 있어요. 시간을 아끼실 거예요.
+라비 : 그럼 좋아요. 정확히 뭘 가져와야 해요?
+상드린 : 목록을 적어 드릴게요. 잠깐만요.
+라비 : 고마워요. 정말 인내심이 많으시네요.
+상드린 : 제 일이에요. 그리고 라비 씨도 아주 예의 바르셔서 좋아요.
+라비 : 아버지가 은행원한테는 늘 예의 바르게 하라고 하셨어요.
+상드린 : 하! 맞는 말씀이세요. 늘 통하진 않아도 낫긴 해요.
+라비 : 적어 둘게요.
+(상드린이 종이를 그쪽으로 돌려 한 줄씩 같이 읽는다.)
+상드린 : 여기요. 서명한 숙박 증명서, 사촌의 신분증, 석 달 이내 고지서요.
+라비 : 알겠어요. 제 계약서도 필요하죠?
+상드린 : 네, 그리고 가장 최근 급여명세서도요, 있으시면.
+라비 : 아직 없어요. 일을 시작한 지 일주일밖에 안 됐어요.
+상드린 : 그럼 계약서면 충분해요. 그리고 회사에서 계좌 증명서를 기다리면 임시 서류를 드릴 수 있어요.
+라비 : 임시요? 받아 줄까요?
+상드린 : 보장은 못 해요. 대부분의 회사가 받지만 전부는 아니에요.
+라비 : 내일 물어볼게요. 고맙습니다, 도움이 돼요.
+상드린 : 언제 다시 오실 수 있으세요? 목요일 열 시에 예약을 잡아 드릴 수 있어요.
+라비 : 목요일은 좀 일러요. 금요일 같은 시간은 가능할까요?
+상드린 : 금요일 열 시, 적어 둘게요. 원하시면 사촌과 함께 오세요.
+라비 : 물어볼게요. 사무실에서 나오는 걸 좋아할 것 같아요.
+상드린 : 그럼 커피를 대접해야겠네요.
+라비 : 하! 전할게요. 그리고 다른 데서 더 좋은 조건을 찾으면 알려 드릴게요.
+상드린 : 그게 좋아요. 사라지는 고객보다는 낫죠.
+라비 : 솔직하게 말씀해 주셔서 감사해요. 많이 도와주셨어요.
+상드린 : 천만에요. 집 구하는 것도 잘되시길 바랄게요.
+라비 : 고마워요. 괜찮은 중개소를 아시면 알려 주세요.
+상드린 : 추천할 곳은 없어요, 죄송해요. 그래도 힘내세요, 결국은 구해져요.
+라비 : 그러길 바랄게요. 금요일에 뵐지도 모르겠네요.

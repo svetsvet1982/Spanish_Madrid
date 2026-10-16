@@ -1,0 +1,285 @@
+# 5부 5화. Deux places, s'il vous plaît (표 두 장 주세요)
+난이도: 주 A2 | 구간: B1→B1→A2→A2→A2→A2 | 형식: 2인 | 장소: 파리 동네 영화관 매표소 | 시간: 금요일 오후 5시
+등장인물: Clara, Hugo
+이슈: 주 ◐ 나란히 앉을 좌석과 상영 시간대, 원어판 상영 안내 | 곡선: 2-1-0-1-0-2 (반전형, 상한 2) | 입장: A 클라라(연로한 어머니를 위해 나란한 좌석과 알맞은 시간이 꼭 필요하다) / B 위고(매표 직원, 이미 팔린 좌석은 바꿀 수 없고 규정 안에서 대안을 찾아 준다)
+상황 카드: 클라라는 78세 어머니와 볼 영화표 두 장을 사러 왔다. 저녁 상영은 좌석이 떨어져 있고 다른 시간대는 어머니에게 너무 이르거나 늦다. 위고가 토요일 오후 상영을 찾아 주지만 결제 오류를 겪은 뒤 마지막에 그 상영이 자막이 있는 원어판이라는 사실이 드러난다. 결말은 클라라가 표를 가지고 어머니와 상의해 보기로 하는 열린 결말.
+학습 포인트: 표 사기(Je voudrais deux places) · 시간 말하기(vingt heures trente) · 가격과 결제(Onze euros cinquante la place) · 불만과 사과(Excusez-moi, je suis un peu énervée) · 길 안내(Vous entrez par la porte de gauche)
+
+## 대화
+(Un cinéma de quartier, à Paris, un vendredi en fin d'après-midi. Clara arrive devant le guichet, où travaille Hugo.)
+Hugo : Bonjour madame, je vous écoute.
+Clara : Bonjour. Je voudrais deux places pour « La Dernière Valse » ce soir, à vingt heures trente.
+Hugo : Une seconde, je regarde. Ah, il reste seulement quatre places.
+Clara : Seulement quatre ? Mais elles sont ensemble, au moins ?
+Hugo : Non, désolé. Il y en a deux au premier rang et deux tout au fond.
+Clara : Au premier rang ? C'est impossible. Ma mère a mal au cou.
+Hugo : Je comprends, mais c'est tout ce que j'ai pour cette séance.
+Clara : Et vous ne pouvez pas déplacer des gens ? On m'avait dit que c'était facile.
+Hugo : Non, madame, les places sont déjà vendues. Je ne peux pas changer les billets des autres clients.
+Clara : Quand même, il y a bien une solution. Vous êtes là pour ça, non ?
+Hugo : Je suis là pour vendre des billets. Mais je peux vous aider à trouver une autre séance.
+Clara : Je n'ai pas envie d'une autre séance. J'ai promis à ma mère la séance de vingt heures trente.
+Hugo : Pourquoi celle-là en particulier ?
+Clara : Parce que son dîner finit à sept heures et demie, et qu'elle habite à côté.
+Hugo : Je vois. Et la séance de dix-huit heures quarante-cinq, ça ne marche pas ?
+Clara : Trop tôt. Elle n'a pas fini de manger.
+Hugo : Alors il faudra choisir : soit vous prenez les places séparées, soit vous changez d'horaire.
+Clara : Ce n'est pas un choix, c'est un piège.
+Hugo : Je suis désolé, madame. Ce n'est pas moi qui ai organisé la salle.
+Clara : Je sais, je sais. Excusez-moi, je suis un peu énervée aujourd'hui.
+Hugo : Ce n'est pas grave. Attendez, je regarde encore une fois.
+Clara : Merci. Vous êtes gentil.
+Hugo : Il y a une séance à vingt-et-une heures quinze, avec beaucoup de places libres.
+Clara : Vingt-et-une heures quinze ? C'est tard pour ma mère.
+Hugo : Quel âge elle a, votre mère, si ce n'est pas indiscret ?
+Clara : Soixante-dix-huit ans. Elle se couche vers dix heures d'habitude.
+Hugo : Alors le film finira vers onze heures quarante. Ça fait tard, oui.
+Clara : Beaucoup trop tard. Et demain, elle a son médecin à neuf heures.
+Hugo : Je comprends. Et si vous preniez la séance de dimanche après-midi ?
+Clara : Dimanche, je ne peux pas, mon mari a un match de foot avec son équipe.
+Hugo : Samedi après-midi, alors ? Il y a une séance à seize heures.
+Clara : Samedi seize heures... Oui, ça pourrait marcher.
+Hugo : Les places sont au milieu de la salle, côte à côte.
+Clara : Parfait. Et le prix, c'est combien ?
+Hugo : Onze euros cinquante la place, et neuf euros pour les plus de soixante-cinq ans.
+Clara : Donc neuf euros pour ma mère et onze cinquante pour moi.
+Hugo : Voilà. Vingt euros cinquante en tout.
+Clara : Très bien, je prends ça.
+Hugo : Vous voulez vraiment samedi seize heures ?
+Clara : Oui, c'est parfait. Je vais appeler ma mère pour lui dire.
+(Clara sort son téléphone, appelle sa mère à deux pas du guichet, puis revient.)
+Clara : Ma mère est d'accord pour samedi.
+Hugo : Très bien. Vous voulez réserver aussi des boissons ?
+Clara : Non, merci. Elle n'aime pas le pop-corn.
+Hugo : Et vous, vous aimez ça ?
+Clara : Un peu. Mais pas avant un film.
+Hugo : Moi, je n'en mange jamais. J'en vends trop.
+Clara : Ah ah. Vous travaillez ici depuis longtemps ?
+Hugo : Depuis deux ans. Je suis étudiant, je travaille le soir.
+Clara : Qu'est-ce que vous étudiez ?
+Hugo : Le cinéma, justement. C'est pratique.
+Clara : C'est un bon travail pour vous, alors.
+Hugo : Oui. Je vois beaucoup de films gratuitement.
+Clara : Et vous avez vu « La Dernière Valse » ?
+Hugo : Oui, deux fois. C'est un très beau film.
+Clara : C'est triste ?
+Hugo : Un peu. Mais la fin est belle.
+Clara : Ma mère adore les histoires tristes.
+Hugo : Alors elle va l'aimer.
+Clara : Je l'espère. Elle n'est pas sortie depuis longtemps.
+Hugo : Une sortie au cinéma, ça fait du bien.
+Clara : Je peux payer par carte ?
+Hugo : Oui, bien sûr. Vous mettez votre carte ici.
+Clara : Voilà. Je tape mon code.
+Hugo : Attendez... Il y a une erreur. La carte est refusée.
+Clara : Refusée ? Ce n'est pas possible. Il y a de l'argent sur mon compte.
+Hugo : Essayez une deuxième fois, s'il vous plaît.
+Clara : D'accord. 1, 2, 3, 4... Voilà.
+Hugo : Encore une erreur. Peut-être que la machine a un problème.
+Clara : J'ai aussi des euros, en espèces. Combien ça fait ?
+Hugo : Vingt euros cinquante.
+Clara : Voilà vingt euros, et cinquante centimes... je cherche.
+Hugo : Prenez votre temps.
+Clara : Voilà, j'ai trouvé. Quelle histoire !
+Hugo : Merci. Et pour le tarif réduit, votre mère doit avoir une pièce d'identité samedi.
+Clara : Une pièce d'identité ? Elle n'en a pas toujours sur elle.
+Hugo : Une carte de bus pour les seniors suffit aussi.
+Clara : Ah bon ? Elle a cette carte-là, oui.
+Hugo : Parfait. Je vous donne aussi une petite feuille avec les horaires.
+Clara : Merci beaucoup. Vous êtes très aimable.
+Hugo : C'est normal, madame. Je suis là pour vous aider.
+(La machine imprime deux billets. Hugo les glisse sous la vitre.)
+Hugo : Voilà vos deux billets. Salle numéro quatre.
+Clara : Salle quatre. D'accord.
+Hugo : Vous entrez par la porte de gauche, au fond du hall.
+Clara : Il y a un ascenseur ? Ma mère marche lentement.
+Hugo : Oui, il est à droite. La salle est au premier étage.
+Clara : Parfait. Et les toilettes ?
+Hugo : À côté de l'ascenseur.
+Clara : Très bien. Vous êtes ouvert jusqu'à quelle heure ?
+Hugo : Jusqu'à minuit, tous les jours.
+Clara : Même le dimanche ?
+Hugo : Même le dimanche.
+Clara : Il y a un restaurant près d'ici ?
+Hugo : Oui, une crêperie à cent mètres, rue Lecourbe. Les crêpes sont excellentes.
+Clara : Ma mère adore les crêpes. Peut-être avant le film.
+Hugo : Bonne idée. La séance commence à seize heures, vous avez le temps.
+Clara : On arrivera à quinze heures trente, alors.
+Hugo : C'est parfait. Il faut arriver dix minutes avant.
+Clara : D'accord. Merci beaucoup.
+Hugo : Je vous en prie. Bonne soirée, madame.
+Clara : Bonne soirée. À samedi.
+(Clara se retourne. Hugo lui fait signe, un papier à la main.)
+Hugo : Madame, attendez ! J'ai oublié de vous dire quelque chose.
+Clara : Oui ? Un problème ?
+Hugo : Samedi à seize heures, le film est en version originale, avec des sous-titres.
+Clara : En version originale ? Mais c'est en quelle langue ?
+Hugo : En allemand, avec des sous-titres français.
+Clara : Ma mère ne lit pas vite. Elle n'aime pas les sous-titres.
+Hugo : Je comprends. Il y a une version française à dix-huit heures quarante-cinq, tous les jours.
+Clara : Mais on a vu ça tout à l'heure : c'est trop tôt pour son dîner.
+Hugo : Samedi, elle peut manger plus tôt, non ?
+Clara : Changer les habitudes d'une dame de soixante-dix-huit ans, ce n'est pas facile.
+Hugo : Non, mais c'est le seul moment avec la version française.
+Clara : Vous deviez me le dire au début !
+Hugo : C'est vrai, je suis désolé. Je pensais que vous saviez.
+Clara : Et je n'ai pas vu « VO » sur le billet ?
+Hugo : Si, regardez : c'est écrit en petit, à droite.
+Clara : Ah oui. C'est écrit très petit, en effet.
+Hugo : Je peux échanger les billets, c'est gratuit avant la séance.
+Clara : Alors je les garde pour l'instant. Je vais d'abord en parler à ma mère.
+Hugo : Très bien. Je m'appelle Hugo, demandez-moi, ou passez jusqu'à samedi midi.
+Clara : D'accord. Merci, Hugo. Et excusez-moi encore pour tout à l'heure.
+
+## 낭독 포인트
+- 비음 모음: «ensemble», «cinquante», «combien», «quinze» — an, in, on은 코로 울리고 n은 따로 발음하지 않는다.
+- 연음: «vingt-et-une heures», «soixante-dix-huit ans», «onze euros cinquante» — 어말 자음이 다음 단어의 모음으로 넘어간다.
+- ou / u: «vous», «tout» vs «une», «plus» — ou는 [u], u는 입술을 모아 [y].
+- 프랑스어 r: «rue Lecourbe», «très», «version originale» — 목젖 근처에서 내는 마찰음.
+- 숫자·시간: «dix-huit heures quarante-cinq», «vingt heures trente» — 시각을 풀어서 또박또박 읽는다.
+- 억양: 위고는 차분하고 정중하게, 클라라는 처음엔 날카롭게 올렸다가 점점 부드럽게. 서로 vous를 쓴다.
+
+## 학습 포인트 정리
+- B1 구간(1~40턴): 좌석 문의와 대안 찾기
+  · «Mais elles sont ensemble, au moins ?», «soit vous prenez les places séparées, soit vous changez d'horaire.»
+  · «Quel âge elle a, votre mère, si ce n'est pas indiscret ?», «Et si vous preniez la séance de dimanche ?»
+- A2 구간(41~120턴): 가격·결제·안내·원어판 확인
+  · «Onze euros cinquante la place.», «La carte est refusée.», «Vous entrez par la porte de gauche.»
+  · «Je suis là pour vous aider.», «Je peux échanger les billets.»
+- 어휘: la place, le guichet, la séance, le tarif réduit, la pièce d'identité, la version originale, les sous-titres, en espèces.
+
+## 속어 노트
+- «je vous écoute»: 말씀하세요 (손님을 맞는 인사 표현).
+- «en espèces»: 현금으로.
+- «Quelle histoire !»: 웬 소동이람!
+- «côte à côte»: 나란히.
+- «VO»: 원어판 (version originale).
+- 영화 제목, 요금, 어르신 할인 증빙 규정은 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 매표원과 손님은 서로 vous를 쓴다.
+
+
+## 한글 해석
+(파리의 동네 영화관, 금요일 늦은 오후. 클라라가 위고가 일하는 매표 창구 앞에 도착한다.)
+위고 : 안녕하세요, 손님. 말씀하세요.
+클라라 : 안녕하세요. 오늘 저녁 여덟 시 반 '마지막 왈츠' 표 두 장 주세요.
+위고 : 잠시만요, 확인해 볼게요. 아, 자리가 네 개밖에 안 남았네요.
+클라라 : 네 개뿐이요? 그래도 붙어 있죠?
+위고 : 아니요, 죄송합니다. 둘은 맨 앞줄이고 둘은 맨 뒤에 있어요.
+클라라 : 맨 앞줄이요? 안 돼요. 우리 엄마가 목이 아프세요.
+위고 : 이해하지만 이 회차에는 그것밖에 없어요.
+클라라 : 사람들을 옮겨 앉게 할 수는 없나요? 쉽다고 들었는데요.
+위고 : 안 됩니다, 손님. 자리는 이미 팔렸어요. 다른 손님들의 표를 바꿀 수는 없어요.
+클라라 : 그래도 해결책이 있겠죠. 그러라고 계신 거 아닌가요?
+위고 : 저는 표를 파는 사람이에요. 하지만 다른 회차를 찾아 드릴 수는 있어요.
+클라라 : 다른 회차는 싫어요. 엄마한테 여덟 시 반 회차로 약속했거든요.
+위고 : 왜 꼭 그 회차인가요?
+클라라 : 엄마 저녁 식사가 일곱 시 반에 끝나고, 가까이 사시니까요.
+위고 : 알겠어요. 여섯 시 사십오 분 회차는 안 되나요?
+클라라 : 너무 일러요. 엄마가 식사를 아직 못 끝내셔요.
+위고 : 그럼 선택하셔야 해요. 떨어진 좌석을 사시거나 시간을 바꾸시거나요.
+클라라 : 그건 선택이 아니라 함정이네요.
+위고 : 죄송합니다, 손님. 상영관을 배치한 건 제가 아니에요.
+클라라 : 알아요, 알아요. 죄송해요, 오늘 제가 좀 예민해서요.
+위고 : 괜찮아요. 잠깐만요, 한 번 더 볼게요.
+클라라 : 고마워요. 친절하시네요.
+위고 : 아홉 시 십오 분 회차가 있고 빈자리가 많아요.
+클라라 : 아홉 시 십오 분이요? 엄마한테는 늦어요.
+위고 : 실례가 안 된다면 어머님 연세가 어떻게 되세요?
+클라라 : 일흔여덟이에요. 보통 열 시쯤 주무세요.
+위고 : 그럼 영화는 열한 시 사십 분쯤 끝나겠네요. 늦긴 늦네요.
+클라라 : 너무 늦어요. 그리고 내일 아홉 시에 병원 예약도 있고요.
+위고 : 알겠어요. 그럼 일요일 오후 회차는 어떠세요?
+클라라 : 일요일은 안 돼요. 남편이 팀이랑 축구 경기가 있어서요.
+위고 : 그럼 토요일 오후는요? 네 시 회차가 있어요.
+클라라 : 토요일 네 시라... 네, 될 수도 있겠네요.
+위고 : 자리는 상영관 가운데고 나란히예요.
+클라라 : 좋네요. 가격은 얼마예요?
+위고 : 한 자리에 십일 유로 오십, 육십오 세 이상은 구 유로예요.
+클라라 : 그럼 엄마는 구 유로, 저는 십일 유로 오십이네요.
+위고 : 맞아요. 전부 이십 유로 오십입니다.
+클라라 : 좋아요, 그걸로 할게요.
+위고 : 정말 토요일 네 시로 하시겠어요?
+클라라 : 네, 완벽해요. 엄마한테 전화해서 말할게요.
+(클라라가 휴대폰을 꺼내 창구에서 두어 걸음 떨어져 어머니에게 전화한 뒤 돌아온다.)
+클라라 : 엄마가 토요일로 괜찮대요.
+위고 : 좋아요. 음료도 같이 예약하시겠어요?
+클라라 : 아니요, 괜찮아요. 엄마는 팝콘을 안 좋아하세요.
+위고 : 손님은 좋아하세요?
+클라라 : 조금요. 하지만 영화 전에는 안 먹어요.
+위고 : 저는 한 번도 안 먹어요. 너무 많이 팔거든요.
+클라라 : 하하. 여기서 일하신 지 오래됐어요?
+위고 : 이 년 됐어요. 학생이라서 저녁에 일해요.
+클라라 : 무슨 공부를 하세요?
+위고 : 바로 영화요. 편하죠.
+클라라 : 그럼 잘 맞는 일이네요.
+위고 : 네. 영화를 공짜로 많이 봐요.
+클라라 : 그럼 '마지막 왈츠'는 보셨어요?
+위고 : 네, 두 번요. 아주 아름다운 영화예요.
+클라라 : 슬퍼요?
+위고 : 조금요. 하지만 결말이 아름다워요.
+클라라 : 우리 엄마는 슬픈 이야기를 좋아하세요.
+위고 : 그럼 좋아하시겠네요.
+클라라 : 그러길 바라요. 엄마는 외출한 지 오래됐어요.
+위고 : 영화관 나들이는 기분이 좋아지죠.
+클라라 : 카드로 결제해도 되나요?
+위고 : 네, 물론이죠. 카드를 여기에 꽂아 주세요.
+클라라 : 여기요. 비밀번호를 누를게요.
+위고 : 잠시만요... 오류가 났어요. 카드가 거절됐네요.
+클라라 : 거절이요? 말도 안 돼요. 계좌에 돈이 있는데.
+위고 : 한 번 더 해 보세요.
+클라라 : 알겠어요. 일, 이, 삼, 사... 됐어요.
+위고 : 또 오류네요. 아마 기계에 문제가 있나 봐요.
+클라라 : 현금도 있어요. 얼마죠?
+위고 : 이십 유로 오십이에요.
+클라라 : 여기 이십 유로, 그리고 오십 센트는... 찾아볼게요.
+위고 : 천천히 하세요.
+클라라 : 여기요, 찾았어요. 웬 소동인지!
+위고 : 감사합니다. 그리고 할인 요금 때문에 토요일에 어머님이 신분증을 가지고 계셔야 해요.
+클라라 : 신분증이요? 항상 갖고 다니시진 않는데.
+위고 : 어르신 버스 카드도 괜찮아요.
+클라라 : 그래요? 그 카드는 있으세요.
+위고 : 좋아요. 시간표가 적힌 작은 종이도 드릴게요.
+클라라 : 정말 고마워요. 아주 친절하세요.
+위고 : 당연한 일이에요, 손님. 도와드리려고 있는 거죠.
+(기계가 표 두 장을 인쇄한다. 위고가 유리창 밑으로 표를 밀어 준다.)
+위고 : 표 두 장 여기 있습니다. 4번 상영관이에요.
+클라라 : 4번 상영관. 알겠어요.
+위고 : 로비 안쪽 왼쪽 문으로 들어가세요.
+클라라 : 엘리베이터 있나요? 엄마가 천천히 걸으세요.
+위고 : 네, 오른쪽에 있어요. 상영관은 이 층이에요.
+클라라 : 좋아요. 화장실은요?
+위고 : 엘리베이터 옆이에요.
+클라라 : 알겠어요. 몇 시까지 여나요?
+위고 : 매일 자정까지요.
+클라라 : 일요일에도요?
+위고 : 일요일에도요.
+클라라 : 근처에 식당 있어요?
+위고 : 네, 르쿠르브 거리에 백 미터 거리의 크레프 가게가 있어요. 크레프가 아주 맛있어요.
+클라라 : 엄마가 크레프를 아주 좋아하세요. 영화 전에 갈지도 몰라요.
+위고 : 좋은 생각이에요. 상영이 네 시에 시작하니까 시간 충분해요.
+클라라 : 그럼 세 시 반에 도착할게요.
+위고 : 완벽해요. 십 분 전에는 도착하셔야 해요.
+클라라 : 알겠어요. 정말 고맙습니다.
+위고 : 천만에요. 좋은 저녁 보내세요, 손님.
+클라라 : 좋은 저녁 되세요. 토요일에 봬요.
+(클라라가 돌아선다. 위고가 종이를 손에 들고 그녀에게 손짓한다.)
+위고 : 손님, 잠시만요! 말씀드리는 걸 깜빡했어요.
+클라라 : 네? 문제 있어요?
+위고 : 토요일 네 시 회차는 원어판이고 자막이 있어요.
+클라라 : 원어판이요? 그런데 무슨 언어예요?
+위고 : 독일어고 프랑스어 자막이 있어요.
+클라라 : 엄마는 빨리 못 읽으세요. 자막을 싫어하세요.
+위고 : 이해해요. 프랑스어 더빙판은 매일 여섯 시 사십오 분에 있어요.
+클라라 : 하지만 아까 봤잖아요. 엄마 식사엔 너무 이르다고요.
+위고 : 토요일에는 더 일찍 드실 수 있지 않을까요?
+클라라 : 일흔여덟 살 어르신의 습관을 바꾸는 건 쉬운 일이 아니에요.
+위고 : 그렇죠, 하지만 프랑스어판은 그 시간뿐이에요.
+클라라 : 처음부터 말씀해 주셨어야죠!
+위고 : 맞아요, 죄송해요. 아시는 줄 알았어요.
+클라라 : 그런데 표에 'VO'라고 쓰인 건 못 봤는데요?
+위고 : 있어요, 보세요. 오른쪽에 작게 쓰여 있어요.
+클라라 : 아, 그렇네요. 정말 아주 작게 쓰여 있네요.
+위고 : 표는 교환해 드릴 수 있어요, 상영 전이면 무료예요.
+클라라 : 그럼 일단 갖고 있을게요. 먼저 엄마랑 얘기해 볼게요.
+위고 : 좋아요. 제 이름은 위고예요. 저를 찾으시거나 토요일 정오까지 들러 주세요.
+클라라 : 알겠어요. 고마워요, 위고. 아까 일도 다시 한번 죄송해요.

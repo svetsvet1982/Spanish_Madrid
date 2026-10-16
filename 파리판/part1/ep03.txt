@@ -1,0 +1,292 @@
+# 1부 3화. Le marché du dimanche (일요일 장터)
+난이도: 주 B1 | 구간: B1→B1→B1→A2→A2→B2 | 형식: 인터뷰 | 장소: 파리의 동네 일요일 장터 | 시간: 시월 일요일 오전
+등장인물: Léa, Karim, Odile, Paulette, Marc, Hugo
+이슈: 주 ○ 장터와 마트, 오르는 물가에 대한 가벼운 생각 | 곡선: 0-0-1-1-1-0 (잔잔형, 상한 1) | 입장: A 레아(학교 라디오 리포터, 마트에서 장을 보는 대학생) / B 폴레트(마트 대신 장터를 고집하는 단골 할머니) / C 장터 상인들(각자 일의 보람과 어려움을 말한다)
+상황 카드: 목표: 학교 라디오 숙제로 레아가 장터 사람들을 인터뷰한다. 걸림돌: 상인은 손님을 놓칠까 바쁘고, 손님은 가격과 습관에 대해 각자 다른 이야기를 한다. 해소: 몇 사람을 만난 끝에 '단골'이 장터를 만든다는 공통점을 알게 되고, 다음 일요일에 다시 오기로 한다. 결말은 열린 결말.
+학습 포인트: 인터뷰 질문(Vous êtes ici depuis longtemps ?) · 음식과 가격(six euros le kilo) · 이유 말하기(parce que) · 조언과 명령형(Prenez, Goûtez) · 아이에게 하는 tu와 어른에게 하는 vous
+
+## 대화
+(Un marché de quartier, un dimanche matin d'octobre. Il y a du monde. Léa tient un micro et s'approche d'un étal de légumes.)
+Léa : Bonjour, monsieur ! Je fais un reportage pour la radio de mon école. Je peux vous poser quelques questions ?
+Karim : Bien sûr, ma belle, mais je continue à servir, hein, sinon les clients s'en vont.
+Léa : Pas de problème. Alors, comment vous vous appelez, et depuis quand vous êtes là ?
+Karim : Karim. Je suis sur ce marché depuis quinze ans, mon père y était avant moi.
+Léa : Et vous vous levez à quelle heure le dimanche ?
+Karim : À quatre heures. Je vais chercher les légumes à Rungis, et j'installe l'étal vers sept heures.
+Léa : Ça fait court comme nuit. Vous n'êtes pas trop fatigué ?
+Karim : Un peu, mais le café m'aide. Et puis j'aime l'ambiance, les gens, les discussions.
+Léa : Qu'est-ce qui marche le mieux, en ce moment ?
+Karim : En octobre, ce sont les courges, les champignons, les premières pommes. Regardez, ces potimarrons sont magnifiques.
+Léa : Je ne sais même pas comment on les cuisine.
+Karim : C'est facile : vous les coupez en morceaux, vous les mettez au four avec un peu d'huile, et voilà.
+Léa : Sans les éplucher ?
+Karim : Sans ! La peau se mange. Beaucoup de gens l'ignorent.
+Léa : Bon à savoir. Et qui sont vos clients, plutôt ?
+Karim : Des habitués, surtout. Je connais leurs prénoms, leurs enfants, même leurs chiens.
+Léa : Même leurs chiens ?
+Karim : Ha ha, oui ! Il y a un labrador qui vient chaque dimanche chercher sa carotte.
+Léa : C'est mignon. Je vais le mettre dans mon reportage.
+Karim : Dites bien qu'il s'appelle Biscotte. Il serait très fier.
+(Léa avance de quelques mètres et arrive devant un étal de fromages. Une dame sourit derrière le comptoir.)
+Léa : Bonjour, madame. Je fais un reportage sur le marché. Vous êtes ici depuis longtemps ?
+Odile : Moi, c'est Odile. Je tiens ce stand depuis vingt ans, avec mon mari. Lui est derrière, il coupe.
+Léa : Vous vendez surtout quoi ?
+Odile : Du comté, du reblochon, du chèvre frais. Et des fromages de Normandie, comme le camembert.
+Léa : Il y en a beaucoup ! Comment on choisit un bon fromage ?
+Odile : Il faut sentir, regarder la croûte, et surtout goûter. Tenez, goûtez ce comté de dix-huit mois.
+Léa : Mmm... il est un peu sucré, non ?
+Odile : Oui, c'est le goût de la noisette. Plus il vieillit, plus il est fort.
+Léa : Je suis étudiante, je n'ai pas beaucoup d'argent. Vous avez des conseils pour acheter pas cher ?
+Odile : Prenez un petit morceau de plusieurs sortes plutôt qu'un gros. Comme ça, vous goûtez tout.
+Léa : Bonne idée. Et les clients, ils sont comment, le dimanche ?
+Odile : Pressés le samedi, tranquilles le dimanche. Le dimanche, on prend le temps de discuter.
+Léa : Qu'est-ce qui vous plaît le plus dans ce travail ?
+Odile : Les gens qui reviennent. Une dame est venue pour ses quatre-vingt-dix ans, avec des fleurs pour nous.
+Léa : C'est touchant. Et le plus dur ?
+Odile : Le froid en hiver. On a les mains gelées, même avec des gants.
+Léa : Je comprends. Merci beaucoup pour le fromage et pour vos réponses.
+Odile : Mais de rien. Dites aux gens de venir, on n'a jamais assez de monde.
+Léa : Je le ferai. Je reviens acheter du comté la semaine prochaine.
+Odile : Parfait ! Demandez Odile, je vous ferai un prix.
+(Léa s'approche d'une dame âgée qui remplit un cabas à roulettes. Elle a l'air d'humeur à discuter.)
+Léa : Bonjour, madame. Je peux vous poser deux ou trois questions pour la radio de mon école ?
+Paulette : Pour la radio ? Ma petite-fille adorerait ça. Allez-y, je ne suis pas timide.
+Léa : Vous venez souvent ici ?
+Paulette : Tous les dimanches depuis quarante ans. Même quand il pleut, même quand j'ai mal au dos.
+Léa : Pourquoi le marché plutôt que le supermarché ?
+Paulette : Parce que les légumes ont du goût ! Au supermarché, les tomates, c'est de l'eau.
+Léa : Moi, je vais au supermarché, c'est moins cher, non ?
+Paulette : Pas toujours. Et puis ici, on peut acheter une seule carotte si on veut.
+Léa : C'est vrai qu'au supermarché, tout est dans des barquettes.
+Paulette : Voilà ! Et le plastique, ça me fait de la peine, je préfère mon cabas.
+Léa : Mais les prix ont augmenté ces dernières années, non ?
+Paulette : Oui, un peu. Une salade coûtait un euro avant, maintenant elle en coûte deux.
+Léa : Ça vous gêne ?
+Paulette : Ça me gêne, mais je ne changerai pas. Je mange moins de viande, voilà tout.
+Léa : Vous faites des économies de cette façon ?
+Paulette : Un peu. Et je cuisine pour trois jours, alors je n'ai pas de gâchis.
+Léa : Bonne technique. Et votre petite-fille, elle vient avec vous ?
+Paulette : Parfois. Elle préfère le stand de crêpes, évidemment.
+Léa : Ha ha, ça se comprend. Merci beaucoup, madame...
+Paulette : Paulette. Et dites à votre radio que le marché, c'est la vie du quartier.
+(Léa arrive devant le poissonnier. Un homme crie le prix de ses poissons.)
+Léa : Bonjour, monsieur. Vous criez fort, dites donc !
+Marc : Bonjour ! Il faut crier, sinon personne ne vient. Je suis Marc.
+Léa : Vous vendez quoi aujourd'hui ?
+Marc : Du saumon, du cabillaud, des sardines, des moules. Tout est frais, du matin.
+Léa : Les sardines coûtent combien ?
+Marc : Six euros le kilo. C'est un bon prix, madame.
+Léa : Et les moules ?
+Marc : Huit euros. Avec un peu de vin blanc, c'est délicieux.
+Léa : Je ne sais pas cuisiner les moules.
+Marc : C'est facile. On met un oignon, du vin, on ferme, cinq minutes, et c'est prêt.
+Léa : Cinq minutes seulement ?
+Marc : Oui. Mais attention, si une moule reste fermée, on la jette.
+Léa : D'accord. Vous aimez le poisson ?
+Marc : Moi ? Pas trop ! Je préfère la viande. Mais chut, ne le dites pas aux clients.
+Léa : Ha ha, ça reste entre nous. Vous avez beaucoup de clients aujourd'hui ?
+Marc : Oui, mais le matin est très dur. Il y a trop de bruit, les gens se bousculent.
+Léa : C'est un peu stressant, alors.
+Marc : Un peu. Mais à midi, c'est fini, et je rentre dormir.
+Léa : Bonne sieste, alors !
+Marc : Merci ! Tenez, une sardine pour goûter, c'est cadeau.
+(Léa arrive près du stand de crêpes. Un petit garçon attend avec son père.)
+Léa : Salut ! Tu t'appelles comment ?
+Hugo : Hugo. J'ai sept ans.
+Léa : Tu aimes le marché, Hugo ?
+Hugo : Non. C'est ennuyeux. Il y a trop de monde.
+Léa : Ah bon ? Qu'est-ce que tu n'aimes pas ?
+Hugo : Papa parle longtemps avec tout le monde. Moi, j'attends.
+Léa : Et qu'est-ce que tu aimes ?
+Hugo : Les crêpes ! Avec du sucre. Et le chien qui mange des carottes.
+Léa : Le chien Biscotte ?
+Hugo : Oui ! Il a une grosse tête et il me lèche les mains.
+Léa : Il est gentil, alors.
+Hugo : Très. Mais papa dit qu'il ne faut pas le caresser.
+Léa : Pourquoi ?
+Hugo : Parce que j'ai un peu peur des chiens. Mais lui, non.
+Léa : C'est bien d'avoir un ami chien. Tu viens tous les dimanches ?
+Hugo : Oui, après la piscine. J'ai faim après la piscine.
+Léa : Alors une crêpe, c'est parfait. Tu veux dire quelque chose à la radio ?
+Hugo : Euh... Bonjour, la radio ! Et je veux une crêpe au chocolat !
+Léa : Ha ha, tu l'as dit. Merci, Hugo.
+Hugo : De rien. Tu viens avec moi voir le chien ?
+(La matinée se termine. Léa retourne voir Karim, qui range ses caisses. Odile vient lui dire au revoir.)
+Léa : Karim, j'ai enregistré une heure de sons ! Je ne sais pas comment je vais faire pour tout monter en trois minutes.
+Karim : Ha ha, tu vas devoir choisir. Garde le labrador, c'est le meilleur passage.
+Odile : Alors, Léa, tu as tout ce qu'il te faut ? Je t'ai vue goûter le comté.
+Léa : Oui, et il m'a donné l'idée de la conclusion : le marché, ça se goûte avant de s'expliquer.
+Odile : Pas mal, ça. Tu devrais faire du journalisme.
+Léa : Je ne suis pas sûre. Je fais des études de lettres, mais c'est vrai que j'ai adoré aujourd'hui.
+Karim : C'est ça, le secret : parler aux gens. Même en vendant des carottes, j'apprends plus qu'à l'école.
+Odile : Mon mari dit pareil. Lui, il a arrêté ses études à seize ans et il connaît tout le quartier.
+Léa : Ça m'a frappée, d'ailleurs, ce que vous avez en commun : tout le monde dit « les habitués ».
+Karim : C'est normal. Sans habitués, pas de marché. Ils font vivre le coin, et nous, on le leur rend bien.
+Odile : Et puis ici, on se dit bonjour. Au supermarché, personne ne te regarde.
+Léa : C'est vrai. Moi qui suis arrivée à Paris il y a deux ans, c'est le premier endroit où j'ai eu l'impression d'être reconnue.
+Karim : Alors tu reviens dimanche prochain, et je te garde des champignons.
+Léa : Avec plaisir. Je pourrais même apporter le micro, juste pour le plaisir.
+Odile : Apporte surtout ton appétit. Mon mari prépare une raclette pour la fermeture.
+Karim : Une raclette en octobre ? Il ne fait pas assez froid !
+Odile : Pour une raclette, il fait toujours assez froid, Karim.
+Léa : Là, je suis d'accord avec Odile. Je viendrai avec des pommes de terre.
+Karim : Des pommes de terre ? Tu les achèteras chez moi, quand même.
+Léa : Évidemment. Une cliente fidèle, ça se mérite. À dimanche !
+
+## 낭독 포인트
+- 비음 모음: «comté», «quarante ans», «champignons» — on, an, in은 코로 울리는 모음이고 뒤의 n은 따로 소리 내지 않는다.
+- 연음: «vous êtes», «des habitués» — 어말 s가 다음 모음 앞에서 [z]로 이어진다.
+- 프랑스어 r: «reportage», «très fier», «radio» — 목젖 근처에서 내는 마찰음.
+- u / ou: «légumes», «courges» vs «goûtez», «tout» — u는 입술을 모아 [y], ou는 [u].
+- 숫자·가격: «quatre-vingt-dix ans», «six euros», «huit euros» — 숫자와 단위 사이를 이어 읽는다.
+- 호칭: 어른에게는 «Dites donc», «ma belle» 같은 시장의 말투, 아이 위고에게는 «Tu t'appelles comment ?»처럼 tu로 가볍게. 상인은 큰 소리로 빠르게, 폴레트는 느긋하게 읽는다.
+
+## 학습 포인트 정리
+- B1 구간(1~60턴): 상인과 손님 인터뷰
+  · 인터뷰 질문: «Vous êtes ici depuis longtemps ?», «Qu'est-ce qui vous plaît le plus dans ce travail ?»
+  · 조언과 명령형: «Prenez un petit morceau de plusieurs sortes.», «Goûtez ce comté.»
+  · 이유: «Parce que les légumes ont du goût !», «Je mange moins de viande, voilà tout.»
+- A2 구간(61~100턴): 가격과 아이 인터뷰
+  · 가격: «Six euros le kilo.», «Huit euros.»
+  · 아이에게 묻기: «Tu t'appelles comment ?», «Tu aimes le marché, Hugo ?»
+- B2 구간(101~120턴): 정리와 약속
+  · 감상: «Ça m'a frappée, d'ailleurs, ce que vous avez en commun.»
+  · 조건과 비교: «Sans habitués, pas de marché.», «Une cliente fidèle, ça se mérite.»
+- 어휘: l'étal, le comté, le cabas, la barquette, les habitués, le potimarron, la raclette.
+
+## 속어 노트
+- «Dites donc !»: 이봐요, 어머나. 놀람이나 감탄을 나타낸다.
+- «ma belle»: 아가씨. 시장 상인이 친근하게 부르는 말.
+- «ça reste entre nous»: 우리끼리 비밀이에요.
+- «le gâchis»: 낭비, 음식 쓰레기.
+- «ça se mérite»: 그건 노력해서 얻는 거예요.
+- 이 이야기의 가격과 장터 운영 방식은 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 어른에게는 vous, 아이와 친해진 뒤의 레아와 카림·오딜은 tu를 쓴다.
+
+## 한글 해석
+(동네 장터, 시월의 일요일 아침. 사람이 많다. 레아가 마이크를 들고 채소 가판대로 다가간다.)
+레아 : 안녕하세요, 아저씨! 학교 라디오 리포트를 하고 있는데요. 질문 몇 개 드려도 될까요?
+카림 : 그럼요, 아가씨. 그래도 손님 받는 건 계속할게요, 안 그러면 손님들이 가 버리거든요.
+레아 : 괜찮아요. 그럼 이름이 어떻게 되시고, 언제부터 여기 계셨어요?
+카림 : 카림이에요. 이 장터에서 십오 년 됐어요, 아버지가 먼저 하셨죠.
+레아 : 일요일엔 몇 시에 일어나세요?
+카림 : 네 시요. 랑지스에 채소를 가지러 가서 일곱 시쯤 가판대를 차려요.
+레아 : 밤이 짧네요. 너무 피곤하지 않으세요?
+카림 : 좀 피곤하죠, 그래도 커피가 도와줘요. 그리고 분위기가 좋아요, 사람들도, 대화도요.
+레아 : 요즘 제일 잘 팔리는 게 뭐예요?
+카림 : 시월엔 호박, 버섯, 첫 사과예요. 보세요, 이 단호박 정말 멋지죠.
+레아 : 저는 이걸 어떻게 요리하는지도 몰라요.
+카림 : 쉬워요. 조각으로 잘라서 기름을 조금 두르고 오븐에 넣으면 끝이에요.
+레아 : 껍질 안 벗기고요?
+카림 : 안 벗겨요! 껍질도 먹어요. 많은 사람들이 몰라요.
+레아 : 좋은 걸 알았네요. 손님은 주로 어떤 분들이에요?
+카림 : 단골이 대부분이에요. 이름도, 아이들도, 심지어 개들도 알아요.
+레아 : 개들까지요?
+카림 : 하하, 네! 매주 일요일에 당근을 받으러 오는 래브라도가 있어요.
+레아 : 귀엽네요. 리포트에 넣을게요.
+카림 : 이름이 비스코트라고 꼭 말해 줘요. 아주 자랑스러워할 거예요.
+(레아가 몇 미터 걸어가 치즈 가판대 앞에 선다. 계산대 뒤에서 한 아주머니가 미소 짓는다.)
+레아 : 안녕하세요. 장터 리포트를 하고 있어요. 여기 오래 계셨어요?
+오딜 : 나는 오딜이에요. 남편이랑 이십 년째 이 가판대를 하고 있어요. 남편은 뒤에서 자르고요.
+레아 : 주로 뭘 파세요?
+오딜 : 콩테, 르블로숑, 신선한 염소 치즈요. 그리고 카망베르 같은 노르망디 치즈도요.
+레아 : 정말 많네요! 좋은 치즈는 어떻게 고르나요?
+오딜 : 냄새를 맡고 껍질을 보고, 무엇보다 맛을 봐야 해요. 자, 십팔 개월 숙성한 이 콩테 맛보세요.
+레아 : 음... 조금 달콤하네요, 그렇죠?
+오딜 : 네, 헤이즐넛 맛이에요. 오래될수록 더 진해져요.
+레아 : 저는 학생이라 돈이 많지 않아요. 싸게 사는 요령이 있을까요?
+오딜 : 큰 덩어리 하나보다 여러 종류를 조금씩 사세요. 그러면 다 맛볼 수 있어요.
+레아 : 좋은 생각이네요. 일요일엔 손님들이 어때요?
+오딜 : 토요일엔 급하고 일요일엔 느긋해요. 일요일엔 이야기할 시간이 있죠.
+레아 : 이 일에서 제일 좋은 건 뭐예요?
+오딜 : 다시 오는 사람들이요. 한 할머니는 구순 생일에 우리에게 꽃을 가져오셨어요.
+레아 : 뭉클하네요. 제일 힘든 건요?
+오딜 : 겨울 추위요. 장갑을 껴도 손이 얼어요.
+레아 : 이해해요. 치즈도, 답변도 정말 감사합니다.
+오딜 : 별말씀을요. 사람들한테 오라고 전해 줘요, 손님은 아무리 많아도 모자라요.
+레아 : 그럴게요. 다음 주에 콩테 사러 다시 올게요.
+오딜 : 좋아요! 오딜을 찾아요, 값을 잘 쳐 줄게요.
+(레아가 장바구니 수레를 채우고 있는 할머니에게 다가간다. 이야기하고 싶은 기분인 듯하다.)
+레아 : 안녕하세요, 할머니. 학교 라디오 때문에 질문 두세 개 드려도 될까요?
+폴레트 : 라디오요? 우리 손녀가 좋아하겠네. 해요, 나는 수줍음 안 타요.
+레아 : 여기 자주 오세요?
+폴레트 : 사십 년 동안 일요일마다요. 비가 와도, 허리가 아파도요.
+레아 : 왜 마트 대신 장터에 오세요?
+폴레트 : 채소에 맛이 있으니까요! 마트 토마토는 물이에요.
+레아 : 저는 마트에 가는데, 더 싸지 않나요?
+폴레트 : 늘 그렇진 않아요. 그리고 여기선 당근 하나만 사고 싶으면 하나만 살 수 있어요.
+레아 : 맞아요, 마트는 다 포장 용기에 담겨 있어요.
+폴레트 : 그렇죠! 플라스틱은 마음이 아파서 나는 내 장바구니가 좋아요.
+레아 : 그래도 최근 몇 년 동안 물가가 올랐죠?
+폴레트 : 네, 조금요. 상추가 예전엔 일 유로였는데 지금은 이 유로예요.
+레아 : 부담되세요?
+폴레트 : 부담되지만 바꾸진 않을 거예요. 고기를 덜 먹는 거죠, 그게 다예요.
+레아 : 그렇게 절약이 되나요?
+폴레트 : 조금은요. 그리고 사흘치를 한 번에 요리해서 버리는 게 없어요.
+레아 : 좋은 방법이네요. 손녀분도 같이 오세요?
+폴레트 : 가끔요. 걔는 당연히 크레이프 가판대가 더 좋대요.
+레아 : 하하, 그럴 만하네요. 정말 감사합니다, 할머니...
+폴레트 : 폴레트예요. 그리고 라디오에 전해요, 장터가 동네의 삶이라고.
+(레아가 생선 가게 앞에 도착한다. 한 남자가 생선 값을 외치고 있다.)
+레아 : 안녕하세요, 아저씨. 목소리가 크시네요, 어머나!
+마르크 : 안녕하세요! 소리를 질러야죠, 안 그러면 아무도 안 와요. 나는 마르크예요.
+레아 : 오늘은 뭘 파세요?
+마르크 : 연어, 대구, 정어리, 홍합이요. 전부 아침에 들어온 신선한 거예요.
+레아 : 정어리는 얼마예요?
+마르크 : 일 킬로에 육 유로요. 좋은 가격이에요, 아가씨.
+레아 : 홍합은요?
+마르크 : 팔 유로요. 화이트 와인을 조금 넣으면 맛있어요.
+레아 : 저는 홍합 요리할 줄 몰라요.
+마르크 : 쉬워요. 양파랑 와인을 넣고 뚜껑을 닫아서 오 분이면 돼요.
+레아 : 오 분만요?
+마르크 : 네. 하지만 조심해요, 입을 다문 홍합은 버려야 해요.
+레아 : 알겠어요. 생선을 좋아하세요?
+마르크 : 나요? 별로요! 고기가 더 좋아요. 하지만 쉿, 손님들한테는 말하지 마요.
+레아 : 하하, 우리끼리 비밀로 할게요. 오늘 손님이 많으세요?
+마르크 : 네, 하지만 아침이 아주 힘들어요. 시끄럽고 사람들이 서로 밀치거든요.
+레아 : 좀 스트레스가 되겠네요.
+마르크 : 조금요. 그래도 점심이면 끝나고 나는 집에 가서 자요.
+레아 : 그럼 낮잠 잘 주무세요!
+마르크 : 고마워요! 자, 맛보라고 정어리 한 마리 줄게요, 선물이에요.
+(레아가 크레이프 가판대 근처에 도착한다. 한 남자아이가 아빠와 함께 기다리고 있다.)
+레아 : 안녕! 이름이 뭐야?
+위고 : 위고. 일곱 살이에요.
+레아 : 위고, 장터 좋아해?
+위고 : 아니요. 지루해요. 사람이 너무 많아요.
+레아 : 그래? 뭐가 싫어?
+위고 : 아빠가 모두랑 오래 이야기해요. 나는 기다려요.
+레아 : 그럼 뭐가 좋아?
+위고 : 크레이프요! 설탕 넣은 거요. 그리고 당근 먹는 개요.
+레아 : 개 비스코트?
+위고 : 네! 머리가 크고 내 손을 핥아요.
+레아 : 그럼 착한 개네.
+위고 : 아주요. 그런데 아빠가 쓰다듬으면 안 된대요.
+레아 : 왜?
+위고 : 내가 개를 조금 무서워해서요. 그래도 걔는 안 무서워요.
+레아 : 개 친구가 있으면 좋지. 일요일마다 와?
+위고 : 네, 수영장 다음에요. 수영하고 나면 배가 고파요.
+레아 : 그럼 크레이프가 딱이네. 라디오에 하고 싶은 말 있어?
+위고 : 어... 안녕하세요, 라디오! 그리고 초콜릿 크레이프 먹고 싶어요!
+레아 : 하하, 말 잘했어. 고마워, 위고.
+위고 : 별말씀을요. 나랑 개 보러 갈래요?
+(아침이 끝나 간다. 레아가 상자를 정리하는 카림에게 다시 간다. 오딜이 작별 인사를 하러 온다.)
+레아 : 카림, 한 시간 분량을 녹음했어요! 삼 분으로 어떻게 편집할지 모르겠어요.
+카림 : 하하, 골라야지. 래브라도는 남겨, 제일 좋은 장면이야.
+오딜 : 그래, 레아, 필요한 건 다 얻었니? 콩테 맛보는 거 봤어.
+레아 : 네, 그리고 그게 결론 아이디어를 줬어요. 장터는 설명하기 전에 맛보는 거라고요.
+오딜 : 나쁘지 않네. 기자를 해도 되겠어.
+레아 : 잘 모르겠어요. 문학을 전공하지만 오늘이 정말 좋았던 건 맞아요.
+카림 : 그게 비결이지, 사람들과 이야기하는 거. 당근을 팔면서도 학교에서보다 더 많이 배워.
+오딜 : 우리 남편도 똑같이 말해. 열여섯에 학업을 그만뒀는데 동네를 다 알아.
+레아 : 그러고 보니 인상 깊었던 게 있어요, 여러분의 공통점이요. 다들 '단골'이라고 해요.
+카림 : 당연하지. 단골이 없으면 장터도 없어. 그들이 동네를 살리고, 우리는 그걸 갚는 거야.
+오딜 : 그리고 여기선 서로 인사를 해. 마트에서는 아무도 쳐다보지 않잖아.
+레아 : 맞아요. 이 년 전에 파리에 온 저한테 여기가 처음으로 알아봐 주는 곳이었어요.
+카림 : 그럼 다음 일요일에 또 와, 버섯 남겨 둘게.
+레아 : 좋아요. 즐거워서라도 마이크를 들고 올게요.
+오딜 : 무엇보다 식욕을 가져와. 남편이 폐장 때 라클레트를 준비한대.
+카림 : 시월에 라클레트라니? 별로 안 춥잖아!
+오딜 : 라클레트에는 언제나 충분히 추워, 카림.
+레아 : 그 부분은 오딜 말에 동의해요. 감자를 가져올게요.
+카림 : 감자라고? 그래도 우리 가게에서 사야지.
+레아 : 당연하죠. 충실한 단골은 노력해서 되는 거니까요. 일요일에 봐요!

@@ -1,0 +1,286 @@
+# 5부 9화. Des billets à prix d'or (금값이 된 표)
+난이도: 주 B2 | 구간: B2→B2→B2→C1→B2→B2 | 형식: 전화+메시지 | 장소: 지하철 안(전화), 직장과 집(메시지) | 시간: 10월 화요일 아침부터 저녁까지
+등장인물: Chloé, Mathis
+이슈: 주 ● 암표와 재판매 사이트, 공연 티켓 가격 | 곡선: 3-3-2-1-1-0 (초반충격형, 상한 3) | 입장: A 클로에(좋아하는 밴드의 콘서트가 매진돼 재판매가로라도 가고 싶지만 가격에 분노한다) / B 마티스(공연 업계에서 일하며 재판매가 구매는 암표 시장을 키운다고 보고 공식 경로를 권한다)
+상황 카드: 클로에가 출근길 지하철에서 오빠 마티스에게 전화해 콘서트 표가 사 분 만에 매진되고 재판매 사이트에서 정가의 다섯 배가 된 것에 분통을 터뜨린다. 마티스는 사지 말라고 하고 둘은 업계 구조, 환불·신고 가능성, 공정함을 두고 논쟁한다. 이후 문자 메시지로 이어지며 마티스가 동료의 정가 표를 찾아 주고 클로에는 안심한다. 결말은 표는 구했지만 제도의 문제는 풀리지 않은 열린 결말.
+학습 포인트: 분노·충격 표현(Deux cent quarante euros la place !) · 반박과 양보(D'accord, j'ai peut-être exagéré) · 법·제도 어휘(plafonner, réclamation, plateforme officielle) · 가정과 조건(Si tu déposes une réclamation, peut-être qu'ils réagiront) · 메시지 어투(Sérieux ?!, Ça marche.)
+
+## 대화
+(Mardi, huit heures du matin. Chloé appelle son frère Mathis depuis une rame de métro bondée, la ligne 6.)
+Chloé : Mathis, tu es réveillé ? Dis-moi que tu es réveillé, c'est urgent.
+Mathis : Je suis en train de me brosser les dents, parle. Qu'est-ce qui se passe ?
+Chloé : Deux cent quarante euros ! Tu te rends compte ? Deux cent quarante euros la place !
+Mathis : Pour quoi ? Attends, tu parles du concert de ton groupe ?
+Chloé : Oui ! « Marée Basse », en décembre, dans la grande salle de Bercy. Complet en quatre minutes, et maintenant les billets sont revendus à des prix de fou.
+Mathis : Quatre minutes ? C'est le jeu des robots, ça, Chloé. Les gens ne passent même pas par le site officiel.
+Chloé : Je sais, mais ça me met hors de moi. Les places coûtaient quarante-cinq euros au départ !
+Mathis : Et sur le site de revente, c'est combien, exactement ?
+Chloé : Deux cent quarante pour la fosse, et trois cent dix pour le premier gradin. Je n'en reviens pas.
+Mathis : Écoute, ne touche surtout pas à ça. Tu vas encourager exactement ce que tu détestes.
+Chloé : Mais si je ne le fais pas, je ne verrai jamais ce concert ! C'est mon groupe depuis le lycée.
+Mathis : Je comprends, mais ce n'est pas une raison pour payer cinq fois le prix.
+Chloé : Tu dis ça parce que tu n'es pas fan. Toi, tu n'as jamais voulu autant quelque chose.
+Mathis : Ah, c'est un peu injuste. Je me suis fait avoir pour les billets de la finale de rugby, l'an dernier.
+Chloé : Et tu as payé combien ?
+Mathis : J'ai payé le double, et j'ai juré de ne plus jamais recommencer.
+Chloé : Le double, ce n'est pas cinq fois. Ça change tout, non ?
+Mathis : Non, ça ne change rien. Ce sont les mêmes intermédiaires qui profitent du système.
+Chloé : Ces intermédiaires, comme tu dis, ils existent parce que la billetterie officielle est nulle !
+Mathis : Là, je suis d'accord avec toi sur un point : le site était saturé dès la première seconde.
+Chloé : Alors tu admets que le vrai problème, c'est la vente officielle, pas moi.
+Mathis : Je dis que les deux problèmes existent, et que tu ne dois pas en nourrir un pour te plaindre de l'autre.
+Chloé : Facile à dire quand on a déjà ses places pour tous les concerts du monde grâce à son boulot.
+Mathis : Je n'ai pas de places pour tous les concerts. J'ai parfois des invitations, c'est tout, et je les donne.
+Chloé : Tu me les as données une seule fois, pour un festival qui m'ennuyait.
+Mathis : Un festival qui t'ennuyait ? Tu avais dansé pendant trois heures !
+Chloé : Pour te faire plaisir. Bref, ce n'est pas le sujet.
+Mathis : Le sujet, c'est que ces sites de revente, ils sont censés plafonner les prix, d'après la loi.
+Chloé : Censés, oui. Dans la pratique, ils inscrivent « frais de service » partout et personne ne contrôle.
+Mathis : Si tu déposes une réclamation, peut-être qu'ils réagiront.
+Chloé : Une réclamation ? Contre qui, exactement ? Contre un vendeur anonyme ?
+Mathis : Contre le site. Il a une responsabilité, il doit vérifier ce qui est vendu.
+Chloé : J'ai déjà essayé une fois, pour un billet de train. On m'a répondu au bout de quatre mois.
+Mathis : Ça ne veut pas dire que ça ne marche jamais.
+Chloé : Ça veut dire que ça marche mal, et que moi, j'ai envie de ce concert en décembre, pas en avril.
+Mathis : Chloé, je ne veux pas que tu te ruines pour une soirée.
+Chloé : Ce n'est pas une soirée, c'est la tournée de ma vie, ils ne reviendront peut-être jamais.
+Mathis : Ils ne reviendront jamais ? C'est ce que tu disais la dernière fois.
+Chloé : La dernière fois, ils avaient annoncé leur séparation. Là, c'est l'inverse, ils sont de retour.
+Mathis : Alors ils reviendront aussi une prochaine fois, justement.
+Chloé : Bon. Admettons que je ne paie pas ce prix. Tu proposes quoi, concrètement ?
+Mathis : D'abord, il existe une plateforme officielle de revente, gérée par la salle elle-même, au prix coûtant.
+Chloé : Je l'ai regardée, il n'y avait rien, évidemment.
+Mathis : Il y a rarement quelque chose au début. Les gens y mettent leurs billets plus tard, quand ils ont un empêchement.
+Chloé : Donc tu me conseilles d'attendre et de prier ?
+Mathis : De t'inscrire aux alertes, et de regarder tous les matins, oui.
+Chloé : Et si personne ne revend ?
+Mathis : Alors tu n'iras pas au concert. Ce sera dommage, mais pas dramatique.
+Chloé : Pas dramatique pour toi, peut-être.
+Mathis : Je sais que ça compte pour toi. Je ne minimise pas, je te dis juste que ça ne vaut pas deux cent quarante euros.
+Chloé : C'est toi qui fixes ce que ça vaut, maintenant ?
+Mathis : Non, c'est toi, mais je te rappelle que tu as aussi un loyer à payer, et une facture de téléphone.
+Chloé : Merci de me rappeler mes factures, très aidant. Tu devrais travailler pour un cabinet comptable.
+Mathis : Je préfère encore être comptable que le complice d'un revendeur.
+Chloé : Complice ? Le mot est un peu fort, non ?
+Mathis : D'accord, j'ai peut-être exagéré. Disons que tu serais un client, pas un complice.
+Chloé : Un client qui ne paiera pas, alors. Mais je suis furieuse quand même.
+Mathis : Tu as le droit. Tu peux même être furieuse en attendant.
+Chloé : J'ai le droit d'être furieuse, mais pas d'acheter. Quelle liberté !
+Mathis : Écoute, je vais demander à des collègues de la salle, ils ont peut-être des places réservées aux partenaires.
+Chloé : Tu ferais ça ? Sérieusement ? Après m'avoir fait la morale pendant un quart d'heure ?
+Mathis : La morale, je la garde pour moi quand c'est toi qui es en détresse. Mais je te préviens, je ne promets rien.
+Chloé : Je préfère ça à un grand discours sur la valeur de l'art.
+Mathis : Pourtant il y en a, de la matière, sur le sujet. Tu sais que l'artiste ne touche pas un centime sur la revente ?
+Chloé : Évidemment, je m'en doute. Le prix s'envole, mais l'argent atterrit dans des poches qu'on ne voit pas.
+Mathis : Voilà. Et pendant ce temps, les fans comme toi sont pris en otage de leur propre passion.
+Chloé : Une passion qui coûte, certes, mais qui a toujours coûté, non ? Nos parents faisaient la queue toute la nuit pour des places.
+Mathis : Oui, mais la queue, ça coûtait du temps, pas de l'argent. Le temps est plus équitablement partagé que l'argent, en principe.
+Chloé : Pas si sûr. Un étudiant peut faire la queue, un cadre pressé ne le peut pas.
+Mathis : Tu inverses mon argument avec une habileté qui me désarme.
+Chloé : C'est un talent de famille. Papa le fait à chaque repas de Noël.
+Mathis : Ne parlons pas de Noël, j'ai encore le souvenir du débat sur les huîtres.
+Chloé : Quelle erreur de ma part ! Tu as raison, restons dans le sujet.
+Mathis : Le sujet, c'est qu'il faudrait une régulation qui protège le fan sans casser le marché.
+Chloé : Un plafonnement ? Je pense qu'ils y viendront un jour, mais pas avant que ça devienne un scandale national.
+Mathis : Ce serait déjà presque un scandale. On a vu des billets à cinq cents euros pour des spectacles d'humoristes.
+Chloé : Et les gens payent, c'est ça le plus fou. Ils se plaignent et ils payent.
+Mathis : Comme toi, il y a dix minutes.
+Chloé : Oh, tais-toi. Mon métro arrive à ma station, je dois raccrocher.
+Mathis : Écris-moi, je te dirai ce que j'ai trouvé. Courage pour ta journée.
+(Midi. Chloé, au bureau, écrit à Mathis. Il répond entre deux réunions.)
+Chloé : Alors ? Des nouvelles de tes collègues ? J'ai pensé au concert toute la matinée.
+Mathis : J'ai deux options. La première : un collègue a deux places en gradin, qu'il ne peut pas utiliser. Prix : le tarif d'origine.
+Chloé : Sérieux ?! Quarante-cinq euros chacune ?
+Mathis : Quarante-cinq, oui. Mais il veut être sûr que ce ne soit pas pour une revente.
+Chloé : Évidemment que non ! Dis-lui que c'est pour moi et ma meilleure amie.
+Mathis : Je lui ai déjà dit. Il demande juste qu'on se voie pour échanger les billets en main propre.
+Chloé : Pas de souci. Je suis libre ce soir après dix-huit heures.
+Mathis : Je lui transmets. Il habite près de la gare de l'Est.
+Chloé : Parfait, je peux passer en rentrant. Et la deuxième option ?
+Mathis : Une place seule en fosse, à soixante euros, via la plateforme officielle. Elle vient d'apparaître.
+Chloé : Soixante en fosse, c'est déjà plus que quarante-cinq, mais ce n'est pas cher non plus.
+Mathis : Tu peux aussi prendre les deux, une pour toi, une pour Léa, si elle veut.
+Chloé : Je préfère les gradins, côte à côte. Je ne veux pas aller seule dans la fosse.
+Mathis : Ça se tient. Je lui dis oui pour les gradins, alors ?
+Chloé : Oui ! Vraiment oui. Je ne sais pas comment te remercier.
+Mathis : Tu m'offres le déjeuner dimanche, c'est tout.
+Chloé : D'accord, mais c'est toi qui choisis le restaurant, et je te préviens, pas d'huîtres.
+Mathis : Ça marche. Et la prochaine fois, on se connecte tous les deux, à l'heure pile, pour les billets.
+Chloé : Avec deux ordinateurs, ça double nos chances.
+Mathis : Et nos frais de café, mais c'est la vie.
+(Le soir. Chloé écrit à Mathis depuis son canapé, les billets sur la table basse.)
+Chloé : C'est bon ! J'ai les deux billets. Ton collègue est adorable, il m'a même offert un café.
+Mathis : Je te l'avais dit, il est gentil. Il s'appelle Bastien, au fait.
+Chloé : Je lui ai laissé un mot de remerciement avec une boîte de chocolats.
+Mathis : Il va adorer. Il est gourmand, il se plaint toujours de son poids.
+Chloé : Les chocolats, c'est mon petit plaisir sournois pour nouer des alliances.
+Mathis : Ah ah, la diplomatie par le chocolat !
+Chloé : C'est la méthode la plus efficace, je te le garantis.
+Mathis : Tu as appelé Léa pour lui annoncer la bonne nouvelle ?
+Chloé : Oui, elle a crié si fort que son voisin a cogné au mur.
+Mathis : Voilà, la fête a déjà commencé, et on n'est qu'en octobre.
+Chloé : En décembre, ce sera encore mieux.
+Mathis : Il faudra prendre le métro tôt, il y aura du monde.
+Chloé : Je sais. On partira trois heures avant.
+Mathis : Trois heures avant ? Pour un concert à vingt heures ?
+Chloé : Pour être au premier rang du gradin, justement.
+Mathis : Au premier rang, il n'y a pas de siège réservé, tu as bien lu ?
+Chloé : Si, les gradins sont numérotés. J'ai vérifié.
+Mathis : Alors tu peux arriver à vingt heures moins le quart.
+Chloé : Peut-être, mais je serai là tôt quand même, pour l'ambiance.
+Mathis : Bien sûr que tu seras là tôt. Bonne soirée, ma grande fan.
+
+## 낭독 포인트
+- 비음 모음: «concert», «dimanche», «cinq cents euros», «quarante-cinq» — on, an, in, en은 코로 울리고 n은 따로 발음하지 않는다.
+- 연음: «les mêmes intermédiaires», «les huîtres», «cinq cents euros» — 어말 자음이 다음 모음으로 이어진다. huîtres는 h가 소리 나지 않아 연음이 된다.
+- 프랑스어 r: «réclamation», «revente», «frais» — 목젖 근처에서 내는 마찰음.
+- u / ou: «tu», «plus» vs «pour», «prix de fou» — u는 입술을 모아 [y], ou는 [u].
+- 숫자·금액: «deux cent quarante euros», «trois cent dix» — 큰 금액을 끊어 또박또박 읽는다.
+- 억양: 클로에는 처음엔 빠르고 격앙되게, 마티스는 낮고 차분하게. 후반 메시지 구간은 구어체로 가볍게. 남매끼리 tu를 쓴다.
+
+## 학습 포인트 정리
+- B2 구간(1~60턴): 분노와 논쟁, 대안 모색
+  · 분노·충격: «Deux cent quarante euros la place !», «Ça me met hors de moi.», «Je n'en reviens pas.»
+  · 반박·양보: «Tu inverses…», «D'accord, j'ai peut-être exagéré.», «Là, je suis d'accord avec toi sur un point.»
+  · 제도 어휘: «plafonner les prix», «déposer une réclamation», «la plateforme officielle de revente».
+- C1 구간(61~80턴): 업계 구조에 대한 성찰
+  · «Les fans sont pris en otage de leur propre passion.», «Le temps est plus équitablement partagé que l'argent, en principe.», «Tu inverses mon argument avec une habileté qui me désarme.»
+- B2 구간(81~120턴): 메시지로 해결책 정리
+  · «Il veut être sûr que ce ne soit pas pour une revente.», «Ça se tient.», «Ça marche.»
+- 어휘: la billetterie, la revente, le gradin, la fosse, le plafonnement, le revendeur, l'intermédiaire.
+
+## 속어 노트
+- «prix de fou»: 말도 안 되게 높은 가격.
+- «hors de moi»: 화가 치밀어 제정신이 아닌.
+- «se faire avoir»: 속다, 당하다.
+- «boulot»: 일, 직장 (travail의 구어).
+- «ça se tient»: (주장이) 말이 된다, 일리가 있다.
+- «Sérieux ?!»: 진짜?! (놀람을 나타내는 구어).
+- 표 가격, 재판매 규제, 플랫폼 운영 방식은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 남매는 tu를 쓴다.
+
+
+## 한글 해석
+(화요일 아침 여덟 시. 클로에가 사람으로 가득 찬 6호선 지하철 안에서 오빠 마티스에게 전화한다.)
+클로에 : 마티스, 일어났어? 일어났다고 말해 줘, 급해.
+마티스 : 양치하는 중이야, 말해 봐. 무슨 일이야?
+클로에 : 이백사십 유로! 상상이 돼? 한 자리에 이백사십 유로라고!
+마티스 : 뭐 때문에? 잠깐, 네 밴드 콘서트 얘기야?
+클로에 : 맞아! '마레 바스', 십이월, 베르시 대공연장. 사 분 만에 매진됐는데 이제 표가 말도 안 되는 가격에 재판매되고 있어.
+마티스 : 사 분? 그건 봇들 장난이야, 클로에. 사람들은 공식 사이트로 가지도 못해.
+클로에 : 알아, 그래도 화가 치밀어. 원래 자리가 사십오 유로였다고!
+마티스 : 그럼 재판매 사이트에서는 정확히 얼마야?
+클로에 : 스탠딩이 이백사십이고 첫 번째 관람석은 삼백십이야. 믿기지가 않아.
+마티스 : 들어 봐, 절대 거기에 손대지 마. 네가 싫어하는 걸 정확히 부추기는 거야.
+클로에 : 그런데 안 사면 이 콘서트를 영영 못 봐! 고등학교 때부터 좋아한 밴드야.
+마티스 : 이해하지만 다섯 배를 내야 할 이유는 아니야.
+클로에 : 넌 팬이 아니라서 그렇게 말하는 거야. 넌 뭔가를 이렇게 원해 본 적이 없잖아.
+마티스 : 아, 그건 좀 불공평해. 작년에 럭비 결승전 표를 살 때 나도 당했거든.
+클로에 : 그래서 얼마 냈는데?
+마티스 : 두 배를 냈고, 다시는 안 하겠다고 맹세했어.
+클로에 : 두 배는 다섯 배가 아니잖아. 그럼 얘기가 완전 다르지 않아?
+마티스 : 아니, 달라질 게 없어. 똑같은 중개인들이 제도로 이익을 보는 거야.
+클로에 : 네 말대로 그 중개인들은 공식 예매처가 엉망이라서 존재하는 거야!
+마티스 : 그 점은 네 말에 동의해. 사이트가 첫 초부터 마비됐거든.
+클로에 : 그럼 진짜 문제는 공식 판매이지 내가 아니라는 걸 인정하는 거네.
+마티스 : 두 문제가 다 있고, 한쪽을 키우면서 다른 쪽을 불평하면 안 된다는 거야.
+클로에 : 일 덕분에 세상 모든 콘서트 자리를 이미 갖고 있는 사람이 말하긴 쉽지.
+마티스 : 모든 콘서트 자리가 있는 게 아니야. 가끔 초대권이 있을 뿐이고 그건 나눠 줘.
+클로에 : 나한텐 딱 한 번 줬는데, 지루한 페스티벌 거였잖아.
+마티스 : 지루한 페스티벌? 세 시간 동안 춤췄잖아!
+클로에 : 네 기분 맞춰 주려고. 아무튼 그게 요점이 아니야.
+마티스 : 요점은 그런 재판매 사이트들이 법에 따르면 가격에 상한을 둬야 한다는 거야.
+클로에 : '해야 한다'는 거지. 실제로는 곳곳에 '서비스 수수료'를 붙이고 아무도 감독 안 해.
+마티스 : 이의 신청을 하면 그들도 반응할지 몰라.
+클로에 : 이의 신청? 정확히 누구를 상대로? 익명의 판매자를 상대로?
+마티스 : 사이트를 상대로. 사이트에 책임이 있고 팔리는 걸 확인해야 해.
+클로에 : 기차표 때문에 한 번 해 봤어. 사 개월 만에 답이 왔어.
+마티스 : 그렇다고 절대 안 된다는 뜻은 아니야.
+클로에 : 잘 안 된다는 뜻이고, 나는 사월이 아니라 십이월에 이 콘서트를 보고 싶다고.
+마티스 : 클로에, 하룻밤 때문에 네가 거덜 나는 건 싫어.
+클로에 : 하룻밤이 아니라 내 인생 투어야, 다시는 안 올지도 몰라.
+마티스 : 다시는 안 온다고? 지난번에도 그렇게 말했잖아.
+클로에 : 지난번엔 해체를 발표했었어. 이번엔 반대로 복귀한 거야.
+마티스 : 그럼 오히려 다음에도 다시 올 거야.
+클로에 : 좋아. 그 가격은 안 낸다고 치자. 구체적으로 뭘 제안할 건데?
+마티스 : 우선 공연장이 직접 운영하는 공식 재판매 플랫폼이 있어, 원가로.
+클로에 : 봤는데 당연히 아무것도 없었어.
+마티스 : 처음엔 거의 없어. 사람들이 사정이 생기면 나중에 표를 올려.
+클로에 : 그러니까 기다리면서 기도하라는 거야?
+마티스 : 알림을 신청하고 매일 아침 확인하라는 거지.
+클로에 : 아무도 안 팔면?
+마티스 : 그럼 콘서트에 못 가는 거지. 아쉽겠지만 비극은 아니야.
+클로에 : 너한테는 비극이 아닐지도.
+마티스 : 너한테 중요한 거 알아. 깎아내리는 게 아니라 이백사십 유로 값어치는 아니라는 말이야.
+클로에 : 이제 네가 그 값어치를 정하는 거야?
+마티스 : 아니, 네가 정하지. 하지만 월세랑 전화 요금도 내야 한다는 걸 알려 주는 거야.
+클로에 : 고지서 일깨워 줘서 고맙네, 정말 도움 된다. 회계 사무소에서 일해 보지 그래.
+마티스 : 난 암표상의 공범이 되느니 회계사가 낫겠어.
+클로에 : 공범? 말이 좀 세지 않아?
+마티스 : 좋아, 내가 과장했을 수도 있어. 공범이 아니라 손님이라고 하자.
+클로에 : 그럼 돈을 안 낼 손님이네. 그래도 난 여전히 화가 나.
+마티스 : 그럴 만해. 기다리는 동안 화를 내도 돼.
+클로에 : 화낼 권리는 있고 살 권리는 없다니. 대단한 자유네!
+마티스 : 들어 봐, 공연장 동료들한테 물어볼게. 협력사용으로 빼 둔 자리가 있을지도 몰라.
+클로에 : 그렇게 해 줄 거야? 진짜로? 십오 분 동안 설교한 뒤에?
+마티스 : 네가 힘들 땐 설교는 접어 둬. 하지만 미리 말하는데, 약속은 못 해.
+클로에 : 예술의 가치에 관한 거창한 연설보다는 그게 낫네.
+마티스 : 그래도 이 주제엔 할 말이 많아. 재판매에서는 아티스트가 한 푼도 못 받는 거 알아?
+클로에 : 당연히 짐작하지. 가격은 치솟는데 돈은 보이지 않는 주머니로 들어가.
+마티스 : 그렇지. 그 사이 너 같은 팬들은 자기 열정의 인질이 돼.
+클로에 : 비싸게 드는 열정이긴 하지만 늘 그래 왔잖아? 우리 부모님도 밤새 줄 서서 표를 샀어.
+마티스 : 맞아, 하지만 줄 서기는 돈이 아니라 시간이 드는 거였지. 원칙적으로 시간이 돈보다 더 공평하게 나뉘어 있어.
+클로에 : 꼭 그렇진 않아. 학생은 줄 설 수 있지만 바쁜 직장인은 못 서.
+마티스 : 내 논거를 뒤집는 솜씨가 날 무장해제시키네.
+클로에 : 집안 내력이야. 아빠도 크리스마스 식사 때마다 그러잖아.
+마티스 : 크리스마스 얘기는 하지 말자, 굴 논쟁이 아직 기억에 생생해.
+클로에 : 내가 실수했네! 네 말이 맞아, 주제로 돌아가자.
+마티스 : 요점은 시장을 깨지 않으면서 팬을 보호하는 규제가 필요하다는 거야.
+클로에 : 가격 상한제? 언젠가 도입은 하겠지만 국가적 스캔들이 되기 전에는 안 할 거야.
+마티스 : 이미 거의 스캔들이야. 개그 공연 표가 오백 유로인 걸 본 적도 있어.
+클로에 : 그리고 사람들이 돈을 내, 그게 제일 미친 점이야. 불평하면서 내.
+마티스 : 십 분 전의 너처럼.
+클로에 : 아, 입 다물어. 내 지하철이 역에 도착해서 끊어야 해.
+마티스 : 문자 보내, 알아낸 걸 말해 줄게. 오늘 하루 힘내.
+(정오. 클로에가 사무실에서 마티스에게 메시지를 쓴다. 그는 회의 사이에 답한다.)
+클로에 : 어때? 동료들한테서 소식 있어? 오전 내내 콘서트 생각만 했어.
+마티스 : 선택지가 두 개 있어. 첫째, 동료 한 명이 못 쓰는 관람석 두 자리를 갖고 있어. 가격은 원래 요금.
+클로에 : 진짜?! 한 자리에 사십오 유로야?
+마티스 : 응, 사십오. 대신 재판매용이 아니라는 걸 확실히 하고 싶어 해.
+클로에 : 당연히 아니지! 나랑 내 가장 친한 친구가 갈 거라고 전해 줘.
+마티스 : 이미 말했어. 직접 만나서 표를 주고받자고만 해.
+클로에 : 문제없어. 오늘 저녁 여섯 시 이후에 시간 돼.
+마티스 : 전달할게. 동역 근처에 살아.
+클로에 : 좋아, 퇴근길에 들를 수 있어. 두 번째 선택지는?
+마티스 : 공식 플랫폼에 스탠딩 한 자리가 육십 유로로 방금 올라왔어.
+클로에 : 스탠딩 육십이면 사십오보다 비싸지만 아주 비싸지도 않네.
+마티스 : 둘 다 사도 돼, 하나는 너, 하나는 레아, 원하면.
+클로에 : 난 나란히 앉는 관람석이 좋아. 스탠딩에 혼자 가기 싫어.
+마티스 : 일리 있네. 그럼 관람석으로 한다고 말할까?
+클로에 : 응! 진짜 응이야. 어떻게 고마워해야 할지 모르겠어.
+마티스 : 일요일 점심 사 주면 돼, 그게 다야.
+클로에 : 알겠어, 대신 식당은 네가 고르고, 미리 말해 두는데 굴은 안 돼.
+마티스 : 좋아. 그리고 다음엔 우리 둘이 정각에 접속해서 표를 사자.
+클로에 : 컴퓨터 두 대면 가능성이 두 배야.
+마티스 : 커피 값도 두 배지만 그게 인생이지.
+(저녁. 클로에가 소파에서 마티스에게 메시지를 쓴다. 표는 탁자 위에 놓여 있다.)
+클로에 : 됐어! 표 두 장 받았어. 네 동료 정말 좋은 사람이야, 커피까지 사 줬어.
+마티스 : 내가 말했잖아, 친절하다고. 그런데 이름이 바스티앙이야.
+클로에 : 감사 쪽지랑 초콜릿 상자를 남겨 놨어.
+마티스 : 엄청 좋아할 거야. 먹보라서 늘 몸무게 투덜대거든.
+클로에 : 초콜릿은 동맹을 맺는 나의 은근한 즐거움이야.
+마티스 : 하하, 초콜릿 외교네!
+클로에 : 가장 효과적인 방법이야, 보장해.
+마티스 : 레아한테 전화해서 좋은 소식 알렸어?
+클로에 : 응, 너무 크게 소리쳐서 이웃이 벽을 두드렸대.
+마티스 : 벌써 축제가 시작됐네, 겨우 시월인데.
+클로에 : 십이월에는 훨씬 더 좋을 거야.
+마티스 : 지하철을 일찍 타야 해, 사람이 많을 거야.
+클로에 : 알아. 세 시간 전에 출발할 거야.
+마티스 : 세 시간 전이라고? 여덟 시 콘서트인데?
+클로에 : 관람석 첫째 줄에 앉으려고.
+마티스 : 첫째 줄에 지정석이 없다는 거 제대로 읽었어?
+클로에 : 있어, 관람석은 번호가 매겨져 있어. 확인했어.
+마티스 : 그럼 여덟 시 십오 분 전에 도착해도 되겠네.
+클로에 : 그럴 수도 있지만 분위기를 즐기려고 어쨌든 일찍 갈 거야.
+마티스 : 당연히 일찍 가겠지. 좋은 저녁 보내, 열렬한 팬님.

@@ -1,0 +1,301 @@
+# 1부 8화. Le propriétaire ne répond pas (답 없는 집주인)
+난이도: 주 C1 | 구간: C1→C1→C1→C1→B2→B2 | 형식: 전화+메시지 | 장소: 파리 18구 아파트 부엌 | 시간: 십이월 저녁 일곱 시
+등장인물: Camille, Théo, Répondeur, Mme Fabre
+이슈: 주 ○ 보일러 고장 수리 요청과 연락 두절 | 곡선: 0-0-1-1-1-0 (잔잔형, 상한 1) | 입장: A 카미유(세입자, 관계를 해치지 않으면서 수리를 받고 싶다) / B 테오(친구, 기록을 남기고 기한을 두는 확실한 방식을 권한다) / C 파브르 부인(집주인, 딸 사고로 해외에 있었고 연락이 끊겼다)
+상황 카드: 목표: 열하루째 보일러가 고장 난 집에서 카미유가 집주인에게 수리를 요청한다. 걸림돌: 전화는 음성사서함으로 넘어가고 문자는 읽히지 않는다. 해소: 등기우편을 보내기 전날 밤 집주인이 먼저 전화해 사정을 설명하고 배관공을 보내겠다고 한다. 구체적인 수리는 내일 지켜봐야 하는 열린 결말.
+학습 포인트: 전화·음성사서함 표현(Laissez-moi un message après le bip) · 공손하지만 분명한 문자 쓰기(Je vous serais reconnaissante de me répondre avant vendredi) · 격식과 구어 전환(Cordialement / Marché conclu) · 사과와 수습(Je suis navrée, c'est à moi de m'excuser)
+
+## 대화
+(Un appartement du dix-huitième arrondissement, un soir de décembre. Il fait frais. Camille, enveloppée dans un plaid, tient son téléphone. Son ami Théo est venu l'aider.)
+Théo : Quatorze degrés dans le salon. Je te jure que j'ai déjà eu plus chaud dans une cave à vin.
+Camille : Ne m'en parle pas. Ça fait onze jours que la chaudière est en panne et je dors avec deux pulls et une bouillotte.
+Théo : Onze jours ? Tu aurais pu m'en parler avant, je t'aurais prêté un radiateur d'appoint.
+Camille : Je pensais que ça se réglerait vite. Madame Fabre est d'habitude d'une réactivité exemplaire, ça fait trois ans qu'elle répond dans l'heure.
+Théo : Et là, rien ?
+Camille : Rien depuis le premier appel. Mon texto de lundi reste « envoyé », jamais « lu ».
+Théo : Alors c'est qu'elle a un souci, ou que son téléphone a rendu l'âme.
+Camille : C'est ce que je me dis pour ne pas m'énerver. Mais j'avoue que l'incertitude commence à peser autant que le froid.
+Théo : Tiens, bois ça. Une tisane au thym, c'est tout ce que j'ai trouvé dans ton placard.
+Camille : C'est la tisane de ma grand-mère, elle date sans doute d'avant ma naissance.
+Théo : Elle est excellente, rassure-toi. Disons qu'elle a vieilli en cave, comme un bon bordeaux.
+Camille : Ha ha, tu as réponse à tout. Bon, je tente un nouvel appel, c'est le quatrième depuis hier soir.
+Théo : Mets le haut-parleur, que je sois témoin de ton calme olympien.
+Camille : Je n'ai pas de calme olympien. J'ai un calme de façade, tu verras.
+Théo : Alors respire. Moi, je suis là en renfort.
+Camille : Voilà, ça sonne. Une sonnerie, deux, trois...
+Théo : Tu es sûre d'avoir le bon numéro ?
+Camille : C'est celui que j'ai dans mon bail, celui qu'elle m'a donné en main propre.
+Théo : Alors elle n'est pas joignable. Ou elle fait la sieste.
+Camille : À dix-neuf heures ? Elle ne fait pas la sieste à dix-neuf heures, Théo.
+(La messagerie se déclenche. On entend un bip, puis une voix enregistrée.)
+Répondeur : Bonjour, vous êtes bien sur la messagerie de Claudine Fabre. Je ne suis pas disponible pour le moment. Laissez-moi un message après le bip, et je vous rappellerai dès que possible.
+Camille : Bonsoir, madame Fabre, c'est Camille Lemaire, votre locataire du cinquième gauche. Je me permets de vous rappeler au sujet de la chaudière, qui est en panne depuis onze jours. Je sais que vous êtes peut-être occupée, mais pourriez-vous me rappeler dès que possible ? Il fait quatorze degrés dans l'appartement. Merci d'avance, et bonne soirée.
+Théo : Tu as été d'une courtoisie remarquable. Moi, j'aurais dit un mot plus vif au bout de onze jours.
+Camille : Je sais, mais je ne veux pas braquer quelqu'un qui m'a toujours bien traitée.
+Théo : Tu as peut-être raison. Tu as déjà essayé de rappeler le fixe ?
+Camille : Elle n'en a pas. Elle n'a qu'un portable, qu'elle oublie souvent de recharger.
+Théo : Ah. Et un voisin, un parent, quelqu'un qui pourrait lui transmettre le message ?
+Camille : Sa fille vit à Québec, je l'ai croisée une fois. Je n'ai pas son numéro.
+Théo : Et l'agence qui a fait le bail ?
+Camille : Il n'y en a pas, on s'est arrangées entre particuliers. Elle voulait éviter les frais d'agence.
+Théo : Ce qui est sympathique en temps normal, et très embêtant quand rien ne bouge.
+Camille : Tu l'as dit. Le bail me donne seulement son adresse, une adresse à Orléans, j'imagine pour le courrier.
+Théo : Donc tu peux lui écrire. Un courrier recommandé, avec accusé de réception, ça au moins, ça a une valeur.
+Camille : Je sais. Mais ça me paraît très solennel pour une chaudière qui ne marche plus.
+Théo : Solennel, peut-être. Efficace, sûrement. Tu connais l'expression : « les paroles s'envolent, les écrits restent ».
+Camille : Et les radiateurs restent froids. Ha ha.
+Théo : Tu vois, ton humour revient. Ça veut dire que tu n'es pas encore congelée.
+Camille : Pas tout à fait. Mais dans une heure, je ne réponds plus de rien.
+Théo : Alors on écrit d'abord un message, un vrai, pas un texto bâclé. On verra pour le recommandé demain.
+Camille : Marché conclu. Passe-moi mon téléphone, je dicte, tu corriges mon français.
+(Théo s'assoit à côté d'elle. Ils fixent l'écran vide.)
+Théo : Alors, comment on commence ? « Bonjour » ou « Chère madame » ?
+Camille : « Bonjour madame Fabre », sans en faire trop. Ensuite : « Je vous écris car la chaudière de l'appartement est hors service depuis le premier décembre. »
+Théo : Précise la date exacte, c'est important si jamais il y a un litige un jour.
+Camille : Tu as raison. Le premier décembre, donc. J'ajoute : « Malgré mes appels, je n'ai pas pu vous joindre. »
+Théo : Il manque l'idée que tu as besoin d'une réponse sous un délai précis. Sinon, elle peut très bien répondre dans un mois.
+Camille : Je n'ose pas fixer de délai à quelqu'un qui n'a peut-être pas son téléphone sous la main.
+Théo : Fixer un délai, ce n'est pas de l'agressivité. C'est de la clarté. « Je vous serais reconnaissante de me répondre avant vendredi. »
+Camille : Vendredi, c'est dans trois jours. Ça me semble raisonnable.
+Théo : Et ajoute que tu peux faire intervenir un plombier toi-même, si elle préfère. À condition qu'elle te rembourse.
+Camille : Je ne suis pas sûre d'être en droit de le faire sans son accord préalable.
+Théo : Dans la plupart des cas, pour une panne de chauffage en hiver, c'est justifié, mais vérifie auprès d'une association de locataires avant.
+Camille : Je ne veux pas affirmer des choses que je ne maîtrise pas. Je dirai plutôt : « Je suis prête à organiser moi-même l'intervention si cela vous convient. »
+Théo : Ça, c'est bien tourné. Poli, mais ça montre que tu n'es pas du genre à attendre indéfiniment.
+Camille : Voilà. Maintenant la fin : « Cordialement, Camille Lemaire. »
+Théo : Tu pourrais ajouter « Bien à vous », c'est plus chaleureux.
+Camille : « Cordialement », ça suffira. On ne se connaît pas depuis assez longtemps pour « Bien à vous ».
+Théo : Trois ans, ce n'est pas assez ? Moi, avec mon propriétaire, au bout de trois mois, je lui souhaitais une bonne année en lui envoyant des gâteaux.
+Camille : Tu es un cas particulier. Allez, j'envoie.
+Théo : Attends, relis une fois. Tu as écrit « je vous serrais reconnaissante » avec deux r.
+Camille : Ah oui ! Comme si je serrais les dents. Merci, j'ai l'air fine.
+(Deux jours plus tard. Camille et Théo sont de nouveau dans la même cuisine. Il fait encore plus froid. Le message est toujours « envoyé », jamais « lu ».)
+Camille : Toujours rien. Pas de réponse, pas de « vu », pas même une coche grise.
+Théo : Je commence à me demander si elle n'a pas changé de numéro sans te prévenir.
+Camille : Elle me l'aurait dit. Elle est très consciencieuse, d'habitude. Même pour les charges, elle m'envoie un récapitulatif détaillé tous les trimestres.
+Théo : Alors elle est peut-être malade. Tu as pensé à ça ?
+Camille : J'y ai pensé, et c'est ce qui me retient d'envoyer un recommandé. Je ne voudrais pas lui tomber dessus alors qu'elle est à l'hôpital.
+Théo : Je comprends, mais ça ne résout pas ton problème de chauffage. Tu ne peux pas être l'assistante sociale de ta propriétaire et la victime de sa panne en même temps.
+Camille : Ha, c'est bien dit. Je suis tiraillée, voilà tout.
+Théo : Et si on cherchait d'abord à la joindre autrement ? Tu as son nom complet, Claudine Fabre. On peut regarder si elle a un compte quelque part.
+Camille : Je n'aime pas trop fouiller dans la vie privée des gens.
+Théo : Fouiller, non. Mais un message public sur un réseau, ça ne fait de mal à personne. Une page de quartier, une association de propriétaires...
+Camille : Ça me semble disproportionné. Je ne vais pas lancer un avis de recherche pour une chaudière.
+Théo : D'accord, d'accord. Alors la solution raisonnable : le recommandé, mais rédigé avec tact, en précisant que tu t'inquiètes pour elle.
+Camille : Ça, je peux faire. « Je m'inquiète de ne pas avoir de nouvelles. »
+Théo : Voilà. Tu es sincère, et tu rappelles ton problème. C'est exactement l'équilibre.
+Camille : Je passe à la poste demain matin. Ça coûte combien, un recommandé ?
+Théo : Autour de cinq euros, je crois. Plus que le prix d'un café, moins que celui d'une nuit à l'hôtel.
+Camille : Ha ha, ne me tente pas. L'hôtel, je l'ai envisagé deux fois cette semaine.
+Théo : Et ma proposition tient toujours. Mon canapé est à toi, avec radiateur d'appoint inclus.
+Camille : C'est gentil. Mais j'ai peur que si je pars, la panne se transforme en inondation et qu'elle m'accuse ensuite.
+Théo : Tu as une imagination fertile, toi. Bon, ce soir, tu viens manger chez moi, et demain, la poste.
+(Le téléphone de Camille vibre sur la table. Un numéro inconnu s'affiche.)
+Camille : Allô ? Oui, c'est elle... Madame Fabre ? Mon Dieu, c'est vous !
+Mme Fabre : Ma chère Camille, pardon, pardon mille fois. Je viens à peine de récupérer mes messages.
+Camille : Mais où étiez-vous ? Je m'inquiétais énormément.
+Mme Fabre : Chez ma fille à Québec depuis trois semaines. Elle a eu un petit accident, je suis partie en urgence.
+Camille : Oh non. Elle va mieux, j'espère ?
+Mme Fabre : Oui, oui, elle se remet bien. Mais dans l'affolement, j'ai oublié mon chargeur, et mon téléphone s'est éteint avant que j'atterrisse.
+Camille : Je comprends mieux. Je pensais que c'était votre téléphone, justement.
+Mme Fabre : Je viens d'en acheter un nouveau ici, et je vois cinq messages de vous. Je suis navrée, vraiment.
+Camille : Ne soyez pas navrée, c'est la vie. Mais pour la chaudière, je dois avouer que ça commence à devenir difficile à vivre.
+Mme Fabre : Treize jours, Camille, c'est inadmissible. Vous auriez dû m'écrire à l'adresse de ma fille, je vous l'avais donnée dans la boîte aux lettres, à Noël dernier.
+Camille : Je ne m'en souvenais plus. Je suis désolée.
+Mme Fabre : Non, c'est à moi de m'excuser. Je suis la propriétaire, c'est mon rôle de veiller à ce que vous ayez chaud.
+Camille : Merci de le dire comme ça. Je n'osais pas vous presser, vu les circonstances.
+Mme Fabre : Vous avez bien fait de ne pas paniquer. Voilà ce que je propose : j'appelle mon plombier, monsieur Benoît, tout de suite, et je lui demande de passer demain.
+Camille : Ce serait formidable. Il a déjà les clés ?
+Mme Fabre : Non, mais vous pouvez le laisser entrer ? Je lui donne votre numéro.
+Camille : Bien sûr. Je travaille à distance jeudi et vendredi, je serai là.
+Mme Fabre : Parfait. Et pour vous dédommager, je vous retire cinquante euros sur le prochain loyer.
+Camille : Ce n'est pas nécessaire, madame Fabre.
+Mme Fabre : Si, si, j'insiste. C'est ma façon de m'excuser. Gardez-les pour vos chauffages d'appoint.
+Camille : C'est très généreux, merci. Alors à demain, le plombier ?
+Mme Fabre : Oui, entre huit heures et midi, je pense. Je lui dis de vous prévenir une demi-heure avant.
+Camille : Parfait. Et vous, vous rentrez quand à Paris ?
+Mme Fabre : Le mois prochain, si tout va bien. Je serai de retour pour le Nouvel An, avec les cadeaux de Québec.
+Camille : Alors on se retrouvera avec du sirop d'érable. Ça me réchauffe déjà.
+Mme Fabre : Ha ha, c'est promis. Allez, je vous laisse, il est tard chez vous. Bonne nuit, ma petite Camille.
+Camille : Bonne nuit, madame Fabre. Et encore merci d'avoir rappelé.
+(Camille raccroche. Théo applaudit doucement.)
+Théo : Bravo, tu as été parfaite. Pas un mot de travers, pas un reproche, et pourtant tu as obtenu ce que tu voulais.
+Camille : Je n'ai rien obtenu. Un plombier demain, peut-être, si tout se passe bien.
+Théo : Peut-être, mais avec cinquante euros en plus. Beaucoup auraient crié, toi tu as fait de la diplomatie.
+Camille : Ça valait la peine d'attendre. Je me sens même un peu bête d'avoir douté d'elle.
+Théo : Ne te sens pas bête. Un silence de douze jours, ça inquiète n'importe qui.
+Camille : Tu as raison. Mais je ne ferai plus attendre personne sans nouvelles, c'est une leçon.
+Théo : Au fait, tu annules le recommandé ?
+Camille : Je le garde sous le coude, au cas où. Mais avec un peu de chance, je n'en aurai pas besoin.
+Théo : Très sage. Bon, qu'est-ce qu'on mange ? J'ai faim, moi, après tant d'émotions.
+Camille : Il me reste des pâtes, du fromage râpé et la tisane de ma grand-mère.
+Théo : Menu gastronomique ! Je prends tout.
+Camille : Tu peux commencer par mettre la casserole, moi, je cherche un deuxième plaid.
+Théo : Compris. Et si le plombier vient demain, on fêtera ça avec un vrai chocolat chaud.
+
+## 낭독 포인트
+- 비음 모음: «Bonsoir», «énormément», «quatorze degrés», «en temps normal» — on, en, an은 코로 울리는 모음이고 n은 따로 소리 내지 않는다.
+- 연음·앙샹느망: «vous êtes», «en urgence», «nouvel appel» — 끝 자음이 다음 모음 앞에서 이어진다.
+- 프랑스어 r: «recommandé», «rappeler», «chaudière» — 목젖 근처에서 내는 마찰음.
+- u / ou: «sûrement», «plus» vs «vous», «tout» — u는 입술을 모아 [y], ou는 [u].
+- 숫자: «quatorze degrés», «onze jours», «cinquante euros», «dix-neuf heures» — 숫자와 단위를 한 호흡으로.
+- 호칭·억양: 카미유와 파브르 부인은 vous를 쓰고, 카미유와 테오는 tu를 쓴다. 음성사서함 안내는 평평하고 기계적으로, 카미유가 남기는 메시지는 공손하고 또박또박. 파브르 부인의 목소리는 미안함이 묻어 있어 조금 빠르고 떨리게.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 상황 설명과 첫 시도
+  · 완곡한 불만: «Mais j'avoue que l'incertitude commence à peser autant que le froid.»
+  · 농담과 비유: «Disons qu'elle a vieilli en cave, comme un bon bordeaux.»
+- C1 구간(21~40턴): 음성사서함과 대안 찾기
+  · 메시지 남기기: «Je me permets de vous rappeler au sujet de la chaudière.»
+  · 서면의 가치: «Les paroles s'envolent, les écrits restent.»
+- C1 구간(41~60턴): 문자 작성
+  · 정중하지만 기한을 둔다: «Je vous serais reconnaissante de me répondre avant vendredi.»
+  · 맺음말: «Cordialement» vs «Bien à vous»
+- C1 구간(61~80턴): 걱정과 선택
+  · 갈등하는 마음: «Je suis tiraillée.», «Je ne voudrais pas lui tomber dessus alors qu'elle est à l'hôpital.»
+  · 균형 잡기: «Rédigé avec tact, en précisant que tu t'inquiètes pour elle.»
+- B2 구간(81~100턴): 집주인의 사과
+  · 설명과 사과: «Je suis navrée, vraiment.», «C'est à moi de m'excuser.»
+  · 제안: «Voilà ce que je propose : j'appelle mon plombier, et je lui demande de passer demain.»
+- B2 구간(101~120턴): 통화 마무리
+  · 약속과 안부: «Je lui dis de vous prévenir une demi-heure avant.»
+  · 열린 결말: «Un plombier demain, peut-être, si tout se passe bien.»
+- 어휘: la chaudière, le radiateur d'appoint, le plaid, le bail, le recommandé avec accusé de réception, la messagerie, le plombier, dédommager.
+
+## 속어 노트
+- «rendre l'âme»: 숨을 거두다. 기계가 완전히 고장 났다는 농담조로도 쓴다.
+- «calme olympien»: 올림포스 신처럼 흔들리지 않는 침착함.
+- «braquer»: 상대를 화나게 하거나 완고하게 만들다.
+- «bâclé»: 대충 한, 날림의.
+- «sous le coude»: 필요할 때 쓰려고 따로 챙겨 둔.
+- «Marché conclu.»: 그럼 그렇게 합시다.
+- 이 이야기의 수리 기한, 보상금 오십 유로, 등기우편 비용, 세입자가 직접 수리를 맡길 권리는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 카미유와 파브르 부인은 vous, 카미유와 테오는 tu를 쓴다.
+
+## 한글 해석
+(파리 18구 아파트, 십이월 저녁. 쌀쌀하다. 카미유가 담요를 두르고 휴대폰을 쥐고 있다. 친구 테오가 도우러 왔다.)
+테오 : 거실이 십사 도야. 와인 저장고에서도 이보다는 따뜻했던 것 같아.
+카미유 : 말도 마. 보일러 고장 난 지 열하루째라 스웨터 두 벌에 핫팩 껴안고 자.
+테오 : 열하루? 진작 말하지, 보조 난방기 빌려줬을 텐데.
+카미유 : 금방 해결될 줄 알았어. 파브르 부인은 평소에 대응이 모범적이라 삼 년째 한 시간 안에 답하셨거든.
+테오 : 그런데 지금은 아무것도 없어?
+카미유 : 첫 전화 이후로 아무것도 없어. 월요일에 보낸 문자는 계속 '전송됨'이고 '읽음'이 안 돼.
+테오 : 그럼 무슨 사정이 있거나 전화가 완전히 죽었겠네.
+카미유 : 화나지 않으려고 그렇게 생각하고 있어. 하지만 솔직히 불확실함이 추위만큼 무겁게 눌러.
+테오 : 자, 이거 마셔. 백리향 차야, 네 찬장에서 찾은 건 이게 전부였어.
+카미유 : 우리 할머니 차야, 아마 내가 태어나기 전 거일걸.
+테오 : 맛있어, 걱정 마. 좋은 보르도처럼 지하 창고에서 숙성됐다고 치자.
+카미유 : 하하, 너는 모든 말에 대답이 있네. 좋아, 다시 걸어 볼게, 어젯밤부터 네 번째야.
+테오 : 스피커폰 켜, 네 올림포스 같은 침착함의 증인이 되게.
+카미유 : 올림포스 같은 침착함 없어. 겉으로만 차분한 거야, 두고 봐.
+테오 : 그럼 숨 쉬어. 나는 지원군으로 여기 있잖아.
+카미유 : 자, 울리네. 한 번, 두 번, 세 번...
+테오 : 번호 맞는 거 확실해?
+카미유 : 계약서에 있는 번호야, 부인이 직접 손으로 주신 거.
+테오 : 그럼 연결이 안 되는 거네. 아니면 낮잠 주무시거나.
+카미유 : 저녁 일곱 시에? 파브르 부인은 저녁 일곱 시에 낮잠 안 주무셔, 테오.
+(음성사서함이 작동한다. 신호음이 나고 녹음된 목소리가 들린다.)
+자동응답 : 안녕하세요, 클로딘 파브르의 음성사서함입니다. 지금은 통화할 수 없습니다. 신호음 뒤에 메시지를 남겨 주시면 가능한 한 빨리 연락드리겠습니다.
+카미유 : 안녕하세요, 파브르 부인, 육 층 왼쪽 세입자 카미유 르메르입니다. 보일러 때문에 다시 연락드립니다, 열하루째 고장 상태예요. 바쁘실 수 있다는 건 알지만 가능한 한 빨리 연락해 주실 수 있을까요? 집 안이 십사 도입니다. 미리 감사드리고 좋은 저녁 보내세요.
+테오 : 놀라울 만큼 예의 바르게 했네. 나라면 열하루가 지났으니 말을 좀 더 세게 했을 거야.
+카미유 : 알아, 하지만 나한테 늘 잘해 주신 분을 몰아붙이고 싶진 않아.
+테오 : 네 말이 맞을 수도 있어. 유선 전화로 걸어 본 적은 있어?
+카미유 : 없어. 휴대폰만 있는데 충전하는 걸 자주 잊으셔.
+테오 : 아. 이웃이나 친척 중에 메시지를 전해 줄 사람은 없어?
+카미유 : 따님이 퀘벡에 사셔, 한 번 마주친 적 있는데 번호를 몰라.
+테오 : 계약을 한 중개소는?
+카미유 : 없어, 개인끼리 했어. 부인이 중개 수수료를 피하고 싶어 하셨거든.
+테오 : 평소엔 고마운 일이지만 아무것도 안 움직일 땐 아주 골치 아프네.
+카미유 : 네 말이 맞아. 계약서에는 오를레앙 주소밖에 없어, 우편물용인 것 같아.
+테오 : 그럼 편지를 쓸 수 있잖아. 수신 확인되는 등기우편이면 적어도 효력은 있어.
+카미유 : 알아. 하지만 보일러가 안 되는 일에 너무 엄숙해 보여.
+테오 : 엄숙할 수는 있어도 효과는 확실해. 말은 날아가도 글은 남는다잖아.
+카미유 : 라디에이터는 그대로 차갑고. 하하.
+테오 : 봐, 유머가 돌아왔어. 아직 꽁꽁 얼진 않았다는 뜻이야.
+카미유 : 딱히 그런 건 아니야. 한 시간 뒤엔 책임 못 져.
+테오 : 그럼 먼저 대충 쓴 문자 말고 제대로 된 메시지를 쓰자. 등기는 내일 보고.
+카미유 : 좋아, 그렇게 하자. 내 휴대폰 줘, 내가 불러 줄 테니 프랑스어는 네가 고쳐 줘.
+(테오가 옆에 앉는다. 둘은 빈 화면을 바라본다.)
+테오 : 그럼 어떻게 시작해? '안녕하세요'야, '존경하는 부인께'야?
+카미유 : '안녕하세요, 파브르 부인'. 과하지 않게. 그다음엔 '아파트 보일러가 십이월 일일부터 작동하지 않아 편지드립니다'.
+테오 : 정확한 날짜를 써 둬, 나중에 분쟁이 생기면 중요해.
+카미유 : 맞아. 그럼 십이월 일일로 하고. 그리고 '여러 번 전화드렸지만 연락이 닿지 않았습니다'를 덧붙일게.
+테오 : 정해진 기한 안에 답이 필요하다는 말이 빠졌어. 안 그러면 한 달 뒤에 답할 수도 있어.
+카미유 : 전화기가 손에 없을지도 모를 사람에게 기한을 정하긴 망설여져.
+테오 : 기한을 정하는 건 공격적인 게 아니라 분명한 거야. '금요일 전에 답해 주시면 감사하겠습니다.'
+카미유 : 금요일은 사흘 뒤네. 합리적인 것 같아.
+테오 : 그리고 부인이 원하면 네가 직접 배관공을 부를 수 있다고 덧붙여. 비용을 돌려받는다는 조건으로.
+카미유 : 사전 동의 없이 그럴 권리가 있는지 확실하지 않아.
+테오 : 대부분 겨울에 난방이 고장 나면 정당하지만 먼저 세입자 단체에 확인해 봐.
+카미유 : 내가 모르는 걸 단정하고 싶진 않아. 대신 이렇게 쓸게. '괜찮으시다면 제가 직접 수리를 진행할 준비가 되어 있습니다.'
+테오 : 그건 잘 썼다. 정중하면서도 한없이 기다릴 사람은 아니라는 걸 보여 줘.
+카미유 : 그래. 이제 마무리: '삼가 올립니다, 카미유 르메르.'
+테오 : '안부를 전하며'를 덧붙일 수도 있어, 더 따뜻하잖아.
+카미유 : '삼가 올립니다'면 충분해. 그 정도 인사를 쓸 만큼 오래 알진 못했어.
+테오 : 삼 년이 부족해? 나는 집주인에게 석 달 만에 새해 인사에 과자까지 보냈어.
+카미유 : 너는 특별한 경우야. 자, 보낼게.
+테오 : 잠깐, 한 번 더 읽어 봐. '감사하겠습니다'가 'r' 두 개로 '이를 악문다'가 됐어.
+카미유 : 아 맞네! 이를 악물듯이 썼네. 고마워, 나 참 한심하다.
+(이틀 뒤. 카미유와 테오가 같은 부엌에 다시 있다. 더 춥다. 메시지는 여전히 '전송됨'이고 '읽음'이 아니다.)
+카미유 : 여전히 아무것도 없어. 답도 없고 '읽음'도 없고 회색 체크 표시도 없어.
+테오 : 부인이 너한테 말도 없이 번호를 바꾼 건 아닐까 싶기 시작했어.
+카미유 : 말씀하셨을 거야. 평소엔 아주 성실하셔. 관리비도 분기마다 자세한 내역서를 보내 주시는걸.
+테오 : 그럼 편찮으신 걸지도 몰라. 그 생각은 해 봤어?
+카미유 : 해 봤고, 그래서 등기를 못 보내고 있어. 병원에 계신데 들이닥치고 싶진 않아.
+테오 : 이해해, 하지만 그게 네 난방 문제를 해결해 주진 않아. 집주인의 사회복지사이면서 동시에 그 고장의 피해자일 순 없어.
+카미유 : 하, 맞는 말이야. 나는 그냥 갈팡질팡하는 거야.
+테오 : 먼저 다른 방법으로 연락해 보면 어때? 이름 전체가 클로딘 파브르잖아. 어디 계정이 있나 볼 수 있어.
+카미유 : 남의 사생활을 뒤지는 건 별로야.
+테오 : 뒤지는 건 아니고, 동네 게시판이나 집주인 모임 같은 데 공개 글을 올리면 누구에게도 해가 안 돼.
+카미유 : 지나쳐 보여. 보일러 하나 때문에 실종 공고를 낼 순 없어.
+테오 : 알았어, 알았어. 그럼 합리적인 해결책은 등기우편인데, 부인을 걱정한다고 덧붙여서 배려 있게 쓰는 거야.
+카미유 : 그건 할 수 있어. '소식이 없어 걱정됩니다.'
+테오 : 맞아. 진심을 담으면서 네 문제도 상기시키는 거야. 딱 균형이야.
+카미유 : 내일 아침 우체국에 갈게. 등기는 얼마야?
+테오 : 오 유로쯤일걸. 커피값보다 비싸고 호텔 하룻밤보다는 싸지.
+카미유 : 하하, 유혹하지 마. 이번 주에 호텔은 두 번이나 생각했어.
+테오 : 내 제안은 아직 유효해. 소파는 네 거야, 보조 난방기 포함해서.
+카미유 : 고마워. 하지만 내가 떠난 사이에 고장이 침수로 번지고 나중에 부인이 나를 탓할까 봐 걱정돼.
+테오 : 상상력이 풍부하네. 자, 오늘 밤은 우리 집에서 먹고 내일은 우체국이야.
+(카미유의 휴대폰이 탁자 위에서 진동한다. 모르는 번호가 뜬다.)
+카미유 : 여보세요? 네, 접니다... 파브르 부인? 세상에, 부인이세요!
+파브르 부인 : 카미유, 미안해요, 정말 천 번 미안해요. 이제야 겨우 메시지를 확인했어요.
+카미유 : 그런데 어디 계셨어요? 정말 많이 걱정했어요.
+파브르 부인 : 퀘벡의 딸 집에 삼 주째 있어요. 딸이 작은 사고를 당해서 급하게 떠났어요.
+카미유 : 어머, 따님은 나아지셨나요?
+파브르 부인 : 네, 네, 잘 회복하고 있어요. 하지만 허둥대다가 충전기를 두고 와서 착륙하기 전에 전화가 꺼졌어요.
+카미유 : 이제 이해돼요. 전화 때문일 거라고 생각했어요.
+파브르 부인 : 여기서 새로 샀는데 카미유가 보낸 메시지가 다섯 통이나 있네요. 정말 죄송해요.
+카미유 : 죄송해하지 마세요, 그런 일도 있죠. 다만 보일러는 솔직히 살기 힘들어지고 있었어요.
+파브르 부인 : 열사흘이에요, 카미유, 말도 안 돼요. 우리 딸 주소로 편지를 보냈어야 했는데, 지난 크리스마스에 우편함에 넣어 드렸잖아요.
+카미유 : 기억이 안 났어요. 죄송해요.
+파브르 부인 : 아니에요, 사과는 내가 해야죠. 집주인으로서 따뜻하게 지내시게 하는 게 내 역할이에요.
+카미유 : 그렇게 말씀해 주셔서 감사해요. 사정을 아니 재촉할 수가 없었어요.
+파브르 부인 : 당황하지 않아서 잘했어요. 이렇게 할게요. 배관공 브누아 씨에게 지금 바로 전화해서 내일 들르라고 할게요.
+카미유 : 그러면 정말 좋겠어요. 열쇠는 이미 갖고 계신가요?
+파브르 부인 : 아니요, 그래도 들어오게 해 줄 수 있죠? 번호를 알려 줄게요.
+카미유 : 물론이죠. 목요일, 금요일엔 재택근무라 집에 있어요.
+파브르 부인 : 좋아요. 그리고 보상으로 다음 월세에서 오십 유로를 빼 줄게요.
+카미유 : 그러실 필요 없어요, 파브르 부인.
+파브르 부인 : 아니에요, 꼭 그렇게 할게요. 내 사과의 방식이에요. 보조 난방기에 쓰세요.
+카미유 : 정말 후하시네요, 감사해요. 그럼 내일 배관공이 오는 거죠?
+파브르 부인 : 네, 여덟 시에서 정오 사이일 거예요. 삼십 분 전에 연락하라고 할게요.
+카미유 : 좋아요. 부인은 언제 파리로 돌아오세요?
+파브르 부인 : 다음 달에요, 다 잘되면. 새해에는 돌아가서 퀘벡 선물도 가져갈게요.
+카미유 : 그럼 메이플 시럽을 같이 먹겠네요. 벌써 몸이 따뜻해져요.
+파브르 부인 : 하하, 약속해요. 자, 끊을게요, 거긴 늦었죠. 잘 자요, 우리 카미유.
+카미유 : 안녕히 주무세요, 파브르 부인. 다시 연락해 주셔서 정말 감사해요.
+(카미유가 전화를 끊는다. 테오가 조용히 박수를 친다.)
+테오 : 브라보, 완벽했어. 한 마디도 엇나가지 않고 책망도 없이 원하는 걸 얻었네.
+카미유 : 얻은 거 없어. 내일 배관공이 올 수도 있다는 거지, 잘되면.
+테오 : 그렇긴 한데 오십 유로까지 얹었잖아. 많은 사람이 소리쳤을 텐데 너는 외교를 했어.
+카미유 : 기다린 보람이 있었어. 부인을 의심했던 게 좀 바보 같기도 해.
+테오 : 바보 같다고 생각하지 마. 열이틀 동안 소식이 없으면 누구라도 걱정해.
+카미유 : 맞아. 하지만 앞으로는 누구도 소식 없이 기다리게 하지 않을 거야, 교훈이지.
+테오 : 그런데 등기는 취소할 거야?
+카미유 : 혹시 몰라 챙겨 둘 거야. 운이 좋으면 필요 없겠지만.
+테오 : 아주 현명해. 자, 뭐 먹을까? 이렇게 마음 졸였더니 배고프다.
+카미유 : 파스타랑 간 치즈랑 할머니 차가 남았어.
+테오 : 미식 코스네! 다 먹을래.
+카미유 : 먼저 냄비에 물 올려 줘, 나는 담요 하나 더 찾아볼게.
+테오 : 알겠어. 내일 배관공이 오면 진짜 핫초콜릿으로 축하하자.

@@ -1,0 +1,288 @@
+# 4부 13화. Il manque un justificatif (증빙이 하나 빠졌어요)
+난이도: 주 B1 | 구간: A2→B2→B1→B1→B1→B1 | 형식: 2인 | 장소: 파리 15구 구청 여권 창구 | 시간: 목요일 오전 9시 40분
+등장인물: Océane, Gérard
+이슈: 주 ● 서류 한 장 부족으로 접수 불가, 곧 다가온 출국일 | 곡선: 3-3-2-1-1-0 (초반충격형, 상한 3) | 입장: A 제라르(예약을 두 달 전에 잡았고 삼 주 뒤 몬트리올행 비행기가 있어 접수를 해 달라고 한다) / B 오세안(창구 직원, 규정상 출생증명서 없이는 접수할 수 없지만 해결책을 찾아 주고 싶다)
+상황 카드: 만료된 여권을 갱신하러 온 예순여덟 살 제라르는 출생증명서가 없다는 이유로 접수를 거절당하고 화를 낸다. 오세안은 규정을 설명하는 한편 브레스트 시청과의 온라인 확인을 시도한다. 확인은 되지 않지만 딸이 온라인으로 신청하고 다음 주 목요일에 다시 오는 방법을 마련해 준다. 여권이 비행기 전에 나올지는 빠듯한 열린 결말이다.
+학습 포인트: 서류가 부족하다고 말하기(Il manque un justificatif) · 화내기와 가라앉히기(Je suis désolée / Excusez-moi pour tout à l'heure) · 의무 표현(Il faut que vous apportiez) · 해결 방법 제안(Votre fille peut demander l'acte en ligne) · 약속 정하기(Jeudi prochain, à neuf heures)
+
+## 대화
+(목요일 오전 9시 40분. 15구 구청의 여권 창구. 예순여덟 살 제라르 르페브르가 두꺼운 서류철을 계산대에 올려놓는다. 예약은 9시 30분이었으니 십 분 늦었다.)
+Océane : Bonjour, monsieur. Vous avez un rendez-vous ?
+Gérard : Oui, à neuf heures trente. Excusez-moi, le bus était en retard.
+Océane : Ce n'est pas grave. Votre nom ?
+Gérard : Lefebvre. Gérard Lefebvre. C'est pour un passeport.
+Océane : Un instant. Oui, je vous trouve. Vous avez tous vos papiers ?
+Gérard : Oui, tout est là. La photo, l'ancien passeport, ma carte d'identité.
+Océane : Très bien. Je regarde. Un moment, s'il vous plaît.
+Gérard : Prenez votre temps.
+Océane : Votre justificatif de domicile, c'est bon. Votre photo, c'est bon.
+Gérard : Alors, on peut commencer ?
+Océane : Monsieur... Il manque un justificatif.
+Gérard : Comment ça, il manque un justificatif ? J'ai tout apporté !
+Océane : Il manque l'acte de naissance.
+Gérard : Mais j'ai mon ancien passeport ! Il était valable jusqu'au mois dernier.
+Océane : Je sais. Mais votre passeport est expiré. Il faut un acte de naissance récent.
+Gérard : Récent ? Je suis né il y a soixante-huit ans, ça ne change pas !
+Océane : Je comprends. Mais c'est la règle.
+Gérard : C'est ridicule ! J'ai pris deux bus pour venir !
+Océane : Je suis désolée, monsieur.
+Gérard : Vous êtes désolée... Et moi, qu'est-ce que je fais ?
+Océane : Il faut que vous apportiez un acte de naissance de moins de trois mois, avec filiation complète. Vous pouvez le demander en ligne à la mairie de votre ville de naissance.
+Gérard : En ligne ? Vous savez, à mon âge, je n'ai pas d'ordinateur. Ma fille m'aide, mais elle est à Montréal.
+Océane : Je comprends. Vous pouvez aussi écrire à la mairie, ou y aller.
+Gérard : Y aller ? Je suis né à Brest ! C'est à six cents kilomètres !
+Océane : Alors écrire. Ça prend quelques jours, en général.
+Gérard : Quelques jours ? J'ai pris ce rendez-vous il y a deux mois ! Et le vol pour Montréal est dans trois semaines !
+Océane : Je comprends que ce soit angoissant. Mais je ne peux pas traiter le dossier sans ce document.
+Gérard : Vous le pouvez, mais vous ne voulez pas. Vous avez devant vous mon ancien passeport, vous voyez bien que je suis moi.
+Océane : Je vous crois, monsieur. Ce n'est pas une question de confiance, c'est une question de procédure.
+Gérard : La procédure ! Toujours la procédure ! Mon père est mort en pensant que les papiers valent plus que les gens.
+Océane : Je suis désolée pour votre père. Mais je dois appliquer ce que dit le règlement, même si je ne l'ai pas écrit.
+Gérard : Qui l'a écrit, alors ? Je veux lui parler.
+Océane : Le ministère. Je ne peux pas vous mettre en contact. Mais je peux vous aider à trouver une solution.
+Gérard : Une solution ? Après m'avoir dit non ?
+Océane : Je vous ai dit non à l'enregistrement du dossier aujourd'hui, pas non à votre passeport.
+Gérard : C'est la même chose pour moi.
+Océane : Pas tout à fait. Si vous voulez bien vous asseoir un instant, je regarde ce qui est possible.
+Gérard : Je préfère rester debout.
+Océane : Comme vous voulez. Mais je vais vérifier.
+Gérard : Faites.
+(Océane tape sur son clavier pendant presque une minute. Gérard regarde le plafond.)
+Océane : Monsieur Lefebvre, vous êtes né à Brest, c'est bien ça ?
+Gérard : Oui, en mille neuf cent cinquante-huit.
+Océane : Il y a peut-être une possibilité. Certaines mairies sont connectées à notre système. On peut demander la vérification en ligne.
+Gérard : Et Brest, elle est connectée ?
+Océane : Je vais regarder. Cela prend quelques minutes.
+Gérard : D'accord. Excusez-moi pour tout à l'heure, je me suis énervé.
+Océane : Ce n'est rien. Vous n'êtes pas le premier, et vous ne serez pas le dernier.
+Gérard : C'est que j'ai peur de rater mon vol. Ma petite-fille va avoir cinq ans, et je ne l'ai jamais vue en vrai.
+Océane : Ah. Je comprends mieux, maintenant.
+Gérard : J'ai juste vu des photos, et des vidéos. Elle m'appelle « Papi Gérard » à l'écran.
+Océane : C'est un beau motif de voyage.
+Gérard : Le plus beau. Alors, vous comprenez, le passeport, ce n'est pas une formalité pour moi.
+Océane : Non, je le vois bien. Je vais faire ce que je peux.
+Gérard : Merci. Je n'ai pas été très aimable.
+Océane : On a tous des jours comme ça. Ne vous excusez plus.
+Gérard : Entendu. Alors, cette vérification ?
+Océane : Je lance la demande. Si Brest répond, on gagne trois semaines.
+Gérard : Trois semaines ? Je pensais plutôt quelques jours.
+Océane : Pour un envoi postal, trois semaines. En ligne, ce serait immédiat, mais seulement si la mairie est connectée.
+Gérard : Alors croisons les doigts.
+(Un message s'affiche à l'écran. Océane fronce les sourcils.)
+Océane : Hmm. Le serveur ne répond pas pour le moment. Je réessaie dans quelques minutes.
+Gérard : Ça arrive souvent ?
+Océane : Le jeudi matin, oui. Tout le monde essaie en même temps.
+Gérard : Comme à la poste, alors.
+Océane : Comme partout. En attendant, je peux vous donner une fiche qui explique la procédure pas à pas.
+Gérard : Je veux bien. Ma fille pourra m'aider avec ça.
+Océane : Elle est à Montréal, vous avez dit ?
+Gérard : Oui, depuis quinze ans. Elle y travaille comme architecte.
+Océane : C'est loin. Vous vous voyez souvent ?
+Gérard : Elle vient à Noël, une fois par an. Et moi, je ne suis jamais allé là-bas.
+Océane : Jamais ? Alors c'est un grand voyage pour vous.
+Gérard : Immense. J'ai peur de l'avion, en plus.
+Océane : Beaucoup de gens ont peur. Mais le vol est long, vous aurez le temps de vous habituer.
+Gérard : Huit heures, et un film. On m'a dit qu'il y a des films.
+Océane : Plusieurs, à choisir. Moi, je regarde toujours des comédies.
+Gérard : Moi, des westerns. Mais peut-être qu'en avion, je prendrai une comédie.
+Océane : Bonne idée. Ça détend.
+Gérard : Vous êtes gentille de bavarder avec moi.
+Océane : Il n'y a personne derrière vous. Et j'aime bien votre histoire.
+Gérard : Merci. Vous avez le sens de l'écoute.
+Océane : Je réessaie... Ah, voilà. Le serveur répond. Je lance la demande pour Brest.
+Gérard : Alors ?
+Océane : Un instant... Hmm. Brest n'est pas encore connectée. Je suis désolée.
+Gérard : Bon. Et alors, qu'est-ce qu'on fait ?
+Océane : Votre fille peut demander l'acte en ligne depuis Montréal. C'est gratuit, et ça arrive par courriel en quarante-huit heures.
+Gérard : En quarante-huit heures ? Vous êtes sûre ?
+Océane : En général, oui. Elle aura besoin de votre nom, de votre date de naissance et du nom de vos parents.
+Gérard : Je les connais par cœur. Même ma mère, Yvonne Le Gall.
+Océane : Parfait. Ensuite, elle vous l'envoie, vous l'imprimez, et vous revenez.
+Gérard : Imprimer ? Je n'ai pas d'imprimante.
+Océane : La bibliothèque municipale en a. Ou je peux vous l'imprimer ici, si elle l'envoie à cette adresse.
+Gérard : Vous feriez ça ?
+Océane : Oui, c'est un service que nous offrons. Je vous donne l'adresse du guichet.
+Gérard : Merci, madame. C'est très aimable.
+Océane : Pour le rendez-vous, je peux vous proposer jeudi prochain, à neuf heures.
+Gérard : Jeudi prochain ? Pas avant ?
+Océane : Mardi serait possible, mais l'acte de naissance risque de ne pas être arrivé.
+Gérard : Vous avez raison. Jeudi, alors. J'espère que cela suffira.
+Océane : Si tout est complet, votre passeport sera prêt dans dix à quinze jours.
+Gérard : Dix à quinze jours. Et mon vol est dans trois semaines.
+Océane : Ça fait juste. Mais c'est faisable.
+Gérard : Je croise les doigts.
+Océane : Moi aussi. Je note votre numéro de téléphone, au cas où.
+Gérard : Oh, un numéro fixe. Zéro un, quarante-cinq, douze, trente-quatre, cinquante-six.
+Océane : Zéro un, quarante-cinq, douze, trente-quatre, cinquante-six. C'est noté.
+Gérard : Dites, je peux vous demander un service ?
+Océane : Bien sûr.
+Gérard : Quand ma fille enverra l'acte, vous pourrez la prévenir, par courriel, que vous l'avez bien reçu ?
+Océane : Avec plaisir. Donnez-moi son adresse, je lui écrirai.
+Gérard : Elle s'appelle Hélène. Voici son adresse, je l'ai écrite sur ce papier.
+Océane : Parfait. Je lui dirai que son père est un monsieur très courageux.
+Gérard : Courageux, non. Têtu, plutôt.
+Océane : Les deux, sans doute.
+Gérard : Ha ! Vous avez raison. Ma fille dit pareil.
+Océane : Alors on se revoit jeudi prochain, à neuf heures. Ne vous inquiétez pas pour les bus.
+Gérard : Je partirai plus tôt. Je ne veux pas être en retard une seconde fois.
+Océane : Vous n'étiez pas en retard, aujourd'hui, juste dix minutes. Ça arrive.
+Gérard : Merci pour votre patience, madame Océane.
+Océane : Océane suffit. Bonne journée, monsieur Lefebvre.
+Gérard : Bonne journée à vous. Et merci d'avoir cherché une solution.
+
+## 낭독 포인트
+- 비음 모음: «passeport» 대신 «naissance», «justificatif», «filiation», «Montréal» — 여기서는 «naissance», «filiation complète», «Montréal»을 연습한다. on, an, in 계열은 코로 울리고 n은 따로 발음하지 않는다.
+- 연음·앙샹느망: «Il manque un justificatif», «un instant», «c'est un» — 이어 읽을 때 끝 자음이 다음 모음 쪽으로 넘어간다.
+- 프랑스어 r: «Brest», «règle», «procédure», «merci» — 목젖 근처에서 내는 마찰음. «Brest»는 -st까지 모두 발음한다.
+- 접속법: «Il faut que vous apportiez» — 접속법 apportiez는 [apɔʁtje]로, -iez를 한 음절로 끝낸다.
+- 억양: 제라르는 처음엔 높고 빠르게 화를 내다가 손녀 이야기에서 낮고 부드러워진다. 오세안은 한결같이 차분하고 천천히.
+- 호칭: 두 사람은 처음부터 끝까지 vous. 마지막 «Océane suffit»에서 호칭이 조금 가벼워진다.
+
+## 학습 포인트 정리
+- A2 구간(1~20턴): 접수 거절 듣기
+  · «Il manque un justificatif.», «Il manque l'acte de naissance.», «C'est la règle.»
+- B2 구간(21~40턴): 규정에 항의하기
+  · «Il faut que vous apportiez un acte de naissance de moins de trois mois», «Ce n'est pas une question de confiance, c'est une question de procédure.», «Je vous ai dit non à l'enregistrement du dossier, pas non à votre passeport.»
+- B1 구간(41~60턴): 사과와 사연 이야기
+  · «Excusez-moi pour tout à l'heure, je me suis énervé.», «J'ai peur de rater mon vol.», «Alors croisons les doigts.»
+- B1 구간(61~80턴): 기다리며 나누는 대화
+  · «Le serveur ne répond pas pour le moment.», «J'ai peur de l'avion, en plus.», «Vous avez le sens de l'écoute.»
+- B1 구간(81~100턴): 대안 제시와 일정 잡기
+  · «Votre fille peut demander l'acte en ligne depuis Montréal.», «Pour le rendez-vous, je peux vous proposer jeudi prochain.», «Si tout est complet, votre passeport sera prêt dans dix à quinze jours.»
+- B1 구간(101~120턴): 부탁과 마무리
+  · «Ça fait juste. Mais c'est faisable.», «Je peux vous demander un service ?», «Merci d'avoir cherché une solution.»
+- 어휘: l'acte de naissance, la filiation, le passeport, expiré, la mairie, en ligne, l'imprimante, la procédure, le règlement.
+
+## 속어 노트
+- «ça fait juste»: 빠듯하다, 시간이 간당간당하다.
+- «croiser les doigts»: 행운을 빌다, 잘되길 바라다.
+- «têtu»: 고집이 센. 칭찬과 농담 사이에 쓰인다.
+- «c'est ridicule»: 말도 안 돼, 터무니없네(감정이 격할 때).
+- «le sens de l'écoute»: 경청하는 능력, 잘 들어 주는 태도.
+- 필요 서류, 온라인 확인, 여권 발급 소요 기간은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 화가 난 장면에서도 두 사람은 vous를 유지한다.
+
+## 한글 해석
+(목요일 오전 9시 40분. 15구 구청의 여권 창구. 예순여덟 살 제라르 르페브르가 두꺼운 서류철을 계산대에 올려놓는다. 예약은 9시 30분이었으니 십 분 늦었다.)
+오세안 : 안녕하세요, 선생님. 예약하셨나요?
+제라르 : 네, 아홉 시 반에요. 죄송합니다, 버스가 늦었어요.
+오세안 : 괜찮아요. 성함이 어떻게 되세요?
+제라르 : 르페브르요. 제라르 르페브르. 여권 때문에 왔어요.
+오세안 : 잠시만요. 네, 찾았어요. 서류는 다 가져오셨어요?
+제라르 : 네, 다 있어요. 사진, 예전 여권, 신분증이요.
+오세안 : 좋아요. 확인해 볼게요. 잠시만 기다려 주세요.
+제라르 : 천천히 하세요.
+오세안 : 주소 증빙은 괜찮아요. 사진도 괜찮고요.
+제라르 : 그럼 시작할 수 있죠?
+오세안 : 선생님... 증빙이 하나 빠졌어요.
+제라르 : 증빙이 빠졌다니요? 다 가져왔는데요!
+오세안 : 출생증명서가 없어요.
+제라르 : 예전 여권이 있잖아요! 지난달까지 유효했어요.
+오세안 : 알아요. 그런데 여권이 만료됐으니 최근 출생증명서가 필요해요.
+제라르 : 최근이요? 나는 육십팔 년 전에 태어났어요. 그건 안 바뀌어요!
+오세안 : 이해해요. 그래도 규정이에요.
+제라르 : 말도 안 돼요! 여기 오려고 버스를 두 번 탔어요!
+오세안 : 죄송해요, 선생님.
+제라르 : 죄송하다고... 그럼 저는 뭘 해야 하죠?
+오세안 : 삼 개월 이내의 부모 정보가 포함된 출생증명서를 가져오셔야 해요. 출생지 시청에 온라인으로 신청하실 수 있어요.
+제라르 : 온라인이요? 이 나이에 컴퓨터도 없어요. 딸이 도와주는데 몬트리올에 있어요.
+오세안 : 이해해요. 시청에 편지를 쓰시거나 직접 가셔도 돼요.
+제라르 : 직접 가라고요? 저는 브레스트에서 태어났어요! 육백 킬로미터예요!
+오세안 : 그럼 편지를 쓰세요. 보통 며칠 걸려요.
+제라르 : 며칠이요? 이 예약을 두 달 전에 잡았어요! 몬트리올행 비행기는 삼 주 뒤고요!
+오세안 : 불안하신 건 이해해요. 하지만 그 서류 없이는 접수할 수 없어요.
+제라르 : 하실 수 있는데 안 하는 거예요. 눈앞에 예전 여권이 있잖아요, 제가 저라는 게 보이잖아요.
+오세안 : 믿습니다, 선생님. 신뢰의 문제가 아니라 절차의 문제예요.
+제라르 : 절차! 늘 절차! 아버지는 서류가 사람보다 중요하다고 생각하며 돌아가셨어요.
+오세안 : 아버님 일은 안타까워요. 하지만 제가 쓰지 않았더라도 규정이 말하는 대로 적용해야 해요.
+제라르 : 그럼 누가 썼어요? 그 사람과 얘기하고 싶어요.
+오세안 : 부처예요. 연결해 드릴 수는 없지만 해결책을 찾는 건 도와드릴 수 있어요.
+제라르 : 해결책이요? 안 된다고 해 놓고서요?
+오세안 : 오늘 접수가 안 된다고 했지, 여권이 안 된다고 한 건 아니에요.
+제라르 : 저한테는 같은 말이에요.
+오세안 : 꼭 그렇진 않아요. 잠깐 앉아 계시면 가능한 방법을 볼게요.
+제라르 : 서 있는 게 좋아요.
+오세안 : 편하신 대로 하세요. 확인해 볼게요.
+제라르 : 하세요.
+(오세안이 거의 일 분 동안 키보드를 두드린다. 제라르는 천장을 바라본다.)
+오세안 : 르페브르 선생님, 브레스트에서 태어나신 거 맞죠?
+제라르 : 네, 천구백오십팔 년에요.
+오세안 : 가능성이 있을 수도 있어요. 일부 시청은 저희 시스템과 연결돼 있어서 온라인 확인을 요청할 수 있어요.
+제라르 : 브레스트는 연결돼 있나요?
+오세안 : 확인해 볼게요. 몇 분 걸려요.
+제라르 : 알겠어요. 아까는 죄송해요, 제가 흥분했어요.
+오세안 : 괜찮아요. 선생님이 처음도 마지막도 아니에요.
+제라르 : 비행기를 놓칠까 봐 겁나서요. 손녀가 곧 다섯 살이 되는데 한 번도 실제로 본 적이 없어요.
+오세안 : 아. 이제 이해가 되네요.
+제라르 : 사진이랑 영상으로만 봤어요. 화면에서 저를 "파피 제라르"라고 불러요.
+오세안 : 아름다운 여행 이유네요.
+제라르 : 가장 아름답죠. 그러니 여권은 저한테 형식이 아니에요.
+오세안 : 네, 알겠어요. 할 수 있는 건 해 볼게요.
+제라르 : 고마워요. 제가 퍽 불친절했어요.
+오세안 : 다들 그런 날이 있어요. 더 사과하지 마세요.
+제라르 : 알겠어요. 그래서 그 확인은요?
+오세안 : 요청을 보낼게요. 브레스트가 응답하면 삼 주를 아낄 수 있어요.
+제라르 : 삼 주요? 저는 며칠인 줄 알았는데요.
+오세안 : 우편 발송이면 삼 주예요. 온라인이면 즉시인데, 시청이 연결돼 있을 때만 돼요.
+제라르 : 그럼 행운을 빌어 봅시다.
+(화면에 메시지가 뜬다. 오세안이 미간을 찌푸린다.)
+오세안 : 음. 지금은 서버가 응답이 없어요. 몇 분 뒤에 다시 해 볼게요.
+제라르 : 자주 그래요?
+오세안 : 목요일 아침엔 그래요. 다들 동시에 시도해서요.
+제라르 : 우체국처럼요.
+오세안 : 어디나 그래요. 기다리는 동안 절차를 단계별로 설명한 안내문을 드릴게요.
+제라르 : 주세요. 딸이 그걸 보고 도와줄 수 있겠네요.
+오세안 : 따님이 몬트리올에 있다고 하셨죠?
+제라르 : 네, 십오 년째요. 거기서 건축가로 일해요.
+오세안 : 멀리 있네요. 자주 보세요?
+제라르 : 크리스마스에 일 년에 한 번 와요. 저는 거기에 가 본 적이 없고요.
+오세안 : 한 번도요? 그럼 선생님께는 큰 여행이네요.
+제라르 : 엄청난 여행이죠. 게다가 비행기도 무서워요.
+오세안 : 많은 분이 무서워하세요. 하지만 비행이 길어서 익숙해질 시간이 있을 거예요.
+제라르 : 여덟 시간에 영화도 있다더군요. 영화가 있다고 들었어요.
+오세안 : 여러 편 중에 고를 수 있어요. 저는 늘 코미디를 봐요.
+제라르 : 저는 서부극이요. 그래도 비행기에서는 코미디를 볼지도 모르겠네요.
+오세안 : 좋은 생각이에요. 마음이 풀려요.
+제라르 : 저랑 얘기해 주셔서 고마워요.
+오세안 : 뒤에 아무도 없어요. 그리고 선생님 이야기가 좋아요.
+제라르 : 고마워요. 잘 들어 주시네요.
+오세안 : 다시 해 볼게요... 아, 서버가 응답해요. 브레스트로 요청을 보냅니다.
+제라르 : 어때요?
+오세안 : 잠시만요... 음. 브레스트는 아직 연결이 안 돼 있어요. 죄송해요.
+제라르 : 알겠어요. 그럼 어떻게 하죠?
+오세안 : 따님이 몬트리올에서 온라인으로 증서를 신청할 수 있어요. 무료이고 이메일로 사십팔 시간 안에 와요.
+제라르 : 사십팔 시간요? 확실해요?
+오세안 : 보통은요. 선생님 성함, 생년월일, 부모님 성함이 필요해요.
+제라르 : 다 외우고 있어요. 어머니 성함도요, 이본 르 갈.
+오세안 : 좋아요. 그다음 따님이 보내 주시면 인쇄하셔서 다시 오세요.
+제라르 : 인쇄요? 프린터가 없어요.
+오세안 : 시립 도서관에 있어요. 아니면 이 주소로 보내시면 제가 여기서 인쇄해 드릴 수 있어요.
+제라르 : 그렇게까지 해 주시겠어요?
+오세안 : 네, 저희가 제공하는 서비스예요. 창구 주소를 알려 드릴게요.
+제라르 : 고마워요. 정말 친절하시네요.
+오세안 : 예약은 다음 주 목요일 아홉 시로 잡아 드릴 수 있어요.
+제라르 : 다음 주 목요일이요? 더 일찍은 안 되나요?
+오세안 : 화요일도 가능하지만 출생증명서가 아직 안 왔을 수 있어요.
+제라르 : 맞는 말이에요. 그럼 목요일로 하죠. 그걸로 충분하길 바라요.
+오세안 : 모든 서류가 갖춰지면 여권은 십 일에서 십오 일 안에 나와요.
+제라르 : 십 일에서 십오 일이요. 비행기는 삼 주 뒤인데.
+오세안 : 빠듯해요. 하지만 가능해요.
+제라르 : 손가락을 걸고 있겠어요.
+오세안 : 저도요. 혹시 모르니 전화번호를 적어 둘게요.
+제라르 : 아, 집 전화예요. 영일, 사십오, 십이, 삼십사, 오십육.
+오세안 : 영일, 사십오, 십이, 삼십사, 오십육. 적었어요.
+제라르 : 부탁 하나 해도 될까요?
+오세안 : 물론이죠.
+제라르 : 딸이 증서를 보내면 잘 받았다고 이메일로 알려 줄 수 있을까요?
+오세안 : 기꺼이요. 따님 주소를 알려 주세요, 제가 쓸게요.
+제라르 : 엘렌이에요. 이 종이에 주소를 적어 왔어요.
+오세안 : 좋아요. 아버님이 아주 용감한 분이라고 전할게요.
+제라르 : 용감하긴요. 고집이 센 거죠.
+오세안 : 둘 다일 거예요.
+제라르 : 하! 맞아요. 딸도 똑같이 말해요.
+오세안 : 그럼 다음 주 목요일 아홉 시에 다시 뵐게요. 버스 걱정은 마세요.
+제라르 : 일찍 출발할게요. 두 번 늦고 싶지 않아요.
+오세안 : 오늘 늦으신 것도 아니에요, 겨우 십 분이었어요. 그럴 수 있어요.
+제라르 : 인내해 줘서 고마워요, 오세안 씨.
+오세안 : 오세안이라고만 하세요. 좋은 하루 보내세요, 르페브르 선생님.
+제라르 : 당신도 좋은 하루 보내요. 해결책을 찾아 줘서 고마워요.

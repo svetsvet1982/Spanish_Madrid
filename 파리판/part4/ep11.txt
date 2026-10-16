@@ -1,0 +1,290 @@
+# 4부 11화. Changer de médecin traitant (주치의 변경)
+난이도: 주 B2 | 구간: B2→C1→B1→B1→B2→B1 | 형식: 전화 | 장소: 전화 통화(생투앙의 집과 건강보험 상담센터) | 시간: 화요일 오후 2시
+등장인물: Claire, Samir
+이슈: 주 ● 주치의가 없어서 줄어든 환급액과 소급 불가 규정 | 곡선: 3-1-0-1-0-3 (반전형, 상한 3) | 입장: A 사미르(통지 우편을 받지 못했고 이미 낸 돈을 돌려받고 싶다) / B 클레르(상담원, 규정을 바꿀 수는 없지만 이의 신청 길을 안내하고 싶다)
+상황 카드: 주치의가 은퇴하고 이사까지 한 사미르는 지난주 진료비 환급이 삼십 퍼센트에 그친 걸 보고 건강보험에 전화한다. 상담원 클레르는 주치의가 없으면 환급이 줄어드는 제도를 설명하고, 새 의사를 찾아 신고하는 절차와 다음 주 전문의 진료 문제를 안내한다. 마지막에 이미 낸 차액은 소급이 안 된다고 하자 사미르는 화가 나지만, 이의 신청이라는 열린 길을 안내받는다.
+학습 포인트: 전화로 문제 설명하기(Je vous appelle parce que) · 제도 이름(le médecin traitant, le parcours de soins, une consultation) · 숫자·날짜 말하기(quatre-vingt-dix-sept, le quatorze mars) · 가능성 묻고 답하기(Probablement, à condition que...) · 이의 제기(déposer une réclamation)
+
+## 대화
+(화요일 오후 2시. 사미르가 생투앙의 집 소파에서 환급 내역서를 손에 들고 건강보험 상담센터에 전화한다.)
+Claire : Assurance maladie, bonjour, Claire à l'appareil. Comment puis-je vous aider ?
+Samir : Bonjour, madame. Je vous appelle parce que je viens de recevoir un relevé qui me laisse perplexe, pour ne pas dire plus.
+Claire : Je vous écoute. De quoi s'agit-il ?
+Samir : Une consultation chez un généraliste, la semaine dernière. Il m'a facturé vingt-cinq euros, et je n'ai été remboursé que de sept euros cinquante.
+Claire : Sept euros cinquante ? Voyons cela. Vous avez consulté à quelle date, exactement ?
+Samir : Mardi dernier, le douze. Et cela fait trois semaines que je cherche un médecin, parce que le mien a pris sa retraite.
+Claire : Je comprends. Et vous ne l'avez pas remplacé ?
+Samir : Pas encore. J'ai déménagé à Saint-Ouen en septembre, et franchement, ce n'est pas simple de trouver un généraliste qui prenne de nouveaux patients.
+Claire : Je vois. Alors voilà probablement l'explication. Sans médecin traitant déclaré, le remboursement est minoré.
+Samir : Minoré ? De soixante-dix à trente pour cent, c'est plus qu'une minoration, c'est un coup de massue !
+Claire : Je comprends votre réaction, monsieur. Mais c'est le fonctionnement du parcours de soins.
+Samir : Personne ne m'a prévenu. Ni mon ancien médecin, ni vous, ni la caisse. Je découvre ça sur un relevé !
+Claire : Vous avez dû recevoir un courrier. Quand votre médecin a quitté la liste, nous avons envoyé un message.
+Samir : Quel message ? À quelle adresse ? J'ai changé d'adresse deux fois depuis juin.
+Claire : Nous avons l'adresse de Saint-Ouen dans votre dossier, mise à jour le dix septembre.
+Samir : Alors le courrier s'est perdu, ou je l'ai jeté avec les publicités. Mais enfin, quand même !
+Claire : Je suis navrée de la situation, vraiment. Je ne cherche pas à vous donner tort.
+Samir : Et moi, je ne cherche pas à crier sur vous. Mais c'est dix euros de perdus, et ce n'est pas rien en ce moment.
+Claire : Dix euros, pour être exacte. Et je ne minimise pas, croyez-moi.
+Samir : Bon. Dites-moi au moins comment régler le problème.
+Claire : Alors, pour régler le problème, il suffit de déclarer un nouveau médecin traitant. À partir de la déclaration, le remboursement redevient normal.
+Samir : Et ça se fait comment ? Est-ce qu'il faut remplir un formulaire, aller en agence ?
+Claire : Les deux options existent, mais la plus simple, c'est que le médecin lui-même fasse la déclaration en ligne, avec votre carte Vitale, lors d'une consultation.
+Samir : Donc il faut d'abord trouver un médecin qui m'accepte. C'est précisément mon problème.
+Claire : Je sais que beaucoup d'assurés se retrouvent dans cette impasse, d'autant plus dans les communes où la démographie médicale est tendue.
+Samir : Tendue, c'est le mot. J'ai appelé six cabinets, personne ne prend de nouveaux patients.
+Claire : Nous disposons d'un annuaire en ligne qui répertorie les médecins acceptant de nouveaux patients, mais l'information n'est pas toujours à jour.
+Samir : J'ai déjà vu cet annuaire. Quatre cabinets m'ont dit qu'ils y figuraient par erreur.
+Claire : Cela arrive, hélas. En revanche, si vous échouez après plusieurs tentatives, vous pouvez nous écrire, et un conseiller vous aide à en trouver un.
+Samir : Parce que vous avez un service pour ça ? Pourquoi ne me l'avez-vous pas dit plus tôt ?
+Claire : Je vous le dis maintenant, monsieur. Personne ne nous l'avait demandé avant.
+Samir : Pardon, je suis un peu à cran. Ce n'est pas de votre faute.
+Claire : Ce n'est pas grave. Je comprends que ce soit exaspérant.
+Samir : Et pour la consultation de la semaine dernière ? Est-ce qu'on peut récupérer la différence plus tard ?
+Claire : C'est une question légitime. Je préfère y répondre complètement avant de vous donner de faux espoirs, donc laissez-moi d'abord vous poser quelques questions.
+Samir : Allez-y.
+Claire : Vous avez une carte Vitale à jour ?
+Samir : Oui, elle date de l'an dernier.
+Claire : Parfait. Et vous êtes bien affilié au régime général ?
+Samir : Oui, je suis salarié depuis dix ans.
+(Claire tape quelques mots sur son clavier.)
+Claire : Très bien. Pour vérifier votre identité, je vais vous demander quelques informations.
+Samir : Je vous écoute.
+Claire : Votre nom et votre prénom ?
+Samir : Merzouk, Samir. M-E-R-Z-O-U-K.
+Claire : Votre date de naissance ?
+Samir : Le quatorze mars mille neuf cent quatre-vingt-dix-sept.
+Claire : Et votre numéro de sécurité sociale, s'il vous plaît ?
+Samir : Un, quatre-vingt-dix-sept, zéro trois, soixante-quinze. Je vous donne la suite ?
+Claire : Oui, je note.
+Samir : Cent douze, deux cent quarante-trois, quarante-huit.
+Claire : Merci. Je retrouve votre dossier. Votre adresse actuelle ?
+Samir : Rue des Rosiers, à Saint-Ouen. Numéro douze.
+Claire : Code postal ?
+Samir : Quatre-vingt-treize, quatre cents.
+Claire : C'est parfait, tout correspond. Un instant, je consulte l'historique.
+Samir : Pas de problème. Je ne bouge pas.
+Claire : Voilà. Je vois que votre ancien médecin, le docteur Vasseur, est sorti de la liste le dix-sept août.
+Samir : C'est exactement ça. Il a pris sa retraite après trente-cinq ans.
+Claire : Ça fait beaucoup d'années. Vous deviez être attaché à lui.
+Samir : Oui, il me suivait depuis mes dix-huit ans. C'est un peu comme perdre un vieux copain.
+Claire : Je comprends. Alors, vous avez un nouveau médecin en tête ?
+Samir : Oui, peut-être. Un docteur Okafor, rue Jean-Jaurès, à cinq minutes de chez moi.
+Claire : Il accepte de nouveaux patients ?
+Samir : Sa secrétaire m'a dit qu'elle pouvait me prendre pour un premier rendez-vous dans trois semaines.
+Claire : Trois semaines ? C'est long, mais c'est raisonnable pour ce secteur.
+Samir : Le problème, c'est que j'ai déjà un rendez-vous chez un dermatologue mardi prochain.
+Claire : Ah. Et c'est votre généraliste qui vous a orienté vers lui ?
+Samir : Non, j'y suis allé de moi-même, il y a deux mois. Il m'a demandé de revenir pour un contrôle.
+Claire : Alors le remboursement sera aussi minoré pour ce rendez-vous, malheureusement.
+Samir : Encore ? Mais je n'ai pas encore de médecin traitant ! Je ne peux pas en inventer un.
+Claire : Je comprends, monsieur. C'est une règle qui s'applique aux consultations chez un spécialiste, hors cas d'urgence.
+Samir : Et si j'obtiens un rendez-vous plus tôt avec le docteur Okafor ?
+Claire : Dans ce cas, il pourra faire la déclaration le jour même. Dès le lendemain, vos remboursements seront normaux.
+Samir : Le lendemain seulement ?
+Claire : Oui, il y a un délai technique de vingt-quatre à quarante-huit heures.
+Samir : Donc si je vais chez lui lundi, je suis couvert pour mardi ?
+Claire : Probablement, à condition que la déclaration soit enregistrée à temps.
+Samir : Je vais faire appeler sa secrétaire dès aujourd'hui, alors. Je vais insister.
+Claire : Je vous le conseille. Dites-lui que c'est urgent, qu'un spécialiste vous attend.
+Samir : Je vais le faire. Merci pour l'info.
+(Un bruit de clavier, puis une petite musique d'attente. Claire revient en ligne.)
+Claire : Excusez-moi pour l'attente. J'ai vérifié quelques détails de votre dossier.
+Samir : Pas de souci. Vous m'avez presque endormi avec la musique, d'ailleurs.
+Claire : Ha ! C'est la plus calme du catalogue, paraît-il. On a fait une étude.
+Samir : Vraiment ? C'est du sérieux, alors.
+Claire : Très sérieux. Mais passons. Vous avez dit Saint-Ouen ? Je connais bien, j'y ai habité sept ans.
+Samir : Ah bon ? Vous étiez dans quel coin ?
+Claire : Près du marché aux puces, rue Paul-Bert. J'adorais le dimanche matin.
+Samir : Moi, j'y vais presque tous les dimanches. Je suis tombé amoureux d'un vieux fauteuil que je n'ai pas encore acheté.
+Claire : Le fauteuil ! Les gens y rêvent pendant des mois et ne l'achètent jamais.
+Samir : C'est exactement ça. Le vendeur me reconnaît, maintenant. Il me dit « alors, cette fois ? ».
+Claire : Et vous répondez quoi ?
+Samir : « Peut-être la semaine prochaine. » Depuis deux mois.
+Claire : Ha ! Moi, j'ai fini par acheter une lampe, un jour de fatigue. Je ne regrette pas.
+Samir : Si vous le dites. Je vais peut-être craquer, finalement.
+Claire : Craquez. Un vieux fauteuil et un bon médecin, et la vie est plus agréable.
+Samir : Je note le programme. Fauteuil, médecin, dans cet ordre.
+Claire : Plutôt dans l'ordre inverse, si vous voulez mon avis.
+Samir : Vous avez raison. La santé d'abord.
+Claire : Voilà. Bon, je reviens à votre dossier. Il y a une dernière chose que je dois vous dire.
+Samir : Ça a l'air sérieux, tout à coup.
+(Un silence à l'autre bout du fil. Claire reprend d'une voix plus basse.)
+Claire : Pour la consultation de la semaine dernière, je suis obligée de vous dire que la différence ne sera pas remboursée.
+Samir : Même après avoir déclaré un nouveau médecin ?
+Claire : Même après. La déclaration n'est pas rétroactive. C'est la règle.
+Samir : Mais c'est absurde ! J'ai payé dix euros de plus à cause d'un courrier que je n'ai jamais reçu.
+Claire : Je comprends votre colère. Mais je ne peux pas modifier la règle, même si je le voudrais.
+Samir : Qui peut la modifier ? Je veux parler à cette personne.
+Claire : Personne à mon niveau. Mais vous pouvez déposer une réclamation écrite, en expliquant le problème du courrier.
+Samir : Et ça marche, une réclamation ?
+Claire : Parfois. Si le courrier n'a pas été reçu pour une raison technique, on peut faire un geste. Je ne promets rien.
+Samir : Je n'aime pas qu'on me dise « parfois ». J'aimerais une réponse nette.
+Claire : Je ne peux pas vous donner de réponse nette, monsieur. Je préfère être honnête que vous rassurer.
+Samir : Je vous remercie de votre honnêteté. Mais ça ne règle pas mon problème.
+Claire : Non. Ça ne le règle pas. Mais vous avez deux pistes, le médecin et la réclamation.
+Samir : Et si les deux échouent ?
+Claire : Vous aurez fait tout ce qui est possible, et je serai désolée pour vous.
+Samir : Bon. Donnez-moi l'adresse pour la réclamation.
+Claire : Je vous envoie le lien par message dans les cinq minutes. Vous y joignez votre relevé et la date de votre déménagement.
+Samir : D'accord. Et je mets aussi le nom de l'ancien médecin, au cas où.
+Claire : Excellente idée. Je note votre appel dans le dossier. Cela peut aider.
+Samir : Merci, Claire. Je ne suis pas content, mais je comprends que ce n'est pas vous.
+
+## 낭독 포인트
+- 비음 모음: «remboursement», «consultation», «déménagé», «moins» — on, an, in 계열은 코로 울리는 모음이고 n은 따로 발음하지 않는다.
+- 숫자 읽기: «quatre-vingt-dix-sept», «le quatorze mars», «vingt-quatre à quarante-huit heures» — 숫자는 한 덩어리로, 연음과 -s 탈락에 주의.
+- 철자 읽기: «M-E-R-Z-O-U-K» — 전화로 이름을 알릴 때는 알파벳 이름으로 또박또박(엠, 으, 에르, 제드, 오, 위, 카).
+- 프랑스어 r: «réclamation», «généraliste», «merci» — 목젖 근처에서 내는 마찰음.
+- 억양: 사미르는 초반에 빠르고 단호하게, 설명을 들으며 점점 느려진다. 클레르는 한결같이 차분하고 정중하게, 안 좋은 소식을 전할 때는 목소리를 낮춘다.
+- 호칭: 전화 상대끼리 vous. «monsieur», «madame»과 이름 «Claire»를 함께 쓰는 마지막 대사에서 말투가 조금 풀린다.
+
+## 학습 포인트 정리
+- B2 구간(1~20턴): 환급이 줄어든 이유 확인하기
+  · «Je vous appelle parce que je viens de recevoir un relevé qui me laisse perplexe», «Sans médecin traitant déclaré, le remboursement est minoré.», «c'est un coup de massue»
+- C1 구간(21~40턴): 제도 설명 이해하기
+  · «il suffit de déclarer un nouveau médecin traitant», «la démographie médicale est tendue», «Je préfère y répondre complètement avant de vous donner de faux espoirs»
+- B1 구간(41~60턴): 본인 확인
+  · «Votre date de naissance ?», «Le quatorze mars mille neuf cent quatre-vingt-dix-sept.», «Un instant, je consulte l'historique.»
+- B1 구간(61~80턴): 의사 선택과 시간 계산
+  · «Il accepte de nouveaux patients ?», «Dès le lendemain, vos remboursements seront normaux.», «à condition que la déclaration soit enregistrée à temps»
+- B2 구간(81~100턴): 기다림과 잡담
+  · «Excusez-moi pour l'attente.», «Je suis tombé amoureux d'un vieux fauteuil», «la santé d'abord»
+- B1 구간(101~120턴): 나쁜 소식과 이의 제기
+  · «La déclaration n'est pas rétroactive.», «déposer une réclamation écrite», «Je préfère être honnête que vous rassurer.»
+- 어휘: le médecin traitant, le parcours de soins, un généraliste, un spécialiste, le remboursement, la carte Vitale, une réclamation, rétroactif.
+
+## 속어 노트
+- «un coup de massue»: 큰 충격, 뜻밖의 큰 타격.
+- «être à cran»: 신경이 곤두서 있다.
+- «craquer»: (유혹에) 넘어가 사 버리다, 버티지 못하다.
+- «ce n'est pas rien»: 적은 돈이 아니다.
+- «faire un geste»: 성의를 보이다, 예외적으로 배려해 주다.
+- 환급 비율, 신고 절차, 소급 불가, 이의 신청 효과는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 두 사람은 끝까지 vous를 쓴다.
+
+## 한글 해석
+(화요일 오후 2시. 사미르가 생투앙의 집 소파에서 환급 내역서를 손에 들고 건강보험 상담센터에 전화한다.)
+클레르 : 건강보험입니다, 안녕하세요, 클레르입니다. 무엇을 도와드릴까요?
+사미르 : 안녕하세요. 방금 받은 내역서가 이해가 안 가서 전화드렸어요. 좋게 말해서요.
+클레르 : 말씀하세요. 어떤 내용인가요?
+사미르 : 지난주 일반의 진료요. 이십오 유로가 청구됐는데 환급은 칠 유로 오십 센트밖에 안 됐어요.
+클레르 : 칠 유로 오십 센트요? 확인해 볼게요. 진료일이 정확히 언제였나요?
+사미르 : 지난 화요일 십이 일이요. 그리고 삼 주 전부터 의사를 찾고 있어요. 제 주치의가 은퇴해서요.
+클레르 : 이해해요. 아직 대신할 분을 못 찾으셨나요?
+사미르 : 아직요. 구월에 생투앙으로 이사했는데 새 환자를 받는 일반의를 찾는 게 솔직히 쉽지 않아요.
+클레르 : 그렇군요. 그럼 아마 그게 이유일 거예요. 주치의가 신고되어 있지 않으면 환급이 줄어들어요.
+사미르 : 줄어요? 칠십에서 삼십 퍼센트면 감소가 아니라 철퇴예요!
+클레르 : 반응은 이해해요. 하지만 그게 진료 경로 제도의 방식이에요.
+사미르 : 아무도 알려 주지 않았어요. 예전 의사도, 공단도, 보험도요. 내역서를 보고서야 알았어요!
+클레르 : 우편을 받으셨을 텐데요. 의사가 명단에서 빠졌을 때 안내를 보냈어요.
+사미르 : 무슨 안내요? 어느 주소로요? 유월 이후로 주소를 두 번 바꿨어요.
+클레르 : 서류에는 구월 십 일에 갱신된 생투앙 주소가 있어요.
+사미르 : 그럼 우편이 사라졌거나, 광고지랑 같이 버렸겠죠. 그래도 어쨌든요!
+클레르 : 이 상황은 정말 안타깝게 생각해요. 잘못이 없다고 하려는 게 아니에요.
+사미르 : 저도 소리를 지르려는 건 아니에요. 그래도 십 유로를 잃었고 요즘엔 적은 돈이 아니에요.
+클레르 : 정확히 십 유로예요. 가볍게 보지 않아요, 정말로요.
+사미르 : 좋아요. 적어도 이 문제를 어떻게 푸는지 알려 주세요.
+클레르 : 해결하려면 새 주치의를 신고하면 돼요. 신고된 뒤부터 환급이 정상으로 돌아와요.
+사미르 : 어떻게 하는데요? 양식을 써야 하나요, 지점에 가야 하나요?
+클레르 : 두 방법 다 있지만 가장 쉬운 건 의사가 진료할 때 환자의 건강보험 카드로 온라인에서 직접 신고하는 거예요.
+사미르 : 그러니까 먼저 저를 받아 주는 의사를 찾아야 한다는 거네요. 바로 제 문제예요.
+클레르 : 이런 막다른 길에 놓인 가입자가 많다는 건 알아요. 의료 인력이 부족한 지역은 더 그렇고요.
+사미르 : 부족, 맞는 표현이에요. 병원 여섯 곳에 전화했는데 아무도 새 환자를 안 받아요.
+클레르 : 새 환자를 받는 의사 명단이 있는 온라인 안내가 있지만 정보가 항상 최신은 아니에요.
+사미르 : 그 안내는 이미 봤어요. 네 곳에서 명단에 잘못 올라 있다고 하더군요.
+클레르 : 그럴 때가 있어요, 안타깝게도요. 그래도 여러 번 실패하시면 저희에게 편지를 쓰세요, 상담원이 찾는 걸 도와줘요.
+사미르 : 그런 서비스가 있다고요? 왜 진작 말해 주지 않았어요?
+클레르 : 지금 말씀드리고 있어요. 전에는 아무도 문의하지 않으셨어요.
+사미르 : 미안해요, 제가 좀 예민했어요. 당신 잘못이 아닌데.
+클레르 : 괜찮아요. 짜증 나는 상황이라는 건 이해해요.
+사미르 : 지난주 진료는요? 차액을 나중에 돌려받을 수 있나요?
+클레르 : 정당한 질문이에요. 헛된 기대를 드리기 전에 제대로 답하고 싶으니 먼저 몇 가지 여쭤볼게요.
+사미르 : 하세요.
+클레르 : 건강보험 카드는 유효한가요?
+사미르 : 네, 작년에 발급받았어요.
+클레르 : 좋아요. 일반 보험에 가입되어 있으시죠?
+사미르 : 네, 십 년째 직장인이에요.
+(클레르가 키보드로 몇 글자를 친다.)
+클레르 : 좋아요. 본인 확인을 위해 몇 가지 여쭤볼게요.
+사미르 : 말씀하세요.
+클레르 : 성함과 이름이요?
+사미르 : 메르주크, 사미르요. M-E-R-Z-O-U-K.
+클레르 : 생년월일은요?
+사미르 : 천구백구십칠 년 삼월 십사 일이요.
+클레르 : 그리고 사회보장 번호를 알려 주시겠어요?
+사미르 : 일, 구십칠, 영삼, 칠십오. 뒷번호 말할까요?
+클레르 : 네, 적을게요.
+사미르 : 백십이, 이백사십삼, 사십팔이요.
+클레르 : 감사합니다. 서류를 찾았어요. 현재 주소는요?
+사미르 : 생투앙의 로지에 거리 십이 번지예요.
+클레르 : 우편번호는요?
+사미르 : 구삼사영영이요.
+클레르 : 맞아요, 다 일치해요. 잠시만요, 이력을 확인할게요.
+사미르 : 괜찮아요. 기다릴게요.
+클레르 : 네. 예전 주치의인 바세르 선생님이 팔월 십칠 일에 명단에서 빠졌네요.
+사미르 : 바로 그거예요. 삼십오 년 일하고 은퇴하셨어요.
+클레르 : 오랜 세월이네요. 정이 드셨겠어요.
+사미르 : 네, 열여덟 살 때부터 봐 주셨어요. 오랜 친구를 잃은 기분이에요.
+클레르 : 이해해요. 그럼 새로 생각해 둔 의사가 있으세요?
+사미르 : 네, 아마도요. 장 조레스 거리에 있는 오카포르 선생님이요. 집에서 오 분 거리예요.
+클레르 : 새 환자를 받나요?
+사미르 : 비서가 삼 주 뒤에 첫 예약을 잡아 줄 수 있다고 했어요.
+클레르 : 삼 주요? 길지만 그 지역으로는 합리적이에요.
+사미르 : 문제는 다음 주 화요일에 피부과 예약이 이미 있다는 거예요.
+클레르 : 아. 일반의가 그쪽으로 보냈나요?
+사미르 : 아니요, 이 개월 전에 제가 직접 갔어요. 검진하러 다시 오라고 하셨어요.
+클레르 : 그럼 그 진료도 안타깝게도 환급이 줄어들어요.
+사미르 : 또요? 아직 주치의가 없는데 만들어 낼 수도 없잖아요.
+클레르 : 이해해요. 응급이 아닌 전문의 진료에는 그 규칙이 적용돼요.
+사미르 : 오카포르 선생님과 더 빨리 예약이 잡히면요?
+클레르 : 그 경우 당일에 신고할 수 있어요. 다음 날부터 환급이 정상이에요.
+사미르 : 다음 날부터만요?
+클레르 : 네, 기술적으로 이십사 시간에서 사십팔 시간이 걸려요.
+사미르 : 그럼 월요일에 선생님께 가면 화요일에 적용되나요?
+클레르 : 아마도요, 신고가 제때 등록된다는 조건에서요.
+사미르 : 그럼 오늘 바로 비서에게 전화해야겠네요. 강하게 부탁해 볼게요.
+클레르 : 그러시길 권해요. 전문의 진료가 기다리고 있어 급하다고 말씀하세요.
+사미르 : 그럴게요. 안내 고마워요.
+(키보드 소리, 이어서 짧은 대기 음악. 클레르가 다시 연결된다.)
+클레르 : 기다리게 해서 죄송해요. 서류의 몇 가지를 확인했어요.
+사미르 : 괜찮아요. 음악 때문에 거의 잠들 뻔했어요.
+클레르 : 하! 목록 중에서 제일 잔잔한 음악이래요. 연구도 했대요.
+사미르 : 정말요? 진지하네요.
+클레르 : 아주 진지해요. 그건 그렇고 생투앙이라고 하셨죠? 잘 알아요, 칠 년 살았어요.
+사미르 : 정말요? 어느 동네요?
+클레르 : 폴 베르 거리의 벼룩시장 근처요. 일요일 아침이 좋았어요.
+사미르 : 저는 거의 매주 일요일에 가요. 아직 못 산 낡은 안락의자에 반했어요.
+클레르 : 안락의자! 다들 몇 달을 꿈꾸고 결국 안 사요.
+사미르 : 딱 그래요. 이제 상인이 절 알아봐요. "자, 이번엔요?" 하고 물어요.
+클레르 : 뭐라고 대답하세요?
+사미르 : "아마 다음 주에요." 두 달째 그래요.
+클레르 : 하! 저는 피곤한 어느 날 결국 램프를 샀어요. 후회 안 해요.
+사미르 : 그렇게 말씀하시니 결국 질러 버릴지도 모르겠네요.
+클레르 : 지르세요. 낡은 안락의자와 좋은 의사가 있으면 삶이 더 즐거워요.
+사미르 : 계획을 적어 둘게요. 안락의자, 의사, 이 순서로.
+클레르 : 제 생각엔 반대 순서가 나아요.
+사미르 : 맞아요. 건강이 먼저죠.
+클레르 : 그렇죠. 자, 서류로 돌아갈게요. 마지막으로 꼭 말씀드릴 게 있어요.
+사미르 : 갑자기 심각해 보이네요.
+(수화기 저편에 침묵이 흐른다. 클레르가 더 낮은 목소리로 이어 간다.)
+클레르 : 지난주 진료는 차액이 환급되지 않는다고 말씀드려야 해요.
+사미르 : 새 의사를 신고한 뒤에도요?
+클레르 : 신고 뒤에도요. 신고는 소급되지 않아요. 규정이에요.
+사미르 : 말도 안 돼요! 한 번도 받지 못한 우편 때문에 십 유로를 더 냈잖아요.
+클레르 : 화나시는 건 이해해요. 하지만 제가 원해도 규정을 바꿀 수는 없어요.
+사미르 : 누가 바꿀 수 있죠? 그분과 얘기하고 싶어요.
+클레르 : 제 선에서는 없어요. 다만 우편 문제를 설명하는 서면 이의 신청을 낼 수 있어요.
+사미르 : 이의 신청이 통하나요?
+클레르 : 가끔요. 기술적인 이유로 우편을 못 받았다면 성의를 보일 수도 있어요. 약속은 못 해요.
+사미르 : "가끔"이라는 말은 싫네요. 분명한 답을 원해요.
+클레르 : 분명한 답은 드릴 수 없어요. 안심시키기보다 솔직한 게 낫다고 생각해서요.
+사미르 : 솔직함은 고마워요. 그래도 제 문제는 해결되지 않네요.
+클레르 : 네, 해결되진 않아요. 하지만 의사와 이의 신청, 두 가지 길이 있어요.
+사미르 : 둘 다 안 되면요?
+클레르 : 가능한 건 다 하신 거예요. 그리고 저도 안타까울 거예요.
+사미르 : 알겠어요. 이의 신청 주소를 알려 주세요.
+클레르 : 오 분 안에 문자로 링크를 보낼게요. 내역서와 이사 날짜를 첨부하세요.
+사미르 : 알겠어요. 혹시 모르니 예전 의사 이름도 넣을게요.
+클레르 : 좋은 생각이에요. 통화 내용을 서류에 기록할게요. 도움이 될 수 있어요.
+사미르 : 고마워요, 클레르. 기분이 좋진 않지만 당신 탓이 아니라는 건 알아요.

@@ -1,0 +1,293 @@
+# 1부 4화. Un dégât des eaux, trois versions (누수, 세 가지 버전)
+난이도: 주 B2 | 구간: B1→B2→B2→C1→B2→B2 | 형식: 다인 | 장소: 아랫집 거실 | 시간: 화요일 저녁 일곱 시
+등장인물: Rachid, Gérard, Hélène
+이슈: 주 ● 누수 원인과 책임, 보험 신고서(constat) | 곡선: 0-1-2-3-2-1 (정점형, 상한 3) | 입장: A 제라르(아랫집, 천장이 젖고 책이 상했다. 윗집에서 새는 것 같다) / B 엘렌(윗집, 세탁기를 설치했지만 누수를 못 봤다. 확인 전에 책임을 지고 싶지 않다) / C 라시드(건물 관리인, 낡은 공용 배관과 세탁기 호스 두 가능성을 모두 전한다)
+상황 카드: 목표: 세 사람이 누수 보험 신고서를 함께 작성한다. 걸림돌: 아랫집과 윗집은 원인을 서로 다르게 보고, 관리인은 낡은 공용 배관을 의심한다. 해소: 각자 자기 버전을 쓰되 엘렌은 '유보 조건'으로 서명하고 전문가의 조사를 기다리기로 한다. 결말은 열린 결말.
+학습 포인트: 보험 신고서 어휘(le constat, le sinistre, la franchise, sous réserves) · 책임 공방(mettre en cause, il n'en demeure pas moins que) · 중재 표현(On cherche, c'est tout) · 가정과 조건(si c'est la colonne, c'est l'assurance de l'immeuble)
+
+## 대화
+(Mardi soir, dans l'appartement de Gérard, au deuxième étage. Au plafond du salon, une grande tache sombre. Rachid, le gardien, apporte le formulaire. Gérard lui ouvre la porte.)
+Rachid : Bonsoir, monsieur Perrin. Voilà, j'ai apporté le formulaire pour le constat.
+Gérard : Bonsoir, Rachid. Entrez, entrez. Faites attention, il y a des seaux partout.
+Rachid : Oh là là, la tache est plus grande que ce matin.
+Gérard : Oui, elle s'agrandit toute la journée. J'ai peur que le plafond tombe.
+Rachid : Ne vous inquiétez pas, ça tient encore. Madame Vidal a dit qu'elle descendait.
+Gérard : Elle est au courant depuis quand ?
+Rachid : Depuis hier soir. Je lui ai laissé un mot dans sa boîte aux lettres.
+Hélène : Bonsoir, bonsoir ! Excusez-moi, la porte était ouverte, je suis entrée.
+Gérard : Bonsoir, madame Vidal. Merci d'être venue.
+Hélène : C'est normal. Mon Dieu, quel dégât !
+Rachid : Asseyez-vous, je pose les papiers sur la table. Je vous sers un café ?
+Hélène : Volontiers, un petit, sans sucre.
+Gérard : Pour moi aussi. Je n'ai presque pas dormi.
+Rachid : Voilà, c'est la machine de ma loge, mais il est correct.
+Hélène : Merci, Rachid. Vous êtes toujours là quand on a besoin de vous.
+Rachid : C'est mon métier. Alors, je vous explique comment ça marche.
+Gérard : Oui, parce que je n'ai jamais rempli ça de ma vie.
+Rachid : C'est un constat amiable de dégât des eaux. On le remplit à deux, on le signe, et on l'envoie à l'assurance.
+Hélène : Chacun envoie le sien ?
+Rachid : Oui, mais c'est mieux de le faire ensemble pour que les versions soient proches. On verra.
+(Rachid sort un stylo. Ils remplissent les premières cases : noms, adresses, numéros de contrat.)
+Rachid : Bon, commençons par les cases faciles. Monsieur Perrin, votre numéro de contrat d'assurance ?
+Gérard : Il est sur mon téléphone, une seconde. Voilà, c'est le quatre-cinq-huit-un, puis une série de lettres.
+Rachid : Je note. Et vous, madame Vidal ?
+Hélène : Moi, je dois chercher. Je l'ai dans mon sac, attendez... c'est assez compliqué.
+Gérard : Pas de précipitation, on a toute la soirée.
+Hélène : Merci. Voilà, le numéro est sur cette carte verte. Je vous le dicte.
+Rachid : Parfait. Maintenant la date et l'heure de la découverte du dégât.
+Gérard : Moi, c'est lundi matin, vers sept heures. J'ai vu une goutte sur la table du salon.
+Hélène : Moi, je n'ai rien remarqué lundi. Je suis partie travailler à huit heures sans voir de fuite.
+Rachid : Mettons « lundi, sept heures » pour la découverte. Ça vous va, madame ?
+Hélène : Oui, c'est la date de monsieur Perrin, donc c'est la bonne.
+Gérard : Et ensuite, il y a eu une vraie coulée mardi matin. L'eau passait par le lustre.
+Rachid : Je vous crois, la tache au plafond est impressionnante.
+Hélène : Vous avez coupé l'électricité, j'espère ?
+Gérard : Oui, dès que j'ai vu le lustre. J'ai eu peur, mais le courant est coupé dans cette pièce.
+Rachid : Très bien. Donc il y a un risque électrique, je le note aussi.
+Hélène : Et vous avez des photos, monsieur Perrin ?
+Gérard : J'en ai une vingtaine. Je vous les envoie par mail, si vous voulez.
+Rachid : Envoyez-les-moi aussi, je les joins au dossier de l'immeuble.
+Gérard : D'accord. Alors passons à la case suivante, celle de la cause.
+(Rachid lit la case suivante à voix haute. Les deux voisins échangent un regard.)
+Rachid : « Circonstances du sinistre, selon chaque partie. » Monsieur Perrin, vous commencez ?
+Gérard : Pour moi, c'est simple : l'eau vient du dessus. Elle traverse le plafond, juste sous la salle de bains de madame.
+Hélène : Sous ma salle de bains, peut-être, mais ça ne veut pas dire que ça vient de chez moi.
+Gérard : Alors d'où ça vient ? Le plafond est mouillé sous votre appartement, pas ailleurs.
+Hélène : Il y a des tuyaux dans les murs, monsieur. Ça peut venir du voisin d'en face, ou du conduit commun.
+Rachid : Le conduit commun, c'est la colonne d'eau de l'immeuble. Elle passe entre vos deux appartements, effectivement.
+Gérard : Mais elle n'a jamais fui avant que madame installe son lave-linge dans la salle de bains.
+Hélène : Je l'ai installé il y a deux ans ! Si le problème venait de là, on l'aurait vu plus tôt.
+Rachid : Je ne sais pas, je suis gardien, pas plombier. Mais je peux dire que cette colonne a quarante ans.
+Gérard : Quarante ans, justement, ça peut casser. Et ça casse à cause d'un choc, d'une vibration...
+Hélène : Vous croyez que mon lave-linge fait vibrer l'immeuble ? Il est tout neuf !
+Gérard : Je ne dis pas ça. Je dis que ce serait logique de vérifier chez vous d'abord.
+Hélène : Et moi, je dis que je n'ai constaté aucune fuite. Je veux bien qu'on regarde, mais je ne veux pas être condamnée d'avance.
+Rachid : Personne ne condamne personne. On cherche, c'est tout.
+Gérard : J'ai juste envie qu'on m'explique pourquoi mon salon est un lac.
+Hélène : Je comprends, monsieur. Si j'étais à votre place, je dirais pareil.
+Rachid : Bon. Je vais noter deux versions séparées, et on verra ce que dit l'assurance.
+Gérard : Séparées ? Moi, je voulais une seule version commune.
+Hélène : Moi aussi, mais pas si on me met en cause sans preuve.
+Rachid : Je comprends. Donnez-moi une minute, je cherche comment formuler ça.
+(Rachid pose son stylo. Un silence tendu. Dehors, la pluie se met à tomber.)
+Rachid : Je vais être direct, parce qu'on tourne en rond. Le plombier de l'immeuble est passé cet après-midi, pendant que vous étiez au travail, madame.
+Hélène : Chez moi ? Sans m'avertir ? Vous aviez une clé ?
+Rachid : Non, non, pas chez vous. Dans la cave et dans la gaine technique, celle qui longe votre mur.
+Gérard : Et alors ? Il a trouvé quoi ?
+Rachid : Il m'a parlé d'un raccord corrodé, à la hauteur du deuxième étage. Il n'est pas affirmatif, mais il dit que la colonne est fatiguée.
+Hélène : Vous voyez ! Je ne suis pas en cause. N'en déplaise à monsieur Perrin, la colonne est commune, donc la responsabilité aussi.
+Gérard : Pas si vite. Le plombier a aussi parlé de son tuyau de machine, non ?
+Rachid : Il m'a dit qu'il faudrait le vérifier, parce que sur les photos que vous avez envoyées, monsieur Perrin, la coulée est plus forte du côté de la salle de bains.
+Hélène : Une coulée plus forte de ce côté ne prouve rien. L'eau suit la pente, elle se déplace dans le béton.
+Gérard : Peut-être, mais il n'en demeure pas moins que l'eau est arrivée par chez vous ou par le mur. Dans les deux cas, ce n'est pas chez moi.
+Hélène : Je ne vous reproche rien, monsieur. Mais je refuse d'être le bouc émissaire d'un tuyau qui a quarante ans.
+Rachid : Personne ne veut de bouc émissaire. Ce que je dis, c'est qu'il y a deux hypothèses et qu'il faut les départager avec un expert.
+Gérard : Un expert, ça prend des semaines. Pendant ce temps, mon plafond et mes livres sont en train de pourrir.
+Hélène : Vos livres ? Vous aviez des livres sous la fuite ?
+Gérard : Trois cents ouvrages de ma bibliothèque, dont certains de ma mère. Ça ne se remplace pas avec une franchise.
+Hélène : Je suis navrée, vraiment. Je ne savais pas. Mais je ne peux pas signer ce que je ne sais pas.
+Rachid : Madame Vidal, vous pouvez signer « sous réserves ». C'est une mention qui permet de constater sans reconnaître la cause.
+Gérard : Sous réserves, sous réserves... Et moi, je suis réservé jusqu'à quand ?
+Hélène : Monsieur, je comprends votre colère, et je ne veux pas qu'on se fâche. Mais vous aussi, essayez de comprendre ma position.
+Gérard : Je la comprends. Elle ne m'aide pas, c'est tout.
+(Rachid ouvre sa sacoche et en sort un deuxième formulaire. Le ton redevient calme.)
+Rachid : Je vous propose quelque chose. On écrit les trois versions sur le constat, chacun la sienne, plus celle du gardien.
+Gérard : Ça fait beaucoup de versions pour un seul plafond.
+Hélène : Trois versions, ça au moins, c'est honnête. Comme ça, l'expert verra tout.
+Rachid : Voilà. Et je préviens le syndic pour qu'il déclare la colonne à l'assurance de l'immeuble.
+Gérard : Et si c'est la colonne, qui paie mes réparations ?
+Rachid : Dans ce cas, c'est l'assurance de l'immeuble qui rembourse, et vous n'aurez peut-être rien à avancer.
+Hélène : Et si c'est mon lave-linge, c'est mon assurance, c'est ça ?
+Rachid : Oui, mais seulement si c'est confirmé. D'où l'intérêt d'avoir un expert indépendant.
+Gérard : Il vient quand, cet expert ?
+Rachid : Souvent dans la semaine qui suit. Je peux appeler demain matin pour accélérer.
+Hélène : Je peux m'arranger pour être là le jour de la visite. Je prendrai ma matinée.
+Gérard : Moi, je suis en télétravail, donc je serai là. Mais en attendant, je fais quoi pour mon plafond ?
+Rachid : Un seau, des chiffons, et surtout, ne touchez plus à l'électricité de cette pièce. Je vous prête un déshumidificateur.
+Gérard : Vous avez ça en loge ?
+Rachid : J'ai de tout en loge. C'est la vraie caverne d'Ali Baba.
+Hélène : Je peux contribuer, si vous voulez. Pour le déshumidificateur, ou pour des cartons afin de protéger les livres.
+Gérard : C'est gentil. Des cartons, oui, ce serait utile, j'ai tout sorti sur le sol de la chambre.
+Hélène : J'en ai plein, je vous les descends demain. Sans arrière-pensée, hein, entre voisins.
+Gérard : Merci. Ça me touche, au fond, même si je reste inquiet.
+Rachid : Voilà, c'est ça, le bon esprit. Vous voyez, on s'en sort.
+(Les cafés refroidissent. Le formulaire est presque rempli. Il ne reste que les signatures.)
+Rachid : Bon. Il reste les signatures. Monsieur Perrin, vous signez ici, en bas à gauche.
+Gérard : Voilà. Et je mets la date d'aujourd'hui ?
+Rachid : Oui, et l'heure aussi, c'est mieux.
+Hélène : Moi, je signe en dessous, avec la mention « sous réserves ». C'est bien là ?
+Rachid : Oui, madame, c'est parfait. Ça ne vous engage pas à reconnaître quoi que ce soit.
+Gérard : Dites, Rachid, vous avez remarqué que vous faites notre travail à tous les deux ?
+Rachid : Ça arrive. Dans un immeuble, le gardien est un peu le médiateur, le plombier, le psychologue...
+Hélène : Et le préposé au café.
+Rachid : Et le préposé au café, voilà ! Il faudrait que j'ajoute ça sur ma carte de visite.
+Gérard : Ha ha, je m'en veux un peu d'avoir haussé le ton tout à l'heure.
+Hélène : Moi aussi. Chacun a ses raisons, et personne n'est méchant dans cette histoire.
+Gérard : Non. C'est juste un vieux tuyau et un grand plafond mouillé.
+Rachid : Je prépare l'enveloppe pour l'assurance. Chacun garde une copie, d'accord ?
+Hélène : D'accord. Et je vous préviens, monsieur Perrin : si c'est mon lave-linge, je paierai ma part sans discuter.
+Gérard : Et si c'est la colonne, je ne vous ferai pas de reproches. Ça marche comme ça ?
+Hélène : Ça marche comme ça. On se le dit maintenant, devant témoin.
+Rachid : Témoin officiel, je confirme. Je note ça dans mon cahier de gardien.
+Gérard : En attendant l'expert, personne ne perd la face, alors.
+Hélène : Et on se retrouve la semaine prochaine pour voir ce qu'il dira.
+Rachid : Je vous préviens dès que j'ai la date. Allez, allez vous reposer, tous les deux.
+
+## 낭독 포인트
+- 비음 모음: «constat», «plafond», «maintenant» — on, an, ain은 코로 울리는 모음이고 n은 따로 소리 내지 않는다.
+- 연음·앙샹느망: «un expert», «en attendant» — 어말 자음이 다음 모음으로 넘어가 한 덩어리로 이어진다.
+- 프랑스어 r: «réserves», «responsabilité», «reproches» — 목젖 근처에서 내는 마찰음, 여러 번 나오는 단어는 긴장 없이 가볍게.
+- u / ou: «tuyau», «plus» vs «goutte», «tout» — u는 입술을 모아 [y], ou는 [u].
+- 숫자: «quarante ans», «trois cents ouvrages», «sept heures» — 숫자와 단위를 이어서 또박또박.
+- 호칭·억양: 세 사람 모두 vous. 라시드는 차분하고 일정한 속도, 제라르는 지친 듯 낮게, 엘렌은 방어적일 때 조금 빠르게. 61~80턴 구간은 말끝을 내리며 긴장을 살리고 81턴에서 다시 부드럽게 푼다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 서류 설명과 인사
+  · 상황 설명: «Voilà, j'ai apporté le formulaire pour le constat.», «On le remplit à deux, on le signe, et on l'envoie à l'assurance.»
+- B2 구간(21~60턴): 신고서 기재와 각자의 버전
+  · 확인과 기록: «Mettons « lundi, sept heures » pour la découverte.», «Je note.»
+  · 입장 말하기: «Pour moi, c'est simple : l'eau vient du dessus.», «Personne ne condamne personne. On cherche, c'est tout.»
+- C1 구간(61~80턴): 책임 공방
+  · 양보 후 반박: «N'en déplaise à monsieur Perrin, la colonne est commune.», «Il n'en demeure pas moins que l'eau est arrivée par chez vous ou par le mur.»
+  · 완곡한 거절: «Je ne peux pas signer ce que je ne sais pas.», «Je refuse d'être le bouc émissaire d'un tuyau qui a quarante ans.»
+- B2 구간(81~120턴): 중재와 임시 합의
+  · 조건: «Et si c'est la colonne, qui paie mes réparations ?», «Si c'est mon lave-linge, je paierai ma part sans discuter.»
+  · 정리: «On se le dit maintenant, devant témoin.», «Chacun garde une copie, d'accord ?»
+- 어휘: le dégât des eaux, le sinistre, la franchise, la colonne d'eau, le syndic, un expert, la gaine technique, le déshumidificateur.
+
+## 속어 노트
+- «Oh là là»: 어머나, 세상에. 놀람이나 난감함.
+- «tourner en rond»: 같은 자리를 맴돌다, 제자리걸음하다.
+- «bouc émissaire»: 희생양, 모든 책임을 뒤집어쓰는 사람.
+- «caverne d'Ali Baba»: 없는 게 없는 보물창고 같은 곳.
+- «perdre la face»: 체면을 잃다.
+- 이 이야기의 보험 절차, 비용 부담, '유보 조건' 서명과 전문가 방문 일정은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 세 사람은 끝까지 vous를 쓴다.
+
+## 한글 해석
+(화요일 저녁, 제라르의 집 삼 층. 거실 천장에 커다란 어두운 얼룩이 있다. 관리인 라시드가 서식을 가져온다. 제라르가 문을 연다.)
+라시드 : 안녕하세요, 페랭 씨. 신고서 서식을 가져왔어요.
+제라르 : 안녕하세요, 라시드. 들어오세요. 양동이가 사방에 있으니 조심하세요.
+라시드 : 어이쿠, 얼룩이 아침보다 더 커졌네요.
+제라르 : 네, 하루 종일 커지고 있어요. 천장이 무너질까 봐 걱정이에요.
+라시드 : 걱정 마세요, 아직은 버텨요. 비달 부인이 내려오신다고 하셨어요.
+제라르 : 언제부터 알고 계셨어요?
+라시드 : 어제 저녁부터요. 우편함에 쪽지를 남겨 뒀거든요.
+엘렌 : 안녕하세요, 안녕하세요! 실례해요, 문이 열려 있어서 들어왔어요.
+제라르 : 안녕하세요, 비달 부인. 와 주셔서 고맙습니다.
+엘렌 : 당연한 일이죠. 세상에, 이런 피해라니!
+라시드 : 앉으세요, 서류는 탁자에 놓을게요. 커피 드릴까요?
+엘렌 : 좋아요, 설탕 없이 조금만요.
+제라르 : 저도요. 거의 잠을 못 잤어요.
+라시드 : 자요, 제 관리실 기계에서 뽑은 거지만 그런대로 괜찮아요.
+엘렌 : 고마워요, 라시드. 필요할 때마다 늘 계시네요.
+라시드 : 그게 제 일이죠. 그럼 어떻게 하는지 설명해 드릴게요.
+제라르 : 네, 저는 평생 이런 걸 써 본 적이 없어서요.
+라시드 : 누수 사고 원만 합의 신고서예요. 둘이 같이 작성해서 서명하고 보험사에 보내는 거예요.
+엘렌 : 각자 따로 보내나요?
+라시드 : 네, 하지만 같이 쓰는 게 낫죠, 내용이 비슷해지게요. 두고 봐야겠지만요.
+(라시드가 펜을 꺼낸다. 이름, 주소, 계약 번호 같은 첫 칸들을 채운다.)
+라시드 : 자, 쉬운 칸부터 시작하죠. 페랭 씨, 보험 계약 번호가 어떻게 되나요?
+제라르 : 제 휴대폰에 있어요, 잠깐만요. 여기, 사오팔일이고 그다음에 문자열이에요.
+라시드 : 적을게요. 비달 부인은요?
+엘렌 : 저는 찾아야 해요. 가방에 있는데, 잠깐만요... 좀 복잡하네요.
+제라르 : 서두르지 마세요, 저녁 내내 시간이 있으니까요.
+엘렌 : 고마워요. 여기요, 이 녹색 카드에 번호가 있어요. 불러 드릴게요.
+라시드 : 좋습니다. 이제 피해를 발견한 날짜와 시간이에요.
+제라르 : 저는 월요일 아침 일곱 시쯤이에요. 거실 탁자에 물방울이 떨어졌어요.
+엘렌 : 저는 월요일엔 아무것도 눈치채지 못했어요. 여덟 시에 출근했는데 새는 건 못 봤어요.
+라시드 : 발견은 '월요일 일곱 시'로 적죠. 괜찮으세요, 부인?
+엘렌 : 네, 페랭 씨가 발견한 날짜니까 그게 맞아요.
+제라르 : 그리고 화요일 아침에 진짜로 쏟아졌어요. 물이 전등으로 내려왔어요.
+라시드 : 믿습니다, 천장 얼룩이 대단하네요.
+엘렌 : 전기는 끊으셨죠?
+제라르 : 네, 전등을 보자마자요. 겁이 났지만 그 방 전기는 꺼져 있어요.
+라시드 : 잘하셨어요. 그럼 감전 위험도 적어 둘게요.
+엘렌 : 페랭 씨, 사진은 있으세요?
+제라르 : 스무 장쯤요. 원하시면 메일로 보내 드릴게요.
+라시드 : 저한테도 보내 주세요, 건물 서류에 첨부할게요.
+제라르 : 알겠어요. 그럼 다음 칸으로 가죠, 원인 칸이요.
+(라시드가 다음 칸을 소리 내어 읽는다. 두 이웃이 서로 눈길을 주고받는다.)
+라시드 : '사고 경위, 각 당사자 진술.' 페랭 씨, 먼저 말씀하시겠어요?
+제라르 : 제게는 간단해요. 물이 위에서 와요. 부인 욕실 바로 아래 천장을 통과하고 있어요.
+엘렌 : 제 욕실 아래일 수는 있죠, 하지만 그게 우리 집에서 온다는 뜻은 아니에요.
+제라르 : 그럼 어디서 오는 겁니까? 젖은 곳은 부인 집 바로 아래지 다른 데가 아니에요.
+엘렌 : 벽 안에 배관이 있어요, 선생님. 맞은편 집에서 올 수도 있고 공용 관에서 올 수도 있어요.
+라시드 : 공용 관은 건물의 수도 주배관이에요. 두 분 집 사이로 지나가는 게 맞아요.
+제라르 : 하지만 부인이 욕실에 세탁기를 설치하기 전엔 한 번도 샌 적이 없었어요.
+엘렌 : 이 년 전에 설치했어요! 거기서 문제가 났다면 훨씬 일찍 알았을 거예요.
+라시드 : 저는 모르죠, 관리인이지 배관공이 아니니까요. 다만 그 주배관이 사십 년 됐다는 건 말씀드릴 수 있어요.
+제라르 : 사십 년이면 깨질 수도 있죠. 그리고 충격이나 진동 때문에 깨지는 거죠...
+엘렌 : 제 세탁기가 건물을 흔든다고 생각하세요? 완전 새 건데요!
+제라르 : 그런 말이 아닙니다. 부인 집부터 확인하는 게 논리적이라는 거예요.
+엘렌 : 저는 새는 걸 본 적이 없다고 말씀드려요. 살펴보는 건 좋지만 미리 유죄로 몰리고 싶진 않아요.
+라시드 : 아무도 유죄로 몰지 않아요. 원인을 찾을 뿐이에요.
+제라르 : 제 거실이 왜 호수가 됐는지 설명해 줬으면 하는 것뿐이에요.
+엘렌 : 이해해요. 제가 선생님 입장이라도 똑같이 말했을 거예요.
+라시드 : 좋아요. 진술을 두 개로 나눠 적고 보험사가 뭐라 하는지 보죠.
+제라르 : 따로요? 저는 하나로 합친 공동 진술을 원했는데요.
+엘렌 : 저도 그랬어요, 하지만 증거 없이 저를 원인으로 몰 거면 안 돼요.
+라시드 : 이해합니다. 어떻게 쓸지 잠깐 생각할 시간을 주세요.
+(라시드가 펜을 내려놓는다. 긴장된 침묵. 바깥에서 비가 내리기 시작한다.)
+라시드 : 솔직하게 말씀드릴게요, 계속 같은 얘기만 맴도니까요. 오늘 오후에 건물 배관공이 왔다 갔어요, 부인이 출근해 계시는 동안에요.
+엘렌 : 우리 집에요? 말도 없이요? 열쇠가 있으셨어요?
+라시드 : 아뇨, 아니에요, 부인 집이 아니라 지하실과 설비 통로예요, 부인 집 벽을 따라 지나가는 곳이요.
+제라르 : 그래서요? 뭘 찾았대요?
+라시드 : 삼 층 높이의 연결부가 부식됐다고 하더군요. 단정하진 않지만 주배관이 낡았다고 해요.
+엘렌 : 보세요! 저는 원인이 아니에요. 페랭 씨가 뭐라 하든 주배관은 공용이니 책임도 공동이에요.
+제라르 : 그렇게 서두르지 마세요. 배관공이 부인 세탁기 호스 얘기도 하지 않았나요?
+라시드 : 확인해 봐야 한다고 했어요, 페랭 씨가 보내신 사진에서 욕실 쪽의 흘러내림이 더 심하니까요.
+엘렌 : 그쪽 흐름이 더 센 건 아무것도 증명하지 않아요. 물은 경사를 따라 콘크리트 속을 이동하잖아요.
+제라르 : 그럴 수도 있죠, 하지만 물이 부인 집을 통해서든 벽을 통해서든 온 건 사실입니다. 어느 쪽이든 우리 집은 아니에요.
+엘렌 : 선생님을 탓하는 게 아니에요. 하지만 사십 년 된 배관 때문에 희생양이 되진 않을 거예요.
+라시드 : 아무도 희생양을 원하지 않아요. 제 말은 가설이 두 개 있고 전문가와 함께 가려내야 한다는 거예요.
+제라르 : 전문가는 몇 주씩 걸려요. 그동안 제 천장과 책이 썩고 있고요.
+엘렌 : 책이요? 새는 곳 아래에 책이 있었어요?
+제라르 : 서재의 책 삼백 권이에요, 어머니 것도 있고요. 면책금으로 대신할 수 없는 것들이에요.
+엘렌 : 정말 안타까워요. 몰랐어요. 하지만 모르는 걸 서명할 순 없어요.
+라시드 : 비달 부인, '유보 조건'으로 서명하실 수 있어요. 원인을 인정하지 않고 상황만 확인한다는 표기예요.
+제라르 : 유보, 유보... 그럼 저는 언제까지 유보 상태인가요?
+엘렌 : 선생님, 화나신 거 이해해요, 싸우고 싶진 않아요. 하지만 선생님도 제 입장을 이해해 주세요.
+제라르 : 이해합니다. 도움은 안 되지만요.
+(라시드가 가방을 열어 두 번째 서식을 꺼낸다. 분위기가 다시 차분해진다.)
+라시드 : 제안이 하나 있어요. 신고서에 세 가지 진술을 쓰죠, 각자 자기 것과 관리인 것까지요.
+제라르 : 천장 하나에 진술이 너무 많네요.
+엘렌 : 세 가지라서 적어도 정직하네요. 그러면 전문가가 다 볼 수 있으니까요.
+라시드 : 맞아요. 그리고 관리단에 알려서 주배관 건을 건물 보험에 신고하게 할게요.
+제라르 : 주배관이 원인이면 제 수리비는 누가 내나요?
+라시드 : 그 경우엔 건물 보험이 보상하니 먼저 내실 건 없을 수도 있어요.
+엘렌 : 그리고 제 세탁기가 원인이면 제 보험이 처리하는 거죠?
+라시드 : 네, 다만 확인됐을 때만요. 그래서 독립된 전문가가 필요한 거예요.
+제라르 : 그 전문가는 언제 오나요?
+라시드 : 보통 다음 주 안에요. 내일 아침에 전화해서 서둘러 볼게요.
+엘렌 : 저도 방문 날에 맞춰 있을 수 있어요. 오전 휴가를 낼게요.
+제라르 : 저는 재택근무라 있을 거예요. 그런데 그때까지 천장은 어떻게 하죠?
+라시드 : 양동이와 걸레를 쓰시고, 무엇보다 그 방 전기는 만지지 마세요. 제습기를 빌려 드릴게요.
+제라르 : 관리실에 그런 것도 있어요?
+라시드 : 관리실엔 없는 게 없어요. 진짜 알리바바 동굴이죠.
+엘렌 : 원하시면 제가 보태 드릴게요. 제습기든 책을 보호할 상자든요.
+제라르 : 고맙습니다. 상자는 정말 유용하겠네요, 침실 바닥에 다 꺼내 놨거든요.
+엘렌 : 많이 있어요, 내일 내려 드릴게요. 다른 속셈 없이, 이웃끼리요.
+제라르 : 고마워요. 걱정은 여전하지만 마음에 와닿네요.
+라시드 : 그렇죠, 그런 마음이 좋은 거예요. 보세요, 풀리고 있잖아요.
+(커피가 식는다. 서식은 거의 채워졌다. 서명만 남았다.)
+라시드 : 자. 서명이 남았어요. 페랭 씨, 여기 왼쪽 아래에 하세요.
+제라르 : 여기요. 오늘 날짜를 적을까요?
+라시드 : 네, 시간도 적는 게 좋아요.
+엘렌 : 저는 그 아래에 '유보 조건'이라고 쓰고 서명할게요. 여기 맞죠?
+라시드 : 네, 부인, 완벽해요. 뭔가를 인정하겠다는 약속은 아니에요.
+제라르 : 저, 라시드, 우리 두 사람 일을 다 대신 하고 계신 거 아세요?
+라시드 : 그럴 때가 있죠. 건물에서 관리인은 중재자이자 배관공이고 심리 상담사 같은 거니까요.
+엘렌 : 그리고 커피 담당이고요.
+라시드 : 그리고 커피 담당이죠, 맞아요! 명함에도 넣어야겠어요.
+제라르 : 하하, 아까 언성을 높인 게 조금 후회돼요.
+엘렌 : 저도요. 각자 이유가 있고, 이 이야기에 나쁜 사람은 없어요.
+제라르 : 맞아요. 그냥 낡은 배관과 커다란 젖은 천장이 있을 뿐이죠.
+라시드 : 보험사에 보낼 봉투를 준비할게요. 각자 사본은 가지고 계시죠?
+엘렌 : 네. 그리고 미리 말씀드려요, 페랭 씨. 제 세탁기가 원인이면 제 몫은 따지지 않고 낼게요.
+제라르 : 그리고 주배관이면 저도 탓하지 않겠습니다. 그렇게 하면 되겠죠?
+엘렌 : 그렇게 해요. 지금 증인 앞에서 약속해요.
+라시드 : 공식 증인으로서 확인합니다. 관리인 수첩에 적어 둘게요.
+제라르 : 전문가가 올 때까지는 아무도 체면을 잃지 않겠네요.
+엘렌 : 다음 주에 다시 만나서 전문가가 뭐라 하는지 봐요.
+라시드 : 날짜가 나오는 대로 알려 드릴게요. 자, 두 분 다 들어가서 쉬세요.

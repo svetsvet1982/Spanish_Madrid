@@ -1,0 +1,298 @@
+# 1부 6화. La maison de Mamie (할머니의 집)
+난이도: 주 C1 | 구간: C1→C1→B2→C1→C1→C1 | 형식: 2인 | 장소: 몽트레유 외곽, 할머니가 살던 주택의 거실 | 시간: 십일월 토요일 오후
+등장인물: Clémence, Antoine
+이슈: 주 ● 돌아가신 할머니의 집을 팔 것인가 간직할 것인가 | 곡선: 3-3-2-1-1-0 (초반충격형, 상한 3) | 입장: A 클레망스(누나, 집을 간병하며 지켜 왔고 물건과 집을 만지며 애도한다. 팔기를 미룬다) / B 앙투안(동생, 몬트리올에 살며 유지비와 수리비를 숫자로 따지고 판매를 고려한다)
+상황 카드: 목표: 남매가 할머니가 떠난 지 여섯 주 만에 집을 정리하고 앞날을 정한다. 걸림돌: 앙투안이 말없이 부동산 감정을 신청한 것이 드러나 클레망스가 폭발한다. 해소: 앙투안이 방식의 잘못을 인정하고, 공증인과 만나기 전까지는 아무 약속도 하지 않기로 한다. 두 사람은 할머니의 프렌치토스트를 함께 만들며 하루를 접는다. 결말은 열린 결말.
+학습 포인트: 상속·부동산 어휘(l'indivision, le notaire, la soulte, la succession) · 뉘앙스 있는 반박(Sur le fond, en revanche...) · 양보와 인정(Je te l'accorde, j'ai eu tort sur la méthode) · 격한 감정에서 차분한 어조로 옮기기 · 관용구(tête de mule, bazarder, Marché conclu)
+
+## 대화
+(Une maison de banlieue à Montreuil, un samedi de novembre. Des cartons à moitié remplis dans le salon. Clémence trie des photos. Antoine entre, un papier à la main.)
+Clémence : Tu peux m'expliquer pourquoi une femme de l'agence m'a appelée ce matin pour « confirmer le créneau d'estimation » ? Mamie est partie il y a six semaines, Antoine.
+Antoine : Doucement, Clém. J'allais t'en parler, je voulais juste avoir un ordre de grandeur avant de te mettre devant le fait accompli.
+Clémence : Devant le fait accompli ? C'est précisément ce que tu es en train de faire. Tu fais estimer la maison sans m'en parler.
+Antoine : Je ne la fais pas vendre, je la fais estimer. Il y a une différence, tu l'admettras.
+Clémence : Une différence qui tient sur un fil, et tu le sais très bien. Quand on commence par demander ce que ça vaut, c'est qu'on a déjà fait son deuil du reste.
+Antoine : Ou c'est qu'on est adulte. Le notaire nous a prévenus : tant qu'on reste en indivision, on paie les charges à deux, la taxe foncière, l'assurance, le chauffage pour une maison vide.
+Clémence : Je suis au courant des charges, merci. Je n'ai pas besoin qu'on m'explique l'indivision comme si j'avais quinze ans.
+Antoine : Ce n'était pas mon intention. Mais je te rappelle que je vis à Montréal, que je ne peux pas passer tous les week-ends ici à vider des placards.
+Clémence : Et moi, je suis censée pouvoir ? J'ai deux enfants, un poste à responsabilités, et c'est moi qui l'accompagnais à l'hôpital chaque mardi de l'hiver dernier.
+Antoine : Je ne l'ai jamais contesté, et je t'en suis reconnaissant, tu le sais. C'est justement pour ça que je voudrais qu'on ne fasse pas peser tout ça sur toi plus longtemps.
+Clémence : Admirable sollicitude. Sauf que la meilleure façon de me soulager, ce serait de me demander mon avis avant de convoquer un inconnu qui va mesurer le salon de Mamie au télémètre.
+Antoine : D'accord, j'ai eu tort sur la méthode. Je te le dis sans détour. Sur le fond, en revanche, je n'ai pas changé d'avis : on ne peut pas garder cette maison.
+Clémence : « On ne peut pas » ? Qui a décidé ça ? Toi, depuis ton bureau de Montréal, avec un tableur ?
+Antoine : Avec le même tableur que toi, probablement. Les droits de succession, les travaux de toiture, la chaudière qui date de je ne sais plus quand...
+Clémence : Et l'odeur du pain perdu le dimanche matin, tu l'as mise dans le tableur ? Les cinq étés qu'on a passés dans ce jardin ?
+Antoine : Non, et c'est ce qui me fait mal quand j'y pense, crois-moi. Mais l'odeur du pain perdu ne règle pas la facture du couvreur.
+Clémence : Alors dis-le franchement : tu veux l'argent.
+Antoine : Je veux surtout qu'on cesse d'être les gardiens d'un musée que Mamie n'aurait pas voulu qu'on entretienne à ce prix-là. Elle me l'a dit, elle aussi.
+Clémence : Elle t'a dit ça ? Quand ?
+Antoine : Il y a deux ans, à Noël, dans la cuisine. Tu étais allée chercher le gâteau. Je ne te l'ai jamais répété parce que je ne voulais pas t'attrister.
+(Clémence repose la photo qu'elle tenait. Elle fixe son frère.)
+Clémence : Elle ne t'a pas dit ça. Elle n'a jamais voulu qu'on vende, elle me l'a répété cent fois.
+Antoine : Elle ne t'a pas dit « vendez », je te l'accorde. Elle a dit : « Ne vous disputez pas pour des murs. » C'est très différent de « gardez-les ».
+Clémence : C'est une façon bien commode d'interpréter les dernières volontés d'une morte.
+Antoine : Ce ne sont pas des dernières volontés, Clém, c'est une phrase prononcée un soir de Noël. Je n'ai pas la prétention d'en faire un testament.
+Clémence : Alors ne t'en sers pas comme d'un argument pour justifier une visite d'agence.
+Antoine : Très bien. Je retire l'argument. Reste que les chiffres, eux, ne dépendent pas de ce que Mamie a dit ou pas dit.
+Clémence : Les chiffres, toujours les chiffres. Tu sais ce que ça me fait, de voir que la maison où j'ai appris à marcher se résume à un prix au mètre carré ?
+Antoine : Je sais exactement ce que ça fait, parce que ça me le fait aussi. Simplement, moi, je me protège en comptant. C'est ma manière à moi de ne pas m'effondrer.
+Clémence : Eh bien moi, j'ai besoin de toucher les objets. Ça ne vaut pas plus cher, et ça ne rapporte rien, mais j'en ai besoin.
+Antoine : Je ne te demande pas de renoncer aux objets. Prends tout ce que tu veux, je ne réclame rien : ni les meubles, ni la vaisselle, ni les livres.
+Clémence : Tu ne « réclames » rien. Comme c'est généreux de ta part, quand on sait que le seul bien qui compte, c'est la maison.
+Antoine : Là, tu es injuste. Je ne cherche pas à te dépouiller. Si tu veux la garder, on peut regarder comment tu me rachètes ma part, avec une soulte, un prêt, ce que le notaire appelle des « modalités ».
+Clémence : Racheter ta part ? Avec quoi ? Je ne vais pas emprunter pendant vingt ans pour une maison dont le toit fuit.
+Antoine : C'est exactement mon point. Aucun de nous deux ne peut raisonnablement la porter seul, donc la seule issue honnête, c'est la vente.
+Clémence : Ou la location. On pourrait la louer et partager le loyer. Ça nous laisserait le temps de décider.
+Antoine : J'y ai pensé aussi. Mais louer, ça veut dire des travaux de mise aux normes, un locataire, un état des lieux... Ça nous empoisonnerait la vie à distance.
+Clémence : Alors tu écartes toutes les solutions qui me permettent de garder un pied dans cette maison.
+Antoine : Je n'écarte rien, je regarde le coût de chaque option. Quand tu auras fait pareil, on en rediscutera, et je serai le premier à te donner raison si tes calculs tiennent.
+Clémence : C'est ça, je vais passer la nuit sur un tableur. Génial, merci pour la consigne.
+Antoine : Je ne te donne pas de consigne, Clém. Je cherche juste un terrain où on ne se fait pas mal.
+(Un long silence. Antoine va dans la cuisine remplir deux verres d'eau. Il revient et en tend un à sa sœur.)
+Antoine : Tiens. Bois un peu, tu es toute pâle.
+Clémence : Merci. Je ne voulais pas hurler, tu sais. Je ne sais pas ce qui m'a pris.
+Antoine : Moi non plus, je ne voulais pas t'énerver. J'ai mal géré, c'est tout.
+Clémence : On n'a pas dormi, ni toi ni moi, depuis l'enterrement. Ça se sent.
+Antoine : C'est vrai. Je suis arrivé jeudi, et j'ai dormi trois heures par nuit dans la chambre d'amis.
+Clémence : Tu as dormi dans le lit de Papy ? Ça ne t'a pas fait bizarre ?
+Antoine : Si, un peu. Mais j'ai trouvé dans la table de chevet une vieille photo de nous deux, sur la plage de Trouville.
+Clémence : Celle où tu as la tête dans le sable ? Je la cherchais partout.
+Antoine : Elle est dans ma valise. Je te la donne tout à l'heure.
+Clémence : Garde-la. Fais-en une copie, plutôt. Ça m'étonnerait que l'original me fasse plus d'effet que le tien.
+Antoine : D'accord. On fait des copies de tout ce qui compte, alors. Je scannerai les albums avant de repartir.
+Clémence : Ça, ça me va. Au moins, on ne se partage pas les souvenirs comme un héritage.
+Antoine : Non, ce serait absurde. Les souvenirs, ils sont à nous deux. Je ne veux pas qu'on les compte.
+Clémence : Ni les mettre dans un tableur.
+Antoine : Ni les mettre dans un tableur, promis. Ha, tu vois, je peux faire des concessions.
+Clémence : Une concession par jour, c'est un début. Il me reste ton tableur à digérer demain.
+Antoine : Je peux te l'envoyer ce soir, si tu veux. Il est lisible, je l'ai fait pour que ma femme comprenne.
+Clémence : Elle est plus patiente que moi, ta femme.
+Antoine : Elle est surtout moins attachée à cette maison. Elle l'a vue trois fois dans sa vie.
+Clémence : Alors elle a de la chance, elle. Elle ne souffrira pas du tout.
+(Ils s'assoient sur le canapé, entre deux cartons. La lumière de l'après-midi traverse les rideaux jaunis.)
+Clémence : Bon. Admettons que nous prenions le temps de regarder tout ça sérieusement. Par où commence-t-on ?
+Antoine : Par le plus pressant, à mon sens : le rendez-vous chez le notaire, mardi à dix heures. Il aura besoin des relevés de compte de Mamie et de la liste des assurances.
+Clémence : J'ai tout dans un classeur vert, à l'étage. Elle tenait ses papiers comme une comptable, je dois le reconnaître.
+Antoine : Elle avait une rigueur qui nous a toujours un peu dépassés, toi et moi. C'est à elle qu'on doit la seule maison de la famille sans dette.
+Clémence : Raison de plus pour ne pas la bazarder au premier acheteur venu.
+Antoine : Je ne parle pas de la bazarder. Je parle de choisir à qui on la confie. Madame Bertrand, la voisine, m'a demandé hier si on comptait vendre.
+Clémence : Madame Bertrand ? Celle qui apportait des tartes aux prunes ? Elle voudrait acheter pour elle ?
+Antoine : Pour son fils, qui cherche à se rapprocher de Paris avec ses enfants. Rien n'est fait, c'est une conversation de jardin, sans engagement de part et d'autre.
+Clémence : Ça change les choses, évidemment. Voir des gamins courir dans le jardin de Mamie, ce n'est pas tout à fait la même chose que d'y voir un panneau « À vendre ».
+Antoine : C'est ce que je pensais. Mais je n'ai rien promis, et je ne le ferai pas sans toi.
+Clémence : Heureusement. Tu comprends que ça ne m'enchante pas qu'on parle de ça entre voisins avant de m'en parler à moi.
+Antoine : Je comprends. Je te le dis maintenant, parce que je préfère que tu l'entendes de ma bouche plutôt que de la sienne.
+Clémence : Soit. Mais je te préviens, si la vente se fait, je veux choisir ce qu'on garde dans la cuisine : la table, le buffet, la cafetière italienne.
+Antoine : La table, sans hésitation. Je ne pourrais pas la regarder dans une brocante.
+Clémence : Et le buffet, ça te paraît raisonnable de le mettre dans mon salon de quarante mètres carrés ?
+Antoine : Non, mais ça te regarde. Si tu veux dormir avec le buffet de Mamie, personne ne t'en empêchera.
+Clémence : Ha ! Tu as de l'humour, enfin. Ça faisait longtemps.
+Antoine : Je me rattrape. C'est l'épuisement, il ne fait pas dans la nuance.
+Clémence : Tu parles ! Tu es aussi épuisé que moi, et pourtant tu trouves le moyen de plaisanter.
+Antoine : C'est ma stratégie de survie. Toi, tu cries, moi, je blague. On ne fait pas pareil, mais on s'en sort chacun à sa manière.
+(Clémence se lève et ouvre le buffet. Elle en sort des assiettes à fleurs et les pose une à une sur la table.)
+Clémence : Regarde celles-là. Le service de mariage de Papy et Mamie, soixante ans qu'il n'a pas bougé.
+Antoine : Il y manque l'assiette qu'on a cassée un Noël, tu te souviens ? Tu as accusé le chat, et Mamie a fait semblant de te croire.
+Clémence : Elle faisait semblant de tout croire, quand ça pouvait nous épargner. C'était sa façon d'aimer, au fond.
+Antoine : Et sa façon de nous éduquer. Elle disait : « Je ne veux pas savoir qui a fait quoi, je veux savoir qui va le réparer. »
+Clémence : Cette phrase-là, j'aimerais bien l'encadrer. Elle s'appliquerait à notre situation d'une manière presque indécente.
+Antoine : Alors appliquons-la. Je ne veux pas savoir qui a eu tort ce matin, je veux savoir comment on s'y prend pour réparer.
+Clémence : Tu es en train de me faire la morale avec les phrases de Mamie. C'est déloyal.
+Antoine : C'est efficace, surtout. Et c'est la seule autorité que tu reconnaisses, je le sais depuis l'enfance.
+Clémence : Soit. Concrètement, tu proposes quoi ? Pas de vente avant la fin de l'hiver ?
+Antoine : Pas de vente, pas d'agence, pas de promesse à madame Bertrand avant qu'on ait vu le notaire et que tu aies refait tes calculs. Je préfère perdre un mois que ta confiance.
+Clémence : Un mois, ce n'est rien, je te l'accorde. Mais si au bout de ce mois-là, tu me dis que tu as besoin de vendre pour des raisons personnelles, je veux l'entendre en face, pas dans un mail.
+Antoine : Entendu. Et si tu me dis que tu ne peux pas supporter l'idée de vendre, je veux que tu me le dises avant qu'il soit trop tard, pas après.
+Clémence : Marché conclu. Je n'ai pas l'habitude de transiger, mais pour cette fois, je fais un effort.
+Antoine : C'est déjà un effort immense, je mesure. Et moi, je préviens l'agence que le rendez-vous est annulé.
+Clémence : Appelle-les tout de suite. Je n'ai aucune envie d'ouvrir demain à un inconnu en pleurant dans l'entrée.
+Antoine : C'est fait, un SMS suffira. Ils ont l'habitude des annulations.
+Clémence : Ils ont l'habitude de tout, ces gens-là. Pour eux, une maison, c'est un dossier.
+Antoine : Et pour nous, c'est le chaudron où Mamie faisait sa soupe. Je sais bien que ce n'est pas comparable.
+Clémence : Tu as un don pour les formules, toi. Tu devrais écrire.
+Antoine : Je laisse ça aux autres. Moi, je m'occupe des tableurs, et toi des assiettes.
+(Le soleil baisse. Dans la cuisine, la vieille horloge sonne cinq heures.)
+Antoine : Cinq heures. Elle sonnait toujours un peu en retard, cette horloge.
+Clémence : Elle sonne toujours en retard, au présent. Je n'arrive pas à parler de Mamie au passé.
+Antoine : Moi non plus, c'est bizarre. Je dis encore « Mamie aime », « Mamie dit ».
+Clémence : Ça viendra, doucement. Ou ça ne viendra jamais, et ce sera très bien comme ça.
+Antoine : Tu as faim ? J'ai vu qu'il restait du pain rassis dans la boîte à pain.
+Clémence : Du pain rassis, des œufs, du lait... Tu es en train de me proposer du pain perdu ?
+Antoine : Je te propose d'essayer. J'ai mémorisé la recette, ou du moins l'ordre dans lequel elle mettait les choses.
+Clémence : Tu n'as jamais su la faire. La dernière fois, tu as mis du sel à la place du sucre.
+Antoine : Une erreur de jeunesse, prescrite depuis longtemps. Et puis tu seras là pour me corriger.
+Clémence : Je serai là pour te regarder te tromper, ce qui est beaucoup plus drôle.
+Antoine : Alors c'est d'accord. On le fait dans sa vieille poêle noire, celle qu'elle ne laissait toucher à personne.
+Clémence : Elle est dans le placard du bas. Elle a une odeur d'huile ancienne qui ne partira jamais.
+Antoine : Tant mieux. C'est exactement l'odeur que je cherche.
+Clémence : Tu sais, je n'ai pas changé d'avis sur la maison. Je ne sais pas si je le ferai un jour.
+Antoine : Je ne te demande pas de changer d'avis. Je te demande juste de ne pas me considérer comme l'ennemi.
+Clémence : Tu n'es pas l'ennemi. Tu es mon frère, et un peu tête de mule.
+Antoine : Je tiens ça de toi, selon Mamie.
+Clémence : Selon Mamie, on a tout pris d'elle. Elle avait réponse à tout.
+Antoine : Alors voilà notre accord : on mange, on dort, et on voit demain ce que chacun pense.
+Clémence : Soit. Mais je choisis le sucre. Toi, tu ne touches pas à la boîte à sel.
+
+## 낭독 포인트
+- 비음 모음: «maison», «indivision», «Montréal», «enfants» — on, an은 코로 울리는 모음이고 n은 따로 소리 내지 않는다. «indivision»은 in-di-vi-zion.
+- 연음·앙샹느망: «trois heures», «un inconnu», «c'est un» — 끝 자음이 다음 모음으로 넘어가 한 덩어리로 읽는다.
+- 프랑스어 r: «rigueur», «raison», «très bien» — 목젖 근처에서 내는 마찰음.
+- u / ou: «murs», «plus» vs «tout», «pour» — u는 입술을 모아 [y], ou는 [u].
+- 숫자: «cinq heures», «quarante mètres carrés», «soixante ans» — 숫자와 단위 사이 연음에 주의.
+- 억양: 1~40턴은 말이 빠르고 날이 서 있다가, 41턴부터 목소리가 낮아지고 느려진다. 비꼼(«Admirable sollicitude.», «Génial, merci pour la consigne.»)은 또박또박 건조하게. 남매는 tu를 쓴다.
+
+## 학습 포인트 정리
+- C1 구간(1~40턴): 격한 충돌과 반박
+  · 완곡한 비난: «Devant le fait accompli ? C'est précisément ce que tu es en train de faire.», «Une différence qui tient sur un fil.»
+  · 인정과 입장 유지: «J'ai eu tort sur la méthode. Sur le fond, en revanche, je n'ai pas changé d'avis.»
+  · 부분 양보: «Elle ne t'a pas dit « vendez », je te l'accorde.»
+  · 해법 제시: «Si tu veux la garder, on peut regarder comment tu me rachètes ma part, avec une soulte.»
+- B2 구간(41~60턴): 가라앉는 대화
+  · 사과와 화해: «Je ne voulais pas hurler, tu sais.», «J'ai mal géré, c'est tout.»
+  · 기억 나누기: «Les souvenirs, ils sont à nous deux.»
+- C1 구간(61~100턴): 실무와 합의
+  · 절차 이야기: «le rendez-vous chez le notaire», «sans engagement de part et d'autre»
+  · 관용구: «Raison de plus pour ne pas la bazarder.», «Marché conclu.»
+  · 약속의 형태: «Pas de vente, pas d'agence, pas de promesse avant qu'on ait vu le notaire.»
+- C1 구간(101~120턴): 일상의 마무리
+  · 애정을 담은 놀림: «Tu es mon frère, et un peu tête de mule.»
+  · 열린 결말: «On mange, on dort, et on voit demain ce que chacun pense.»
+- 어휘: l'indivision, la soulte, la succession, le notaire, le tableur, la brocante, le pain perdu, le buffet, les dernières volontés.
+
+## 속어 노트
+- «devant le fait accompli»: 이미 결정된 일을 통보받은 상태로. 상대 의견을 묻지 않았다는 비난.
+- «bazarder»: 헐값에 처분하다, 내다 팔다.
+- «Marché conclu.»: 좋아요, 그렇게 합시다.
+- «Tu parles !»: 말도 마, 무슨 소리야. 빈정거림으로 쓰인다.
+- «ça ne m'enchante pas»: 마음에 들지 않는다. 일부러 약하게 말하는 완곡어.
+- «tête de mule»: 고집불통.
+- 이 이야기의 상속 절차, 공증인 상담, 비용과 책임 범위는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 남매는 tu를 쓰고, 긴장될 때는 비꼬는 어투가 늘어난다.
+
+## 한글 해석
+(몽트레유의 교외 주택, 십일월의 토요일. 거실에 반쯤 채워진 상자들이 있다. 클레망스가 사진을 분류한다. 앙투안이 서류를 한 장 들고 들어온다.)
+클레망스 : 오늘 아침 부동산 직원이 전화해서 '감정 일정을 확인'하겠다는데 설명 좀 해 줄래? 할머니 돌아가신 지 여섯 주야, 앙투안.
+앙투안 : 진정해, 클렘. 말하려던 참이었어, 네게 통보부터 하기 전에 대략의 규모만 알고 싶었어.
+클레망스 : 통보부터라고? 지금 네가 하는 짓이 바로 그거야. 나한테 말도 없이 집을 감정 의뢰했잖아.
+앙투안 : 집을 팔려는 게 아니라 감정하려는 거야. 차이가 있다는 건 인정하겠지.
+클레망스 : 실날같은 차이고, 너도 잘 알잖아. 가치를 먼저 묻기 시작하면 나머지는 이미 보내 놨다는 거야.
+앙투안 : 아니면 어른이라서 그런 거고. 공증인이 말했잖아, 공동 소유로 남아 있는 동안엔 둘이 비용을 내야 해, 재산세, 보험, 빈집 난방비까지.
+클레망스 : 비용은 나도 알아, 고마워. 내가 열다섯 살이라도 되는 듯 공동 소유를 설명해 줄 필요 없어.
+앙투안 : 그럴 뜻은 아니었어. 하지만 나는 몬트리올에 살아서 주말마다 여기 와서 장을 비울 수 없다는 건 알아 둬.
+클레망스 : 나는 가능하다는 거야? 애가 둘이고 책임 있는 직책이고, 지난겨울 매주 화요일마다 할머니를 병원에 모신 것도 나야.
+앙투안 : 그걸 부정한 적 없어, 고맙게 생각하고, 너도 알잖아. 그래서 더는 이 모든 부담이 너 한 사람에게 쏠리지 않았으면 하는 거야.
+클레망스 : 참 갸륵한 배려네. 그런데 나를 덜어 주는 제일 좋은 방법은, 모르는 사람이 할머니 거실을 레이저로 재러 오기 전에 내 의견부터 묻는 거였어.
+앙투안 : 알았어, 방식이 잘못됐어. 돌려 말 안 할게. 하지만 본질에서는 생각이 안 바뀌었어. 이 집은 간직할 수 없어.
+클레망스 : '간직할 수 없다'고? 누가 정했는데? 몬트리올 사무실에서 스프레드시트로 네가?
+앙투안 : 아마 너랑 같은 스프레드시트로겠지. 상속세, 지붕 공사, 언제 적 건지 모르는 보일러...
+클레망스 : 일요일 아침 프렌치토스트 냄새는 스프레드시트에 넣었어? 이 정원에서 보낸 다섯 번의 여름은?
+앙투안 : 아니, 생각만 해도 마음이 아파, 믿어 줘. 하지만 프렌치토스트 냄새가 지붕 수리비 청구서를 해결해 주진 않아.
+클레망스 : 그럼 솔직히 말해: 돈이 필요하단 거지.
+앙투안 : 나는 무엇보다 우리가 박물관 지기 노릇을 그만두길 바라는 거야. 할머니도 이 정도 비용으로 유지하길 원하지 않으셨을 거야. 할머니가 내게도 말씀하셨어.
+클레망스 : 할머니가 그렇게 말하셨다고? 언제?
+앙투안 : 이 년 전 크리스마스, 부엌에서. 넌 케이크 가지러 갔을 때였어. 널 슬프게 할까 봐 한 번도 말 안 했어.
+(클레망스가 들고 있던 사진을 내려놓는다. 동생을 똑바로 쳐다본다.)
+클레망스 : 그렇게 말씀하셨을 리 없어. 팔길 원하신 적 없어, 내게는 백 번도 넘게 말씀하셨어.
+앙투안 : '팔아라'라고 하신 건 아니야, 인정해. 할머니는 '벽 때문에 싸우지 마라'고 하셨어. '간직해라'와는 아주 달라.
+클레망스 : 돌아가신 분의 마지막 뜻을 풀이하기엔 참 편리한 방식이네.
+앙투안 : 마지막 뜻이 아니야, 클렘, 크리스마스 저녁에 한 말일 뿐이야. 그걸 유언 삼을 생각은 없어.
+클레망스 : 그럼 부동산 방문을 정당화하는 논거로 쓰지는 마.
+앙투안 : 좋아. 그 논거는 철회할게. 그래도 숫자는 할머니가 뭐라고 하셨든 안 하셨든 달라지지 않아.
+클레망스 : 숫자, 늘 숫자. 내가 걸음마를 배운 집이 제곱미터당 가격으로 요약되는 걸 보는 기분을 알아?
+앙투안 : 정확히 알아, 나도 똑같으니까. 다만 나는 계산하면서 나를 지키는 거야. 무너지지 않으려는 내 방식이야.
+클레망스 : 나는 물건을 만져야 해. 더 값나가는 것도 아니고 아무 수익도 없지만, 그게 필요해.
+앙투안 : 물건을 포기하라는 게 아니야. 원하는 건 다 가져, 나는 아무것도 달라고 안 해. 가구도 그릇도 책도.
+클레망스 : 아무것도 '달라고' 안 한다고. 참 너그럽네, 중요한 재산은 집뿐인데.
+앙투안 : 그건 불공평해. 널 빼앗으려는 게 아니야. 간직하고 싶으면, 네가 내 지분을 사는 방법을 볼 수 있어, 정산금이든 대출이든, 공증인이 말하는 '조건'들이지.
+클레망스 : 네 지분을 산다고? 뭘로? 지붕이 새는 집 때문에 이십 년 대출을 받을 순 없어.
+앙투안 : 바로 그 점이야. 우리 둘 중 누구도 혼자 감당하기 어렵고, 정직한 출구는 매각뿐이야.
+클레망스 : 아니면 임대. 세를 주고 월세를 나누면 돼. 결정할 시간은 벌잖아.
+앙투안 : 나도 생각했어. 하지만 임대하면 기준에 맞추는 공사, 세입자, 입주 점검 같은 게 따라와. 멀리서 우리 삶을 갉아먹을 거야.
+클레망스 : 그러니까 이 집에 발 하나라도 걸쳐 둘 수 있는 해법은 전부 치우는 거네.
+앙투안 : 치우는 게 아니라 선택지마다 비용을 보는 거야. 너도 해 보고 나서 다시 얘기하자, 네 계산이 맞으면 내가 먼저 네 말이 옳다고 할게.
+클레망스 : 그래, 밤새 스프레드시트나 붙들고 있으라고. 훌륭한 지시네, 고마워.
+앙투안 : 지시하는 게 아니야, 클렘. 서로 다치지 않을 자리를 찾는 것뿐이야.
+(긴 침묵. 앙투안이 부엌에 가서 물 두 잔을 채워 온다. 한 잔을 누나에게 건넨다.)
+앙투안 : 자. 좀 마셔, 얼굴이 창백해.
+클레망스 : 고마워. 소리 지르려던 건 아니야. 내가 왜 그랬는지 모르겠어.
+앙투안 : 나도 널 화나게 하려던 건 아니야. 내가 일을 서툴게 처리한 것뿐이야.
+클레망스 : 장례 이후로 우리 둘 다 못 잤어. 티가 나.
+앙투안 : 맞아. 목요일에 와서 손님방에서 하루 세 시간밖에 못 잤어.
+클레망스 : 할아버지 침대에서 잤어? 이상하지 않았어?
+앙투안 : 조금은. 그런데 협탁에서 트루빌 해변에서 찍은 우리 둘 옛날 사진을 찾았어.
+클레망스 : 네가 모래에 머리를 박고 있던 그거? 사방으로 찾았는데.
+앙투안 : 내 가방에 있어. 이따 줄게.
+클레망스 : 네가 가지고 있어. 차라리 복사본을 만들어 줘. 원본이 내게 더 와닿을 것 같진 않아.
+앙투안 : 알았어. 중요한 건 다 복사본을 만들자. 떠나기 전에 앨범을 스캔할게.
+클레망스 : 그건 좋아. 적어도 추억을 유산처럼 나누진 않으니까.
+앙투안 : 그래, 그건 말이 안 돼. 추억은 우리 둘 거야. 따져서 나누고 싶지 않아.
+클레망스 : 스프레드시트에 넣지도 말고.
+앙투안 : 스프레드시트에도 안 넣을게, 약속해. 하, 봐, 나도 양보할 수 있다니까.
+클레망스 : 하루에 한 번 양보면 시작은 했네. 내일 네 스프레드시트를 소화해야 하겠지만.
+앙투안 : 원하면 오늘 밤에 보내 줄게. 아내가 이해하도록 만든 거라 보기 쉬워.
+클레망스 : 네 아내는 나보다 참을성이 많네.
+앙투안 : 그보다 이 집에 애착이 덜해. 평생 세 번 봤거든.
+클레망스 : 그럼 걔는 운이 좋네. 전혀 아프지 않을 테니까.
+(둘은 상자 두 개 사이의 소파에 앉는다. 오후의 빛이 누렇게 바랜 커튼으로 들어온다.)
+클레망스 : 좋아. 이 모든 걸 진지하게 살펴볼 시간을 갖는다고 치자. 어디서부터 시작해?
+앙투안 : 내 생각엔 제일 급한 것부터야. 화요일 열 시에 공증인 약속이 있어. 할머니의 계좌 내역과 보험 목록이 필요할 거야.
+클레망스 : 위층 초록 파일에 다 있어. 할머니는 회계사처럼 서류를 정리하셨지, 인정해야 해.
+앙투안 : 우리 둘이 늘 못 따라간 철저함이 있으셨지. 집안에서 유일하게 빚 없는 집은 할머니 덕분이야.
+클레망스 : 그러니 처음 온 구매자에게 헐값에 넘기면 안 될 이유가 더 생기네.
+앙투안 : 헐값에 넘기자는 게 아니야. 누구에게 맡길지 고르자는 거야. 이웃 베르트랑 부인이 어제 우리가 팔 계획이냐고 물었어.
+클레망스 : 베르트랑 부인? 자두 파이 가져다주시던 분? 본인이 사시려고?
+앙투안 : 아들을 위해서래, 아이들과 파리에 더 가까이 오려고 한대. 정해진 건 없어, 정원에서 나눈 얘기일 뿐이고 서로 약속도 없어.
+클레망스 : 상황이 달라지긴 하네. 할머니 정원에서 아이들이 뛰어노는 걸 보는 건 '매물' 푯말을 보는 것과 완전히 같진 않으니까.
+앙투안 : 나도 그렇게 생각했어. 하지만 아무것도 약속 안 했고, 너 없이는 안 할 거야.
+클레망스 : 다행이네. 이웃끼리 그 얘기가 먼저 오가고 나는 그다음에 듣는 건 마음에 들지 않아.
+앙투안 : 이해해. 지금 말하는 건 네가 그분 입이 아니라 내 입으로 듣는 게 낫다고 생각해서야.
+클레망스 : 알겠어. 그래도 미리 말해 두는데, 팔게 되면 부엌에서 간직할 걸 내가 고를 거야. 식탁, 찬장, 이탈리아식 커피 주전자.
+앙투안 : 식탁은 당연하지. 벼룩시장에서 그걸 볼 자신이 없어.
+클레망스 : 찬장은 사십 제곱미터 내 거실에 두는 게 합리적이라고 생각해?
+앙투안 : 아니, 하지만 그건 네 일이야. 할머니 찬장과 함께 자고 싶으면 아무도 안 말려.
+클레망스 : 하! 드디어 유머가 나오네. 오랜만이다.
+앙투안 : 만회하는 중이야. 피로가 문제야, 뉘앙스를 가리지 않거든.
+클레망스 : 말도 마! 너도 나만큼 지쳤는데 농담할 여유는 있네.
+앙투안 : 내 생존 전략이야. 너는 소리를 지르고 나는 농담을 해. 방식은 달라도 각자 헤쳐 나가는 거지.
+(클레망스가 일어나 찬장을 연다. 꽃무늬 접시를 꺼내 하나씩 식탁 위에 놓는다.)
+클레망스 : 이것 좀 봐. 할아버지 할머니 결혼 식기 세트야, 육십 년 동안 그대로야.
+앙투안 : 어느 크리스마스에 우리가 깬 접시는 비어 있네, 기억나? 네가 고양이 탓을 했는데 할머니가 믿는 척하셨지.
+클레망스 : 우리를 지켜 줄 수 있을 땐 뭐든 믿는 척하셨어. 결국 그게 할머니의 사랑 방식이었어.
+앙투안 : 그리고 가르치는 방식이었지. '누가 뭘 했는지는 알고 싶지 않다, 누가 고칠지가 알고 싶다'고 하셨어.
+클레망스 : 그 말은 액자에 넣고 싶어. 지금 우리 상황에 거의 민망할 만큼 딱 들어맞아.
+앙투안 : 그럼 적용하자. 오늘 아침 누가 틀렸는지는 알고 싶지 않아, 어떻게 고칠지가 알고 싶어.
+클레망스 : 할머니 말씀으로 훈계하는 거야? 반칙이야.
+앙투안 : 효과적인 거지. 그리고 네가 인정하는 유일한 권위인 걸 어릴 때부터 알았어.
+클레망스 : 알겠어. 구체적으로 뭘 제안해? 겨울이 끝나기 전엔 매각 없다?
+앙투안 : 매각도 없고, 부동산도 없고, 공증인을 만나고 네가 다시 계산해 볼 때까지 베르트랑 부인께 약속도 안 해. 한 달을 잃는 게 네 신뢰를 잃는 것보다 나아.
+클레망스 : 한 달은 아무것도 아니니 인정해. 하지만 그 한 달 뒤에 개인 사정 때문에 팔아야 한다면, 메일 말고 얼굴 보고 듣고 싶어.
+앙투안 : 알았어. 그리고 팔 생각을 견딜 수 없다면 너무 늦기 전에 말해 줘, 늦은 뒤 말고.
+클레망스 : 좋아, 그렇게 하자. 난 타협에 익숙지 않지만 이번엔 노력할게.
+앙투안 : 이미 엄청난 노력이라는 거 알아. 그럼 나는 부동산에 약속을 취소한다고 알릴게.
+클레망스 : 지금 바로 연락해. 내일 모르는 사람에게 현관에서 울면서 문을 열고 싶지 않아.
+앙투안 : 했어, 문자 한 통이면 돼. 취소에는 익숙한 사람들이야.
+클레망스 : 그 사람들은 뭐든 익숙하지. 그들에게 집은 서류 한 건이니까.
+앙투안 : 우리에게는 할머니가 수프를 끓이던 솥이고. 비교할 수 없다는 건 잘 알아.
+클레망스 : 넌 표현에 재주가 있어. 글을 써 봐.
+앙투안 : 그건 남에게 맡길게. 나는 스프레드시트, 너는 접시 담당이야.
+(해가 기운다. 부엌에서 낡은 시계가 다섯 시를 친다.)
+앙투안 : 다섯 시네. 이 시계는 늘 조금 늦게 쳤지.
+클레망스 : 지금도 늦게 쳐, 현재형으로. 나는 할머니를 과거형으로 말하지 못하겠어.
+앙투안 : 나도 그래, 이상하지. 아직도 '할머니는 좋아하신다', '할머니가 말씀하신다'고 해.
+클레망스 : 서서히 올 거야. 아니면 영영 안 오고, 그것도 괜찮을 거고.
+앙투안 : 배고파? 빵 상자에 굳은 빵이 남아 있는 걸 봤어.
+클레망스 : 굳은 빵, 달걀, 우유... 프렌치토스트 하자는 거야?
+앙투안 : 해 보자는 거야. 레시피를 외웠어, 적어도 할머니가 넣던 순서는.
+클레망스 : 넌 한 번도 못 했잖아. 지난번엔 설탕 대신 소금을 넣었어.
+앙투안 : 젊은 날의 실수라 공소시효가 지났어. 그리고 네가 옆에서 고쳐 주겠지.
+클레망스 : 네가 틀리는 걸 구경하러 있을 거야, 그게 훨씬 재밌으니까.
+앙투안 : 그럼 정해졌네. 할머니의 낡은 검은 프라이팬으로 하자, 아무도 못 만지게 하셨던 그거.
+클레망스 : 아래 찬장에 있어. 낡은 기름 냄새가 나는데 절대 안 빠질 거야.
+앙투안 : 오히려 좋아. 내가 찾는 냄새가 바로 그거야.
+클레망스 : 있잖아, 집에 대한 내 생각은 안 바뀌었어. 언젠가 바뀔지도 모르겠고.
+앙투안 : 생각을 바꾸라는 게 아니야. 나를 적으로 보지만 말아 줘.
+클레망스 : 적 아니야. 내 동생이고, 좀 고집불통일 뿐이지.
+앙투안 : 할머니 말씀대로면 그건 누나를 닮은 거야.
+클레망스 : 할머니 말씀대로면 우린 전부 할머니를 닮았지. 할머니는 모든 일에 답이 있으셨어.
+앙투안 : 그럼 합의하자. 먹고, 자고, 내일 각자 어떻게 생각하는지 보는 거야.
+클레망스 : 알겠어. 하지만 설탕은 내가 고를래. 너는 소금 통에 손도 대지 마.

@@ -1,0 +1,293 @@
+# 6부 12화. Appeler le 15 (15번에 전화하기)
+난이도: 주 B2 | 구간: B2→B2→B2→B2→B1→B1 | 형식: 전화 | 장소: 전화 통화(야신은 크레테유의 부모님 집 거실, 클레르는 SAMU 상담실) | 시간: 수요일 밤 아홉 시 십 분
+등장인물: Claire, Yassine
+이슈: 주 ◐ 응급 상황에서 본인 뜻과 안전, 차로 데려갈지 구급대를 기다릴지의 판단 | 곡선: 1-2-2-2-1-0 (정점형, 상한 2) | 입장: A 야신(아버지가 싫어하고 빨리 병원에 가고 싶다) / B 클레르(스스로 이동하지 말고 구급대를 기다리며 지시를 따라야 한다)
+상황 카드: 야신이 아버지의 가슴 통증을 알리려 15번(SAMU)에 전화한다. 아버지는 소란 피우기 싫다며 구급차를 거절하고, 야신은 직접 차로 병원에 가고 싶어 한다. 상담원 클레르는 침착하게 질문하고, 이동하지 말라고 설명하며 지시를 준다. 구급대가 도착하면 야신은 안도하며 통화를 마친다.
+학습 포인트: 응급 전화 말하기(Quelle est la nature de votre appel ?) · 주소·나이·증상 말하기(Il a une douleur dans la poitrine) · 지시 따르기(Restez en ligne, Desserrez ses vêtements) · 걱정과 설득(Surtout pas, Je préfère cela à l'inverse) · 감사 인사(Merci beaucoup, madame)
+
+## 대화
+(Mercredi, vingt et une heures dix. Yassine appelle le 15 depuis le salon de ses parents, à Créteil. Il parle vite, la voix serrée. Claire, assistante de régulation, décroche.)
+Claire : SAMU, bonjour, j'écoute. Quelle est la nature de votre appel ?
+Yassine : Bonsoir, madame. C'est pour mon père. Il a une douleur dans la poitrine, depuis dix minutes.
+Claire : D'accord, je suis avec vous. Quel est votre nom, monsieur ?
+Yassine : Yassine Benali. Mon père s'appelle Karim Benali.
+Claire : Merci, monsieur Benali. Pouvez-vous me donner l'adresse exacte, avec la ville ?
+Yassine : Douze rue des Écoles, à Créteil. Troisième étage, porte gauche.
+Claire : Douze rue des Écoles, Créteil, troisième gauche. J'ai bien noté. Y a-t-il un code d'entrée ?
+Yassine : Oui, le 4 5 7 2. Il y a aussi un interphone, nom Benali.
+Claire : Parfait. Quel âge a votre père ?
+Yassine : Soixante-huit ans.
+Claire : Il est conscient ? Il vous répond ?
+Yassine : Oui, il me répond, mais il est très pâle et il transpire beaucoup.
+Claire : Où a-t-il mal, exactement ? Décrivez-moi avec vos mots.
+Yassine : Au milieu de la poitrine. Il dit que ça serre, comme un étau, et ça descend dans le bras gauche.
+Claire : Je comprends. Est-ce qu'il a déjà eu des problèmes de cœur ?
+Yassine : Oui, il y a trois ans. Il a eu une opération, des stents, je crois.
+Claire : Très bien. Prend-il des médicaments ?
+Yassine : Oui, pour le cœur et pour la tension. Je peux avoir l'ordonnance, elle est sur la table.
+Claire : Gardez-la près de vous. Il respire normalement ?
+Yassine : Il respire un peu vite, mais oui, il respire.
+Claire : Restez avec moi, monsieur Benali. Je vais déclencher les secours immédiatement.
+Yassine : Attendez, mon père dit qu'il ne veut pas d'ambulance. Il dit que ça va passer.
+Claire : Je comprends sa réaction, mais avec les symptômes que vous décrivez, il faut une prise en charge médicale tout de suite.
+Yassine : Il a peur de déranger. Il dit qu'on fait un cirque pour rien.
+Claire : Ce n'est pas un cirque. Une douleur à la poitrine qui irradie dans le bras, c'est une urgence.
+Yassine : Mais il y a déjà eu des fausses alertes. Il y a six mois, ça s'était calmé tout seul.
+Claire : Peut-être. Mais je ne peux pas prendre ce risque, et vous non plus.
+Yassine : Et si c'est rien ? Il sera furieux contre moi.
+Claire : Si ce n'est rien, il sera furieux, mais en vie et bien soigné. Je préfère cela à l'inverse.
+Yassine : Vous avez raison. Je n'ose pas insister devant lui.
+Claire : Passez-moi la parole si vous le voulez, je peux lui expliquer moi-même.
+Yassine : Papa, la dame du SAMU veut te parler. Non, ne fais pas cette tête.
+Claire : Monsieur Benali père, je suis assistante de régulation. Vous m'entendez ?
+Yassine : Il dit qu'il vous entend. Il fait la moue, mais il écoute.
+Claire : Expliquez-lui simplement que je ne suis pas là pour l'obliger. Mais que l'équipe médicale doit l'examiner ce soir.
+Yassine : Je lui dis. Il dit « d'accord, mais pas de sirène ».
+Claire : Je ne peux pas promettre pour la sirène, c'est selon la circulation. Mais l'équipe sera discrète.
+Yassine : Il hoche la tête. Il accepte.
+Claire : Merci. Je lance l'envoi d'une équipe maintenant. Restez bien en ligne avec moi.
+Yassine : Je ne bouge pas. Merci, madame.
+Claire : Voici ce que je vous demande de faire. Installez-le en position assise, le dos bien soutenu.
+Yassine : Il est déjà assis dans le fauteuil, avec un coussin dans le dos.
+Claire : Très bien. Desserrez ses vêtements, le col de sa chemise par exemple. Ne lui donnez ni à boire ni à manger.
+Yassine : D'accord. Et je peux lui donner de l'aspirine ? Il en a dans l'armoire de la salle de bains.
+Claire : Ne lui donnez aucun médicament pour l'instant. Je vais vous passer le médecin régulateur, qui décidera.
+Yassine : Quoi, je dois attendre ? Si ça dure, je ferais mieux de l'emmener moi-même en voiture.
+Claire : Surtout pas. Il ne faut pas qu'il se déplace, ni qu'il monte en voiture, ça pourrait aggraver les choses.
+Yassine : Mais l'hôpital est à dix minutes, et votre équipe, elle met combien de temps ?
+Claire : Je ne peux pas vous donner d'horaire précis, mais ils font au plus vite. Une équipe est en route.
+Yassine : C'est ce que tout le monde dit. Je ne suis pas rassuré, désolé.
+Claire : Je comprends votre angoisse. Mais en voiture, personne ne le surveille, tandis qu'ici, il est avec vous et moi, à distance.
+Yassine : Vous avez raison. Pardon, je suis sur les nerfs.
+Claire : C'est normal. Respirez, vous faites exactement ce qu'il faut.
+Yassine : Il commence à avoir des sueurs froides. Je ne sais pas si c'est pire.
+Claire : Je note. Vous m'avez dit : sueurs froides, douleur au bras, toujours conscient. C'est bien cela ?
+Yassine : Oui. Et maintenant, il dit qu'il a un peu mal au cœur, comme une envie de vomir.
+Claire : Je prends ça en compte. Le médecin est en ligne dans quelques secondes.
+Yassine : D'accord. Mais s'il s'évanouit, qu'est-ce que je fais ?
+Claire : S'il perd connaissance, dites-le-moi tout de suite, je vous guiderai pas à pas.
+Yassine : Compris. Je suis là, je ne bouge pas.
+Claire : Le médecin régulateur écoute avec moi. Il me demande si votre père est allergique à un médicament.
+Yassine : Non, aucune allergie, pas à ma connaissance. Mais pourquoi tant de questions ? On perd du temps.
+Claire : Ces questions permettent à l'équipe d'arriver préparée. Aucune seconde n'est perdue, je vous assure.
+Yassine : Mon père prend un anticoagulant, je crois. Je vais vérifier sur l'ordonnance.
+Claire : Oui, lisez-moi les noms des médicaments, doucement. Je note chacun.
+Yassine : Alors, voilà... le premier, c'est écrit « bisoprolol ». Le deuxième... « atorvastatine ».
+Claire : Merci. Y a-t-il un troisième nom ?
+Yassine : Oui. Un anticoagulant, « apixaban », je crois. Je ne suis pas sûr de la prononciation.
+Claire : C'est suffisant, je l'ai noté. Le médecin dit que votre père a bien fait de ne pas prendre d'aspirine.
+Yassine : Je suis content de vous avoir écoutée alors. J'étais à deux doigts de lui en donner.
+Claire : Vous avez bien réagi. Vous avez gardé la tête froide, c'est l'essentiel.
+Yassine : Je ne me sens pas lucide, je vous jure.
+Claire : Pourtant, vous l'êtes. Maintenant, allez ouvrir la porte d'entrée et laissez-la entrouverte, pour que l'équipe entre vite.
+Yassine : Ouvrir la porte ? Je dois laisser mon père seul ?
+Claire : Ce sera dix secondes. Prenez le téléphone avec vous, je reste en ligne.
+Yassine : D'accord, je me lève. Papa, je reviens tout de suite, ne bouge pas.
+Claire : Dites-moi quand c'est fait.
+Yassine : C'est fait. La porte est entrouverte, et j'ai allumé la lumière du palier.
+Claire : Parfait. Il y a un ascenseur dans l'immeuble ?
+Yassine : Oui, et il fonctionne. Je vais descendre voir si je vois les secours arriver ?
+(Dans l'appartement, le calme revient un peu. Yassine s'assoit près de son père.)
+Claire : Non, restez auprès de votre père. L'équipe va trouver l'appartement avec l'adresse.
+Yassine : D'accord. Je suis revenu près de lui. Il me regarde, il sourit un peu.
+Claire : C'est bon signe. Il parle ?
+Yassine : Oui, il dit qu'il a moins mal. Mais il est encore pâle.
+Claire : Dites-lui de rester calme, sans parler beaucoup. Il peut respirer lentement.
+Yassine : Papa, respire doucement. Voilà, comme ça.
+Claire : Très bien. Vous avez une couverture ? Il ne faut pas qu'il ait froid.
+Yassine : Oui, une petite couverture sur le canapé. Je la mets sur ses épaules.
+Claire : Parfait. Il y a quelqu'un d'autre à la maison ?
+Yassine : Ma mère est chez ma tante ce soir. Je l'ai prévenue par message.
+Claire : D'accord. Elle peut venir plus tard, ce n'est pas urgent maintenant.
+Yassine : Je vais lui dire de rester là-bas. Elle va s'inquiéter.
+Claire : Dites-lui que son mari est pris en charge. Cela la rassurera.
+Yassine : Je lui envoie un message après. Là, je reste avec vous.
+Claire : Bonne idée. Comment vous sentez-vous, vous ?
+Yassine : Mieux. Ma voix tremble encore, mais ça va.
+Claire : C'est normal. Vous avez très bien géré la situation.
+Yassine : Merci. Vous avez été très patiente avec moi.
+Claire : C'est mon métier, et vous m'avez bien aidée. Les secours sont proches.
+Yassine : Ils seront là dans combien de temps, à peu près ?
+(Des pas résonnent dans l'escalier.)
+Claire : Il reste cinq minutes environ. Vous entendez quelque chose dans l'escalier ?
+Yassine : Oui, des pas. Et une voix qui dit « SAMU ! ».
+Claire : Ce sont eux. Dites-leur que vous venez d'avoir la régulation et donnez-leur l'ordonnance.
+Yassine : Je la leur donne. Ils sont là, deux personnes en veste rouge.
+Claire : Parfait. Je vous laisse avec l'équipe. Vous avez fait ce qu'il fallait.
+Yassine : Merci beaucoup, madame. Vraiment. Vous m'avez beaucoup aidé.
+Claire : Je vous en prie. Prenez soin de votre père, et de vous-même aussi.
+Yassine : Je vais essayer. Je peux vous poser une dernière question ?
+Claire : Bien sûr, allez-y.
+Yassine : Vous faites ça toute la nuit ? Entendre des gens paniqués au bout du fil ?
+Claire : Oui, jusqu'à six heures du matin. Mais c'est une belle façon d'aider.
+Yassine : Je ne sais pas comment vous faites pour garder votre calme.
+Claire : L'habitude, et un peu de thé. J'en bois beaucoup pendant mes gardes.
+Yassine : Alors, du thé pour vous ce soir, de ma part.
+Claire : Merci, c'est gentil. Je le boirai à votre santé, et à celle de votre père.
+Yassine : Je vous tiens au courant. Enfin, non, vous n'avez pas mon numéro.
+Claire : Si, il s'est affiché. Mais ce n'est pas nécessaire, ne vous inquiétez pas pour moi.
+Yassine : Bon. Alors, bonne soirée, madame. Et encore merci.
+Claire : Bonne soirée, monsieur Benali. Le médecin va s'occuper de votre père maintenant.
+Yassine : Au revoir. Et bonne continuation.
+
+## 낭독 포인트
+- 비음 모음: «bonsoir», «ambulance», «médicament», «cinq minutes» — on, an, en, in은 코로 울리는 모음이고 끝의 n은 따로 발음하지 않는다.
+- 연음: «vous avez», «il est», «Vous m'avez» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «rue des Écoles», «respirez», «rassuré» — 목젖 근처에서 내는 마찰음.
+- u / ou: «rue», «tout de suite» vs «vous» — u는 입술을 모아 [y], ou는 [u].
+- 묵음 e: «douze», «porte» — 어말 e는 거의 소리 나지 않는다.
+- 숫자·주소: «douze rue des Écoles», «soixante-huit ans» — 주소와 나이는 또박또박. 코드 «4 5 7 2»는 한 자리씩 끊어 읽는다.
+- 억양: 클레르는 처음부터 끝까지 낮고 일정하게, 천천히. 야신은 처음엔 빠르고 높게, 구급대가 올 때 점점 안정된다. 상담원은 vous를 쓰고 환자 가족도 vous로 답한다.
+
+## 학습 포인트 정리
+- B2 구간(1~20턴): 응급 전화의 첫 질문
+  · 시작: «SAMU, bonjour, j'écoute.», «Quelle est la nature de votre appel ?»
+  · 정보 주기: «Douze rue des Écoles, à Créteil.», «Il a une douleur dans la poitrine, depuis dix minutes.»
+  · 증상: «Il est très pâle et il transpire beaucoup.», «ça serre, comme un étau»
+- B2 구간(21~40턴): 환자의 거절과 설득
+  · 거절: «Il dit qu'il ne veut pas d'ambulance.», «Il dit qu'on fait un cirque pour rien.»
+  · 설득: «Ce n'est pas un cirque.», «Je préfère cela à l'inverse.»
+- B2 구간(41~60턴): 지시와 의견 충돌
+  · 지시: «Installez-le en position assise.», «Desserrez ses vêtements.», «Ne lui donnez ni à boire ni à manger.»
+  · 불안: «Si ça dure, je ferais mieux de l'emmener moi-même en voiture.», «Surtout pas.»
+- B2 구간(61~80턴): 정보 확인
+  · 질문: «Il est allergique à un médicament ?», «Prend-il des médicaments ?»
+  · 칭찬·안심: «Vous avez gardé la tête froide.», «Dites-moi quand c'est fait.»
+- B1 구간(81~120턴): 기다림과 마무리
+  · 짧은 지시: «Restez auprès de votre père.», «Il ne faut pas qu'il ait froid.»
+  · 감사·마무리: «Merci beaucoup, madame.», «Je vous en prie.», «Bonne continuation.»
+- 어휘: le SAMU, la régulation, les secours, l'ordonnance, l'ambulance, le palier, l'anticoagulant, la sueur froide.
+
+## 속어 노트
+- «faire un cirque»: 소란을 떨다, 호들갑을 떨다.
+- «être sur les nerfs»: 신경이 곤두서 있다.
+- «à deux doigts de»: 하마터면 …할 뻔한.
+- «Bonne continuation»: 계속 잘 지내세요(마무리 인사).
+- «Passez-moi la parole»: 제가 직접 말하게 해 주세요(전화를 바꿔 달라는 뜻).
+- 응급 전화 절차, 처치 지시, 약 이름은 모두 이야기 속 설정이며 실제 적용은 확인 필요. 실제로 응급일 때는 지역 번호(15 또는 112)로 전화한다.
+- 레지스터 주의: 욕설은 없다. 상담원과 신고자는 서로 vous로 말하고, 야신이 아버지에게는 tu로 말한다.
+
+## 한글 해석
+(수요일 밤 아홉 시 십 분. 야신이 크레테유 부모님 집 거실에서 15번에 전화한다. 말이 빠르고 목소리가 조여 있다. 의료 상담원 클레르가 전화를 받는다.)
+클레르 : SAMU입니다, 말씀하세요. 어떤 일로 전화하셨나요?
+야신 : 안녕하세요. 아버지 때문에요. 십 분 전부터 가슴에 통증이 있어요.
+클레르 : 알겠습니다, 함께 있겠습니다. 성함이 어떻게 되세요?
+야신 : 야신 베날리예요. 아버지 이름은 카림 베날리고요.
+클레르 : 감사합니다, 베날리 씨. 도시 이름까지 정확한 주소를 말씀해 주시겠어요?
+야신 : 크레테유 레제콜 가 12번지요. 3층 왼쪽 문이에요.
+클레르 : 크레테유 레제콜 가 12번지, 3층 왼쪽. 잘 적었습니다. 출입 코드가 있나요?
+야신 : 네, 4 5 7 2예요. 인터폰도 있고 이름은 베날리예요.
+클레르 : 좋습니다. 아버님 연세가 어떻게 되시나요?
+야신 : 예순여덟 살이에요.
+클레르 : 의식은 있으신가요? 대답을 하시나요?
+야신 : 네, 대답은 하시는데 얼굴이 아주 창백하고 땀을 많이 흘리세요.
+클레르 : 정확히 어디가 아프시죠? 말씀하시는 대로 설명해 주세요.
+야신 : 가슴 한가운데요. 죄는 것 같다고 하시고, 왼쪽 팔로 내려간대요.
+클레르 : 알겠습니다. 전에 심장 문제가 있으셨나요?
+야신 : 네, 삼 년 전에요. 수술을 받으셨고 스텐트를 넣었던 것 같아요.
+클레르 : 알겠습니다. 드시는 약이 있나요?
+야신 : 네, 심장약과 혈압약이요. 처방전이 탁자 위에 있어요.
+클레르 : 가까이에 두세요. 호흡은 정상적으로 하시나요?
+야신 : 조금 빠르게 쉬시지만 네, 쉬세요.
+클레르 : 계속 저와 통화하세요, 베날리 씨. 곧바로 구급대를 출동시키겠습니다.
+야신 : 잠깐만요, 아버지가 구급차는 싫다고 하세요. 지나갈 거라고요.
+클레르 : 반응은 이해하지만 말씀하신 증상으로는 지금 바로 의료 처치가 필요합니다.
+야신 : 폐 끼치는 걸 걱정하세요. 괜한 소란이라고 하세요.
+클레르 : 소란이 아닙니다. 팔로 퍼지는 가슴 통증은 응급 상황입니다.
+야신 : 근데 전에도 오경보가 있었어요. 육 개월 전엔 저절로 가라앉았어요.
+클레르 : 그럴 수도 있죠. 하지만 저는 그 위험을 질 수 없고, 선생님도 그러시면 안 됩니다.
+야신 : 만약 아무 일 아니면요? 저한테 엄청 화내실 텐데요.
+클레르 : 아무 일 아니면 화내시겠지만 살아 계시고 제대로 치료받으신 겁니다. 반대보다 낫습니다.
+야신 : 맞는 말씀이에요. 아버지 앞에서는 우길 엄두가 안 나요.
+클레르 : 원하시면 바꿔 주세요, 제가 직접 설명할게요.
+야신 : 아빠, SAMU 분이 말씀하고 싶으시대. 아니, 그런 표정 짓지 마.
+클레르 : 베날리 아버님, 저는 의료 상담원입니다. 제 말 들리세요?
+야신 : 들린다고 하세요. 입을 삐죽거리지만 듣고 계세요.
+클레르 : 억지로 하려는 게 아니라고 전해 주세요. 다만 오늘 밤 의료진이 진찰해야 한다고요.
+야신 : 전할게요. '알겠다, 하지만 사이렌은 켜지 마라'고 하세요.
+클레르 : 사이렌은 약속 못 해요, 교통 상황에 따라 달라서요. 하지만 의료진은 조용히 올 겁니다.
+야신 : 고개를 끄덕이세요. 받아들이세요.
+클레르 : 감사합니다. 지금 의료팀 출동을 시작합니다. 계속 저와 통화 중이세요.
+야신 : 안 움직일게요. 감사합니다.
+클레르 : 이렇게 해 주세요. 등을 잘 받치고 앉은 자세로 계시게 하세요.
+야신 : 이미 안락의자에 등에 쿠션 대고 앉아 계세요.
+클레르 : 좋습니다. 옷을 느슨하게 해 주세요, 셔츠 깃 같은 걸요. 마시거나 드시게 하지 마세요.
+야신 : 알겠어요. 아스피린을 드려도 되나요? 욕실 장에 있어요.
+클레르 : 지금은 어떤 약도 드리지 마세요. 판단은 담당 의사가 하도록 연결해 드릴게요.
+야신 : 네? 기다려야 해요? 오래 걸리면 제가 차로 모시고 가는 게 낫겠어요.
+클레르 : 절대 안 됩니다. 이동하시거나 차에 타시면 안 돼요, 악화될 수 있어요.
+야신 : 하지만 병원이 십 분 거리인데 그쪽 팀은 얼마나 걸려요?
+클레르 : 정확한 시간은 말씀드릴 수 없지만 최대한 빨리 오고 있습니다. 팀이 출발했어요.
+야신 : 다들 그렇게 말하잖아요. 안심이 안 돼요, 죄송해요.
+클레르 : 불안한 마음 이해합니다. 하지만 차 안에서는 아무도 살펴볼 수 없는 반면 여기선 아버님이 선생님과 저와, 원격으로 함께 있어요.
+야신 : 맞는 말씀이에요. 죄송해요, 신경이 곤두서서.
+클레르 : 당연합니다. 숨 쉬세요, 정확히 하고 계세요.
+야신 : 식은땀을 흘리기 시작하세요. 더 나빠진 건지 모르겠어요.
+클레르 : 기록합니다. 식은땀, 팔 통증, 아직 의식 있음. 맞나요?
+야신 : 네. 그리고 지금은 속이 좀 안 좋다, 토할 것 같다고 하세요.
+클레르 : 참작합니다. 몇 초 안에 의사가 연결됩니다.
+야신 : 알겠어요. 그런데 아버지가 기절하면 어떻게 해요?
+클레르 : 의식을 잃으시면 바로 말씀해 주세요, 한 단계씩 안내해 드리겠습니다.
+야신 : 알겠어요. 여기 있을게요, 안 움직일게요.
+클레르 : 담당 의사가 저와 함께 듣고 있습니다. 아버님이 약 알레르기가 있는지 묻습니다.
+야신 : 아니요, 알레르기 없어요, 제가 알기로는요. 근데 질문이 왜 이렇게 많아요? 시간이 가잖아요.
+클레르 : 이 질문들이 팀이 준비해서 도착하게 합니다. 한 초도 낭비되지 않아요, 장담합니다.
+야신 : 아버지가 항응고제를 드시는 것 같아요. 처방전 확인해 볼게요.
+클레르 : 네, 약 이름을 천천히 읽어 주세요. 하나씩 적을게요.
+야신 : 그러니까... 첫 번째는 '비소프롤롤'이라고 적혀 있고, 두 번째는... '아토르바스타틴'.
+클레르 : 감사합니다. 세 번째 이름도 있나요?
+야신 : 네. 항응고제 '아픽사반'인 것 같아요. 발음은 확실하지 않아요.
+클레르 : 충분합니다, 적었어요. 의사 선생님이 아버님이 아스피린을 안 드신 게 잘하신 거라고 하십니다.
+야신 : 말씀을 들었기에 다행이에요. 하마터면 드릴 뻔했거든요.
+클레르 : 잘 대처하셨어요. 침착하게 계신 게 가장 중요합니다.
+야신 : 정신이 또렷하지 않은 것 같은데요, 정말로.
+클레르 : 그래도 또렷하세요. 이제 현관문을 열고 살짝 열어 두세요, 팀이 빨리 들어오도록요.
+야신 : 문을 열라고요? 아버지를 혼자 두고요?
+클레르 : 십 초면 됩니다. 전화기를 가지고 가세요, 계속 연결해 둘게요.
+야신 : 알겠어요, 일어날게요. 아빠, 금방 올게, 움직이지 마.
+클레르 : 끝나면 말씀해 주세요.
+야신 : 했어요. 문이 살짝 열려 있고 층계참 불도 켰어요.
+클레르 : 좋습니다. 건물에 엘리베이터가 있나요?
+야신 : 네, 작동해요. 내려가서 구급대가 오는지 봐도 될까요?
+(집 안에 평온이 조금 돌아온다. 야신이 아버지 곁에 앉는다.)
+클레르 : 아니요, 아버님 곁에 계세요. 팀은 주소로 집을 찾아올 거예요.
+야신 : 알겠어요. 아버지 곁에 돌아왔어요. 저를 보시고 조금 웃으세요.
+클레르 : 좋은 신호예요. 말씀을 하시나요?
+야신 : 네, 덜 아프다고 하세요. 그래도 아직 창백해요.
+클레르 : 침착하게 계시고 말을 많이 하지 마시라고 하세요. 천천히 숨 쉬시면 돼요.
+야신 : 아빠, 천천히 숨 쉬어. 그래, 그렇게.
+클레르 : 좋아요. 담요가 있나요? 추우시면 안 됩니다.
+야신 : 네, 소파에 작은 담요가 있어요. 어깨에 덮어 드릴게요.
+클레르 : 좋습니다. 집에 다른 분이 계신가요?
+야신 : 엄마는 오늘 밤 이모 집에 계세요. 메시지로 알렸어요.
+클레르 : 알겠습니다. 나중에 오셔도 돼요, 지금은 급하지 않습니다.
+야신 : 거기 계시라고 말할게요. 걱정하실 거예요.
+클레르 : 남편분이 처치를 받고 계신다고 전해 주세요. 안심하실 거예요.
+야신 : 이따가 메시지 보낼게요. 지금은 선생님과 함께 있을게요.
+클레르 : 좋은 생각이에요. 선생님은 어떠세요?
+야신 : 나아졌어요. 목소리는 아직 떨리지만 괜찮아요.
+클레르 : 당연합니다. 상황을 아주 잘 대처하셨어요.
+야신 : 감사해요. 저한테 아주 인내심 있게 대해 주셨어요.
+클레르 : 제 일이고, 선생님이 잘 도와주셨습니다. 구급대가 가까워요.
+야신 : 얼마나 있으면 도착할까요, 대략?
+(계단에서 발걸음 소리가 울린다.)
+클레르 : 오 분쯤 남았어요. 계단에서 무슨 소리가 들리나요?
+야신 : 네, 발소리요. 그리고 'SAMU!'라고 외치는 목소리요.
+클레르 : 그분들이에요. 방금 상담받았다고 말씀하시고 처방전을 드리세요.
+야신 : 드릴게요. 빨간 조끼를 입은 두 분이 들어오셨어요.
+클레르 : 좋습니다. 이제 팀에게 맡기고 끊겠습니다. 해야 할 일을 다 하셨어요.
+야신 : 정말 감사합니다. 정말요. 많은 도움이 됐어요.
+클레르 : 천만에요. 아버님도 선생님 자신도 잘 돌보세요.
+야신 : 노력할게요. 마지막으로 하나 여쭤봐도 될까요?
+클레르 : 물론이죠, 말씀하세요.
+야신 : 밤새 이 일을 하세요? 전화 너머로 당황한 사람들 소리를 듣는 걸요?
+클레르 : 네, 새벽 여섯 시까지요. 하지만 보람 있는 방법으로 돕는 일이에요.
+야신 : 어떻게 그렇게 침착하신지 모르겠어요.
+클레르 : 습관이고, 차를 좀 마셔요. 근무하는 동안 많이 마시거든요.
+야신 : 그럼 오늘 밤 제가 드리는 차예요.
+클레르 : 고맙습니다. 선생님과 아버님의 건강을 위해 마실게요.
+야신 : 소식 전해 드릴게요. 아니, 제 번호를 모르시겠네요.
+클레르 : 아니요, 화면에 떴어요. 하지만 필요 없어요, 제 걱정은 마세요.
+야신 : 네. 그럼 좋은 저녁 보내세요. 다시 한번 감사합니다.
+클레르 : 좋은 저녁 되세요, 베날리 씨. 이제 의사가 아버님을 돌볼 겁니다.
+야신 : 안녕히 계세요. 계속 힘내세요.

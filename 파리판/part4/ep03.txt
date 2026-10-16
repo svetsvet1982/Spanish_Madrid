@@ -1,0 +1,290 @@
+# 4부 3화. Le dossier incomplet (서류 미비)
+난이도: 주 A2 | 구간: B1→A2→B1→A2→A2→A2 | 형식: 2인 | 장소: 가족수당 공공기관 창구 | 시간: 목요일 오전 10시
+등장인물: Mariama, Julien
+이슈: 주 ● 서류 미비로 반려된 가족수당 신청, 기한과 해외 발급 서류의 문제 | 곡선: 3-1-0-1-0-3 (반전형, 상한 3) | 입장: A 마리아마(어린이집 직원이자 두 아이의 엄마, 월세를 이 돈에 기대고 있다) / B 쥘리앵(창구 직원, 규정대로 처리해야 하지만 돕고 싶다)
+상황 카드: 마리아마는 "서류 미비" 통지서를 받고 창구로 달려온다. 쥘리앵은 최근 공과금 고지서, 납세 증명서, 아들의 출생증명서가 문제라고 짚어 준다. 앞의 둘은 그 자리에서 해결하지만, 외국에서 발급된 출생증명서의 인증은 여섯 주가 걸려 열닷새 기한을 넘긴다. 쥘리앵이 책임자에게 물어보겠다고 약속하지만 결과는 알 수 없는 열린 결말이다.
+학습 포인트: 서류 이름(un justificatif de domicile, un acte de naissance) · 날짜·기한 말하기(moins de trois mois, quinze jours) · 안내 따라 하기(Vous cliquez sur « Ajouter ») · 불안과 위로 표현(Calmez-vous) · 약속하기(Je peux vous promettre de poser la question)
+
+## 대화
+(목요일 오전, 가족수당 공공기관의 4번 창구. 마리아마 카마라가 통지서를 손에 쥐고 숨을 고르며 도착한다.)
+Mariama : Bonjour, monsieur. J'ai reçu cette lettre hier, et je n'ai rien compris. Elle dit que mon dossier est refusé.
+Julien : Bonjour, madame. Donnez-la-moi, je regarde. Votre nom, s'il vous plaît ?
+Mariama : Mariama Camara. C'est pour les allocations familiales, pour mes deux enfants.
+Julien : Un instant, je cherche votre dossier. Voilà. Alors, ce n'est pas un refus, c'est un dossier incomplet.
+Mariama : Incomplet ? Mais j'ai tout envoyé ! J'ai passé deux soirées à tout scanner.
+Julien : Je vous crois, madame. Mais il manque des pièces, et tant qu'elles manquent, on ne peut pas ouvrir vos droits.
+Mariama : Alors je n'aurai rien ce mois-ci ? Moi, je comptais sur cet argent pour le loyer.
+Julien : Je comprends que ce soit inquiétant. Calmez-vous, on va regarder ensemble.
+Mariama : Je suis calme. Mais ça fait trois mois que j'attends, et personne ne répond au téléphone.
+Julien : C'est vrai, la ligne est saturée. Je suis désolé pour ça.
+Mariama : Et la lettre est écrite dans un langage très difficile. « Pièce justificative non conforme ». Qu'est-ce que ça veut dire ?
+Julien : Ça veut dire qu'un document que vous avez envoyé n'est pas accepté, par exemple parce qu'il est illisible ou trop ancien.
+Mariama : Moi, je pensais que c'était bon. J'ai pris toutes les photos avec mon téléphone.
+Julien : Les photos peuvent poser un problème, justement. Attendez, je regarde ce qu'on a reçu.
+Mariama : Dites-moi la vérité. C'est grave ?
+Julien : Non, ce n'est pas grave. Mais il faut réparer vite, parce que le dossier reste valable encore quinze jours.
+Mariama : Quinze jours ! Et si je n'y arrive pas ?
+Julien : Alors il faudra recommencer la demande, et vous perdrez le mois de départ.
+Mariama : C'est injuste. Ce n'est pas ma faute si le site est compliqué.
+Julien : Je ne dis pas que c'est votre faute. Mais le règlement dit ça, et je dois vous le dire.
+Mariama : D'accord. Alors, qu'est-ce qui manque ?
+Julien : Je vois trois choses. D'abord, un justificatif de domicile récent.
+Mariama : J'ai envoyé une facture d'électricité.
+Julien : Oui, mais elle date de huit mois. Il faut moins de trois mois.
+Mariama : Ah. Je peux en envoyer une autre, j'en ai une chez moi.
+Julien : Très bien. Deuxième chose, votre avis d'imposition.
+Mariama : Je l'ai. Il est dans mon sac, ici.
+Julien : Parfait. On peut le scanner tout de suite, si vous voulez.
+Mariama : Oui, merci. Et la troisième chose ?
+Julien : L'acte de naissance de votre fils Ibrahim.
+Mariama : Mais je l'ai envoyé !
+Julien : Vous avez envoyé une photo floue, on ne voit pas la date.
+Mariama : Ah, d'accord. Je peux en envoyer une meilleure.
+Julien : Oui, mais il faut aussi un cachet de légalisation du consulat.
+Mariama : Un cachet ? Quel cachet ? Personne ne m'en a parlé.
+Julien : C'est une règle pour les actes faits à l'étranger. Je regarde ce que dit la fiche.
+Mariama : Je ne comprends pas. Pour ma fille, ça n'a pas posé de problème.
+Julien : Votre fille est née en France, madame, donc son acte est déjà dans le système.
+Mariama : Ah, voilà. D'accord.
+Julien : On va d'abord s'occuper des deux premiers documents. On verra le troisième après.
+(Julien emmène Mariama vers le scanner, au fond de la salle.)
+Julien : Voilà, le scanner est ici. Vous posez le papier à plat, face vers le bas.
+Mariama : Comme ça ? Il fait beaucoup de bruit.
+Julien : Oui, il est un peu vieux. Il date d'avant mon arrivée.
+Mariama : Vous travaillez ici depuis longtemps ?
+Julien : Depuis six ans. J'étais en banque avant, mais je préférais le contact avec les gens.
+Mariama : Moi aussi, j'aime parler avec les gens. Je travaille dans une crèche, à Montreuil.
+Julien : Ah, c'est pour ça que vous êtes si patiente avec moi.
+Mariama : Pas toujours. Les enfants, c'est plus facile que les papiers.
+Julien : Je suis d'accord. Ils crient, mais ils pardonnent vite.
+Mariama : Ha ! C'est vrai. Les papiers, eux, ne pardonnent jamais.
+Julien : Voilà, l'avis d'imposition est scanné. Il est parfaitement lisible.
+Mariama : Merci. Je suis contente d'avoir pris mon sac.
+Julien : Moi aussi. Ça nous évite un aller-retour.
+Mariama : Et la facture, je peux l'envoyer depuis mon téléphone ce soir ?
+Julien : Oui, avec l'application. Vous l'avez installée ?
+Mariama : Oui, mais je ne sais pas toujours où cliquer.
+Julien : Je vais vous montrer. C'est simple, il y a une rubrique « Mes documents ».
+Mariama : Ah, je la vois ! C'est là que j'ai envoyé les autres.
+Julien : Exactement. Vous cliquez sur « Ajouter » et vous prenez la photo.
+Mariama : D'accord. Je vais essayer à la maison, avec la lumière du salon.
+Julien : Un conseil, prenez la photo sur une table, pas sur le lit.
+Mariama : Pourquoi pas sur le lit ?
+Julien : Parce que le papier bouge, et la photo est floue.
+Mariama : C'est vrai, c'est peut-être ça, mon problème.
+Julien : Et mettez le document bien droit. On doit lire les quatre coins.
+Mariama : Les quatre coins. Très bien. Je note.
+Julien : Voulez-vous un stylo ?
+Mariama : Oui, s'il vous plaît.
+Julien : Tenez. Écrivez, facture, moins de trois mois, photo bien droite.
+Mariama : Voilà. Et après, qu'est-ce qui se passe ?
+Julien : Vous recevez un message de confirmation par courriel.
+Mariama : Et si je ne reçois rien ?
+Julien : Revenez me voir. Ou appelez, mais le matin, c'est mieux.
+Mariama : Le matin, je travaille. Je peux appeler à midi ?
+Julien : À midi, c'est difficile. Entre quatorze et seize heures, la ligne est plus libre.
+Mariama : D'accord. Je peux le faire pendant la sieste des enfants.
+Julien : Parfait. Je mets une note dans votre dossier avec mon nom.
+Mariama : Merci, c'est gentil. Votre nom, c'est Julien comment ?
+Julien : Julien Lemaire. Vous demandez « Julien du guichet quatre ».
+Mariama : Julien du guichet quatre. Je m'en souviens.
+(Il y a un peu de monde derrière elles. Julien sert deux gobelets d'eau à la fontaine.)
+Julien : Vous voulez de l'eau ? Il fait chaud ici.
+Mariama : Oui, merci. Il fait toujours chaud dans les administrations.
+Julien : C'est vrai, le chauffage ne s'arrête jamais.
+Mariama : Chez moi, c'est l'inverse. On a très froid.
+Julien : Vous habitez où ?
+Mariama : À Montreuil, près de la mairie. C'est un petit appartement au troisième étage.
+Julien : Sans ascenseur ?
+Mariama : Sans ascenseur, avec une poussette. Je suis très musclée maintenant.
+Julien : Ha ! Combien d'enfants avez-vous, déjà ?
+Mariama : Deux. Une fille de six ans, Aïssatou, et un garçon de trois ans, Ibrahim.
+Julien : Ils vont à l'école ?
+Mariama : Elle, oui. Lui, il est à la crèche où je travaille.
+Julien : C'est pratique.
+Mariama : Oui, il vient avec moi le matin, dans le métro, ligne 9.
+Julien : Les enfants dans le métro à huit heures, c'est du sport.
+Mariama : Beaucoup de sport. Mais il adore regarder les gens.
+Julien : Moi, j'ai un fils de quatre ans. Il adore regarder les trains.
+Mariama : Vous voyez, on a la même vie.
+Julien : Presque. Sauf que moi, je suis de l'autre côté du guichet.
+Mariama : Ha ! Oui, c'est vous qui avez les tampons.
+(Julien relit la fiche de procédure et fronce les sourcils.)
+Julien : Madame Camara, je dois vous dire quelque chose de moins agréable.
+Mariama : Oh non. C'est le troisième document ?
+Julien : Oui. L'acte de naissance doit être légalisé, et ça prend six semaines.
+Mariama : Six semaines ! Mais le dossier est valable quinze jours.
+Julien : Je sais. C'est le problème.
+Mariama : Alors je perds tout ? Je n'ai pas d'argent pour attendre.
+Julien : Pas forcément. Je peux demander à ma responsable si on accepte un récépissé de demande.
+Mariama : C'est quoi, un récépissé ?
+Julien : Un papier qui prouve que vous avez commencé la démarche. Mais je ne suis pas sûr qu'elle accepte.
+Mariama : Et si elle dit non ?
+Julien : Alors je ne peux rien faire. La règle est la règle, je n'ai pas le choix.
+Mariama : Mais c'est mon fils ! Il est né, il est là, il a trois ans. Pourquoi il faut un cachet pour le prouver ?
+Julien : Je comprends. Je n'aime pas cette règle non plus, mais je dois l'appliquer.
+Mariama : Vous pouvez me promettre quelque chose ?
+Julien : Je peux vous promettre de poser la question aujourd'hui, avant la fermeture.
+Mariama : Et vous m'appelez ?
+Julien : Oui, demain avant midi. Même si la réponse est non.
+Mariama : D'accord. Je vais aussi appeler le consulat ce soir.
+Julien : Bonne idée. Prenez le numéro de dossier, il est sur la fiche.
+Mariama : Merci, Julien. J'espère que votre responsable a bon cœur.
+
+## 낭독 포인트
+- 비음 모음: «allocations familiales», «dossier incomplet», «enfants», «comprends» — on, an, in 계열은 코로 울리는 모음이고 n은 따로 발음하지 않는다.
+- 숫자·기한: «quinze jours», «moins de trois mois», «six semaines» — 숫자와 단위를 끊지 말고 한 덩어리로 읽는다.
+- 서류 이름: «justificatif de domicile», «acte de naissance», «récépissé» — 길고 낯선 단어는 음절을 또박또박, 강세는 맨 끝 음절에.
+- 프랑스어 r: «merci», «très bien», «refusé» — 목젖 근처에서 내는 마찰음.
+- 억양: 마리아마는 초반에 빠르고 높게, 쥘리앵의 설명을 들으며 차분해진다. 쥘리앵은 일관되게 낮고 천천히.
+- 호칭: 처음엔 vous로 정중하게, 이름을 부를 때(«madame Camara», «Julien»)도 vous 관계를 유지한다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 통지서 이해하기
+  · «Ce n'est pas un refus, c'est un dossier incomplet.», «Je comptais sur cet argent pour le loyer.», «il faut réparer vite»
+- A2 구간(21~40턴): 필요한 서류 확인하기
+  · «Il faut moins de trois mois.», «Je peux en envoyer une autre.», «On verra le troisième après.»
+- B1 구간(41~60턴): 스캔하며 나누는 대화
+  · «Je travaille dans une crèche, à Montreuil.», «Les enfants, c'est plus facile que les papiers.»
+- A2 구간(61~80턴): 앱 사용 안내
+  · «Vous cliquez sur « Ajouter » et vous prenez la photo.», «On doit lire les quatre coins.», «Revenez me voir.»
+- A2 구간(81~100턴): 가족과 일상 이야기
+  · «Combien d'enfants avez-vous, déjà ?», «Il vient avec moi le matin, dans le métro.»
+- A2 구간(101~120턴): 나쁜 소식과 약속
+  · «Je n'ai pas le choix.», «Je peux vous promettre de poser la question aujourd'hui.», «Même si la réponse est non.»
+- 어휘: l'allocation, le dossier, la pièce justificative, l'avis d'imposition, la légalisation, le consulat, le guichet, le scanner, la crèche.
+
+## 속어 노트
+- «la ligne est saturée»: 전화가 계속 통화 중이다, 연결이 안 된다.
+- «c'est du sport»: 힘들다, 만만치 않다(농담조).
+- «les tampons»: 도장. 행정 절차의 상징처럼 쓰인다.
+- «être musclée»: 근육이 붙었다(농담으로 힘든 육아를 말할 때).
+- «avoir bon cœur»: 마음씨가 좋다, 인정이 있다.
+- 서류 종류, 유효 기한, 인증 소요 기간, 접수 방식은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 두 사람은 끝까지 vous를 쓴다.
+
+## 한글 해석
+(목요일 오전, 가족수당 공공기관의 4번 창구. 마리아마 카마라가 통지서를 손에 쥐고 숨을 고르며 도착한다.)
+마리아마 : 안녕하세요. 어제 이 편지를 받았는데 하나도 이해를 못 했어요. 제 서류가 거절됐다고 쓰여 있어요.
+쥘리앵 : 안녕하세요. 이리 주세요, 볼게요. 성함이 어떻게 되세요?
+마리아마 : 마리아마 카마라예요. 아이 둘의 가족수당 때문이에요.
+쥘리앵 : 잠깐만요, 서류를 찾아볼게요. 네, 여기 있네요. 거절이 아니라 서류가 덜 갖춰진 거예요.
+마리아마 : 덜 갖춰졌다고요? 저는 다 보냈어요! 이틀 저녁을 들여서 전부 스캔했다고요.
+쥘리앵 : 믿습니다, 선생님. 그런데 빠진 서류가 있고, 빠져 있는 동안은 권리를 열어 드릴 수 없어요.
+마리아마 : 그럼 이번 달엔 아무것도 못 받나요? 전 그 돈으로 월세를 내려고 했는데요.
+쥘리앵 : 걱정되시는 건 이해합니다. 진정하시고, 같이 살펴봐요.
+마리아마 : 전 진정했어요. 그런데 석 달째 기다리는데 전화는 아무도 안 받아요.
+쥘리앵 : 맞아요, 전화가 포화 상태예요. 그 점은 죄송합니다.
+마리아마 : 그리고 편지가 너무 어려운 말로 쓰여 있어요. "증빙 서류 부적합". 무슨 뜻이에요?
+쥘리앵 : 보내신 서류 중 하나가 인정되지 않는다는 뜻이에요. 예를 들어 알아보기 어렵거나 너무 오래된 경우요.
+마리아마 : 전 괜찮다고 생각했어요. 휴대폰으로 사진을 다 찍었거든요.
+쥘리앵 : 사진이 바로 문제가 될 수 있어요. 잠깐만요, 어떤 게 들어왔는지 볼게요.
+마리아마 : 사실대로 말해 주세요. 심각한가요?
+쥘리앵 : 아니요, 심각하진 않아요. 하지만 빨리 바로잡아야 해요. 서류가 앞으로 열닷새만 유효하거든요.
+마리아마 : 열닷새요! 그 안에 못 하면요?
+쥘리앵 : 그러면 신청을 다시 해야 하고, 시작 달을 잃게 돼요.
+마리아마 : 불공평해요. 사이트가 복잡한 게 제 잘못은 아니잖아요.
+쥘리앵 : 잘못이라는 말은 아니에요. 다만 규정이 그렇고, 저는 그걸 말씀드려야 해요.
+마리아마 : 알겠어요. 그럼 뭐가 빠졌나요?
+쥘리앵 : 세 가지가 보여요. 먼저 최근의 주소 증빙이요.
+마리아마 : 전기요금 고지서를 보냈어요.
+쥘리앵 : 네, 그런데 여덟 달 전 거예요. 석 달 안이어야 해요.
+마리아마 : 아. 다른 걸 보낼 수 있어요, 집에 있어요.
+쥘리앵 : 좋아요. 두 번째는 납세 증명서예요.
+마리아마 : 그건 있어요. 여기 가방에 있어요.
+쥘리앵 : 잘됐네요. 원하시면 지금 바로 스캔할 수 있어요.
+마리아마 : 네, 고마워요. 세 번째는요?
+쥘리앵 : 아드님 이브라힘의 출생증명서예요.
+마리아마 : 그건 보냈는데요!
+쥘리앵 : 흐릿한 사진을 보내셔서 날짜가 안 보여요.
+마리아마 : 아, 그렇군요. 더 잘 나온 걸 보낼 수 있어요.
+쥘리앵 : 네, 그런데 영사관 인증 도장도 있어야 해요.
+마리아마 : 도장이요? 무슨 도장이요? 아무도 말해 준 적 없어요.
+쥘리앵 : 외국에서 만든 증서에 적용되는 규정이에요. 안내서에 뭐라고 되어 있는지 볼게요.
+마리아마 : 이해가 안 돼요. 딸 때는 아무 문제 없었는데요.
+쥘리앵 : 따님은 프랑스에서 태어나서 증서가 이미 시스템에 있어요.
+마리아마 : 아, 그렇군요. 알겠어요.
+쥘리앵 : 먼저 앞의 두 서류부터 처리하죠. 세 번째는 그다음에 볼게요.
+(쥘리앵이 마리아마를 홀 안쪽 스캐너로 데려간다.)
+쥘리앵 : 자, 스캐너가 여기 있어요. 종이를 평평하게, 앞면이 아래로 가게 놓으세요.
+마리아마 : 이렇게요? 소리가 크네요.
+쥘리앵 : 네, 좀 오래됐어요. 제가 오기 전부터 있던 거예요.
+마리아마 : 여기서 오래 일하셨어요?
+쥘리앵 : 육 년째예요. 전에는 은행에 있었는데 사람들을 직접 만나는 쪽이 좋았어요.
+마리아마 : 저도 사람들하고 얘기하는 게 좋아요. 몽트뢰유 어린이집에서 일해요.
+쥘리앵 : 아, 그래서 저한테 그렇게 참을성이 많으시군요.
+마리아마 : 항상 그런 건 아니에요. 아이들이 서류보다 쉬워요.
+쥘리앵 : 맞아요. 소리는 지르지만 금방 용서해 주죠.
+마리아마 : 하하! 맞아요. 서류는 절대 용서가 없죠.
+쥘리앵 : 됐어요, 납세 증명서가 스캔됐어요. 아주 잘 보여요.
+마리아마 : 고마워요. 가방을 챙겨 와서 다행이에요.
+쥘리앵 : 저도요. 덕분에 왕복을 한 번 줄였네요.
+마리아마 : 그리고 고지서는 오늘 밤 휴대폰으로 보내도 될까요?
+쥘리앵 : 네, 앱으로요. 설치하셨어요?
+마리아마 : 네, 그런데 어디를 눌러야 하는지 늘 헷갈려요.
+쥘리앵 : 보여 드릴게요. 간단해요, "내 서류" 메뉴가 있어요.
+마리아마 : 아, 보여요! 거기에 다른 걸 보냈어요.
+쥘리앵 : 맞아요. "추가"를 누르고 사진을 찍으시면 돼요.
+마리아마 : 알겠어요. 집에서 거실 불빛 아래서 해 볼게요.
+쥘리앵 : 조언 하나, 침대 말고 탁자 위에서 찍으세요.
+마리아마 : 왜 침대는 안 되죠?
+쥘리앵 : 종이가 움직여서 사진이 흐려지거든요.
+마리아마 : 맞아요, 그게 제 문제였나 봐요.
+쥘리앵 : 그리고 서류를 똑바로 놓으세요. 네 모서리가 다 읽혀야 해요.
+마리아마 : 네 모서리. 알겠어요. 적어 둘게요.
+쥘리앵 : 펜 드릴까요?
+마리아마 : 네, 부탁해요.
+쥘리앵 : 여기요. 이렇게 적으세요, 고지서, 석 달 이내, 사진 똑바로.
+마리아마 : 됐어요. 그다음엔 어떻게 되죠?
+쥘리앵 : 확인 메시지가 이메일로 와요.
+마리아마 : 아무것도 안 오면요?
+쥘리앵 : 다시 오시거나 전화하세요. 오전이 더 좋아요.
+마리아마 : 오전엔 일해요. 점심시간에 전화해도 돼요?
+쥘리앵 : 점심시간은 어려워요. 오후 두 시에서 네 시 사이가 비교적 한가해요.
+마리아마 : 알겠어요. 아이들 낮잠 시간에 할 수 있어요.
+쥘리앵 : 좋아요. 서류에 제 이름으로 메모를 남길게요.
+마리아마 : 고마워요, 친절하시네요. 이름이 쥘리앵 뭐죠?
+쥘리앵 : 쥘리앵 르메르예요. "4번 창구 쥘리앵"을 찾으세요.
+마리아마 : 4번 창구 쥘리앵. 기억할게요.
+(두 사람 뒤로 사람이 조금 늘었다. 쥘리앵이 정수기에서 물 두 컵을 따른다.)
+쥘리앵 : 물 드실래요? 여기 덥죠.
+마리아마 : 네, 고마워요. 관공서는 늘 덥더라고요.
+쥘리앵 : 맞아요, 난방이 한 번도 안 꺼져요.
+마리아마 : 저희 집은 반대예요. 너무 추워요.
+쥘리앵 : 어디 사세요?
+마리아마 : 몽트뢰유, 시청 근처요. 삼 층 작은 아파트예요.
+쥘리앵 : 엘리베이터 없이요?
+마리아마 : 엘리베이터도 없고 유모차도 있어요. 이제 근육이 많이 붙었어요.
+쥘리앵 : 하하! 아이가 몇이라고 하셨죠?
+마리아마 : 둘이에요. 여섯 살 딸 아이사투, 세 살 아들 이브라힘이요.
+쥘리앵 : 학교에 다녀요?
+마리아마 : 딸은요. 아들은 제가 일하는 어린이집에 다녀요.
+쥘리앵 : 편하겠네요.
+마리아마 : 네, 아침에 저랑 같이 지하철 9호선을 타고 가요.
+쥘리앵 : 여덟 시에 아이들과 지하철이라니, 운동이 되겠어요.
+마리아마 : 아주 많이요. 그래도 사람들 구경하는 걸 좋아해요.
+쥘리앵 : 저도 네 살 아들이 있어요. 기차 구경을 좋아해요.
+마리아마 : 보세요, 우리 사는 게 똑같네요.
+쥘리앵 : 거의요. 저는 창구 반대편에 있다는 것만 달라요.
+마리아마 : 하하! 맞아요, 도장은 그쪽에 있죠.
+(쥘리앵이 절차 안내서를 다시 읽고 미간을 찌푸린다.)
+쥘리앵 : 카마라 씨, 별로 달갑지 않은 말씀을 드려야 해요.
+마리아마 : 아, 안 돼요. 세 번째 서류인가요?
+쥘리앵 : 네. 출생증명서는 인증을 받아야 하는데 여섯 주가 걸려요.
+마리아마 : 여섯 주요! 그런데 서류는 열닷새만 유효하잖아요.
+쥘리앵 : 알아요. 그게 문제예요.
+마리아마 : 그럼 다 잃는 건가요? 기다릴 돈이 없어요.
+쥘리앵 : 꼭 그렇진 않아요. 책임자께 접수 확인서를 받아 주는지 여쭤볼 수 있어요.
+마리아마 : 접수 확인서가 뭐예요?
+쥘리앵 : 절차를 시작했다는 걸 증명하는 종이예요. 하지만 책임자가 받아 줄지는 장담 못 해요.
+마리아마 : 안 된다고 하면요?
+쥘리앵 : 그럼 제가 할 수 있는 게 없어요. 규정은 규정이라 선택권이 없어요.
+마리아마 : 그런데 제 아들이에요! 태어났고 여기 있고 세 살이에요. 증명하려고 왜 도장이 필요하죠?
+쥘리앵 : 이해해요. 저도 이 규정이 마음에 들진 않지만 적용해야 해요.
+마리아마 : 뭐 하나 약속해 줄 수 있어요?
+쥘리앵 : 오늘 문 닫기 전에 여쭤보겠다는 약속은 할 수 있어요.
+마리아마 : 그리고 저한테 전화해 주시는 거죠?
+쥘리앵 : 네, 내일 정오 전에요. 답이 안 된다는 거라도요.
+마리아마 : 알겠어요. 저도 오늘 밤에 영사관에 전화해 볼게요.
+쥘리앵 : 좋은 생각이에요. 서류 번호는 안내서에 있으니 가져가세요.
+마리아마 : 고마워요, 쥘리앵. 책임자분이 마음씨가 좋으면 좋겠네요.

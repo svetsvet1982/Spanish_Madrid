@@ -1,0 +1,295 @@
+# 6부 13화. Ce que je ne t'ai jamais dit (못 했던 말)
+난이도: 주 C1 | 구간: C1→B2→C1→C1→C1→C1 | 형식: 2인 | 장소: 뫼동에 있는 제라르의 집 정원, 사과나무 아래 | 시간: 가을 일요일 오후 네 시
+등장인물: Gérard, Mathilde
+이슈: 주 ● 오랜 침묵과 아버지의 부재, 이제 와서 하는 사과와 용서의 속도 | 곡선: 2-0-3-0-3-1 (파도형, 상한 3) | 입장: A 마틸드(비워 둔 자리와 상처를 인정받고 싶다. 용서는 서두르지 않는다) / B 제라르(그때는 아프고 두려웠다. 늦었지만 후회를 전하고 곁에 있고 싶다)
+상황 카드: 마틸드가 스물네 해 만에 처음으로 아버지에게 속내를 꺼내러 뫼동의 정원에 왔다. 사과나무 아래 차를 마시며 처음엔 일상 이야기로 조심스레 시작한다. 결혼식에 오지 않은 일과 집을 떠난 이유를 두고 말이 날카로워지지만, 제라르도 자신의 두려움과 병을 털어놓는다. 마틸드는 손주들을 위해 한 걸음만 내딛기로 하고, 둘은 이 주 뒤 일요일 점심을 약속하되 용서를 서두르지 않는다(열린 결말).
+학습 포인트: 속마음 꺼내기(Je voulais te parler de…) · 후회와 사과의 층위(Pardon, ça ne remplace pas dix ans) · 책임 묻기(C'était à toi d'être l'adulte) · 가정과 양보(Ou alors, préviens-moi) · 천천히 열리는 관계 표현(Je ne te pardonne pas encore tout)
+
+## 대화
+(Dimanche, seize heures, dans le jardin de Gérard, à Meudon. Un pommier, deux chaises en fer, une théière. Mathilde est arrivée depuis dix minutes, et ni l'un ni l'autre n'a vraiment parlé.)
+Gérard : Tu as trouvé facilement ? Il y a des travaux sur la route, depuis septembre.
+Mathilde : Oui, j'ai pris le train. Je suis venue à pied depuis la gare.
+Gérard : Ah, tu aurais dû m'appeler, je serais venu te chercher.
+Mathilde : Papa, ça fait deux ans que je prends le train pour venir ici. Tu le sais très bien.
+Gérard : Je sais. C'est juste que... je ne sais jamais comment te dire les choses.
+Mathilde : Je l'ai remarqué, oui. À peu près depuis que j'ai quinze ans.
+Gérard : Tu es dure, aujourd'hui. Tu as mal dormi ?
+Mathilde : Très mal. J'ai répété cette conversation pendant des semaines et maintenant, tout me paraît ridicule.
+Gérard : Quelle conversation ? Tu me fais peur, là.
+Mathilde : Celle qu'on aurait dû avoir il y a vingt-quatre ans, et qu'on a fuie, toi comme moi.
+Gérard : Dis-moi ce qui te pèse, alors. Je suis là, je ne bouge pas.
+Mathilde : Tu es là aujourd'hui. Mais tu n'y étais pas quand j'avais besoin de toi, c'est ça le problème.
+Gérard : Tu veux parler de... de mon départ ?
+Mathilde : Entre autres. Mais pas seulement, et pas tout de suite. Je n'y arrive pas encore.
+Gérard : Prends ton temps. J'ai fait du thé, tu veux une tasse ?
+Mathilde : Oui, volontiers. Ça m'aidera à respirer.
+Gérard : Ce n'est pas le thé de ta mère, mais celui que j'aime. Un thé noir, un peu fumé.
+Mathilde : Maman boit du thé vert, toujours. Elle dit que le noir lui fait mal à l'estomac.
+Gérard : C'est vrai, j'avais oublié. Tu te souviens de plus de choses que moi.
+Mathilde : Parce que j'étais là. Moi, j'ai eu le temps de me souvenir.
+Gérard : Tu vois ce pommier ? Je l'ai planté l'année où tu es partie à l'université.
+Mathilde : Je croyais qu'il était là depuis toujours. Il est devenu énorme.
+Gérard : Les pommes sont mauvaises, hélas. Trop acides. Mais les oiseaux les adorent.
+Mathilde : Et toi, tu les manges quand même, j'imagine.
+Gérard : En compote, avec beaucoup de sucre. Tu en veux un bol, tout à l'heure ?
+Mathilde : Pourquoi pas. Je n'ai pas mangé de compote de pommes depuis des années.
+Gérard : Je t'en donnerai un pot pour la route. J'en fais trop, de toute façon.
+Mathilde : Tu as toujours fait trop de tout. Trop de confiture, trop de bricolage.
+Gérard : C'est vrai. Ta mère disait que j'avais des mains qui ne savaient pas s'arrêter.
+Mathilde : Elle ne se trompait pas. Tu as réparé tout le quartier.
+Gérard : Pas tout. Seulement ce que les voisins osaient me demander.
+Mathilde : Madame Poirier m'a dit que tu lui avais refait son escalier. Elle te trouve adorable.
+Gérard : Madame Poirier exagère. C'était une rampe, pas un escalier.
+Mathilde : Elle m'a aussi dit que tu lui avais offert un pot de compote.
+Gérard : Évidemment. Elle me donne ses œufs, je lui rends des pots, c'est le troc.
+Mathilde : Le troc de Meudon. Ça pourrait faire un joli titre de roman.
+Gérard : Tu écris toujours, le soir, quand les enfants dorment ?
+Mathilde : Un peu. Surtout des listes de courses, ça ne compte pas vraiment.
+Gérard : Les listes de courses, c'est de la littérature domestique. Ça compte.
+Mathilde : Ha ha. Papa, je peux te poser une question, maintenant ?
+Gérard : Pose-la. Je t'écoute.
+Mathilde : Pourquoi tu n'es pas venu à mon mariage ?
+Gérard : Je... je n'étais pas invité, Mathilde. Ta mère m'avait dit que tu préférais qu'on ne se croise pas.
+Mathilde : Elle t'a dit ça ? Moi, je t'ai envoyé un faire-part, avec une lettre. Tu ne l'as jamais reçu ?
+Gérard : Si, je l'ai reçu. Je l'ai gardé dans un tiroir pendant des mois. Je n'ai pas osé répondre.
+Mathilde : Tu n'as pas osé. Voilà. Je savais que c'était ça, et pourtant, ça fait mal de l'entendre.
+Gérard : Je pensais que ma présence gâcherait la fête. J'ai imaginé tous les regards, toute la famille de ta mère.
+Mathilde : Tu as imaginé. Tu n'as pas demandé. Tu as décidé pour moi que tu n'étais pas le bienvenu.
+Gérard : J'étais lâche, c'est vrai. J'avais honte d'avoir quitté la maison, et de ne pas avoir su le dire.
+Mathilde : Honte ou pas, j'avais une place vide à la table. Je l'ai fait mettre à côté de ma grand-mère.
+Gérard : Tu m'avais gardé une place ? Mathilde... je ne savais pas.
+Mathilde : Évidemment que tu ne savais pas, puisque tu n'as pas appelé. Tout le monde me demandait où tu étais.
+Gérard : Et qu'est-ce que tu répondais ?
+Mathilde : Que tu avais un empêchement. Pendant le repas, j'ai souri. Le soir, j'ai pleuré dans la salle de bains.
+Gérard : Pardon. Je ne sais pas comment on dit ça mieux, mais pardon.
+Mathilde : Pardon, ça ne remplace pas dix ans. Ça ne rattrape pas la place vide.
+Gérard : Non, bien sûr. Je ne le prétends pas. Je veux seulement que tu saches que je regrette.
+Mathilde : Tu regrettes depuis quand ? Dis-moi franchement.
+Gérard : Depuis le soir même. Je me suis assis dans la cuisine et j'ai regardé la photo que tu m'avais envoyée.
+Mathilde : La photo de la mairie. Tu en avais une copie ? Je pensais qu'elle s'était perdue dans la poste.
+(Un long silence. Gérard se lève pour rapporter la théière chaude et deux bols de compote. Mathilde s'essuie les yeux avec sa manche.)
+Gérard : Tiens. Un bol de compote, comme au temps de tes dix ans.
+Mathilde : Elle est vraiment trop acide, papa.
+Gérard : Je t'avais prévenue. Mets plus de sucre, ça arrangera tout.
+Mathilde : Tu te souviens, quand tu me donnais la cuillère de sucre en cachette ?
+Gérard : Pour que ta mère ne le voie pas, oui. Je pensais être très discret.
+Mathilde : Tu avais du sucre plein le menton, tu parles d'une discrétion.
+Gérard : Ha ha, ta mère n'a jamais été dupe. Elle faisait semblant de ne rien voir.
+Mathilde : Elle disait toujours que tu étais le plus grand enfant de la maison.
+Gérard : Elle avait raison. Mais j'étais heureux comme ça.
+Mathilde : Et moi aussi, tu sais. J'ai de très beaux souvenirs de toi, c'est ça qui est troublant.
+Gérard : Troublant ?
+Mathilde : Oui. Comment peut-on garder autant de tendresse pour quelqu'un qui vous a tant manqué ?
+Gérard : Je ne sais pas. Peut-être parce que l'un n'efface pas l'autre.
+Mathilde : Peut-être. Tu parles mieux que tu ne le crois, quand tu t'y mets.
+Gérard : C'est la compote. Elle me délie la langue.
+Mathilde : Ha ha. Alors on pourrait en faire un traitement médical.
+Gérard : Une cure de compote, sur ordonnance. Je vais proposer ça à mon médecin.
+Mathilde : Il te dira de baisser le sucre.
+Gérard : Il me dit déjà de le baisser. Je n'écoute jamais.
+Mathilde : Ça, c'est un défaut familial.
+(Mathilde repose son bol. Elle regarde son père dans les yeux, pour la première fois depuis son arrivée.)
+Gérard : Tu veux savoir pourquoi je suis parti, n'est-ce pas ? Je le vois dans tes yeux.
+Mathilde : Oui. Sans détour, papa.
+Gérard : Tu veux la version courte ou la vraie ?
+Mathilde : La vraie, même si elle est moche.
+Gérard : J'avais perdu mon travail, je n'arrivais plus à me lever le matin. J'étais devenu insupportable, ta mère le disait.
+Mathilde : Elle disait aussi que tu avais l'air absent, comme si tu étais déjà parti.
+Gérard : Elle avait raison. J'étais déjà parti dans ma tête. Un matin, j'ai fait une valise, parce que je pensais vous protéger de moi.
+Mathilde : Nous protéger ? Tu as pensé à ce que j'allais ressentir, moi, à quatorze ans ?
+Gérard : Non. C'est ça que je ne me pardonne pas. J'ai pensé à moi, à ma peur de vous faire souffrir.
+Mathilde : Tu as souffert tout seul, et nous, on a souffert sans comprendre. Tu trouves ça mieux ?
+Gérard : Je ne trouve rien de mieux. Je dis seulement que je n'étais pas un monstre, j'étais un homme malade qui l'ignorait.
+Mathilde : Je ne dis pas que tu étais un monstre. Mais ça ne me suffit pas, comme explication.
+Gérard : Que veux-tu de plus ? Je n'ai pas d'autre explication à offrir.
+Mathilde : Je veux que tu reconnaisses que j'étais une enfant, et que c'était à toi d'être l'adulte, malade ou pas.
+Gérard : Je le reconnais. Je l'ai reconnu mille fois, la nuit, tout seul.
+Mathilde : Alors pourquoi ne pas me l'avoir dit en face ? Pourquoi me laisser le deviner dans le silence ?
+Gérard : Parce que j'avais peur que tu me demandes de partir, cette fois pour de bon.
+Mathilde : Te demander de partir ? Papa, j'ai passé vingt ans à attendre que tu reviennes.
+Gérard : Je n'entendais rien. J'étais enfermé dans ma peur, comme dans une pièce sans fenêtre.
+Mathilde : Alors ouvre la fenêtre. Aujourd'hui, pour mes enfants au moins.
+Gérard : Je veux bien. Je ne sais pas encore comment, mais je veux bien.
+Mathilde : Ils ont six et neuf ans. Ils te demandent souvent, tu sais.
+Gérard : Ils me demandent ? Ils savent même que j'existe ?
+Mathilde : Léa a trouvé une photo de toi dans un album, elle a voulu savoir pourquoi grand-père ne venait jamais à Noël.
+Gérard : Et que lui as-tu répondu ?
+Mathilde : Que c'était compliqué. Que tu vivais loin et que tu étais timide.
+Gérard : Timide... Ce n'est pas faux, finalement, c'est même assez juste.
+Mathilde : Ils aimeraient te connaître. Mais je ne les mettrai pas en danger, papa. Pas question de promesses qu'on ne tient pas.
+Gérard : Je le comprends. Je n'ai aucun droit de te demander quoi que ce soit.
+Mathilde : Tu as le droit de demander. Moi, j'ai le droit de dire non, c'est tout.
+Gérard : Alors je te demande : dimanche prochain, je pourrais venir déjeuner chez vous ?
+Mathilde : Dimanche prochain, c'est trop tôt. Le dimanche d'après, peut-être.
+Gérard : Dans quinze jours. D'accord. Je prendrai le temps de me préparer.
+Mathilde : Prépare surtout une chose : ne pas disparaître le lendemain.
+Gérard : Je ne disparaîtrai pas. Ou alors, préviens-moi tout de suite si je t'en donne l'impression.
+Mathilde : Ça marche. Et apporte un pot de compote, les enfants aiment le sucré.
+Gérard : Une cure de compote, alors, pour tout le monde. Sur ordonnance familiale.
+Mathilde : Ha ha. Je ne te pardonne pas encore tout, papa. Mais je suis contente d'être venue.
+Gérard : Moi aussi, Mathilde. Plus que tu ne peux l'imaginer.
+Mathilde : Je dois y aller, le dernier train est à dix-huit heures. On s'écrit cette semaine ?
+
+## 낭독 포인트
+- 비음 모음: «maintenant», «enfant», «pardon», «compote» — an, en, on은 코로 울리는 모음이고 끝의 n·m은 따로 발음하지 않는다.
+- 연음: «j'étais», «vingt ans», «il y a» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «regrette», «raison», «toujours» — 목젖 근처에서 내는 마찰음. 어두의 r은 목구멍을 살짝 긁듯이 낸다.
+- u / ou: «tu», «du» vs «toujours», «pour» — u는 입술을 모아 [y], ou는 [u].
+- 묵음 e: «pomme», «fenêtre», «place» — 어말 e는 거의 소리 나지 않는다.
+- 억양: 제라르는 말끝을 내리며 머뭇거리고, 마틸드는 처음엔 단단하게 끊다가 3구간(41~60턴)에서 감정이 실린다. 61~80턴은 긴장이 풀려 웃음이 섞이고, 81~100턴은 서로 낮고 느리게 부딪친다. 마지막은 가볍게 마무리하되 여운을 남긴다.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 말을 꺼내기 어려운 시작
+  · 머뭇거림: «Je ne sais jamais comment te dire les choses.», «Je n'y arrive pas encore.»
+  · 완곡한 비난: «Tu n'y étais pas quand j'avais besoin de toi.», «Prends ton temps.»
+- B2 구간(21~40턴): 일상 대화로 숨 돌리기
+  · 일상 묘사: «Je l'ai planté l'année où tu es partie à l'université.», «Elle me donne ses œufs, je lui rends des pots, c'est le troc.»
+  · 가벼운 농담: «Les listes de courses, c'est de la littérature domestique.»
+- C1 구간(41~60턴): 결혼식 불참을 둘러싼 대화
+  · 사실과 감정: «Tu as imaginé. Tu n'as pas demandé.», «J'étais lâche, c'est vrai.»
+  · 사과의 한계: «Pardon, ça ne remplace pas dix ans. Ça ne rattrape pas la place vide.»
+- C1 구간(61~80턴): 추억과 유머
+  · 애정 표현: «J'ai de très beaux souvenirs de toi, c'est ça qui est troublant.», «Peut-être parce que l'un n'efface pas l'autre.»
+  · 농담: «Une cure de compote, sur ordonnance.»
+- C1 구간(81~100턴): 떠난 이유와 책임
+  · 설명: «J'étais déjà parti dans ma tête.», «Je n'étais pas un monstre, j'étais un homme malade qui l'ignorait.»
+  · 책임: «C'était à toi d'être l'adulte, malade ou pas.», «Alors ouvre la fenêtre.»
+- C1 구간(101~120턴): 조심스러운 합의
+  · 조건·약속: «Je ne les mettrai pas en danger.», «Prépare surtout une chose : ne pas disparaître le lendemain.»
+  · 열린 마무리: «Je ne te pardonne pas encore tout, papa. Mais je suis contente d'être venue.»
+- 어휘: le pommier, la compote, le faire-part, l'empêchement, le troc, la cure, le remords, l'adulte.
+
+## 속어 노트
+- «tu parles de…»: 웃기네, 무슨(반어적으로 쓴다: «tu parles d'une discrétion»).
+- «ne pas être dupe»: 속지 않다, 다 알고 있다.
+- «Ça marche»: 좋아, 알겠어(승낙).
+- «un faire-part»: 청첩장, 부고 같은 알림장.
+- «à pied / tout à l'heure»: 걸어서 / 조금 이따가.
+- 가족 관계와 병력, 양육 이야기는 이야기 속 설정이며 실제와 다를 수 있다.
+- 레지스터 주의: 욕설은 없다. 부녀는 tu로 말하고, 감정이 올라오는 대목에서는 길게 돌려 말하지 않고 짧게 끊는다.
+
+## 한글 해석
+(일요일 오후 네 시, 뫼동 제라르의 정원. 사과나무 한 그루, 철제 의자 둘, 찻주전자. 마틸드가 도착한 지 십 분이 지났지만 둘 다 제대로 말을 못 했다.)
+제라르 : 쉽게 찾았니? 구월부터 길에 공사가 있어서.
+마틸드 : 응, 기차 타고 왔어. 역에서 걸어왔고.
+제라르 : 아, 전화하지, 데리러 갔을 텐데.
+마틸드 : 아빠, 내가 여기 기차로 온 지 이 년이야. 잘 알잖아.
+제라르 : 알아. 그냥... 난 네게 말을 어떻게 해야 할지 늘 몰라서.
+마틸드 : 알고 있었어. 내가 열다섯 살 때부터 쭉.
+제라르 : 오늘 날이 서 있구나. 잘 못 잤니?
+마틸드 : 아주 못 잤어. 몇 주 동안 이 대화를 연습했는데 막상 하니 다 우스워 보여.
+제라르 : 무슨 대화? 무섭게 왜 그러니.
+마틸드 : 스물네 해 전에 했어야 했는데, 아빠도 나도 피했던 대화.
+제라르 : 그럼 네 마음에 얹힌 걸 말해 보렴. 나 여기 있고 안 움직이마.
+마틸드 : 지금 여기 계시지. 하지만 내가 필요할 때는 안 계셨고, 그게 문제야.
+제라르 : 내가... 떠난 걸 말하는 거니?
+마틸드 : 그것도 포함해서. 하지만 그것만은 아니고, 지금 당장은 아니야. 아직 못 하겠어.
+제라르 : 천천히 하렴. 차를 끓였는데, 한 잔 할래?
+마틸드 : 응, 좋아. 숨 쉬는 데 도움이 될 거야.
+제라르 : 네 엄마가 마시던 차는 아니고 내가 좋아하는 거야. 훈연 향이 약간 나는 홍차.
+마틸드 : 엄마는 지금도 녹차를 마셔. 홍차는 속이 쓰리대.
+제라르 : 맞다, 잊고 있었어. 너는 나보다 기억하는 게 많구나.
+마틸드 : 내가 거기 있었으니까. 나는 기억할 시간이 있었어.
+(제라르가 차를 따른다. 사과나무 밑에서 지빠귀 한 마리가 폴짝거리고, 둘은 말없이 한참 바라본다.)
+제라르 : 저 사과나무 보이니? 네가 대학에 간 해에 심었어.
+마틸드 : 난 예전부터 있었던 줄 알았어. 엄청 커졌네.
+제라르 : 사과는 맛이 별로야, 안타깝게도. 너무 시어. 그래도 새들은 좋아해.
+마틸드 : 그래도 아빠는 드시겠지.
+제라르 : 설탕 많이 넣은 콤포트로. 이따가 한 그릇 먹을래?
+마틸드 : 좋아. 사과 콤포트 먹은 지 몇 년 됐어.
+제라르 : 가는 길에 한 병 줄게. 어차피 너무 많이 만들었거든.
+마틸드 : 아빠는 늘 뭐든 너무 많이 하셨어. 잼도, 수리도.
+제라르 : 맞아. 네 엄마는 내 손이 멈출 줄 모른다고 했지.
+마틸드 : 틀린 말 아니야. 동네를 다 고쳤잖아.
+제라르 : 다는 아니고. 이웃들이 부탁할 용기가 난 것만.
+마틸드 : 푸아리에 부인이 아빠가 계단을 고쳐 줬다고 하시더라. 아빠가 사랑스러운 분이래.
+제라르 : 푸아리에 부인은 과장하셔. 계단이 아니라 난간이었어.
+마틸드 : 콤포트 한 병 드렸다는 말씀도 하셨어.
+제라르 : 당연하지. 그분은 달걀을 주시고 난 병을 돌려 드리고, 물물교환이야.
+마틸드 : 뫼동의 물물교환. 소설 제목으로 좋겠다.
+제라르 : 넌 아직도 저녁에 아이들이 자면 글을 쓰니?
+마틸드 : 조금. 주로 장보기 목록이라 별로 쳐줄 순 없어.
+제라르 : 장보기 목록은 생활 문학이야. 쳐줄 만하지.
+마틸드 : 하하. 아빠, 이제 질문 하나 해도 돼?
+제라르 : 해 보렴. 들을게.
+마틸드 : 왜 내 결혼식에 안 오셨어?
+제라르 : 난... 초대받지 않았잖니, 마틸드. 네 엄마가 네가 마주치길 원치 않는다고 했어.
+마틸드 : 엄마가 그렇게 말했어? 나는 청첩장에 편지까지 넣어서 보냈는데. 못 받으셨어?
+제라르 : 받았어. 몇 달 동안 서랍에 넣어 뒀지. 답장할 용기가 안 났어.
+마틸드 : 용기가 안 났다. 그래. 그럴 줄 알았는데 막상 들으니 마음이 아파.
+제라르 : 내가 가면 잔치가 망가질 거라고 생각했어. 모든 시선, 네 엄마 쪽 가족이 다 상상됐어.
+마틸드 : 상상하셨지. 물어보지 않으셨어. 환영받지 못할 거라고 나 대신 아빠가 정하셨어.
+제라르 : 비겁했어, 맞아. 집을 나간 게 부끄러웠고 그걸 말할 줄도 몰랐어.
+마틸드 : 부끄럽든 말든 난 식탁에 빈자리가 하나 있었어. 외할머니 옆에 두게 했어.
+제라르 : 내 자리를 남겨 뒀다고? 마틸드... 몰랐다.
+마틸드 : 당연히 모르셨겠지, 전화를 안 하셨으니까. 다들 아빠가 어디 있냐고 물었어.
+제라르 : 그래서 뭐라고 답했니?
+마틸드 : 사정이 있으시다고. 식사 중에는 웃었고, 저녁에 욕실에서 울었어.
+제라르 : 미안하다. 더 잘 말하는 법은 모르겠지만 미안하다.
+마틸드 : 미안하다는 말이 십 년을 대신하진 못해. 빈자리를 메워 주진 않아.
+제라르 : 그래, 물론이지. 그렇게 주장하지 않아. 후회한다는 것만 알아줬으면 한다.
+마틸드 : 언제부터 후회하셨어? 솔직하게 말해 줘.
+제라르 : 바로 그날 저녁부터. 부엌에 앉아서 네가 보낸 사진을 봤어.
+마틸드 : 구청에서 찍은 사진. 사본을 갖고 계셨어요? 우편에서 사라진 줄 알았는데.
+(긴 침묵. 제라르가 일어나 따뜻한 주전자와 콤포트 그릇 두 개를 가져온다. 마틸드는 소매로 눈을 닦는다.)
+제라르 : 자. 열 살 때처럼 콤포트 한 그릇.
+마틸드 : 이거 정말 너무 시어, 아빠.
+제라르 : 경고했잖니. 설탕을 더 넣으면 다 해결돼.
+마틸드 : 기억나? 엄마 몰래 설탕 숟가락을 나한테 주던 거.
+제라르 : 엄마가 못 보게, 그래. 아주 들키지 않는 줄 알았지.
+마틸드 : 턱에 설탕이 잔뜩 묻어 있었는데, 무슨 비밀이야.
+제라르 : 하하, 네 엄마는 속은 적이 없어. 못 본 척했지.
+마틸드 : 엄마는 늘 아빠가 집에서 제일 큰 아이라고 했어.
+제라르 : 맞는 말이야. 그래도 난 그렇게 행복했다.
+마틸드 : 나도 그랬어, 알아? 아빠와의 아름다운 기억이 많아, 그게 오히려 혼란스러워.
+제라르 : 혼란스럽다고?
+마틸드 : 응. 그렇게나 보고 싶었던 사람에게 어떻게 이만큼 다정함을 품을 수 있을까?
+제라르 : 모르겠구나. 하나가 다른 하나를 지우지 않아서일지도.
+마틸드 : 그럴지도. 아빠는 마음먹으면 생각보다 말을 잘해.
+제라르 : 콤포트 덕이야. 혀를 풀어 주거든.
+마틸드 : 하하. 그럼 의학적 치료로 만들 수 있겠다.
+제라르 : 처방전 받는 콤포트 요법이라. 의사에게 제안해 봐야겠다.
+마틸드 : 설탕을 줄이라고 하실 텐데.
+제라르 : 이미 줄이라고 하셔. 한 번도 안 들었지.
+마틸드 : 그건 집안 내력이야.
+(마틸드가 그릇을 내려놓고 도착한 뒤 처음으로 아버지의 눈을 똑바로 본다.)
+제라르 : 내가 왜 떠났는지 알고 싶은 거지? 네 눈에 보인다.
+마틸드 : 응. 돌려 말하지 말고, 아빠.
+제라르 : 짧은 이야기를 원하니, 진짜 이야기를 원하니?
+마틸드 : 진짜. 보기 흉해도.
+제라르 : 직장을 잃고 아침에 일어나지도 못했어. 나는 견딜 수 없는 사람이 됐고 네 엄마도 그렇게 말했지.
+마틸드 : 엄마는 아빠가 이미 떠난 사람처럼 넋이 나가 있었다고도 했어.
+제라르 : 맞아. 머릿속에선 이미 떠나 있었어. 어느 아침 가방을 쌌지. 너희를 나로부터 지킨다고 생각했거든.
+마틸드 : 우릴 지킨다고? 열네 살이던 내가 어떻게 느낄지 생각이나 했어?
+제라르 : 아니. 그게 내가 나를 용서 못 하는 부분이야. 나는 나만, 너희를 아프게 할까 봐 두려워하는 내 마음만 생각했어.
+마틸드 : 혼자 아프셨고 우린 이유도 모른 채 아팠어. 그게 더 나아 보여?
+제라르 : 더 나은 건 없어. 다만 난 괴물이 아니라 그걸 모르는 아픈 사람이었다고 말하는 거야.
+마틸드 : 괴물이라고 안 했어. 하지만 설명으로는 부족해.
+제라르 : 더 뭘 바라니? 내가 내놓을 다른 설명은 없다.
+마틸드 : 내가 아이였고 아프든 아니든 어른이어야 했던 건 아빠였다는 걸 인정해 줘.
+제라르 : 인정한다. 밤마다 혼자서 천 번은 인정했어.
+마틸드 : 그럼 왜 얼굴 보고 말하지 않았어? 왜 침묵 속에서 짐작하게 두셨어?
+제라르 : 네가 이번엔 정말 떠나라고 할까 봐 무서웠어.
+마틸드 : 떠나라고? 아빠, 나는 이십 년 동안 돌아오시길 기다렸어.
+제라르 : 아무것도 안 들렸다. 창문 없는 방에 갇히듯 두려움에 갇혀 있었어.
+마틸드 : 그럼 창문을 열어. 오늘, 적어도 내 아이들을 위해서.
+제라르 : 그러마. 아직 어떻게 할지 모르지만 그러고 싶다.
+마틸드 : 애들은 여섯 살, 아홉 살이야. 아빠를 자주 찾아, 알아?
+제라르 : 나를 찾는다고? 내가 있는 줄은 아니?
+마틸드 : 레아가 앨범에서 아빠 사진을 보고 왜 할아버지는 크리스마스에 안 오시냐고 물었어.
+제라르 : 뭐라고 답했니?
+마틸드 : 복잡하다고. 멀리 사시고 수줍음이 많다고.
+제라르 : 수줍음이라... 틀린 말은 아니구나, 오히려 꽤 맞는 말이야.
+마틸드 : 아이들이 할아버지를 알고 싶어 해. 하지만 위험에 처하게 하진 않을 거야, 아빠. 못 지킬 약속은 필요 없어.
+제라르 : 이해한다. 나는 네게 무엇도 요구할 권리가 없다.
+마틸드 : 요구할 권리는 있어. 난 아니라고 할 권리가 있고, 그뿐이야.
+제라르 : 그럼 부탁하마. 다음 일요일에 너희 집에서 점심 먹어도 될까?
+마틸드 : 다음 일요일은 너무 일러. 그다음 일요일이면 아마.
+제라르 : 보름 뒤구나. 알겠다. 마음의 준비를 하마.
+마틸드 : 무엇보다 하나만 준비해. 다음 날 사라지지 않는 거.
+제라르 : 사라지지 않으마. 아니면 내가 그런 인상을 주면 바로 말해 주렴.
+마틸드 : 알았어. 그리고 콤포트 한 병 가져와, 애들이 단 걸 좋아해.
+제라르 : 그럼 모두를 위한 콤포트 요법이구나. 가족 처방전으로.
+마틸드 : 하하. 아빠, 아직 다 용서한 건 아니야. 하지만 오길 잘했어.
+제라르 : 나도 그렇다, 마틸드. 네가 상상하는 것보다 더.
+마틸드 : 가야 해, 막차가 여섯 시야. 이번 주에 연락할까?

@@ -1,0 +1,290 @@
+# 4부 4화. Réunion en visio (화상 회의)
+난이도: 주 B2 | 구간: C1→B2→B2→B1→B2→B2 | 형식: 다인 | 장소: 화상 회의(파리·몽트뢰유·낭트·이동 중인 기차) | 시간: 월요일 오전 9시 30분
+등장인물: Sophie, Thomas, Malik, Inès
+이슈: 주 ◐ 클라이언트에게 약속한 납품일, 범위 변경, 말하지 못한 부담 | 곡선: 2-0-2-0-2-1 (파도형, 상한 2) | 입장: A 토마(영업 담당, 고객에게 이미 날짜를 말해 신뢰가 걸려 있다) / B 말리크(개발자, 추가 범위로 날짜를 못 지킨다고 본다) / C 이네스(디자이너, 말하면 날짜 압박만 받아 침묵해 왔다) / D 소피(프로젝트 책임자, 중재한다)
+상황 카드: 앱 2차 버전의 납품일을 두고 영업의 토마와 개발의 말리크가 부딪친다. 중간에 화면 공유와 연결 문제로 긴 침묵이 흐르고, 카메라를 꺼 두던 이네스가 마침내 결제 화면 설계의 문제와 말하지 못한 압박을 털어놓는다. 소피는 목요일에 고객에게 두 가지 선택지를 제시하기로 정리하지만, 고객이 받아들일지는 알 수 없는 열린 결말이다.
+학습 포인트: 회의 진행(On reprend) · 의견 부딪치기(Je ne signerai pas une date que je sais intenable) · 기술 문제 말하기(Je suis en muet, l'image se fige) · 침묵과 마이크 예절 · 조건·양보(tant que, à condition que)
+
+## 대화
+(월요일 오전 9시 30분. 프로젝트 회의가 화상으로 열린다. 소피는 파리 사무실에, 말리크는 몽트뢰유 집에, 이네스는 낭트에 있고, 토마는 기차 안에서 접속했다.)
+Sophie : Bonjour à tous. On attend Thomas deux minutes, ou on commence ? Je vois qu'il est connecté, mais sans image.
+Thomas : Je suis là, je suis là ! Je suis dans le train, la connexion est capricieuse, donc je coupe la caméra pour ne pas faire sauter le son.
+Sophie : Très bien. Alors, ordre du jour. Un, le point sur la version deux de l'appli. Deux, la date de livraison. Trois, le retour du client.
+Malik : Je prends la parole tout de suite sur le point deux, si tu permets, parce que ça ne va pas être possible.
+Sophie : Qu'est-ce qui n'est pas possible, Malik ?
+Malik : Le quinze du mois prochain. J'ai refait les calculs ce week-end, et même en travaillant très vite, il me faut au moins trois semaines de plus.
+Thomas : Trois semaines ? Mais j'ai annoncé le quinze au client la semaine dernière. Il a déjà prévenu ses équipes.
+Malik : Tu l'as annoncé sans m'en parler, Thomas. Je l'ai découvert dans un mail en copie.
+Thomas : Je pensais que c'était validé. Sophie m'avait dit que la fin octobre tenait.
+Sophie : J'avais dit que ça pouvait tenir si le périmètre restait réduit. Ce n'est pas tout à fait la même chose.
+Thomas : Dans ma tête, le périmètre n'avait pas bougé.
+Malik : Il a bougé de moitié. Le client a ajouté le module de paiement en cours de route, et ça, c'est du développement lourd.
+Thomas : C'est le client, Malik. On ne peut pas lui dire non toutes les deux semaines.
+Malik : On peut lui dire « oui, mais pas pour cette date ». C'est exactement ce que font tous les prestataires sérieux.
+Sophie : Du calme, tous les deux. On n'est pas en train de chercher un coupable, on cherche une solution.
+Thomas : Je ne cherche pas de coupable, je dis seulement que ma crédibilité est en jeu.
+Malik : Et ma crédibilité à moi, si je livre un produit bancal, on n'en parle pas ?
+Sophie : Malik, on garde un ton professionnel, s'il te plaît.
+Malik : Pardon. Mais je veux que ce soit clair, je ne signerai pas une date que je sais intenable.
+Sophie : C'est noté. On y reviendra dans un instant, mais d'abord, on va faire un tour de table pour que tout le monde ait les mêmes informations.
+Sophie : Inès, tu es avec nous ? Je ne t'ai pas encore entendue.
+Inès : Je suis là. Désolée, j'étais en muet.
+Sophie : Aucun souci. Ça va, côté design ?
+Inès : Ça avance. Les maquettes de la page d'accueil sont finies, il me reste le parcours de paiement.
+Sophie : Parfait. Je partage mon écran. Vous voyez le tableau de suivi ?
+Thomas : Non, je vois juste un carré noir.
+Sophie : Attends, je réessaie. Et maintenant ?
+Thomas : Toujours rien. Je me reconnecte, une seconde.
+Malik : Moi, je le vois très bien, mais la police est minuscule.
+Sophie : Je zoome. Mieux ?
+Malik : Voilà, merci. Ça fait du bien aux yeux.
+Inès : Chez moi, l'image se fige toutes les dix secondes. Ça vient de mon wifi, il y a un orage à Nantes.
+Sophie : Pas de panique, on te fera un récapitulatif écrit après la réunion.
+Thomas : Je suis revenu ! Je vois le tableau. Il est très rouge, ce tableau.
+Sophie : Il est un peu rouge, oui. Mais le vert, c'est pour la semaine prochaine.
+Malik : Un optimiste, ça. J'aime bien.
+Sophie : Je préfère « réaliste ». Bon, avant d'entrer dans le détail, quelqu'un veut un café ? Je vais me faire le mien.
+Inès : Moi, je veux bien, mais virtuel, alors.
+Thomas : Je t'envoie un café par message, avec des croissants.
+Sophie : Cinq minutes de pause, alors, et on reprend à dix heures.
+(Dix heures. Les quatre sont revenus. Thomas a rallumé sa caméra, il est descendu du train et marche dans une gare.)
+Sophie : Bon, on reprend. Thomas, tu as une idée pour le client ?
+Thomas : Oui. Et si on livrait le quinze sans le module de paiement, et qu'on ajoutait le paiement dans une deuxième version ?
+Malik : Honnêtement, c'est ce que j'allais proposer. Mais est-ce que le client acceptera ?
+Thomas : Pas sûr. Il tient beaucoup au paiement, parce que c'est ce qui rapporte.
+Malik : Justement. Une appli sans paiement, il peut la trouver inutile.
+Thomas : Ou alors on dit que le paiement arrive début décembre, et on lui donne une date ferme.
+Sophie : Début décembre, ça te paraît réaliste, Malik ?
+Malik : Avec trois semaines supplémentaires, oui. Mais pas si le client change encore ses demandes.
+Thomas : Je peux lui demander de geler le périmètre par écrit.
+Malik : Ce serait déjà beaucoup mieux. Parce que sinon, on tourne en rond.
+Sophie : Je suis d'accord. Mais j'aimerais qu'on décide d'une chose, aujourd'hui. Qui parle au client ?
+Thomas : Moi, normalement. C'est mon rôle.
+Malik : Oui, mais avec moi dans l'appel. Comme ça, je réponds aux questions techniques.
+Thomas : Franchement, je préférerais y aller seul, pour garder le contrôle du discours.
+Malik : Ça, c'est exactement ce qui nous a menés ici.
+Thomas : Tu es dur, là.
+Malik : Je suis clair, ce n'est pas pareil.
+Sophie : Stop. Vous avez tous les deux raison, et c'est ça qui est pénible.
+Thomas : Ça me rassure un peu.
+Sophie : Je ne dis pas ça pour te rassurer. Je dis qu'on ne va pas trancher à chaud.
+(Un silence. Sur l'écran, les petites fenêtres ne bougent plus.)
+Sophie : Quelqu'un m'entend ? Je n'entends plus personne.
+Thomas : Moi, je vous entends.
+Malik : Moi aussi. C'est peut-être juste un silence.
+Sophie : Ha, oui. Un silence très long, alors.
+Thomas : En visio, il y a toujours ces silences bizarres, on ne sait pas qui doit parler.
+Malik : À distance, on se coupe la parole ou on se tait, il n'y a pas de milieu.
+Sophie : C'est vrai. Au bureau, on voit quand quelqu'un va parler, on respire avec lui.
+Thomas : Moi, je ne vois que la moitié de vos visages. Tu es toujours devant la fenêtre, Malik, on ne voit que ta silhouette.
+Malik : C'est la seule pièce avec une bonne connexion. Mon salon, c'est le désert.
+Sophie : Et toi, Inès, tu es là ? Ta caméra est noire depuis un moment.
+Inès : Oui, oui, je suis là. Je préfère laisser la caméra éteinte, ça économise la bande passante.
+Sophie : Aucun problème. Tu peux écrire dans le chat si c'est plus simple.
+Inès : D'accord. Je note quelques idées sur le paiement, et je les poste tout à l'heure.
+Thomas : Tu en as déjà ? Tu nous les dis, si tu veux.
+Inès : Pas maintenant. Je finis de les rédiger.
+Sophie : Parfait. On prend le temps. Moi, je regarde le planning de décembre en attendant.
+Malik : Et moi, je ferme ma messagerie, ça me stresse de voir les mails arriver pendant la réunion.
+Thomas : Bonne idée. Je mets mon téléphone en silencieux.
+Sophie : Merci à tous. On respire cinq minutes, et on reprend sur le paiement.
+Inès : D'accord.
+(Inès allume sa caméra pour la première fois de la matinée. On la voit penchée vers son écran.)
+Inès : J'ai posté mes idées dans le chat. Je peux les résumer à l'oral, si vous voulez.
+Sophie : Oui, on t'écoute. Merci de te lancer.
+Inès : Alors, première chose. Le parcours de paiement tel qu'il est dessiné ne marche pas sur téléphone, c'est trop long.
+Thomas : Trop long, c'est-à-dire ?
+Inès : Sept étapes. Les tests montrent qu'au-delà de quatre, la moitié des gens abandonnent.
+Malik : On a mis sept étapes parce que le client voulait la vérification de l'adresse, le code promo et la confirmation par SMS.
+Inès : Je sais. Mais si on garde tout, personne n'ira jusqu'au bout. Et ça va se voir dans les chiffres du client.
+Thomas : Donc il faut refaire la maquette. Ça, c'est une mauvaise nouvelle pour le planning.
+Inès : Oui. Et c'est pour ça que je ne disais rien. Chaque fois que je parle d'un problème, on me répond qu'il faut tenir la date.
+Sophie : Ça, c'est un retour important, Inès. Je ne savais pas que tu le ressentais comme ça.
+Inès : Je ne voulais pas faire de vagues. Mais je préfère vous le dire plutôt que de livrer quelque chose dont je ne suis pas fière.
+Malik : Pour ce que ça vaut, je comprends. Moi aussi, j'ai attendu d'être à bout avant de parler.
+Thomas : Écoutez, je n'ai jamais voulu vous mettre la pression. Je voulais juste que le client soit content.
+Inès : Je sais, Thomas. Mais un client content, c'est aussi un client qui reçoit un produit qui marche.
+Thomas : Là, tu marques un point.
+Sophie : Alors qu'est-ce qu'on fait ? On refait la maquette en quatre étapes ?
+Inès : En quatre ou cinq, mais il faut me donner deux semaines, pas moins.
+Malik : Deux semaines pour Inès, plus trois semaines pour moi, ça nous mène à mi-décembre.
+Thomas : Mi-décembre. Le client va me tomber dessus.
+Sophie : Il ne va pas te tomber dessus. Mais il faudra lui parler franchement.
+Thomas : D'accord. Je lui propose un appel jeudi, avec toi, Sophie, et avec Malik s'il est dispo.
+Malik : Je suis dispo jeudi après-midi.
+Sophie : Moi aussi. On lui présente deux options, une livraison au quinze sans paiement, ou une livraison mi-décembre avec un paiement propre.
+Thomas : Et si le client veut les deux, le quinze et le paiement ?
+Sophie : On lui dira que ce n'est pas possible, ni techniquement ni humainement.
+Malik : Merci d'avoir dit « humainement ». Ça fait du bien.
+Sophie : Je le pense vraiment. Inès, tu es d'accord avec cette approche ?
+Inès : Oui, tant qu'on ne me redemande pas la date du quinze entre-temps.
+Thomas : Promis. Si je le fais, tu as le droit de me couper le son.
+Inès : Ha ! Je note ça.
+Sophie : Bon. Je rédige le compte rendu ce soir, avec les décisions et ce qui reste ouvert.
+Malik : Ce qui reste ouvert, c'est surtout la réaction du client.
+Sophie : Oui. On ne la connaîtra que jeudi, et peut-être pas même jeudi.
+Thomas : Je vais essayer d'être convaincant sans être servile.
+Malik : C'est un bon programme.
+Inès : Moi, je commence la maquette dès cet après-midi, au cas où.
+Sophie : Merci. Et si tu as besoin d'un avis, dis-le dans le chat, tu n'as pas à attendre la réunion.
+Inès : D'accord, merci Sophie.
+Thomas : Bon courage à tous. Moi, j'arrive à la gare de Lyon.
+Sophie : À jeudi, tout le monde. Et pensez à quitter la réunion pour de bon, je vois encore vos pastilles vertes.
+
+## 낭독 포인트
+- 비음 모음: «paiement», «semaines», «décembre», «tout de suite» — an, in, on 계열은 코로 울리는 모음이다. «paiement»의 -ment는 [mɑ̃].
+- 연음·앙샹느망: «un instant», «c'est exactement», «au-delà» — 이어 읽을 때 끝 자음이 다음 모음 쪽으로 넘어간다.
+- 프랑스어 r: «périmètre», «réunion», «retour» — 목젖 근처에서 내는 마찰음.
+- 외래어 발음: «caméra», «croissants», «wifi» — 프랑스어식으로 끝 음절을 또박또박, wifi는 [wifi].
+- 억양: 토마는 서두르고 말끝이 올라가며, 말리크는 단정적이고 낮게. 이네스는 작고 조심스럽게 시작해 후반에 단단해진다.
+- 호칭: 동료끼리 tu. 날짜 «le quinze», «mi-décembre»를 끊지 말고 읽는다.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 입장 부딪치기
+  · «ma crédibilité est en jeu», «Je ne signerai pas une date que je sais intenable.», «On n'est pas en train de chercher un coupable, on cherche une solution.»
+- B2 구간(21~40턴): 화상 회의의 기술 문제
+  · «j'étais en muet», «l'image se fige toutes les dix secondes», «Je partage mon écran.», «Je zoome.»
+- B2 구간(41~60턴): 대안 제시와 역할 정하기
+  · «Je peux lui demander de geler le périmètre par écrit.», «on tourne en rond», «on ne va pas trancher à chaud»
+- B1 구간(61~80턴): 침묵과 카메라
+  · «Quelqu'un m'entend ?», «on se coupe la parole ou on se tait», «Je préfère laisser la caméra éteinte.»
+- B2 구간(81~100턴): 말하지 못한 부담 털어놓기
+  · «Je ne voulais pas faire de vagues.», «au-delà de quatre, la moitié des gens abandonnent», «Là, tu marques un point.»
+- B2 구간(101~120턴): 합의와 남은 문제
+  · «On lui présente deux options», «tant qu'on ne me redemande pas la date du quinze», «ce qui reste ouvert»
+- 어휘: le périmètre, la livraison, la maquette, le parcours de paiement, le prestataire, le compte rendu, la bande passante, geler.
+
+## 속어 노트
+- «tourner en rond»: 제자리를 맴돌다.
+- «faire des vagues»: 분란을 일으키다, 분위기를 흔들다.
+- «être à bout»: 한계에 이르다.
+- «marquer un point»: 일리 있는 말을 하다.
+- «tomber dessus»: 들이닥쳐 혼내다, 몰아붙이다.
+- 납품일, 범위, 기간은 모두 이야기 속 설정이며 실제 계약 관행과 다를 수 있어 확인 필요.
+- 레지스터 주의: 욕설은 없다. 동료 사이는 tu이고, 고객 이야기를 할 때는 한결 격식 있게 말한다.
+
+## 한글 해석
+(월요일 오전 9시 30분. 프로젝트 회의가 화상으로 열린다. 소피는 파리 사무실에, 말리크는 몽트뢰유 집에, 이네스는 낭트에 있고, 토마는 기차 안에서 접속했다.)
+소피 : 모두 안녕하세요. 토마를 이 분 더 기다릴까요, 아니면 시작할까요? 접속은 해 있는데 화면이 없네요.
+토마 : 저 있어요, 있어요! 기차 안인데 연결이 불안정해서 소리가 끊기지 않게 카메라를 끄고 있어요.
+소피 : 좋아요. 그럼 안건입니다. 하나, 앱 2차 버전 진행 상황. 둘, 납품 날짜. 셋, 고객 반응.
+말리크 : 둘째 안건부터 바로 말할게요, 괜찮다면. 이건 안 될 것 같아서요.
+소피 : 뭐가 안 된다는 거야, 말리크?
+말리크 : 다음 달 십오 일이요. 주말에 계산을 다시 해 봤는데, 아주 빠르게 일해도 최소 삼 주는 더 필요해요.
+토마 : 삼 주요? 저는 지난주에 고객한테 십오 일이라고 알렸는데요. 그쪽 팀에도 이미 얘기했고요.
+말리크 : 나한테 말도 없이 알렸네, 토마. 참조로 걸린 메일에서 알았어.
+토마 : 확정된 줄 알았어요. 소피가 시월 말은 된다고 했거든요.
+소피 : 범위가 줄어든 상태면 맞출 수 있다고 했어요. 완전히 같은 말은 아니죠.
+토마 : 제 머릿속에서는 범위가 바뀐 게 없었어요.
+말리크 : 절반이 바뀌었어. 고객이 중간에 결제 모듈을 추가했고, 그건 무거운 개발이야.
+토마 : 고객이잖아요, 말리크. 이 주마다 안 된다고 말할 순 없어요.
+말리크 : "네, 하지만 그 날짜는 안 됩니다"라고 말할 순 있지. 진지한 업체는 다 그렇게 해.
+소피 : 둘 다 진정해요. 지금은 잘못한 사람을 찾는 게 아니라 해결책을 찾는 거예요.
+토마 : 잘못한 사람을 찾는 게 아니에요, 제 신뢰가 걸려 있다고 말하는 것뿐이에요.
+말리크 : 그럼 허술한 제품을 내놓으면 내 신뢰는? 그건 얘기 안 해?
+소피 : 말리크, 전문가답게 말해 줘요.
+말리크 : 미안해요. 그래도 분명히 해 둘게요. 지킬 수 없다는 걸 아는 날짜에는 서명 안 해요.
+소피 : 알겠어요. 곧 다시 얘기하겠지만 먼저 돌아가며 정보를 맞춰 봐요.
+소피 : 이네스, 같이 있어요? 아직 목소리를 못 들었어요.
+이네스 : 있어요. 죄송해요, 음소거였어요.
+소피 : 괜찮아요. 디자인 쪽은 어때요?
+이네스 : 진행 중이에요. 홈 화면 시안은 끝났고, 결제 흐름이 남았어요.
+소피 : 좋아요. 화면 공유할게요. 진행표 보이세요?
+토마 : 아니요, 검은 사각형만 보여요.
+소피 : 잠깐, 다시 해 볼게. 지금은요?
+토마 : 아직도요. 다시 접속할게요, 잠깐만요.
+말리크 : 저는 잘 보이는데 글씨가 너무 작아요.
+소피 : 확대할게요. 괜찮아요?
+말리크 : 네, 고마워요. 눈이 편하네요.
+이네스 : 저는 화면이 십 초마다 멈춰요. 와이파이 때문인데, 낭트에 폭풍이 와요.
+소피 : 걱정 마요, 회의 끝나고 서면 요약을 보내 줄게요.
+토마 : 돌아왔어요! 표가 보여요. 아주 빨간 표네요.
+소피 : 조금 빨갛죠. 그래도 초록은 다음 주 거예요.
+말리크 : 낙천가네요. 마음에 들어요.
+소피 : 저는 "현실적"이라고 하고 싶은데. 자, 자세히 들어가기 전에 커피 마실 사람? 저는 내 걸 타 올게요.
+이네스 : 저도 마시고 싶지만 가상으로요.
+토마 : 메시지로 커피 보내 줄게요, 크루아상도 같이요.
+소피 : 그럼 오 분 쉬고 열 시에 다시 시작해요.
+(열 시. 네 사람이 돌아왔다. 토마가 카메라를 다시 켰다. 기차에서 내려 역 안을 걷고 있다.)
+소피 : 자, 다시 시작해요. 토마, 고객 쪽에 아이디어 있어요?
+토마 : 네. 십오 일에 결제 모듈 없이 납품하고, 결제는 두 번째 버전에 추가하면 어떨까요?
+말리크 : 솔직히 제가 제안하려던 거예요. 그런데 고객이 받아들일까요?
+토마 : 확실하진 않아요. 결제를 아주 중요하게 생각해요. 돈이 되는 부분이니까요.
+말리크 : 바로 그거죠. 결제 없는 앱은 쓸모없다고 볼 수 있어요.
+토마 : 아니면 결제는 십이월 초에 나온다고 하고 확실한 날짜를 주는 거예요.
+소피 : 십이월 초면 현실적이라고 봐요, 말리크?
+말리크 : 삼 주를 더 주면 그렇죠. 그런데 고객이 또 요구를 바꾸면 안 돼요.
+토마 : 범위를 서면으로 고정해 달라고 요청할 수 있어요.
+말리크 : 그게 훨씬 낫겠네요. 안 그러면 계속 제자리예요.
+소피 : 동의해요. 그래도 오늘 하나는 정하고 싶어요. 고객과는 누가 얘기하죠?
+토마 : 원래대로 제가요. 제 역할이니까요.
+말리크 : 네, 그런데 통화에 저도 들어갈게요. 기술 질문에는 제가 답하게요.
+토마 : 솔직히 저 혼자 가고 싶어요. 말을 제가 끌어가려고요.
+말리크 : 바로 그게 우릴 여기까지 오게 했잖아요.
+토마 : 너무 세게 말씀하시네요.
+말리크 : 분명하게 말하는 거지, 세게 말하는 게 아니에요.
+소피 : 그만. 두 사람 다 맞는 말이고, 그래서 힘든 거예요.
+토마 : 조금은 안심이 되네요.
+소피 : 안심시키려고 하는 말은 아니에요. 그 자리에서 결론을 내리진 말자는 거예요.
+(침묵. 화면 속 작은 창들이 움직이지 않는다.)
+소피 : 제 말 들리세요? 아무 소리도 안 들리는데요.
+토마 : 저는 들려요.
+말리크 : 저도요. 그냥 침묵일지도 몰라요.
+소피 : 하, 그러네요. 아주 긴 침묵이네요.
+토마 : 화상 회의에는 늘 이런 이상한 침묵이 있어요. 누가 말해야 할지 모르니까요.
+말리크 : 멀리 있으면 말이 겹치거나 입을 다물거나 둘 중 하나예요. 중간이 없어요.
+소피 : 맞아요. 사무실에서는 누가 말하려는지 보이고 같이 숨을 쉬잖아요.
+토마 : 저는 얼굴이 반쪽만 보여요. 말리크는 늘 창 앞이라 실루엣만 보여요.
+말리크 : 그 방이 연결이 제일 좋거든요. 우리 거실은 사막이에요.
+소피 : 이네스는 있어요? 한참 카메라가 꺼져 있어서요.
+이네스 : 네, 네, 있어요. 카메라는 꺼 두는 게 좋아요, 대역폭이 절약되니까요.
+소피 : 괜찮아요. 더 편하면 채팅에 써도 돼요.
+이네스 : 알겠어요. 결제에 대한 아이디어를 몇 개 정리해서 조금 이따 올릴게요.
+토마 : 벌써 있어요? 원하면 말해 줘요.
+이네스 : 지금은 아니에요. 마저 쓰고 있어요.
+소피 : 좋아요. 시간을 가져요. 저는 그동안 십이월 일정을 볼게요.
+말리크 : 저는 메신저를 닫을게요. 회의 중에 메일이 쌓이는 게 스트레스라서요.
+토마 : 좋은 생각이에요. 저도 폰을 무음으로 할게요.
+소피 : 모두 고마워요. 오 분 숨 돌리고 결제 이야기로 돌아가요.
+이네스 : 알겠어요.
+(이네스가 오전 중 처음으로 카메라를 켠다. 화면 쪽으로 몸을 숙인 모습이 보인다.)
+이네스 : 채팅에 아이디어를 올렸어요. 원하시면 말로 요약할게요.
+소피 : 네, 들을게요. 먼저 말해 줘서 고마워요.
+이네스 : 그럼 첫째. 지금 그려진 결제 흐름은 휴대폰에서 안 돼요. 너무 길어요.
+토마 : 너무 길다는 게 어느 정도예요?
+이네스 : 일곱 단계예요. 테스트를 보면 네 단계를 넘으면 절반이 포기해요.
+말리크 : 일곱 단계로 한 건 고객이 주소 확인, 할인 코드, 문자 인증을 원했기 때문이에요.
+이네스 : 알아요. 그런데 다 넣으면 아무도 끝까지 안 가요. 그리고 그건 고객 수치에 나타날 거예요.
+토마 : 그럼 시안을 다시 해야 하네요. 일정에는 나쁜 소식이에요.
+이네스 : 네. 그래서 제가 말을 안 했던 거예요. 문제를 말할 때마다 날짜를 지켜야 한다는 답이 돌아왔거든요.
+소피 : 중요한 얘기예요, 이네스. 그렇게 느끼고 있는 줄 몰랐어요.
+이네스 : 분란을 일으키고 싶지 않았어요. 그래도 자랑스럽지 않은 걸 내놓느니 말씀드리는 게 낫겠어요.
+말리크 : 도움이 될진 모르겠지만 이해해요. 저도 한계에 이를 때까지 참다가 말했어요.
+토마 : 들어 봐요, 압박을 주려던 적은 없어요. 그냥 고객이 만족하길 바랐을 뿐이에요.
+이네스 : 알아요, 토마. 그래도 만족한 고객은 제대로 작동하는 제품을 받는 고객이기도 해요.
+토마 : 그 말은 맞네요.
+소피 : 그럼 어떻게 할까요? 시안을 네 단계로 다시 할까요?
+이네스 : 네 단계나 다섯 단계로요. 그런데 이 주를 줘야 해요, 그 이하는 안 돼요.
+말리크 : 이네스 이 주에 제 삼 주를 더하면 십이월 중순이에요.
+토마 : 십이월 중순. 고객이 저를 가만두지 않겠네요.
+소피 : 가만두지 않진 않을 거예요. 그래도 솔직하게 말해야 해요.
+토마 : 알겠어요. 목요일에 통화를 제안할게요, 소피 씨랑, 시간 되면 말리크도요.
+말리크 : 목요일 오후에 가능해요.
+소피 : 저도요. 선택지를 두 개 제시해요. 십오 일에 결제 없이 납품하든지, 십이월 중순에 제대로 된 결제로 납품하든지요.
+토마 : 고객이 둘 다 원하면요? 십오 일에 결제까지요.
+소피 : 기술적으로도, 사람 입장에서도 불가능하다고 말해야죠.
+말리크 : "사람 입장에서"라고 해 줘서 고마워요. 마음이 놓여요.
+소피 : 진심이에요. 이네스, 이런 방식에 동의해요?
+이네스 : 네, 그 사이에 다시 십오 일 날짜를 요구하지 않는다면요.
+토마 : 약속해요. 그러면 제 소리를 꺼도 돼요.
+이네스 : 하! 적어 둘게요.
+소피 : 자. 오늘 밤 결정 사항과 아직 열려 있는 것을 정리한 회의록을 쓸게요.
+말리크 : 열려 있는 건 주로 고객의 반응이에요.
+소피 : 맞아요. 목요일에야 알 수 있고, 목요일에도 모를 수 있어요.
+토마 : 비굴하지 않으면서 설득력 있게 해 볼게요.
+말리크 : 좋은 계획이에요.
+이네스 : 저는 오늘 오후부터 시안을 시작할게요, 혹시 모르니까요.
+소피 : 고마워요. 의견이 필요하면 회의를 기다리지 말고 채팅에 남겨요.
+이네스 : 알겠어요, 고마워요 소피.
+토마 : 모두 힘내요. 저는 리옹 역에 도착해요.
+소피 : 목요일에 봐요, 모두. 그리고 회의를 제대로 나가요, 아직 초록 표시가 보이니까요.

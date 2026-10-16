@@ -1,0 +1,289 @@
+# 3부 10화. Le livreur de vingt-deux heures (밤 열 시의 배달원)
+난이도: 주 B2 | 구간: C1→B2→B2→B2→B2→B2 | 형식: 2인 | 장소: 파리 19구 아파트 현관과 계단 | 시간: 목요일 밤 열 시 오 분
+등장인물: Yacine, Sylvie
+이슈: 주 ● 배달 플랫폼 노동자의 소득·평점 압박과 손님의 기대 | 곡선: 1-0-0-2-2-3 (반전형, 상한 3) | 입장: A 야신(자유로운 일정이 좋아 이 일을 택했지만 건당 보수와 평점에 쫓긴다) / B 실비(배달이 늦어 불편했고, 평가는 솔직해야 한다고 믿지만 그가 겪는 사정도 알고 싶다)
+상황 카드: 목요일 밤 열 시 넘어 주문한 저녁이 이십 분 늦게 도착한다. 야신은 숨을 고르며 사과하고, 실비는 불평하기보다 이유를 묻는다. 건당 보수, 식당 앞 대기, 비 오는 날의 사고 위험, 평점 때문에 일감이 줄어드는 이야기가 나온다. 둘 다 상대를 악역으로 만들지 않지만 별점 문제에서 의견이 갈린다. 결말은 열려 있다(실비는 평가 화면을 열어 둔 채 야신을 보낸다). 보수와 규정은 모두 이야기 속 가공이다.
+학습 포인트: 사과와 이유 설명(Désolé pour le retard) · 이유·결과 표현(du coup, c'est pour ça que) · 의견 부딪치기(Je comprends, mais) · 접속법(Il faudrait que) · 조건법(Je ne dirais pas que)
+
+## 대화
+(Jeudi, vingt-deux heures cinq. Sylvie attend sur le palier de son troisième étage. L'ascenseur arrive enfin, et Yacine en sort, casque à la main, essoufflé.)
+Yacine : Bonsoir madame. Pardon, je suis vraiment désolé pour le retard.
+Sylvie : Bonsoir. Vous avez vingt minutes de retard, ce n'est pas rien.
+Yacine : Je sais. L'application m'a donné une adresse un peu différente, et j'ai dû faire le tour du pâté de maisons.
+Sylvie : Ah, c'est possible. Le code de l'immeuble, vous l'aviez ?
+Yacine : Oui, mais le digicode est en panne, du coup j'ai attendu qu'un voisin sorte.
+Sylvie : Ah, oui, il est cassé depuis lundi. Je n'ai pas pensé à vous prévenir.
+Yacine : Ce n'est pas grave, mais ça m'a fait perdre dix minutes. Voilà votre commande.
+Sylvie : Merci. Un instant, je vérifie que tout y est.
+Yacine : Prenez votre temps.
+Sylvie : Le bo bun, les nems, la soupe. Et le dessert ?
+Yacine : Il est au fond du sac, dans la petite boîte.
+Sylvie : Ah, le voilà. Tout est là. Je suis un peu rassurée.
+Yacine : Je suis désolé aussi pour l'état du sac, il y a un peu de pluie dessus.
+Sylvie : Il pleut encore ? Je n'ai pas fait attention.
+Yacine : Un peu, depuis le début de la soirée. C'est pour ça que les routes sont lentes.
+Sylvie : Écoutez, je ne vais pas vous gronder. Entrez deux minutes, vous êtes trempé.
+Yacine : Non, merci, je dois enchaîner. Une autre commande m'attend, à la gare du Nord.
+Sylvie : À cette heure-ci ? Vous finissez à quelle heure ?
+Yacine : Vers minuit, en général. Parfois plus tard, le week-end.
+Sylvie : D'accord. Moi, je ne vous retiens pas alors.
+(Yacine reste pourtant un instant sur le palier. Il range son téléphone dans sa poche.)
+Yacine : Je peux vous demander un petit service, madame ?
+Sylvie : Tout dépend de ce que c'est.
+Yacine : Pourriez-vous m'indiquer où je peux jeter ce sac vide ? Je n'ai pas trouvé de poubelle.
+Sylvie : Ah, ça, oui. Dans la cour, à gauche, il y a un conteneur gris.
+Yacine : Merci beaucoup. Vous êtes très gentille.
+Sylvie : Non, c'est normal. Vous avez fait ça seul depuis combien de temps ?
+Yacine : Deux ans, depuis la fin de mes études.
+Sylvie : Vous avez fait quoi comme études ?
+Yacine : Un BTS en informatique. J'ai cherché du travail, mais il n'y avait rien dans mon domaine.
+Sylvie : Ah, la situation est difficile pour les jeunes diplômés.
+Yacine : Oui. Du coup, j'ai commencé les livraisons en attendant. Et je suis toujours là.
+Sylvie : Vous espérez changer ?
+Yacine : Oui, mais je garde un pied dedans, parce que ça paie les factures.
+Sylvie : Je comprends. Ma fille a eu la même situation, elle travaille maintenant dans un hôpital.
+Yacine : Tant mieux pour elle. Il y a de l'espoir alors.
+Sylvie : Toujours. Allez, allez, votre prochaine commande vous attend.
+Yacine : Oui, j'y vais. Bon appétit, madame.
+Sylvie : Merci. Prenez soin de vous sur la route.
+Yacine : Merci. Et pour le sac, encore merci.
+Sylvie : De rien, vraiment.
+(Le téléphone de Yacine vibre. Il le regarde, hésite, puis le remet dans sa poche. Il n'a pas bougé.)
+Sylvie : Vous ne partez pas ? Votre commande, elle vous attend.
+Yacine : Si, mais ça peut attendre deux minutes. Je reprends mon souffle.
+Sylvie : Vous avez fait combien de livraisons ce soir ?
+Yacine : Onze, avec la vôtre. Je commence à dix-neuf heures.
+Sylvie : Onze en trois heures. Ça fait une livraison toutes les vingt minutes.
+Yacine : Un peu moins, en vrai. Entre les attentes au restaurant et les trajets, c'est serré.
+Sylvie : Et vous êtes payé comment ? À l'heure ?
+Yacine : Non, à la course. Entre trois et six euros par livraison, selon la distance.
+Sylvie : Trois euros ? C'est peu, non ?
+Yacine : Oui, quand c'est court. Sauf que ce sont souvent les courtes qu'on nous donne.
+Sylvie : Et le vélo, le scooter, c'est à vous ?
+Yacine : Oui. L'essence, l'entretien, les réparations, tout est pour moi.
+Sylvie : Je ne savais pas que c'était comme ça.
+Yacine : Beaucoup de clients ne le savent pas. Ce n'est pas écrit sur l'application.
+Sylvie : Et si vous tombez ? Si vous avez un accident ?
+Yacine : Il y a une assurance proposée par la plateforme, mais je ne suis pas sûr de bien la comprendre.
+Sylvie : Ça m'inquiète un peu pour vous.
+Yacine : Ne vous inquiétez pas, je fais attention. Et je préfère mon rythme à celui d'un bureau.
+Sylvie : Ah, la liberté. Je l'entends souvent, ce mot.
+Yacine : C'est vrai que c'est la raison pour laquelle j'ai commencé. Pas de patron derrière moi, je choisis mes soirées.
+Sylvie : Mais en même temps, l'application vous commande, non ?
+Yacine : Elle ne me commande pas, elle me propose. Mais si je refuse trop de courses, elle me propose moins.
+Sylvie : Alors, ce n'est pas vraiment un choix libre.
+Yacine : Si, c'est un choix, mais avec des conséquences. Comme partout.
+Sylvie : Je vous suis, mais je trouve que les conséquences sont plutôt à sens unique.
+Yacine : Vous n'avez pas tort. Mais je ne dirais pas que tout est mauvais.
+Sylvie : Qu'est-ce qui est bien, alors ?
+Yacine : Je peux travailler quand je veux, rencontrer du monde, et il n'y a pas de réunions.
+Sylvie : Un étudiant de ma fille disait la même chose. Il a fini par arrêter.
+Yacine : Beaucoup arrêtent, oui. À cause du dos, ou des genoux, ou du froid.
+Sylvie : Vous n'avez pas peur de finir pareil ?
+Yacine : Si, un peu. C'est pour ça que je garde un œil sur d'autres offres.
+Sylvie : Et vous en parlez à l'application ? Vous avez des représentants ?
+Yacine : Il y a des collectifs de livreurs. Je participe à une réunion par mois, mais ça avance doucement.
+Sylvie : Et qu'est-ce que vous demandez ?
+Yacine : Un tarif minimum par course, et une vraie protection en cas d'accident.
+Sylvie : Ça paraît raisonnable. Mais l'entreprise dira que ça coûte trop cher.
+Yacine : Peut-être. Je ne sais pas qui a raison, honnêtement. Chacun défend sa version.
+Sylvie : Au moins, vous êtes honnête.
+Yacine : J'essaie. Ce n'est pas toujours facile à dix heures du soir.
+Sylvie : Et vous, qu'est-ce que vous préféreriez ? Un contrat classique, avec des horaires fixes ?
+Yacine : Ça dépend des jours. Parfois oui, quand je suis épuisé. Parfois non, quand j'ai envie de liberté.
+Sylvie : Je vous comprends. Moi aussi, certains jours, je rêve de tout lâcher.
+Yacine : Et pourtant, vous avez un travail stable.
+Sylvie : Oui, mais stable ne veut pas dire facile. Je suis infirmière de nuit, justement.
+Yacine : Ah ! Alors vous êtes comme moi, vous travaillez quand les autres dorment.
+Sylvie : Je prends mon service à minuit. C'est pour ça que je mange à dix heures.
+Yacine : Je comprends maintenant pourquoi vous étiez si pressée de recevoir votre repas.
+Sylvie : Oui. Si je ne mange pas avant mon service, je tiens mal la nuit.
+Yacine : Alors encore pardon pour le retard. Si j'avais su, j'aurais coupé par la rue des Alouettes.
+Sylvie : Vous ne pouviez pas savoir. Mais je vous remercie de me le dire.
+Yacine : Vous savez, ça m'arrive tous les soirs, ces retards. Parfois, c'est le restaurant qui traîne.
+Sylvie : Et c'est vous qui en subissez les conséquences.
+Yacine : Oui. Quand je suis en retard, la note baisse.
+Sylvie : Quelle note ?
+Yacine : Celle que vous donnez à la fin. Entre une et cinq étoiles.
+Sylvie : Et ça compte vraiment ?
+Yacine : Si ma moyenne descend sous quatre virgule sept, l'application me donne moins de créneaux.
+Sylvie : Quatre virgule sept ? C'est très haut.
+Yacine : C'est la règle. Et un seul client qui met deux étoiles peut tout faire basculer.
+(Le silence tombe sur le palier. Sylvie regarde son propre téléphone, où une notification clignote.)
+Sylvie : Je viens de recevoir la demande d'évaluation. Elle propose cinq étoiles par défaut.
+Yacine : Oui, c'est comme ça. Je ne vous demande rien, madame.
+Sylvie : Mais vous venez de me dire que c'est important.
+Yacine : C'est vrai. Et en même temps, je ne veux pas vous mettre mal à l'aise.
+Sylvie : Franchement, vingt minutes de retard, ça mérite trois étoiles, peut-être quatre.
+Yacine : Je comprends, c'est votre avis. Mais pour moi, trois étoiles, c'est une soirée en moins.
+Sylvie : Ce n'est pas à moi de réparer un système. Si je mens sur la note, je trompe l'application aussi.
+Yacine : Je ne vous demande pas de mentir. Je vous demande de juger le service, pas la pluie ou le digicode.
+Sylvie : Le service, c'est vous qui l'avez fait, avec ces vingt minutes.
+Yacine : Alors évaluez-moi sur le reste. La politesse, l'état du paquet, la façon dont j'ai parlé.
+Sylvie : Ça, ce serait cinq étoiles. Mais ce n'est pas ce que demande la question.
+Yacine : C'est vrai, la question est mal faite. Une étoile pour tout.
+Sylvie : Alors pourquoi on accepte un système qui est mal fait ?
+Yacine : Parce qu'on n'a pas le choix, madame. Et vous non plus, vous n'avez pas le choix, c'est ça, le problème.
+Sylvie : Je ne suis pas d'accord. J'ai le choix de ne pas commander.
+Yacine : Et dans ce cas, c'est moi qui perds la commande.
+Sylvie : Alors je suis coincée entre mon honnêteté et votre survie.
+Yacine : Je ne voulais pas vous mettre dans cette position.
+Sylvie : Je sais. Je vais y réfléchir sur le chemin du travail.
+Yacine : Merci d'avoir été aussi franche. Bonne nuit, madame.
+
+## 낭독 포인트
+- 비음 모음: «bonsoir», «commande», «vingt minutes», «moins» — on, in, an은 코로 울리는 모음이며 n은 따로 발음하지 않는다.
+- 연음: «vous avez», «un peu», «très haut» — «vous avez»는 z 소리로 이어 읽지만 «très haut»는 h aspiré라서 이어 읽지 않는다.
+- 프랑스어 r: «retard», «très», «livraison», «rue» — 목젖 근처에서 내는 마찰음이다.
+- 숫자·점수: «quatre virgule sept», «vingt minutes», «onze» — 소수점은 virgule로 읽는다. «onze»는 앞에서 연음하지 않는다(le onze).
+- 억양: 야신은 숨 가쁘고 공손한 톤, 실비는 피곤하지만 솔직한 톤. 마지막 구간은 속도를 낮추고 한 문장씩 또렷이 끊는다.
+- 호칭: 처음 만나는 사이이므로 서로 vous. «madame»을 문장 끝에 붙여 공손함을 살린다.
+## 학습 포인트 정리
+- C1 구간(1~20턴): 늦은 배달과 사과
+  · «Je suis vraiment désolé pour le retard.», «Ce n'est pas rien.», «Je ne vais pas vous gronder.»
+- B2 구간(21~40턴): 짧은 신상 이야기
+  · «Du coup, j'ai commencé les livraisons en attendant.», «Je garde un pied dedans.»
+- B2 구간(41~60턴): 건당 보수와 위험
+  · «Entre trois et six euros par livraison, selon la distance.», «Ce n'est pas écrit sur l'application.», «Ça m'inquiète un peu pour vous.»
+- B2 구간(61~80턴): 자유와 구속
+  · «Elle ne me commande pas, elle me propose.», «Je ne dirais pas que tout est mauvais.», «Chacun défend sa version.»
+- B2 구간(81~100턴): 직업 이야기와 평점
+  · «Si j'avais su, j'aurais coupé par la rue des Alouettes.», «Si ma moyenne descend sous quatre virgule sept...»
+- B2 구간(101~120턴): 별점을 둘러싼 입장
+  · «Ce n'est pas à moi de réparer un système.», «Je vous demande de juger le service, pas la pluie.», «Je suis coincée entre mon honnêteté et votre survie.»
+- 어휘: la livraison, la course, la plateforme, la note, l'évaluation, le créneau, l'accident.
+## 속어 노트
+- «du coup»: 그래서, 결국(구어에서 아주 흔한 연결어).
+- «enchaîner»: (일을) 이어서 하다.
+- «à la course»: 건당 보수로.
+- «un pied dedans»: 한 발을 담그고 있다.
+- «basculer»: 기울다, 뒤집히다.
+- 보수, 평점 기준, 보험 같은 플랫폼 규정은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 모르는 사이이므로 서로 vous를 쓴다.
+
+
+## 한글 해석
+(목요일 밤 열 시 오 분. 실비가 4층 계단참에서 기다린다. 마침내 엘리베이터가 도착하고 야신이 헬멧을 손에 든 채 숨을 헐떡이며 내린다.)
+야신 : 안녕하세요. 늦어서 정말 죄송합니다.
+실비 : 안녕하세요. 20분 늦으셨어요, 작은 일은 아니죠.
+야신 : 알아요. 앱이 주소를 조금 다르게 알려 줘서 블록을 한 바퀴 돌아야 했어요.
+실비 : 아, 그럴 수도 있겠네요. 건물 비밀번호는 알고 있었어요?
+야신 : 네, 그런데 도어락이 고장 나서 이웃이 나오길 기다렸어요.
+실비 : 아, 맞아요, 월요일부터 고장 났어요. 말씀드릴 생각을 못 했네요.
+야신 : 괜찮지만 10분이 날아갔어요. 주문하신 겁니다.
+실비 : 고마워요. 잠깐, 다 있는지 볼게요.
+야신 : 천천히 보세요.
+실비 : 보분, 넴, 수프. 디저트는요?
+야신 : 가방 맨 아래 작은 상자에 있어요.
+실비 : 아, 여기 있네요. 다 있어요. 좀 안심이에요.
+야신 : 가방이 비에 조금 젖은 것도 죄송합니다.
+실비 : 아직도 비가 와요? 신경 못 썼네요.
+야신 : 저녁 내내 조금씩요. 그래서 도로가 느려요.
+실비 : 저기, 야단치진 않을게요. 잠깐 들어오세요, 흠뻑 젖었네요.
+야신 : 아니요, 감사하지만 바로 이어서 가야 해요. 북역 쪽에 다른 주문이 기다려요.
+실비 : 이 시간에요? 몇 시에 끝나요?
+야신 : 보통 자정쯤이에요. 주말에는 더 늦을 때도 있고요.
+실비 : 알겠어요. 그럼 붙잡지 않을게요.
+(그래도 야신은 계단참에 잠시 머문다. 휴대폰을 주머니에 넣는다.)
+야신 : 부탁 하나 드려도 될까요?
+실비 : 그게 뭔지에 따라 달라요.
+야신 : 이 빈 봉투를 어디에 버리면 되는지 알려 주실 수 있나요? 쓰레기통을 못 찾았어요.
+실비 : 아, 그건 되죠. 마당 왼쪽에 회색 통이 있어요.
+야신 : 정말 감사합니다. 아주 친절하시네요.
+실비 : 아니에요, 당연한 일이죠. 이 일은 혼자 한 지 얼마나 됐어요?
+야신 : 2년이요, 학업을 마치고부터요.
+실비 : 무슨 공부를 했어요?
+야신 : 정보통신 전문학위요. 일자리를 찾았지만 제 분야에는 없었어요.
+실비 : 아, 젊은 졸업생들은 상황이 어렵죠.
+야신 : 네. 그래서 기다리는 동안 배달을 시작했고 아직 여기 있어요.
+실비 : 바꾸고 싶으세요?
+야신 : 네, 하지만 발은 하나 담가 둬요, 이게 생활비를 대 주니까요.
+실비 : 이해해요. 우리 딸도 같은 상황이었는데 지금은 병원에서 일해요.
+야신 : 따님께는 잘됐네요. 그럼 희망이 있다는 거죠.
+실비 : 언제나요. 자, 자, 다음 주문이 기다리고 있잖아요.
+야신 : 네, 가볼게요. 맛있게 드세요.
+실비 : 고마워요. 길에서 몸조심해요.
+야신 : 고마워요. 봉투도 다시 한번 고맙습니다.
+실비 : 별말씀을요, 정말로.
+(야신의 전화기가 진동한다. 그가 화면을 보고 망설이다가 도로 주머니에 넣는다. 그는 움직이지 않았다.)
+실비 : 안 가세요? 주문이 기다린다면서요.
+야신 : 가야죠, 하지만 2분은 기다려 줄 수 있어요. 숨 좀 고르고 있어요.
+실비 : 오늘 밤은 몇 건 배달했어요?
+야신 : 선생님 건까지 열한 건이요. 저녁 일곱 시에 시작해요.
+실비 : 세 시간에 열한 건이면 20분에 한 건이네요.
+야신 : 사실은 그보다 좀 덜해요. 식당 대기와 이동 사이에서 빠듯하죠.
+실비 : 보수는 어떻게 받아요? 시간제로요?
+야신 : 아니요, 건당이에요. 거리에 따라 한 건에 3유로에서 6유로 사이요.
+실비 : 3유로요? 적은 거 아니에요?
+야신 : 네, 짧은 거리일 때는요. 그런데 주로 그런 짧은 걸 주거든요.
+실비 : 그럼 자전거나 스쿠터는 본인 거예요?
+야신 : 네. 기름, 정비, 수리는 전부 제 몫이에요.
+실비 : 이런 줄은 몰랐어요.
+야신 : 많은 손님이 몰라요. 앱에는 적혀 있지 않으니까요.
+실비 : 넘어지거나 사고가 나면요?
+야신 : 플랫폼이 제공하는 보험이 있지만 제대로 이해하고 있는지 자신이 없어요.
+실비 : 그 말을 들으니 당신이 좀 걱정돼요.
+야신 : 걱정 마세요, 조심해요. 그리고 전 사무실 리듬보다 제 리듬이 좋아요.
+실비 : 아, 자유. 그 말 자주 들어요.
+야신 : 시작한 이유가 그거예요. 뒤에서 지켜보는 상사가 없고 저녁을 제가 고르죠.
+실비 : 그런데 동시에 앱이 당신에게 명령하잖아요, 안 그래요?
+야신 : 명령하는 건 아니고 제안해요. 하지만 너무 많이 거절하면 제안을 줄여요.
+실비 : 그럼 진짜 자유로운 선택은 아니네요.
+야신 : 선택은 맞지만 결과가 따라요. 어디서나 그렇듯이요.
+실비 : 이해는 하는데 결과가 한쪽으로만 쏠려 보여요.
+야신 : 틀린 말은 아니에요. 하지만 전부 나쁘다고는 말하지 않을래요.
+실비 : 그럼 뭐가 좋은데요?
+야신 : 원할 때 일할 수 있고, 사람들을 만나고, 회의가 없어요.
+실비 : 딸 친구도 같은 말을 했어요. 결국 그만뒀죠.
+야신 : 많이들 그만둬요. 허리나 무릎, 추위 때문에요.
+실비 : 같은 길을 걸을까 봐 두렵진 않아요?
+야신 : 조금은요. 그래서 다른 일자리도 계속 살펴봐요.
+실비 : 앱 쪽에 이야기는 해요? 대표 같은 사람들이 있나요?
+야신 : 배달원 모임이 있어요. 한 달에 한 번 모임에 가는데 천천히 진행돼요.
+실비 : 무엇을 요구하세요?
+야신 : 건당 최소 보수와 사고 때의 실질적인 보호요.
+실비 : 합리적으로 들려요. 하지만 회사는 비용이 너무 든다고 하겠죠.
+야신 : 그럴지도요. 솔직히 누가 옳은지는 모르겠어요. 각자 자기 입장을 말하죠.
+실비 : 적어도 솔직하시네요.
+야신 : 노력해요. 밤 열 시에는 쉽지 않을 때도 있지만요.
+실비 : 당신은 어느 쪽이 나아요? 고정 시간이 있는 정규 계약?
+야신 : 날마다 달라요. 지쳤을 때는 네, 자유가 필요할 때는 아니요.
+실비 : 이해해요. 저도 어떤 날은 다 내려놓고 싶어요.
+야신 : 그래도 안정적인 일이 있으시잖아요.
+실비 : 네, 하지만 안정적이라고 쉬운 건 아니에요. 사실 야간 간호사예요.
+야신 : 아! 그럼 저와 같네요, 남들이 잘 때 일하시는군요.
+실비 : 자정에 근무가 시작돼요. 그래서 열 시에 식사하는 거예요.
+야신 : 이제 왜 식사를 그렇게 급히 받고 싶으셨는지 알겠네요.
+실비 : 네. 근무 전에 못 먹으면 밤을 버티기 힘들어요.
+야신 : 그럼 늦은 것 다시 사과드려요. 알았다면 알루에트 거리로 질러갔을 텐데요.
+실비 : 모를 수밖에 없었죠. 하지만 말해 줘서 고마워요.
+야신 : 있잖아요, 이런 지연이 매일 밤 일어나요. 가끔은 식당이 꾸물대서고요.
+실비 : 그 결과는 당신이 떠안고요.
+야신 : 네. 늦으면 평점이 내려가요.
+실비 : 무슨 평점이요?
+야신 : 손님이 마지막에 주시는 점수요. 별 하나에서 다섯 개 사이.
+실비 : 그게 정말 중요해요?
+야신 : 평균이 4.7 아래로 내려가면 앱이 일감 시간대를 줄여 줘요.
+실비 : 4.7이요? 너무 높잖아요.
+야신 : 그게 규칙이에요. 손님 한 명이 별 두 개를 주면 전부 뒤집힐 수 있어요.
+(계단참에 침묵이 내린다. 실비가 자신의 전화기를 본다. 알림 하나가 깜빡이고 있다.)
+실비 : 방금 평가 요청이 왔어요. 기본으로 별 다섯 개가 선택돼 있네요.
+야신 : 네, 그렇게 돼 있어요. 저는 아무것도 부탁드리지 않아요.
+실비 : 하지만 방금 중요하다고 하셨잖아요.
+야신 : 맞아요. 그리고 동시에 불편하게 해 드리고 싶진 않아요.
+실비 : 솔직히 20분 늦었으면 별 세 개, 어쩌면 네 개 감이에요.
+야신 : 이해해요, 선생님 의견이니까요. 하지만 저한텐 별 세 개면 한 번의 저녁이 사라지는 거예요.
+실비 : 제도를 고치는 건 제 일이 아니에요. 점수를 속이면 앱을 속이는 것이기도 하죠.
+야신 : 거짓말을 하라는 게 아니에요. 비나 도어락이 아니라 서비스를 평가해 달라는 거죠.
+실비 : 서비스는 당신이 한 거고, 그 20분도 거기 들어 있어요.
+야신 : 그럼 나머지로 평가해 주세요. 공손함, 포장 상태, 제가 말한 태도로요.
+실비 : 그것만이면 별 다섯 개죠. 하지만 질문이 그걸 묻는 게 아니잖아요.
+야신 : 맞아요, 질문이 잘못돼 있죠. 모든 걸 별 하나로 퉁치니까요.
+실비 : 그럼 왜 잘못 만든 제도를 받아들이는 거죠?
+야신 : 선택지가 없으니까요, 선생님. 선생님도 선택지가 없어요, 그게 문제죠.
+실비 : 동의 안 해요. 저는 주문을 안 할 선택이 있어요.
+야신 : 그러면 주문을 잃는 건 저죠.
+실비 : 그럼 저는 제 정직과 당신의 생계 사이에 끼었네요.
+야신 : 선생님을 그런 입장에 두려던 건 아니었어요.
+실비 : 알아요. 출근길에 생각해 볼게요.
+야신 : 솔직하게 말씀해 주셔서 감사합니다. 안녕히 주무세요, 선생님.

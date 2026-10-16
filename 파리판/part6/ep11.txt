@@ -1,0 +1,295 @@
+# 6부 11화. Mamie et l'EHPAD (할머니와 요양원)
+난이도: 주 C1 | 구간: C1→B2→B2→C1→B2→C1 | 형식: 2인 | 장소: 팡탱에 있는 아나이스의 거실 | 시간: 일요일 밤
+등장인물: Anaïs, Rémi
+이슈: 주 ● 낙상한 할머니의 돌봄을 두고 요양원, 재택 돌봄, 안전장치 중 무엇을 택할지 | 곡선: 0-1-1-2-3-3 (후반폭발형, 상한 3) | 입장: A 아나이스(곁에서 돌봄을 도맡아 지쳤고 안전을 위해 시설도 알아본다) / B 레미(어릴 적 약속과 할머니의 뜻을 존중해 집에서 모시는 길을 먼저 찾고 싶다)
+상황 카드: 일요일 점심을 할머니 집에서 먹은 남매가 아나이스의 거실에서 차를 마신다. 아나이스가 지난 목요일 할머니의 낙상을 털어놓자 레미는 왜 알리지 않았느냐고 놀란다. 재택 돌봄, 호출 팔찌, 요양원이라는 선택지와 비용, 오래된 약속, 누가 더 많이 짊어졌는가를 두고 말이 거칠어진다. 둘 다 사과하고, 먼저 할머니의 뜻을 듣기로 하며 각자 상대가 원하는 방식을 보러 가기로 한다(열린 결말).
+학습 포인트: 걱정과 책임 표현(Il serait irresponsable de faire l'autruche) · 선택지 나열(La première, c'est de… Troisième option ?) · 비난을 받아넘기기(Je ne l'ai pas dit. Avec d'autres mots) · 사과와 인정(J'ai dépassé ma pensée) · 타협 제안(Seulement si tu viens avec moi…, Marché conclu)
+
+## 대화
+(Dimanche soir, dans le salon d'Anaïs, à Pantin. Rémi est descendu de Lyon pour le week-end. Ils ont déjeuné chez Mamie et débarrassent maintenant le café.)
+Anaïs : Tu veux une tisane ou tu préfères attendre le dessert ?
+Rémi : Une tisane, merci. J'ai trop mangé chez Mamie, elle me ressert toujours comme si j'avais dix ans.
+Anaïs : C'est son langage d'amour, tu le sais. Quand elle remplit ton assiette, elle te dit « je t'aime ».
+Rémi : Et quand elle la remplit trois fois, c'est qu'elle t'adore à la folie.
+Anaïs : Ha ha, tu as eu droit au gratin dauphinois en quantité industrielle.
+Rémi : Et à la tarte aux pommes, que je n'ai pas pu refuser sans la vexer.
+Anaïs : Tu n'as pas pu refuser, c'est tout ce qu'on retient. Comment tu l'as trouvée, au fait ?
+Rémi : Égale à elle-même : drôle, têtue, et toujours aussi coquette avec son collier de perles.
+Anaïs : Le collier de Papi. Elle ne le quitte jamais, même pour dormir, je crois.
+Rémi : Je me demande ce qu'elle ferait sans ses rituels, le café à quatre heures, le jeu télévisé à dix-huit heures.
+Anaïs : Elle serait perdue. Ces petites habitudes, c'est ce qui la tient debout.
+Rémi : Elle a eu une belle journée, en tout cas. Elle a même chanté avec la radio.
+Anaïs : Elle chante toujours faux, mais avec tellement de cœur.
+Rémi : C'est de famille, hélas. Je chante aussi comme une casserole.
+Anaïs : Moi, je me tais. C'est plus prudent pour les voisins.
+Rémi : Bon, une tisane de tilleul pour moi. Je dormirai mieux dans ton canapé.
+Anaïs : Tilleul alors. Et du miel, comme quand on était petits.
+Rémi : Avec le même pot de miel qui coule partout, j'espère.
+Anaïs : Exactement le même, j'ai gardé le pot de Mamie depuis dix ans.
+Rémi : Tu es incroyable. Tu gardes tout.
+(Anaïs pose les tasses sur la table basse. Elle hésite avant de s'asseoir.)
+Anaïs : Rémi, il faut que je te dise quelque chose, et je voudrais que tu m'écoutes jusqu'au bout.
+Rémi : Tu me fais peur. C'est grave ?
+Anaïs : Mamie est tombée jeudi dernier, dans sa salle de bains.
+Rémi : Quoi ? Elle s'est fait mal ? Pourquoi personne ne m'a prévenu ?
+Anaïs : Parce qu'elle me l'a interdit. Elle m'a fait promettre de ne rien dire avant ton retour.
+Rémi : Et tu as promis ? Anaïs, j'aurais pu venir plus tôt.
+Anaïs : Je sais, mais c'est son choix, je ne voulais pas la trahir. Elle a juste un gros hématome à la hanche.
+Rémi : Un hématome ? Et le médecin, il en dit quoi ?
+Anaïs : Le médecin traitant dit qu'elle a eu de la chance. Mais que ça va se reproduire.
+Rémi : Se reproduire... Il a vraiment dit ça ?
+Anaïs : Il m'a dit qu'à quatre-vingt-sept ans, avec ses vertiges, le risque de chute était élevé chez elle.
+Rémi : Ça, je comprends. Mais de là à en faire un drame...
+Anaïs : Ce n'est pas un drame, c'est un constat. Elle est restée par terre vingt minutes avant de réussir à se relever.
+Rémi : Vingt minutes ? Elle a pu appeler quelqu'un ?
+Anaïs : Elle n'avait pas son téléphone sur elle. C'est la voisine qui l'a entendue.
+Rémi : Heureusement qu'il y a cette voisine, alors.
+Anaïs : Oui, madame Lopes, une sainte. Mais elle aussi a soixante-seize ans.
+Rémi : Je vois. Et qu'est-ce que tu proposes ? Tu as déjà une idée, je te connais.
+Anaïs : Je n'ai pas d'idée arrêtée. J'ai simplement besoin qu'on en discute, tous les deux.
+Rémi : D'accord. Pose-moi le problème, calmement.
+Anaïs : Voilà les options. La première, c'est de la laisser chez elle, avec une aide à domicile plus présente.
+Rémi : C'est ce qu'elle veut. Elle me l'a encore dit tout à l'heure, en douce, à la cuisine.
+Anaïs : Je sais. Elle me le dit à moi aussi, tous les dimanches. Mais ça coûte cher : environ deux mille euros par mois pour une présence quotidienne.
+Rémi : Deux mille ? Sa retraite ne suffit pas, évidemment.
+Anaïs : Elle touche mille deux cents. Il manquerait le reste, et il y a bien quelques aides, mais pas assez.
+Rémi : Je peux participer. Disons trois cents euros par mois, à peu près.
+Anaïs : Je peux faire pareil. Mais ce n'est pas qu'une question d'argent.
+Rémi : Je sais, il y a aussi les soins, les nuits, les imprévus.
+Anaïs : Exactement. Deuxième option : la téléalarme, un bracelet qui prévient en cas de chute.
+Rémi : Ça, c'est une bonne idée. Elle ne risque plus de rester vingt minutes par terre.
+Anaïs : Sauf si elle refuse de le porter. Elle dit que ça fait « vieille ».
+Rémi : Elle est coquette, comme on disait. On peut le cacher dans un joli bijou.
+Anaïs : Pourquoi pas. Mais ça ne règle pas les nuits ni les repas.
+Rémi : Troisième option ?
+Anaïs : Un établissement. Un EHPAD, avec des soignants jour et nuit.
+Rémi : Un EHPAD... Écoute, ce mot-là me glace, je l'avoue.
+Anaïs : À moi aussi, au début. Puis j'ai visité deux établissements, cette semaine.
+Rémi : Tu as déjà visité des établissements ? Sans m'en parler ?
+Anaïs : Pour me faire une idée, rien de plus. Je ne voulais pas t'inquiéter avant d'avoir vu.
+Rémi : Tu me mets devant le fait accompli, Anaïs, voilà ce que je ressens.
+Anaïs : Ce n'est pas du tout mon intention. J'essaie de te protéger autant que de la protéger, elle.
+Rémi : Me protéger de quoi ? Du chagrin ? Je suis assez grand pour décider de ma propre peine.
+Anaïs : Je ne parlais pas de chagrin. Je parlais de l'épuisement de ceux qui restent, c'est-à-dire moi.
+Rémi : Là, je t'entends. Mais ce que j'entends aussi, c'est que tu as déjà tranché.
+Anaïs : Je n'ai tranché de rien. Je dis seulement qu'il serait irresponsable de faire l'autruche.
+Rémi : Faire l'autruche, c'est une expression sévère, tu ne trouves pas ?
+Anaïs : Elle n'est pas sévère, elle est exacte. Depuis dix-huit mois, c'est moi qui fais les courses, les rendez-vous médicaux, les papiers.
+Rémi : Je ne le conteste pas, je t'en remercie même. Mais Mamie m'a fait promettre, quand Papi est mort, de ne jamais la mettre en maison.
+Anaïs : À moi aussi, elle a fait cette promesse. Et pourtant, ce n'est pas pareil de l'avoir faite à vingt ans et de l'appliquer à quarante.
+Rémi : Une promesse reste une promesse, que je sache. Surtout celle-là.
+Anaïs : Les promesses se font avec les moyens du moment. Moi, je n'ai plus ceux de l'époque, j'ai deux enfants et un travail.
+Rémi : Et moi j'ai un travail à quatre cents kilomètres, je ne peux pas faire plus que ce que je fais.
+Anaïs : Je ne te demande pas de faire plus. Je te demande de ne pas tout rejeter d'un bloc.
+Rémi : Je ne rejette rien. Je veux juste qu'on explore toutes les autres pistes d'abord.
+Anaïs : On les a explorées pendant un an et demi, Rémi. On n'a plus de pistes, il nous reste des compromis.
+Rémi : Des compromis qui commencent toujours par l'enfermer, j'ai remarqué.
+Anaïs : Enfermer ? Tu emploies des mots que tu ne voudrais pas entendre dans ma bouche.
+Rémi : Je dis ce que je ressens. Quand je pense à elle dans une chambre de douze mètres carrés, ça me serre le cœur.
+Anaïs : Et quand je pense à elle par terre, seule, la nuit, moi, ça me glace.
+Rémi : Tu vois, on pense à la même chose avec deux angoisses différentes.
+(Le ton monte. Rémi se lève, fait quelques pas dans le salon. Anaïs reste assise, les bras croisés.)
+Anaïs : Et ça t'est facile de défendre les grands principes, depuis Lyon, avec un week-end ici de temps en temps.
+Rémi : Voilà, on y arrive. Le reproche que tu gardes depuis dix-huit mois.
+Anaïs : Ce n'est pas un reproche, c'est un fait. Quand elle tombe, c'est moi qu'on appelle.
+Rémi : Parce que tu as toujours été la préférée, et que tu as voulu garder la main sur tout.
+Anaïs : Ça, c'est insultant. Je n'ai jamais voulu garder la main, j'ai pris ce que personne d'autre ne prenait.
+Rémi : Personne ne t'a rien demandé, voilà la vérité. Tu t'es imposée, et maintenant tu te plains.
+Anaïs : Je me plains ? Je me plains parce que j'en peux plus, Rémi. Je suis épuisée.
+Rémi : Alors dis-le plus tôt, au lieu de te taire pendant un an et d'exploser maintenant.
+Anaïs : Je l'ai dit, plusieurs fois. Tu ne m'as jamais vraiment écoutée.
+Rémi : J'entendais « c'est dur ». Je ne comprenais pas que ça voulait dire « il faut changer ».
+Anaïs : Alors maintenant, tu comprends ?
+Rémi : Je comprends que tu es à bout. Je ne comprends pas pourquoi la seule réponse est l'EHPAD.
+Anaïs : Ce n'est pas la seule, c'est la plus sûre. Je préfère une Mamie un peu triste et vivante qu'une Mamie heureuse et blessée.
+Rémi : Triste et vivante... Tu te rends compte de ce que tu dis ? Tu parles de notre grand-mère, pas d'un meuble.
+Anaïs : Ne retourne pas mes phrases contre moi. Je l'aime autant que toi, peut-être davantage, vu le temps que je lui consacre.
+Rémi : Là, tu vas trop loin. Mon amour n'est pas moins sincère parce qu'il est moins visible.
+Anaïs : Je n'ai pas dit ça.
+Rémi : Tu l'as dit. Avec d'autres mots.
+Anaïs : Pardon. J'ai dépassé ma pensée. J'ai les nerfs à vif.
+Rémi : Moi aussi. On est deux à avoir les nerfs à vif.
+(Le silence s'installe un instant. Rémi revient s'asseoir, la tisane est froide entre eux.)
+Anaïs : Je ne veux pas qu'on se dispute à cause d'elle. Elle ne le supporterait pas.
+Rémi : Moi non plus. Mais je refuse qu'on décide sans elle, dans son dos, comme si elle n'existait déjà plus.
+Anaïs : Tu as raison sur ce point précis. Elle est la première concernée.
+Rémi : Alors on lui parle. Pas à deux contre un, pas avec des brochures dans les mains. On l'écoute.
+Anaïs : Et si elle dit qu'elle préfère rester chez elle, quoi qu'il arrive ?
+Rémi : Alors on cherche comment la rendre sûre chez elle. Les nuits, les repas, le bracelet.
+Anaïs : Et si ça ne suffit pas ? Si elle retombe dans un mois ?
+Rémi : Je ne sais pas. Je n'ai pas la réponse, Anaïs, je ne prétends pas l'avoir.
+Anaïs : Moi non plus. Je sais seulement que je ne peux plus porter ça toute seule.
+Rémi : Je viendrai plus souvent. Un week-end sur deux, et je prendrai en charge les rendez-vous à distance.
+Anaïs : C'est un bon début. Mais ça ne règle pas le fond.
+Rémi : Je sais. Le fond, c'est qu'on a peur de la perdre, et qu'on se dispute à cause de ça.
+Anaïs : Et qu'on n'a pas la même idée de ce que « bien l'aimer » veut dire.
+Rémi : Peut-être qu'il y a plusieurs manières, et qu'on n'en connaît chacun qu'une.
+Anaïs : Je voudrais que tu visites l'un de ces établissements avec moi. Juste pour voir, sans engagement.
+Rémi : Seulement si tu viens avec moi voir un service d'aide à domicile, le même jour.
+Anaïs : Marché conclu. Un matin pour l'un, un après-midi pour l'autre.
+Rémi : Et dimanche prochain, on en parle avec Mamie. Calmement, autour d'un gratin.
+Anaïs : Avec une double ration de tarte, pour qu'elle nous pardonne d'avance.
+Rémi : Je ne promets rien sur l'issue, mais je promets d'être là.
+
+## 낭독 포인트
+- 비음 모음: «tombée», «maintenant», «grand-mère», «promesse» — on, an, em은 코로 울리는 모음이고 끝의 n·m은 따로 발음하지 않는다.
+- 연음: «un an et demi», «vingt minutes», «elle est» — 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «reproche», «risque», «retour» — 목젖 근처에서 내는 마찰음.
+- u / ou: «tu», «du» vs «toujours», «tout» — u는 입술을 모아 [y], ou는 [u].
+- 묵음 e: «tisane», «tilleul», «promesse» — 어말 e는 거의 소리 나지 않는다.
+- 약어: «EHPAD»는 [ø aʃ pe a de] 또는 [ɛpad]처럼 한 단어로 읽는다. 처음엔 글자 하나하나로 끊어 읽는 사람도 있다.
+- 억양: 1~20턴은 정답고 가볍게, 21~60턴은 점점 낮고 진지하게, 81~100턴은 짧게 끊어 부딪친다. 마지막 구간은 숨을 고르며 천천히.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 가족 속 애정과 농담
+  · 애정 표현: «C'est son langage d'amour.», «Elle me ressert toujours comme si j'avais dix ans.»
+  · 구어 비유: «Je chante aussi comme une casserole.», «à la folie»
+- B2 구간(21~60턴): 알리기와 선택지 나열
+  · 소식 전하기: «Il faut que je te dise quelque chose.», «Elle m'a fait promettre de ne rien dire.»
+  · 선택지: «La première, c'est de…», «Deuxième option : la téléalarme», «Troisième option ?»
+  · 의견·감정: «Ce mot-là me glace», «Tu me mets devant le fait accompli.»
+- C1 구간(61~80턴): 약속과 책임의 무게
+  · 책임: «Il serait irresponsable de faire l'autruche.», «Une promesse reste une promesse.»
+  · 설명: «Les promesses se font avec les moyens du moment.», «ça me serre le cœur», «ça me glace»
+- B2 구간(81~100턴): 격한 비난과 사과
+  · 비난·반박: «Personne ne t'a rien demandé.», «Tu parles de notre grand-mère, pas d'un meuble.», «Avec d'autres mots.»
+  · 사과: «Pardon. J'ai dépassé ma pensée.», «J'ai les nerfs à vif.»
+- C1 구간(101~120턴): 열어 두는 합의
+  · 합의: «Seulement si tu viens avec moi voir un service d'aide à domicile, le même jour.», «Marché conclu.»
+  · 열린 마무리: «Je ne promets rien sur l'issue, mais je promets d'être là.»
+- 어휘: l'EHPAD, l'aide à domicile, la téléalarme, l'hématome, le médecin traitant, la promesse, l'épuisement.
+
+## 속어 노트
+- «chanter comme une casserole»: 음치다(구어 비유).
+- «faire l'autruche»: 현실을 외면하다.
+- «avoir les nerfs à vif»: 신경이 곤두서 있다.
+- «être à bout»: 한계에 이르다, 지쳐 쓰러지기 직전이다.
+- «dépasser sa pensée»: 의도한 것보다 말이 지나치다.
+- 비용, 연금, 지원 제도, 시설 이용은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 남매 사이라 tu로 말하고, «Mamie»는 할머니를 친근하게 부르는 말이다.
+
+## 한글 해석
+(일요일 밤, 팡탱에 있는 아나이스의 거실. 레미가 주말을 맞아 리옹에서 왔다. 둘은 마미 집에서 점심을 먹고 이제 커피잔을 치운다.)
+아나이스 : 차 마실래, 아니면 디저트 기다릴래?
+레미 : 차 마실게, 고마워. 마미 집에서 너무 먹었어, 늘 열 살짜리처럼 더 담아 주셔.
+아나이스 : 그게 마미의 사랑 표현이잖아. 접시를 채워 주실 때 '사랑해'라고 하시는 거야.
+레미 : 그리고 세 번 채워 주시면 미치도록 사랑하신다는 거지.
+아나이스 : 하하, 오빠는 그라탱 도피누아를 산더미로 받았잖아.
+레미 : 그리고 거절하면 서운해하실까 봐 못 거절한 사과 타르트까지.
+아나이스 : 못 거절했다는 게 전부야. 그런데 할머니 어떻게 보였어?
+레미 : 여전하셔. 재미있고 고집 세고 진주 목걸이를 하고 멋 부리시고.
+아나이스 : 파피의 목걸이. 절대 벗지 않으셔, 잘 때도 하시는 것 같아.
+레미 : 습관 없이는 뭘 하실까 싶어. 네 시 커피, 여섯 시 퀴즈 프로그램.
+아나이스 : 길을 잃으실 거야. 그 작은 습관들이 할머니를 버티게 해.
+레미 : 어쨌든 오늘 좋은 하루였어. 라디오 따라 노래도 부르셨고.
+아나이스 : 늘 음정이 틀리지만 마음은 가득 담겨 있지.
+레미 : 집안 내력이야, 안타깝게도. 나도 냄비처럼 노래해.
+아나이스 : 난 입 다물어. 이웃들을 위해 그게 안전하니까.
+레미 : 자, 난 보리수차로 할게. 네 소파에서 더 잘 자겠다.
+아나이스 : 그럼 보리수차. 어릴 때처럼 꿀도 넣고.
+레미 : 사방으로 줄줄 흐르는 똑같은 꿀단지로, 제발.
+아나이스 : 똑같은 거야, 십 년째 마미의 꿀단지를 갖고 있어.
+레미 : 대단하다. 너는 뭐든 간직하는구나.
+(아나이스가 낮은 탁자에 찻잔을 놓는다. 앉기 전에 망설인다.)
+아나이스 : 레미, 할 말이 있어. 끝까지 들어 주면 좋겠어.
+레미 : 겁나게 하네. 심각한 일이야?
+아나이스 : 마미가 지난 목요일에 욕실에서 넘어지셨어.
+레미 : 뭐? 다치셨어? 왜 아무도 나한테 안 알렸어?
+아나이스 : 마미가 못 하게 하셨거든. 오빠가 돌아올 때까지 아무 말도 하지 말라고 약속하게 하셨어.
+레미 : 그리고 넌 약속했다고? 아나이스, 난 더 일찍 올 수 있었어.
+아나이스 : 알아, 하지만 마미의 선택이었고 배신하고 싶지 않았어. 엉덩이에 큰 멍이 든 것뿐이야.
+레미 : 멍? 의사는 뭐래?
+아나이스 : 주치의가 운이 좋으셨대. 하지만 또 그럴 거라고 하셨어.
+레미 : 또 그럴 거라고... 정말 그렇게 말했어?
+아나이스 : 여든일곱에 어지럼증까지 있으니 낙상 위험이 높다고 하셨어.
+레미 : 그건 이해해. 하지만 그걸 비극으로 만들 건 아니잖아...
+아나이스 : 비극이 아니라 사실 확인이야. 일어나시기까지 이십 분이나 바닥에 계셨어.
+레미 : 이십 분? 누구한테 전화는 하셨어?
+아나이스 : 전화기를 갖고 계시지 않았어. 이웃이 소리를 들었대.
+레미 : 그럼 그 이웃이 있어서 다행이네.
+아나이스 : 응, 로페스 부인, 성녀야. 근데 그분도 일흔여섯이야.
+레미 : 알겠어. 그래서 넌 뭘 제안하는데? 벌써 생각해 둔 게 있잖아, 널 아니까.
+아나이스 : 확정된 생각은 없어. 우리 둘이 같이 이야기했으면 해서.
+레미 : 좋아. 침착하게 문제를 말해 봐.
+아나이스 : 선택지는 이래. 첫째는 집에 계시게 하면서 재택 돌봄을 더 늘리는 거야.
+레미 : 마미가 원하시는 거야. 방금도 부엌에서 몰래 또 말씀하셨어.
+아나이스 : 알아. 나한테도 일요일마다 그러셔. 근데 비싸. 매일 와 주는 데 한 달에 이천 유로쯤이야.
+레미 : 이천? 연금으로는 당연히 모자라지.
+아나이스 : 천이백 받으셔. 나머지가 부족하고, 지원이 조금은 있지만 충분하진 않아.
+레미 : 나도 보탤 수 있어. 한 달에 삼백 유로쯤.
+아나이스 : 나도 그 정도는 할 수 있어. 근데 돈만의 문제가 아니야.
+레미 : 알아, 간병도 있고 밤도 있고 예기치 못한 일도 있지.
+아나이스 : 맞아. 둘째 선택지는 호출 팔찌, 넘어지면 알려 주는 거야.
+레미 : 그건 좋은 생각이야. 이십 분씩 바닥에 계실 일은 없겠네.
+아나이스 : 착용을 거부하시지 않는다면. '늙어 보인다'고 하셔.
+레미 : 멋쟁이시니까. 예쁜 장신구 속에 숨길 수도 있어.
+아나이스 : 그럴 수도. 하지만 밤과 식사는 해결 안 돼.
+레미 : 셋째 선택지는?
+아나이스 : 시설. 밤낮으로 간병인이 있는 요양원.
+레미 : 요양원... 솔직히 그 말만 들어도 소름이 돋아.
+아나이스 : 나도 처음엔 그랬어. 그런데 이번 주에 시설 두 곳을 가 봤어.
+레미 : 벌써 시설을 가 봤다고? 나한테 말도 없이?
+아나이스 : 감을 잡으려고, 그 이상은 아니야. 보기 전에 오빠를 걱정시키고 싶지 않았어.
+레미 : 나한테 기정사실을 들이미는 것 같아, 아나이스, 그게 내 느낌이야.
+아나이스 : 전혀 그럴 뜻 아니야. 마미만큼 오빠도 지키고 싶은 거야.
+레미 : 무엇에서 지켜? 슬픔에서? 내 아픔은 내가 결정할 만큼 컸어.
+아나이스 : 슬픔 얘기가 아니야. 남아 있는 사람, 즉 나의 소진을 말한 거야.
+레미 : 그건 들려. 하지만 네가 이미 결정했다는 것도 들려.
+아나이스 : 결정한 건 없어. 외면하는 건 무책임하다고 말할 뿐이야.
+레미 : '타조처럼 외면한다'는 표현은 너무 가혹하지 않아?
+아나이스 : 가혹하지 않고 정확해. 십팔 개월 전부터 장 보기, 병원 예약, 서류는 내가 다 했어.
+레미 : 부인 안 해, 오히려 고마워해. 하지만 파피가 돌아가셨을 때 마미는 절대 시설에 보내지 말라고 내게 약속하게 하셨어.
+아나이스 : 나한테도 그 약속을 하게 하셨어. 하지만 스무 살에 한 약속과 마흔에 지키는 건 달라.
+레미 : 약속은 약속이지, 내가 아는 한. 특히 그 약속은.
+아나이스 : 약속은 그때그때의 형편으로 하는 거야. 난 그때 형편이 아니야, 아이 둘에 직장도 있어.
+레미 : 그리고 나는 사백 킬로미터 떨어진 곳에서 일해, 지금 이상은 못 해.
+아나이스 : 더 하라는 게 아니야. 한꺼번에 다 거부하지 말라는 거야.
+레미 : 아무것도 거부 안 해. 다른 길을 먼저 다 찾아보자는 거야.
+아나이스 : 일 년 반 동안 찾아봤어, 레미. 이제 길이 없고 타협만 남았어.
+레미 : 항상 가두는 걸로 시작하는 타협이지, 내가 보기엔.
+아나이스 : 가둔다고? 내 입에서 나오면 듣기 싫을 말을 쓰네.
+레미 : 느끼는 대로 말하는 거야. 십이 제곱미터 방에 계신 모습을 생각하면 가슴이 조여.
+아나이스 : 그리고 난 밤에 혼자 바닥에 계신 모습을 생각하면 얼어붙어.
+레미 : 봐, 같은 걸 생각하는데 불안이 서로 다를 뿐이야.
+(어조가 높아진다. 레미가 일어나 거실에서 몇 걸음 걷는다. 아나이스는 팔짱을 낀 채 앉아 있다.)
+아나이스 : 리옹에서 가끔 주말에 와서 대원칙 옹호하기 쉽지.
+레미 : 그래, 드디어 나오네. 십팔 개월 동안 품고 있던 원망.
+아나이스 : 원망이 아니라 사실이야. 넘어지시면 나를 부르잖아.
+레미 : 네가 늘 총애받았고 모든 걸 쥐고 있으려 했으니까.
+아나이스 : 그건 모욕이야. 쥐려던 적 없어, 아무도 안 하는 걸 내가 맡았을 뿐이야.
+레미 : 아무도 네게 부탁 안 했어, 그게 진실이야. 네가 나섰고 이제 와서 불평해.
+아나이스 : 불평? 더는 못 버텨서 그래, 레미. 나 녹초야.
+레미 : 그럼 더 일찍 말하지, 일 년 동안 입 다물고 지금 터뜨리는 대신.
+아나이스 : 말했어, 여러 번. 오빠는 진심으로 들은 적 없어.
+레미 : '힘들다'로 들었어. '바꿔야 한다'는 뜻인 줄 몰랐어.
+아나이스 : 그럼 이제는 알겠어?
+레미 : 네가 한계라는 건 알겠어. 유일한 답이 왜 요양원인지는 모르겠어.
+아나이스 : 유일한 답이 아니라 가장 안전한 답이야. 난 행복하지만 다치신 마미보다 조금 슬프지만 살아 계신 마미가 낫다고 생각해.
+레미 : 슬프지만 살아 계신... 무슨 말인지 알고 하는 거야? 우리 할머니 얘기지 가구 얘기가 아니야.
+아나이스 : 내 말을 뒤집어서 나한테 쓰지 마. 나도 오빠만큼 사랑해, 내가 쏟는 시간을 보면 더 그럴지도.
+레미 : 그건 지나쳐. 내 사랑이 덜 눈에 띈다고 덜 진실한 건 아니야.
+아나이스 : 그런 말 한 적 없어.
+레미 : 했어. 다른 말로.
+아나이스 : 미안. 내가 생각보다 말이 지나쳤어. 신경이 곤두서 있어.
+레미 : 나도 그래. 우리 둘 다 신경이 곤두서 있네.
+(잠시 침묵이 흐른다. 레미가 돌아와 앉고, 식은 차가 둘 사이에 놓여 있다.)
+아나이스 : 마미 때문에 싸우고 싶지 않아. 마미는 못 견디실 거야.
+레미 : 나도. 하지만 마미 없이, 이미 안 계신 사람처럼 뒤에서 결정하는 건 거부해.
+아나이스 : 그 점은 맞아. 마미가 제일 먼저 당사자지.
+레미 : 그럼 마미께 말씀드리자. 둘이 한 분 상대로가 아니고, 안내 책자 들고 가지도 말고. 마미 말을 듣자.
+아나이스 : 그리고 무슨 일이 있어도 집에 계시겠다고 하시면?
+레미 : 그럼 집에서 안전하게 해 드릴 방법을 찾자. 밤, 식사, 팔찌.
+아나이스 : 그래도 부족하면? 한 달 뒤 또 넘어지시면?
+레미 : 모르겠어. 나도 답이 없어, 아나이스. 있다고 우기지 않아.
+아나이스 : 나도. 다만 이걸 더는 혼자 짊어질 수 없다는 것만 알아.
+레미 : 더 자주 올게. 격주 주말에, 병원 예약은 원격으로 내가 맡을게.
+아나이스 : 좋은 시작이야. 하지만 본질은 해결 안 돼.
+레미 : 알아. 본질은 우리가 잃을까 봐 두려워서 그것 때문에 싸운다는 거야.
+아나이스 : 그리고 '잘 사랑한다'는 게 뭔지 생각이 서로 다르다는 것도.
+레미 : 어쩌면 방법은 여러 가지고 우린 각자 하나만 아는 걸지도 몰라.
+아나이스 : 나랑 이 시설 중 하나를 같이 가 봐 줬으면 해. 그냥 보기만, 약속 없이.
+레미 : 네가 같은 날 나랑 재택 돌봄 서비스를 보러 간다면.
+아나이스 : 합의. 하루는 아침에 하나, 오후에 하나.
+레미 : 그리고 다음 일요일에 마미와 이야기하자. 차분하게, 그라탱 앞에서.
+아나이스 : 타르트 두 배로 해서, 미리 용서받게.
+레미 : 결과는 약속 못 하지만 곁에 있겠다는 건 약속해.

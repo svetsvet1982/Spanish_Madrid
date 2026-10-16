@@ -1,0 +1,303 @@
+# 1부 10화. L'assemblée générale de la copro (공동주택 총회)
+난이도: 주 B2 | 구간: B1→C1→B2→B2→B2→B2 | 형식: 다인 | 장소: 시청 분관 다목적실 | 시간: 목요일 저녁 일곱 시
+등장인물: Gilles, Simone, Mme Carré, Yann, Farida
+이슈: 주 ○ 승강기 교체 비용을 두고 하는 입주민 총회 | 곡선: 1-0-1-0-0-1 (잔잔형, 상한 1) | 입장: A 시몬(칠십 대 입주민, 승강기가 없으면 집에서 살 수 없다) / B 얀(새 집주인, 대출 초기라 부담이 크다) / C 질(관리 위원장, 두 견적의 균형을 맞추려 한다) / D 파리다(아기가 있는 입주민, 정보를 더 읽고 싶다)
+상황 카드: 목표: 입주민들이 연례 총회에서 승강기 교체 견적을 두고 투표한다. 걸림돌: 비싼 견적과 싼 견적 사이에서 고령자와 젊은 새 입주민의 사정이 엇갈린다. 해소: 어느 안도 필요한 과반수를 얻지 못해 육 주 뒤 임시 총회에서 세 번째 견적과 분할 납부 계획을 보기로 한다. 결말은 열린 결말.
+학습 포인트: 총회 어휘(le quorum, la résolution, les tantièmes) · 투표 표현(pour, contre, abstention) · 숫자와 금액(soixante-huit mille euros) · 의견 부딪침과 중재(Je vous propose de ne pas opposer les gens) · 조건과 가정(Si le résultat n'atteint pas la majorité)
+
+## 대화
+(Une salle polyvalente d'une mairie annexe, jeudi soir à dix-neuf heures. Une trentaine de copropriétaires s'installent sur des chaises en plastique. Gilles, le président du conseil syndical, tapote le micro.)
+Gilles : Bonsoir à tous, est-ce que ça marche, le micro ? Oui ? Bon, merci d'être venus si nombreux.
+Simone : On ne vous entend pas du fond, Gilles ! Parlez plus fort !
+Gilles : Là, c'est mieux ? Parfait. Je commence donc : bienvenue à l'assemblée générale annuelle de la copropriété des Tilleuls.
+Mme Carré : Bonsoir, je suis Isabelle Carré, de l'agence qui assure la gestion de l'immeuble. Je tiendrai le secrétariat de séance.
+Gilles : Merci, Isabelle. Première chose : on vérifie que le quorum est atteint. Combien de personnes présentes ou représentées ?
+Mme Carré : Vingt-deux copropriétaires présents, onze représentés par pouvoir. Le quorum est atteint, nous pouvons délibérer valablement.
+Yann : Excusez-moi, c'est quoi le « quorum », exactement ? C'est ma première assemblée.
+Gilles : Bonne question, Yann. C'est le nombre minimum de personnes présentes pour que les décisions soient valables.
+Yann : D'accord, merci. Je suis nouveau dans l'immeuble, j'ai acheté il y a trois mois.
+Farida : Bienvenue ! Moi, c'est la deuxième fois. La première, j'ai eu peur de dire quelque chose de travers.
+Simone : Pas de panique, on ne mord pas. Enfin, pas trop.
+Gilles : Ha ha, merci Simone. Alors, le point qui nous intéresse tous ce soir, c'est le numéro sept : le remplacement de l'ascenseur.
+Simone : Enfin ! Cela fait trois ans qu'on en parle.
+Gilles : Oui, mais avant d'y arriver, on doit passer par les points un à six : approbation des comptes, budget prévisionnel, et cetera.
+Yann : On peut les faire vite ? J'ai un bébé à la maison, je dois relayer la nounou à vingt et une heures.
+Mme Carré : Nous ferons au plus court, monsieur. Mais il faut voter chaque résolution.
+Farida : Je comprends. Moi aussi, j'ai la garde demain à dix heures.
+Gilles : Alors c'est parti, et le plus efficacement possible.
+Simone : Efficacement et poliment, Gilles. On est entre voisins.
+Gilles : Évidemment, Simone. Isabelle, vous voulez bien nous présenter les comptes ?
+(Mme Carré projette un tableau sur le mur. Elle adopte un ton plus formel.)
+Mme Carré : Mesdames et messieurs, je vous présente les comptes de l'exercice clos au trente et un décembre. Les charges courantes s'élèvent à quarante-deux mille euros, soit une hausse de trois pour cent par rapport à l'exercice précédent.
+Simone : Et d'où vient cette hausse, si je puis me permettre ?
+Mme Carré : Principalement du contrat de chauffage collectif, dont l'indexation a été plus marquée que prévu, ainsi que de la révision du contrat d'entretien de l'ascenseur.
+Yann : Donc l'ascenseur nous coûte déjà cher avant même d'être remplacé ?
+Mme Carré : En effet, les interventions de dépannage se sont multipliées. L'appareil date de mille neuf cent quatre-vingt-sept, ce qui rend les pièces de rechange difficiles à trouver.
+Gilles : C'est précisément pour cela que le conseil syndical a demandé deux devis, que je vous présenterai tout à l'heure.
+Farida : Avant cela, pouvez-vous m'expliquer la ligne « provisions sur travaux » ? Je ne la comprends pas bien.
+Mme Carré : Volontiers. Il s'agit d'un fonds que la copropriété alimente chaque trimestre, afin de ne pas avoir à demander une somme importante en une seule fois lorsqu'un gros chantier se présente.
+Farida : Autrement dit, c'est une épargne collective ?
+Mme Carré : Exactement. Elle est répartie entre les lots en fonction des tantièmes, c'est-à-dire de la quote-part de chacun dans les parties communes.
+Simone : Les tantièmes, je m'en souviens toujours : mon appartement du cinquième en possède quatre-vingt-six, sur mille.
+Yann : Moi, j'en ai cent douze. Le rez-de-chaussée avec jardin, ça compte plus ?
+Mme Carré : Cela dépend de la surface et de l'étage. Nous pouvons regarder votre cas en détail après la réunion, monsieur.
+Gilles : Je propose de passer au vote sur l'approbation des comptes. Qui est pour ?
+Mme Carré : Je compte : vingt-neuf voix pour, quatre abstentions, aucune voix contre. La résolution est adoptée.
+Farida : Une question, avant qu'on ne parte trop vite : ces quatre abstentions, c'est dû à quoi ?
+Gilles : Probablement des copropriétaires qui n'ont pas eu le temps de lire les documents. Cela arrive chaque année.
+Simone : Ce n'est pas bien. Les documents ont été envoyés trois semaines à l'avance.
+Gilles : Je sais, Simone, mais on ne force personne. Passons au budget.
+Mme Carré : Le budget prévisionnel s'établit à quarante-quatre mille euros, intégrant une marge pour imprévus de deux pour cent.
+(Gilles se lève pour présenter deux devis écrits au feutre sur un tableau.)
+Gilles : Voilà, mesdames et messieurs, le moment que vous attendiez. Nous avons reçu deux devis pour le remplacement complet de l'ascenseur.
+Mme Carré : Je rappelle que les devis détaillés sont joints à la convocation, aux pages douze à quinze.
+Gilles : Le premier, celui de la société A, s'élève à soixante-huit mille euros, avec une cabine plus grande et un délai de huit semaines.
+Yann : Soixante-huit mille ! Divisés par le nombre de copropriétaires, ça fait combien par lot ?
+Mme Carré : La répartition se fait par tantièmes. Pour un lot de cent tantièmes, comptez environ six mille huit cents euros.
+Yann : Six mille huit cents euros ? Mon crédit vient à peine de commencer, je ne sais pas si je peux me le permettre.
+Gilles : Je comprends, Yann. Le second devis, celui de la société B, est de cinquante-quatre mille euros, avec une cabine standard et un délai de douze semaines.
+Simone : Douze semaines sans ascenseur ? À mon âge, moi, au cinquième étage ?
+Gilles : Pendant les travaux, oui. Mais le conseil syndical a pensé à un accompagnement pour les personnes âgées.
+Farida : Et pour les poussettes ? Moi, je monte tous les jours avec un bébé de huit mois.
+Gilles : On prévoira une solution pour vous aussi, un portage depuis le rez-de-chaussée, par exemple.
+Yann : Des solutions, des solutions... ça ne fait pas baisser la facture.
+Simone : Ce n'est pas qu'une question d'argent, jeune homme. Moi, je suis dans cet immeuble depuis quarante ans. Si je ne peux plus monter, je dois partir.
+Yann : Je ne dis pas que ce n'est pas important, madame. Je dis que six mille euros de plus, ça change tout pour moi.
+Simone : Et pour moi, c'est une question de pouvoir vivre ou non chez soi.
+Gilles : Je vous propose de ne pas opposer les gens. Les deux situations sont légitimes.
+Mme Carré : Si je peux ajouter, il existe parfois des aides ou des étalements possibles pour les copropriétaires en difficulté. Je peux vous renseigner après la séance.
+Yann : Ah, merci. Je ne savais pas qu'il y avait ça.
+Farida : Moi non plus. Isabelle, vous nous enverrez un document avec ces informations ?
+Mme Carré : Bien sûr, je l'enverrai par mail à tous les copropriétaires dès demain.
+(Gilles propose une pause de dix minutes. Quelqu'un a apporté des gâteaux et du café.)
+Gilles : Pause de dix minutes ! Il y a du café, de la brioche de Simone et des madeleines de Farida.
+Simone : Ma brioche est un peu sèche cette fois, je vous préviens.
+Farida : Mes madeleines sont de la boulangerie, donc aucun risque.
+Yann : Je n'ai rien apporté, je suis un mauvais copropriétaire. La prochaine fois, je ferai un gâteau.
+Simone : Vous savez en faire ? C'est rare, à votre âge.
+Yann : Je me débrouille. Ma spécialité, c'est le gâteau au yaourt, même si le yaourt est plutôt une approximation.
+Farida : Le gâteau au yaourt, c'est la base. Moi, je le rate une fois sur deux.
+Gilles : Vous savez, l'ascenseur a connu des moments plus drôles. Je me souviens d'une fois où il est resté bloqué entre deux étages avec monsieur Aubry.
+Simone : Ah, monsieur Aubry ! Il a chanté pendant quarante minutes pour se donner du courage.
+Yann : Il chantait quoi ?
+Simone : Une vieille chanson sur la mer. Tout l'immeuble l'a entendu, on aurait dit un concert.
+Farida : Ha ha, et les pompiers sont venus ?
+Gilles : Non, le technicien est arrivé avant, mais monsieur Aubry n'a pas voulu qu'on l'arrête avant la fin du refrain.
+Yann : Quelle histoire ! Il habite toujours ici ?
+Simone : Il est parti en maison de retraite l'année dernière. Il me manque, ce chanteur.
+Gilles : À lui, on pourrait dédier le nouvel ascenseur.
+Farida : Un ascenseur avec une plaque « Monsieur Aubry, chanteur »...
+Yann : Ha ha, et un haut-parleur qui joue la chanson à chaque fois que la porte se ferme.
+Simone : Surtout pas ! Je l'ai entendue assez de fois.
+Gilles : Bon, on reprend dans deux minutes. Terminez vos gâteaux.
+(Les participants se rassoient. Mme Carré distribue des bulletins de vote.)
+Mme Carré : Reprenons. Avant de voter la résolution sept, je rappelle les règles de majorité pour ce type de travaux.
+Yann : Ça se vote à quelle majorité ?
+Mme Carré : Pour le remplacement d'un équipement collectif, il faut la majorité de tous les copropriétaires, présents ou non, pas seulement des présents ce soir.
+Farida : Autrement dit, même les absents comptent ?
+Mme Carré : Oui, leurs voix sont comptées comme « contre » s'ils ne donnent pas de pouvoir ni ne votent par correspondance.
+Simone : C'est injuste pour les absents, mais ça nous oblige à venir, au moins.
+Gilles : Voilà pourquoi il est important que chacun vienne, ou donne son pouvoir à quelqu'un de confiance.
+Yann : Et si le résultat n'atteint pas la majorité requise ?
+Mme Carré : Dans certains cas, on peut organiser un deuxième vote immédiat à une majorité plus faible. Mais cela dépend du résultat.
+Gilles : Isabelle, pouvez-vous nous résumer les trois options de vote ?
+Mme Carré : Option un : on adopte le devis de la société A. Option deux : on adopte celui de la société B. Option trois : on reporte pour demander un troisième devis.
+Farida : Et si on prend la société B, on a un ascenseur moins confortable, mais moins cher ?
+Gilles : En gros, oui. Mais la société A offre aussi dix ans de garantie, contre cinq pour la B.
+Simone : Cinq ans de garantie sur un ascenseur, c'est peu.
+Yann : Mais est-ce que dix ans, ça vaut vraiment quatorze mille euros de plus ?
+Mme Carré : Cela dépend des pannes futures. Ce que je peux dire, c'est que le contrat d'entretien est moins cher avec la société A.
+Gilles : Ce qui compense en partie. Sur dix ans, l'écart se réduit à environ huit mille euros.
+Yann : Ah, ça change un peu le calcul. Je n'avais pas pensé à l'entretien.
+Farida : Moi non plus. Donc le moins cher à l'achat n'est pas forcément le moins cher à long terme.
+Gilles : Exactement, c'est ce que je voulais dire.
+(Les bulletins sont ramassés. Mme Carré compte, aidée par Gilles. Silence dans la salle.)
+Mme Carré : Voici les résultats. Option un, société A : quarante et un pour cent des voix de l'ensemble de la copropriété.
+Gilles : Option deux, société B ?
+Mme Carré : Trente-quatre pour cent. Option trois, report : le reste, avec des abstentions.
+Simone : Alors aucune n'atteint la majorité ?
+Mme Carré : C'est exact, madame. Aucune des trois options n'atteint la majorité requise, mais l'option un est la plus proche.
+Yann : Donc on ne remplace pas l'ascenseur ce soir ?
+Gilles : Pas ce soir. Mais ce n'est pas un échec, c'est un début. On sait maintenant où est le blocage : le prix.
+Farida : Et nous, on fait quoi en attendant ? L'ascenseur actuel peut encore tenir ?
+Mme Carré : Le technicien dit qu'il peut fonctionner encore plusieurs mois avec une surveillance renforcée. Je ne peux pas l'affirmer à long terme.
+Simone : Plusieurs mois, c'est tout ? Et si je reste coincée un soir de neige ?
+Gilles : On mettra en place un numéro d'urgence et un voisin référent, Simone. Je vous le promets.
+Simone : Je compte sur vous. Mais je vous préviens, je ne céderai pas facilement.
+Gilles : Je n'en doute pas. Isabelle, que propose-t-on pour la suite ?
+Mme Carré : Une assemblée extraordinaire dans six semaines, avec un troisième devis, un plan d'étalement des paiements, et un point sur les aides possibles.
+Yann : Ça me convient. Au moins, j'aurai le temps de regarder mon budget.
+Farida : Moi aussi. Et j'aimerais lire un peu plus sur les garanties avant de décider.
+Gilles : Alors c'est décidé. Merci à tous pour ce débat, qui s'est tenu avec calme et respect.
+Simone : Calme, oui. Respect, toujours. Mais ma patience, elle, a des limites.
+Mme Carré : Nous en tiendrons compte, madame. La séance est levée à vingt heures quarante.
+Gilles : Bonne soirée à tous, et si quelqu'un veut finir la brioche de Simone, il en reste.
+
+## 낭독 포인트
+- 비음 모음: «tantièmes», «ascenseur», «combien», «quarante ans» — an, en, in, on은 코로 울리는 모음이고 뒤의 n은 따로 소리 내지 않는다.
+- 연음·앙샹느망: «Vous savez», «un équipement», «les trois options» — 끝 자음이 다음 모음 앞에서 이어진다.
+- 프랑스어 r: «résolution», «rez-de-chaussée», «majorité» — 목젖 근처에서 내는 마찰음.
+- u / ou: «plus», «prévu» vs «tout», «pour» — u는 입술을 모아 [y], ou는 [u].
+- 숫자·금액: «mille neuf cent quatre-vingt-sept», «quatre-vingt-six», «soixante-huit mille euros», «cinquante-quatre mille euros» — 70, 80, 90대는 20 단위 합성어이므로 하이픈으로 한 호흡에 읽는다.
+- 호칭·억양: 질과 이사벨 카레는 서로 이름을 부르면서도 vous를 쓴다. 이사벨은 안건을 읽을 때 평탄하고 정확하게, 질은 회의를 이끄는 사람답게 밝고 안정되게, 시몬은 단호하게 읽는다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 총회 시작
+  · 개회: «Bienvenue à l'assemblée générale annuelle de la copropriété.»
+  · 용어 묻기: «C'est quoi le « quorum », exactement ?»
+- C1 구간(21~40턴): 결산과 예산 설명
+  · 공식 설명: «Les charges courantes s'élèvent à quarante-deux mille euros.»
+  · 표현 바꿔 말하기: «Autrement dit, c'est une épargne collective ?»
+  · 투표 결과: «Vingt-neuf voix pour, quatre abstentions, aucune voix contre. La résolution est adoptée.»
+- B2 구간(41~60턴): 견적 비교
+  · 비교와 조건: «Pour un lot de cent tantièmes, comptez environ six mille huit cents euros.»
+  · 입장 말하기: «Ce n'est pas qu'une question d'argent.», «Six mille euros de plus, ça change tout pour moi.»
+  · 중재: «Je vous propose de ne pas opposer les gens.»
+- B2 구간(61~80턴): 쉬는 시간
+  · 일화 말하기: «Je me souviens d'une fois où il est resté bloqué entre deux étages.»
+  · 비유: «On aurait dit un concert.»
+- B2 구간(81~100턴): 투표 규칙
+  · 규칙 설명: «Il faut la majorité de tous les copropriétaires, présents ou non.»
+  · 장단점: «Le moins cher à l'achat n'est pas forcément le moins cher à long terme.»
+- B2 구간(101~120턴): 결과와 후속
+  · 결과: «Aucune des trois options n'atteint la majorité requise.»
+  · 후속 계획: «Une assemblée extraordinaire dans six semaines, avec un troisième devis.»
+- 어휘: la copropriété, le conseil syndical, le syndic, les tantièmes, le devis, le quorum, le pouvoir, l'abstention, la majorité, l'étalement.
+
+## 속어 노트
+- «On ne mord pas.»: (초면에도) 부담 갖지 마세요, 잡아먹지 않아요.
+- «Pas de panique.»: 당황하지 마세요.
+- «Je me débrouille.»: 그럭저럭 해요, 알아서 해 나가요.
+- «C'est parti.»: 시작합시다.
+- «on aurait dit un concert»: 마치 콘서트 같았다.
+- «Je compte sur vous.»: 믿고 있겠습니다.
+- 이 이야기의 견적, 지분(tantième), 표결 방식, 과반수 규정, 분할 납부와 지원은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 총회 참석자들은 서로 vous를 쓴다.
+
+## 한글 해석
+(시청 분관의 다목적실, 목요일 저녁 일곱 시. 삼십 명 남짓한 공동주택 소유주들이 플라스틱 의자에 앉는다. 관리 위원장 질이 마이크를 톡톡 두드린다.)
+질 : 안녕하세요 여러분, 마이크 나오나요? 네? 자, 이렇게 많이 와 주셔서 감사합니다.
+시몬 : 뒤에서는 안 들려요, 질! 더 크게 말해요!
+질 : 이제 낫나요? 좋아요. 그럼 시작하겠습니다. 티욜 공동주택 연례 총회에 오신 걸 환영합니다.
+카레 부인 : 안녕하세요, 건물 관리를 맡은 사무소의 이사벨 카레입니다. 회의 서기를 맡겠습니다.
+질 : 고마워요, 이사벨. 먼저 의사 정족수가 충족됐는지 확인합니다. 참석 또는 위임된 분이 몇 분인가요?
+카레 부인 : 참석한 소유주가 스물두 분, 위임이 열한 분입니다. 정족수가 충족되어 유효하게 심의할 수 있습니다.
+얀 : 실례지만 '정족수'가 정확히 뭔가요? 총회는 처음이라서요.
+질 : 좋은 질문이에요, 얀. 결정이 유효하려면 필요한 최소 참석 인원이에요.
+얀 : 알겠어요, 감사합니다. 저는 이 건물에 새로 왔어요, 석 달 전에 샀어요.
+파리다 : 환영해요! 저는 두 번째예요. 처음엔 말을 잘못할까 봐 겁났어요.
+시몬 : 걱정 마요, 잡아먹지 않아요. 뭐, 너무 심하게는요.
+질 : 하하, 시몬 고마워요. 그럼 오늘 밤 모두가 관심 있는 안건은 칠 번, 승강기 교체입니다.
+시몬 : 드디어! 삼 년째 얘기만 했잖아요.
+질 : 네, 하지만 거기까지 가려면 일 번부터 육 번까지 해야 해요. 결산 승인, 예산안 같은 것들이요.
+얀 : 빨리 할 수 있을까요? 집에 아기가 있어서 저녁 아홉 시에 보모와 교대해야 해요.
+카레 부인 : 최대한 짧게 하겠습니다. 하지만 안건마다 표결은 해야 합니다.
+파리다 : 이해해요. 저도 내일 열 시에 아이를 봐야 해요.
+질 : 그럼 시작하죠, 가능한 한 효율적으로요.
+시몬 : 효율적이고 예의 바르게요, 질. 이웃끼리 모인 거잖아요.
+질 : 물론이죠, 시몬. 이사벨, 결산을 설명해 주시겠어요?
+(카레 부인이 벽에 표를 띄운다. 어조가 더 격식 있어진다.)
+카레 부인 : 여러분, 십이월 삼십일 일에 마감된 회계연도 결산을 말씀드리겠습니다. 경상 관리비는 사만 이천 유로로 전년도보다 삼 퍼센트 올랐습니다.
+시몬 : 실례지만 그 인상은 어디서 온 건가요?
+카레 부인 : 주로 중앙난방 계약의 요금 연동이 예상보다 컸고, 승강기 유지보수 계약이 조정된 영향입니다.
+얀 : 그럼 승강기는 교체하기도 전에 이미 돈이 많이 드는 거네요?
+카레 부인 : 그렇습니다. 긴급 수리가 늘었고, 기기가 천구백팔십칠 년식이라 부품 구하기가 어렵습니다.
+질 : 그래서 관리 위원회가 견적 두 건을 받았고, 잠시 뒤에 소개하겠습니다.
+파리다 : 그 전에 '공사 적립금' 항목을 설명해 주실 수 있나요? 잘 이해가 안 돼요.
+카레 부인 : 물론입니다. 큰 공사가 생겼을 때 한꺼번에 큰돈을 내지 않도록 공동주택이 분기마다 모아 두는 기금입니다.
+파리다 : 다시 말해 공동 저축인가요?
+카레 부인 : 맞습니다. 각 세대의 공용 부분 지분, 즉 탕티엠에 따라 나누어집니다.
+시몬 : 탕티엠, 항상 기억해요. 제 육 층 집은 천 분의 팔십육이에요.
+얀 : 저는 백십이예요. 정원이 있는 일 층은 더 많이 쳐주나요?
+카레 부인 : 면적과 층에 따라 달라요. 회의 끝나고 선생님 경우를 자세히 봐 드릴 수 있어요.
+질 : 결산 승인 표결을 제안합니다. 찬성하시는 분?
+카레 부인 : 세겠습니다. 찬성 스물아홉 표, 기권 네 표, 반대 없음입니다. 안건이 가결되었습니다.
+파리다 : 너무 빨리 넘어가기 전에 질문 하나요. 기권 네 표는 무슨 이유인가요?
+질 : 아마 서류를 읽을 시간이 없던 소유주들일 거예요. 해마다 있어요.
+시몬 : 좋지 않아요. 서류는 삼 주 전에 보냈잖아요.
+질 : 알아요, 시몬. 그래도 강요할 순 없어요. 예산으로 넘어가죠.
+카레 부인 : 예산안은 사만 사천 유로이며, 예비비 이 퍼센트가 포함되어 있습니다.
+(질이 일어나 칠판에 마커로 쓴 견적 두 건을 소개한다.)
+질 : 자, 여러분이 기다리던 순간입니다. 승강기 전면 교체 견적을 두 건 받았습니다.
+카레 부인 : 자세한 견적서는 소집 통지서의 십이 쪽에서 십오 쪽에 첨부되어 있다는 점을 말씀드립니다.
+질 : 첫째, A 업체 견적은 육만 팔천 유로이고 더 큰 승강기 칸과 팔 주 공기입니다.
+얀 : 육만 팔천이요! 소유주 수로 나누면 한 세대에 얼마인가요?
+카레 부인 : 지분 기준으로 나눕니다. 백 탕티엠인 세대는 대략 육천팔백 유로입니다.
+얀 : 육천팔백 유로요? 대출을 갓 시작했는데 감당할 수 있을지 모르겠어요.
+질 : 이해해요, 얀. 둘째, B 업체 견적은 오만 사천 유로이고 표준 승강기 칸과 십이 주 공기입니다.
+시몬 : 승강기 없이 십이 주요? 제 나이에 육 층까지요?
+질 : 공사 중에는 그렇죠. 하지만 위원회가 고령자를 위한 동행 지원을 생각해 뒀어요.
+파리다 : 유모차는요? 저는 여덟 달 된 아기와 매일 올라가는데요.
+질 : 파리다 씨를 위해서도 해결책을 마련할게요, 예를 들어 일 층에서 들어 올려 드리는 방식이요.
+얀 : 해결책, 해결책... 청구서가 줄진 않잖아요.
+시몬 : 돈만의 문제가 아니에요, 젊은이. 나는 이 건물에 사십 년을 살았어요. 더는 올라갈 수 없으면 떠나야 해요.
+얀 : 중요하지 않다는 게 아니에요, 부인. 육천 유로가 더 든다는 게 저한테는 전부를 바꾼다는 거예요.
+시몬 : 나한테는 내 집에서 살 수 있느냐 없느냐의 문제고요.
+질 : 사람들을 갈라놓지 않았으면 해요. 두 입장 모두 정당해요.
+카레 부인 : 덧붙이자면 어려운 소유주를 위한 지원이나 분할 납부가 가능한 경우도 있습니다. 회의 후에 안내해 드릴 수 있어요.
+얀 : 아, 감사합니다. 그런 게 있는 줄 몰랐어요.
+파리다 : 저도요. 이사벨, 이 정보를 문서로 보내 주실 수 있나요?
+카레 부인 : 물론이죠, 내일 모든 소유주에게 메일로 보내겠습니다.
+(질이 십 분 휴식을 제안한다. 누군가 과자와 커피를 가져왔다.)
+질 : 십 분 휴식입니다! 커피랑 시몬의 브리오슈, 파리다의 마들렌이 있어요.
+시몬 : 이번엔 브리오슈가 좀 퍽퍽해요, 미리 말해 둘게요.
+파리다 : 제 마들렌은 빵집 거라서 위험 없어요.
+얀 : 저는 아무것도 안 가져왔어요, 나쁜 소유주네요. 다음엔 케이크를 구워 올게요.
+시몬 : 만들 줄 알아요? 그 나이에 드문데.
+얀 : 그럭저럭 해요. 제 특기는 요구르트 케이크인데, 요구르트는 좀 대충이에요.
+파리다 : 요구르트 케이크는 기본이죠. 저는 두 번에 한 번은 망쳐요.
+질 : 사실 승강기에는 웃긴 때도 있었어요. 한번은 오베리 씨와 함께 두 층 사이에 멈춘 적이 있죠.
+시몬 : 아, 오베리 씨! 용기를 내려고 사십 분 동안 노래를 불렀어요.
+얀 : 무슨 노래를요?
+시몬 : 바다에 관한 옛날 노래요. 건물 전체가 들었는데 콘서트 같았어요.
+파리다 : 하하, 소방관이 왔어요?
+질 : 아니요, 기사가 먼저 왔는데 오베리 씨가 후렴이 끝날 때까지는 멈추지 말라고 했어요.
+얀 : 대단한 이야기네요! 아직 여기 사세요?
+시몬 : 작년에 요양원에 가셨어요. 그 가수가 그리워요.
+질 : 새 승강기를 그분께 헌정해도 되겠네요.
+파리다 : '가수 오베리 씨'라고 새긴 명판이 붙은 승강기라니...
+얀 : 하하, 그리고 문이 닫힐 때마다 그 노래를 틀어 주는 스피커도요.
+시몬 : 절대 안 돼요! 그 노래는 이미 충분히 들었어요.
+질 : 자, 이 분 뒤에 다시 시작하죠. 과자들 다 드세요.
+(참석자들이 다시 자리에 앉는다. 카레 부인이 투표용지를 나눠 준다.)
+카레 부인 : 다시 시작하겠습니다. 칠 번 안건 표결 전에 이런 공사의 다수결 규칙을 다시 말씀드립니다.
+얀 : 어느 정도 과반이 필요한가요?
+카레 부인 : 공용 설비 교체에는 오늘 참석자만이 아니라 불참자를 포함한 전체 소유주의 과반이 필요합니다.
+파리다 : 다시 말해 불참자도 계산된다는 건가요?
+카레 부인 : 네, 위임하거나 서면 투표를 하지 않은 불참자의 표는 '반대'로 계산됩니다.
+시몬 : 불참자에게는 불공평하지만, 적어도 우리가 오게 만들긴 하네요.
+질 : 그래서 모두가 오거나 믿을 만한 사람에게 위임하는 게 중요한 겁니다.
+얀 : 결과가 필요한 과반에 못 미치면요?
+카레 부인 : 경우에 따라 더 낮은 과반으로 즉시 두 번째 표결을 할 수 있습니다. 하지만 결과에 달려 있어요.
+질 : 이사벨, 세 가지 투표 선택지를 정리해 주시겠어요?
+카레 부인 : 일 안은 A 업체 견적 채택, 이 안은 B 업체 견적 채택, 삼 안은 세 번째 견적을 받기 위해 연기하는 것입니다.
+파리다 : B 업체를 고르면 승강기는 덜 편하지만 더 싼 건가요?
+질 : 대체로 그렇죠. 하지만 A 업체는 보증이 십 년이고 B는 오 년이에요.
+시몬 : 승강기 보증 오 년은 짧아요.
+얀 : 하지만 십 년이 정말 만 사천 유로 더 낼 가치가 있나요?
+카레 부인 : 앞으로의 고장에 달려 있습니다. 말씀드릴 수 있는 건 A 업체와는 유지보수 계약이 더 싸다는 점입니다.
+질 : 그럼 일부는 상쇄돼요. 십 년이면 차이가 팔천 유로 정도로 줄어요.
+얀 : 아, 그러면 계산이 좀 달라지네요. 유지보수는 생각 못 했어요.
+파리다 : 저도요. 그럼 살 때 싼 게 장기적으로 반드시 싼 건 아니군요.
+질 : 정확해요, 제가 하려던 말이에요.
+(투표용지가 수거된다. 카레 부인이 질의 도움을 받아 센다. 방 안에 침묵이 흐른다.)
+카레 부인 : 결과를 발표합니다. 일 안 A 업체는 공동주택 전체 표의 사십일 퍼센트입니다.
+질 : 이 안 B 업체는요?
+카레 부인 : 삼십사 퍼센트입니다. 삼 안 연기는 나머지이고 기권이 포함됩니다.
+시몬 : 그럼 어느 쪽도 과반이 안 되는 건가요?
+카레 부인 : 맞습니다, 부인. 세 안 모두 필요한 과반에 못 미치지만 일 안이 가장 가깝습니다.
+얀 : 그럼 오늘 밤은 승강기를 교체하지 않는 거네요?
+질 : 오늘 밤은 아니에요. 하지만 실패가 아니라 시작이에요. 이제 어디가 막혔는지 알아요, 가격이요.
+파리다 : 그럼 그동안 우린 어떻게 해요? 지금 승강기가 더 버틸 수 있나요?
+카레 부인 : 기사는 강화된 점검 아래 몇 달은 더 작동할 수 있다고 합니다. 장기적으로는 단언할 수 없습니다.
+시몬 : 몇 달이 전부예요? 눈 오는 밤에 갇히면요?
+질 : 비상 연락 번호와 담당 이웃을 두겠습니다, 시몬. 약속해요.
+시몬 : 믿어요. 하지만 미리 말해 두는데, 쉽게 물러서진 않을 거예요.
+질 : 의심하지 않아요. 이사벨, 앞으로는 어떻게 하나요?
+카레 부인 : 육 주 뒤 임시 총회를 열고 세 번째 견적, 납부 분할 계획, 가능한 지원 안내를 함께 다루겠습니다.
+얀 : 괜찮아요. 적어도 예산을 살펴볼 시간이 생기니까요.
+파리다 : 저도요. 결정 전에 보증에 대해서도 더 읽어 보고 싶어요.
+질 : 그럼 정해졌네요. 침착하고 서로 존중하며 토론해 주셔서 감사합니다.
+시몬 : 침착은 해요. 존중은 늘 해요. 하지만 제 인내심에는 한계가 있어요.
+카레 부인 : 참고하겠습니다, 부인. 회의를 저녁 여덟 시 사십 분에 마칩니다.
+질 : 모두 좋은 저녁 보내세요. 시몬의 브리오슈를 마저 드실 분이 있으면 남아 있어요.

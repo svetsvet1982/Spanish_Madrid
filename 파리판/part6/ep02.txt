@@ -1,0 +1,292 @@
+# 6부 2화. Enterrement de vie de garçon (총각 파티)
+난이도: 주 C1 | 구간: C1→C1→C1→B2→C1→C1 | 형식: 다인 | 장소: 마레 지구의 바 테이블 | 시간: 목요일 저녁 여덟 시
+등장인물: Baptiste, Yanis, Romain, Mathis
+이슈: 주 ◐ 친구 무리의 파티 규모와 비용, 신랑 성격에 맞는 방식 | 곡선: 1-2-2-2-1-0 (정점형, 상한 2) | 입장: A 바티스트(리스본 사흘 같은 제대로 된 큰 파티) / B 야니스(돈 부담 없는 소박한 방식)
+상황 카드: 친구 안투안의 총각 파티를 신랑 몰래 짜려고 네 친구가 바에 모였다. 바티스트는 리스본 여행을, 야니스는 비용이 적게 드는 방식을 원한다. 신랑이 눈에 띄는 걸 싫어한다는 점, 초대 인원, 회비 모으기까지 이야기가 오가고, 로맹과 마티스가 중재한다. 결국 투표 링크를 돌리기로 하고 건배한다(열린 결말).
+학습 포인트: 제안과 반박(Va pour…, Je ne dis pas que…) · 완곡·반어 표현(Ça pique un peu, Bon courage) · 구어 관용구(mettre le paquet, avoir vent de) · 조건·가정(si on s'y prend bien, sinon autant…) · 타협 짓기(Je vois un compromis se dessiner)
+
+## 대화
+(Un jeudi soir, dans un bar du Marais, vers vingt heures. Quatre amis d'Antoine se retrouvent autour d'une table, sans lui.)
+Baptiste : Bon, tout le monde est là ? Antoine n'a pas eu vent de quoi que ce soit, j'espère.
+Yanis : Il croit qu'on regarde le match chez Romain. Il a gobé ça sans broncher.
+Romain : Disons qu'il est tellement dans ses préparatifs qu'on pourrait lui annoncer un coup d'État, il hocherait la tête.
+Mathis : Il m'a demandé hier si les serviettes de table devaient être « sable » ou « ivoire ». J'ai failli appeler une ambulance.
+Baptiste : Ha ha ! Sable ou ivoire... Le pauvre, il est en plein délire.
+Yanis : Remarque, Clara y est pour beaucoup. Elle a un tableur pour tout.
+Romain : Un tableur avec des onglets de couleurs, oui. J'ai vu ça.
+Mathis : Bref, nous, on est là pour l'inverse : lui faire oublier les serviettes.
+Baptiste : Exactement. Une dernière soirée en tant que célibataire, enfin, un week-end entier si on s'y prend bien.
+Yanis : Si on s'y prend bien, c'est tout l'enjeu de ce soir.
+Romain : Qu'est-ce qu'on commande ? Je propose une bouteille pour fêter le lancement des hostilités.
+Mathis : Je suis preneur. Un rouge, quelque chose de pas trop ambitieux.
+Baptiste : Va pour un côtes-du-rhône. Je m'occupe de ça.
+Yanis : Pendant ce temps, je note tout. J'ai ouvert un document partagé, « Opération Serviette ».
+Romain : Il est nul, ce nom. J'adore.
+Mathis : Ça fait très second degré. Antoine adorerait.
+Baptiste : Bon, je vous fais la vue d'ensemble pendant que le vin arrive.
+Yanis : Vas-y, on t'écoute. Mais fais court, je n'ai pas dîné.
+Romain : Fais court et fais clair, on a tous des agendas de ministre.
+Baptiste : Promis. Alors, voilà ce que j'ai en tête.
+Yanis : Alors ?
+Baptiste : Lisbonne. Trois jours, fin juin, une villa avec piscine du côté de Cascais, et une soirée dans un restaurant sur les toits.
+Mathis : Lisbonne en juin, ça sent la grosse fête... et la grosse facture.
+Baptiste : J'ai fait une estimation : autour de quatre cent cinquante euros par tête, vol compris, hors extras.
+Romain : Quatre cent cinquante... Ça passe, mais ça pique un peu.
+Yanis : Moi, honnêtement, ça me gêne. Tout le monde ne peut pas mettre autant, surtout avec un mariage derrière.
+Baptiste : Je comprends, mais c'est un enterrement de vie de garçon, pas un pique-nique. Ça n'arrive qu'une fois.
+Yanis : Justement, c'est parce que ça n'arrive qu'une fois qu'il faudrait que tout le monde soit à l'aise, non ?
+Mathis : Il n'a pas tort. Sofiane, par exemple, vient de changer de boulot, il est en période d'essai.
+Romain : Et Clément a un loyer qui lui bouffe la moitié de son salaire.
+Baptiste : Écoutez, si on veut que ce soit mémorable, il faut mettre le paquet. Sinon autant lui offrir une raclette.
+Yanis : Une raclette entre potes, ça se défend aussi. Il aime ça, d'ailleurs.
+Baptiste : Tu me fais marrer. Une raclette, c'est le dimanche chez ses parents, ce n'est pas un événement.
+Romain : Du calme, on n'est pas en conseil d'administration.
+Mathis : Le vin arrive, ça va détendre l'atmosphère.
+Baptiste : Merci, c'est exactement ce qu'il nous faut.
+Yanis : Je ne dis pas qu'il ne faut pas fêter dignement. Je dis qu'on peut le faire sans se ruiner.
+Romain : Mettons un plafond. Genre trois cents euros maximum, tout compris.
+Baptiste : Trois cents, à Lisbonne, en juin ? Bon courage.
+Mathis : Alors pas Lisbonne, tout simplement.
+(Le serveur apporte la bouteille. Romain remplit les verres et la conversation reprend à voix plus basse.)
+Yanis : Moi, je pense à une maison en Normandie, du côté d'Étretat. Un week-end, huit personnes, ça revient à moins de deux cents euros chacun.
+Baptiste : Étretat en mai, il pleut des cordes. On va passer le week-end à regarder la mer derrière une vitre.
+Yanis : Pas forcément. On peut faire du kayak, un barbecue, et le soir, des jeux.
+Romain : Des jeux de société à un enterrement de vie de garçon ? Tu veux qu'on se fasse virer du groupe de discussion ?
+Mathis : Ne le prenez pas mal, mais Antoine, c'est le genre à détester être au centre de l'attention.
+Baptiste : C'est exactement pour ça qu'il faut le bousculer un peu.
+Mathis : Le bousculer, oui. Le mettre en slip sur un trottoir avec une pancarte, non.
+Romain : Ah, la fameuse pancarte. Je l'ai vue dans mille films, ça ne marche qu'à moitié dans la vraie vie.
+Yanis : Et puis son père sera au mariage, ses oncles aussi... Autant ne pas lui laisser de photos compromettantes.
+Baptiste : Mais enfin, c'est la tradition ! On ne va pas bâcler ça sous prétexte qu'il est timide.
+Romain : La tradition, c'est surtout un truc qu'on a importé des films américains, non ?
+Mathis : Il y a un fond de vérité. En France, on faisait plutôt un banquet entre hommes, avec des chansons.
+Baptiste : Des chansons à boire ? Ça, ça me plaît.
+Yanis : Voilà ! Une soirée dîner, chansons, et on fait ça à Paris, sans prendre l'avion.
+Romain : Je vois un compromis se dessiner : ni Lisbonne ni raclette.
+Baptiste : Un compromis, c'est toujours un truc tiède. Mais admettons.
+Mathis : Tiède mais honnête. Ça ne nous empêche pas d'ajouter une activité sympa.
+Yanis : Comme quoi ? Pas de saut en parachute, hein. Antoine a le vertige.
+Romain : Un escape game ? Ou une dégustation de whisky, il a toujours rêvé d'y aller.
+Baptiste : Ah, voilà, la dégustation, ça, c'est plus intéressant.
+(Baptiste ressert tout le monde. Yanis ouvre son ordinateur portable.)
+Yanis : Bon, on a donc un dîner plus une dégustation. Reste à savoir qui on invite.
+Romain : Nous quatre, Sofiane, Clément, et peut-être Hugo, son collègue ?
+Baptiste : Hugo, je ne le connais pas du tout. Je préfère qu'on reste entre vrais amis.
+Mathis : Moi, je trouve qu'il faudrait l'inviter. Antoine m'a dit qu'il serait vexé sinon.
+Baptiste : Vexé ? Il ne m'a jamais rien dit de pareil.
+Mathis : Il est trop poli pour le dire à tout le monde.
+Yanis : Et le frère de Clara ? Il sera son beau-frère dans trois mois.
+Romain : Ça fait beaucoup de monde pour un dîner intime. On va finir à quinze.
+Baptiste : À quinze, le dîner n'a plus aucun sens. Ce n'est plus un enterrement, c'est une réception.
+Yanis : On peut fixer un maximum de dix. Et on voit qui est le plus proche.
+Mathis : Qui est « le plus proche » ? C'est une pente glissante, ce genre de tri.
+Romain : Je suggère qu'on demande à Antoine lui-même, discrètement, quels sont ses cinq indispensables.
+Baptiste : Tu veux qu'on gâche la surprise ?
+Romain : Pas la surprise de la date, juste la liste. Ça évite les dégâts.
+Yanis : C'est malin. Mathis, tu te charges de lui poser la question ?
+Mathis : Pourquoi moi ? Parce que je suis le plus discret ?
+Baptiste : Parce que tu es le seul à qui il fasse vraiment confiance, ne fais pas semblant.
+Mathis : Bon, d'accord, mais vous me devez un verre.
+Romain : Deux verres, même. Je suis généreux ce soir.
+Yanis : Je note : « Mathis sonde Antoine, rétribution : deux verres ».
+(Le vin est presque fini. L'ambiance se détend et on rit davantage.)
+Baptiste : Pour le budget, je propose une cagnotte en ligne, chacun met ce qu'il peut, sans pression.
+Yanis : Ce que chacun peut, c'est bien beau, mais on finit toujours par comparer discrètement.
+Romain : Il suffit que ce soit anonyme. Seul celui qui gère voit les montants.
+Mathis : Et celui qui gère, c'est qui ? Quelqu'un qui n'ira pas crier sur les toits que Yanis a donné quinze euros.
+Yanis : Merci pour la confiance, je me sens très aimé.
+Romain : Ce n'était pas sur toi, c'était un exemple abstrait.
+Baptiste : Un exemple abstrait qui porte un prénom, comme par hasard.
+Mathis : Je vote Romain comme trésorier. Il a de l'oseille et pas de rancune.
+Romain : Pas de rancune, mais une mémoire d'éléphant. Je préviens.
+Yanis : Tant que le trésorier ne vide pas la caisse pour un week-end à Ibiza, ça me va.
+Baptiste : Ibiza, quelle idée ! Antoine en maillot sur une plage bondée, il ne s'en remettrait pas.
+Mathis : Moi, je donnerais cher pour voir ça, je ne vous le cache pas.
+Romain : On a tous une âme de cinéaste, vous voyez, cher Mathis.
+Yanis : Quelqu'un a pensé à la question du cadeau ? Un cadeau commun, en plus de la fête.
+Baptiste : Tiens, c'est vrai. Une enceinte, peut-être ? Il écoute toujours de la musique en cuisinant.
+Romain : Ou un bon carnet de recettes, pour contrer le tableur de Clara.
+Mathis : Le tableur contre le carnet, voilà un duel qui se dessine à la maison.
+Yanis : Écrivons les deux idées. On votera plus tard.
+Baptiste : Parfait. Je vois qu'on avance, malgré nos différends.
+Romain : Nos différends ? On s'est à peine chamaillés, on se connaît depuis le lycée.
+(Une assiette de charcuterie arrive. On trinque.)
+Mathis : À Antoine, qui croit regarder un match jeudi prochain.
+Baptiste : À Antoine, et à ses serviettes couleur sable.
+Yanis : Ou ivoire, il n'a pas encore tranché.
+Romain : Ce garçon est capable de décider du sort du monde avant de choisir une serviette.
+Mathis : N'empêche, c'est ce qui fait son charme. Chez lui, tout a de l'importance.
+Baptiste : Du charme, du charme... Passez-moi le saucisson, je meurs de faim.
+Yanis : Tiens, attrape. Il est excellent, d'ailleurs, c'est du producteur.
+Romain : Tu t'y connais en saucisson, toi, maintenant ?
+Yanis : J'ai un oncle en Auvergne, ça aide.
+Mathis : Ça explique beaucoup de choses, ta passion pour les raclettes.
+Baptiste : Il ne s'en lasse pas, de sa raclette.
+Yanis : C'est un plat de gens civilisés, je persiste et signe.
+Romain : Bon, on envoie un sondage pour la date et le lieu, et on voit ce qui sort.
+Baptiste : D'accord, mais je garde l'espoir secret de Lisbonne.
+Mathis : Garde-le au chaud, on ne sait jamais.
+Yanis : Si le sondage te donne raison, je viendrai en short et je ne dirai rien.
+Romain : Je retiens ta promesse. Je la mets dans le document, sous « engagements ».
+Baptiste : Ha ha, il y a vraiment un onglet pour ça ?
+Yanis : Maintenant, oui. Merci Clara pour l'inspiration.
+Mathis : À la vôtre, messieurs, et que le meilleur week-end gagne.
+
+## 낭독 포인트
+- 비음 모음: «bon», «pancarte», «Antoine», «saucisson» — on, an, oin은 코로 울리는 모음이고 끝의 n은 소리 내지 않는다.
+- 연음·앙샹느망: «un enterrement», «l'avion», «vous me devez» — 단어를 이어 읽을 때 끝 자음이 다음 모음으로 넘어간다.
+- 프랑스어 r: «raclette», «trésorier», «rouge» — 목젖 근처에서 내는 마찰음이라 한국어 ㄹ과 다르다.
+- u / ou: «tu», «tout le monde», «vous me devez» — u는 입술을 모아 [y], ou는 [u].
+- 묵음 e: «serviette», «raclette» — 어말 e는 거의 소리 나지 않아 "ser-viet", "ra-clet"처럼 짧게 끝난다.
+- 숫자: «quatre cent cinquante», «trois cents euros», «deux cents euros» — 돈 액수는 끊김 없이, 이어 읽기에 주의.
+- 억양: 바티스트는 목소리가 크고 단정적, 야니스는 신중하고 낮게, 로맹은 건조한 농담조, 마티스는 중재하듯 부드럽게. 따옴표 속 «sable»·«ivoire»는 놀리듯 살짝 길게.
+
+## 학습 포인트 정리
+- C1 구간(1~60턴): 제안·반박과 완곡한 말투
+  · 비밀 유지·수락: «Antoine n'a pas eu vent de quoi que ce soit», «Je suis preneur.», «Va pour un côtes-du-rhône.»
+  · 완곡·반어: «Ça passe, mais ça pique un peu.», «Bon courage.», «Du calme, on n'est pas en conseil d'administration.»
+  · 관용구: «mettre le paquet», «il pleut des cordes», «Tu me fais marrer.», «Il y a un fond de vérité.»
+  · 조건·타협: «si on s'y prend bien», «Sinon autant lui offrir une raclette.», «Je vois un compromis se dessiner.»
+- B2 구간(61~80턴): 초대 인원 정하기
+  · 이유와 반박: «Il serait vexé sinon.», «C'est une pente glissante, ce genre de tri.»
+  · 제안·역할 분담: «Je suggère qu'on demande à Antoine lui-même…», «Tu te charges de lui poser la question ?»
+- C1 구간(81~120턴): 돈 문제와 마무리
+  · 회비·예산: «une cagnotte en ligne», «Il a de l'oseille et pas de rancune.», «sans pression»
+  · 건배·농담: «Je persiste et signe.», «À la vôtre, messieurs, et que le meilleur week-end gagne.»
+- 어휘: l'enterrement de vie de garçon, le tableur, l'onglet, la cagnotte, le trésorier, la dégustation, le plafond, le sondage.
+
+## 속어 노트
+- «avoir vent de»: 소문을 듣다, 낌새를 채다.
+- «mettre le paquet»: 아낌없이 투자하다, 크게 하다.
+- «ça pique un peu»: 좀 따갑다(값이 만만찮다는 뜻으로).
+- «avoir de l'oseille»: 돈이 있다(구어).
+- «Tu me fais marrer»: 웃기네(반어로도 쓴다).
+- 비용·인원·기념 풍습에 관한 이야기는 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 친구 넷은 모두 tu로 말하고, 장난스러운 말투가 많다.
+
+## 한글 해석
+(어느 목요일 저녁 여덟 시쯤, 마레 지구의 바. 안투안의 친구 넷이 신랑 없이 한 테이블에 모였다.)
+바티스트 : 자, 다 왔지? 안투안은 낌새도 못 챘겠지?
+야니스 : 로맹 집에서 경기 본다고 믿고 있어. 아무 의심 없이 삼켰어.
+로맹 : 걔는 결혼 준비에 푹 빠져서 쿠데타가 났다고 해도 고개만 끄덕일걸.
+마티스 : 어제 나한테 식탁 냅킨을 '샌드'로 할지 '아이보리'로 할지 묻더라. 구급차 부를 뻔했어.
+바티스트 : 하하! 샌드냐 아이보리냐... 불쌍한 놈, 제정신이 아니야.
+야니스 : 하긴 클라라 영향이 커. 뭐든지 엑셀표가 있잖아.
+로맹 : 색깔별 시트까지 있는 표지. 나도 봤어.
+마티스 : 아무튼 우린 정반대로 하려고 모인 거야. 냅킨을 잊게 해 주는 거.
+바티스트 : 맞아. 독신 마지막 밤, 아니, 제대로 하면 주말 내내.
+야니스 : 제대로 하는 게 오늘 밤의 핵심이지.
+로맹 : 뭐 시킬까? 작전 개시를 기념해서 한 병 시키자.
+마티스 : 좋아. 레드로, 너무 거창하지 않은 걸로.
+바티스트 : 코트뒤론으로 가자. 내가 주문할게.
+야니스 : 그동안 난 다 적을게. 공유 문서를 열었어, '냅킨 작전'.
+로맹 : 이름 진짜 별로다. 마음에 들어.
+마티스 : 아주 비꼬는 느낌이네. 안투안이 좋아하겠다.
+바티스트 : 자, 와인 오는 동안 큰 그림을 말해 줄게.
+야니스 : 말해 봐, 듣고 있어. 대신 짧게, 나 저녁 못 먹었어.
+로맹 : 짧고 명확하게. 다들 장관급 일정이잖아.
+바티스트 : 약속해. 그럼, 내 생각은 이래.
+야니스 : 그래서?
+바티스트 : 리스본. 사흘, 유월 말, 카스카이스 쪽 수영장 딸린 빌라, 그리고 옥상 레스토랑에서 저녁.
+마티스 : 유월의 리스본이라... 대단한 파티 냄새가 나네. 그리고 대단한 청구서도.
+바티스트 : 견적을 내 봤어. 항공권 포함해서 한 사람당 사백오십 유로쯤, 추가 비용 별도.
+로맹 : 사백오십... 낼 수는 있지만 좀 따끔하네.
+야니스 : 솔직히 난 부담스러워. 다들 그만큼 내기 어렵고, 결혼식도 코앞이잖아.
+바티스트 : 이해는 해. 하지만 총각 파티지 소풍이 아니야. 평생 한 번뿐이라고.
+야니스 : 바로 그래서, 한 번뿐이니까 모두가 편해야 하는 거 아니야?
+마티스 : 일리 있어. 소피안만 해도 직장을 막 옮겨서 수습 기간이야.
+로맹 : 클레망은 월세가 월급 절반을 먹고.
+바티스트 : 들어 봐, 기억에 남게 하려면 확실히 해야 해. 아니면 차라리 라클레트나 해 주든가.
+야니스 : 친구끼리 라클레트도 나쁘지 않아. 걔가 좋아하기도 하고.
+바티스트 : 웃기네. 라클레트는 일요일에 부모님 댁에서 먹는 거지, 행사가 아니야.
+로맹 : 진정해, 이사회 아니잖아.
+마티스 : 와인 온다, 분위기 좀 풀리겠다.
+바티스트 : 고마워, 딱 필요했어.
+야니스 : 제대로 축하하지 말자는 게 아니야. 돈 안 망가뜨리고도 할 수 있다는 거지.
+로맹 : 상한선을 두자. 한 삼백 유로까지, 전부 포함으로.
+바티스트 : 삼백으로 유월에 리스본을? 행운을 빌어.
+마티스 : 그럼 리스본은 아닌 걸로 하자, 간단하게.
+(종업원이 병을 가져온다. 로맹이 잔을 채우고, 대화가 한결 낮은 목소리로 이어진다.)
+야니스 : 난 노르망디 집을 생각해. 에트르타 쪽으로. 주말에 여덟 명이면 한 사람당 이백 유로 아래로 나와.
+바티스트 : 오월 에트르타는 비가 억수로 와. 유리창 너머로 바다만 보다가 끝날 거야.
+야니스 : 꼭 그렇진 않아. 카약도 타고, 바비큐 하고, 저녁엔 게임도 하고.
+로맹 : 총각 파티에서 보드게임이라고? 단톡방에서 쫓겨나고 싶어?
+마티스 : 기분 나빠 하진 마, 근데 안투안은 주목받는 걸 질색하는 타입이잖아.
+바티스트 : 그러니까 오히려 좀 흔들어 줘야지.
+마티스 : 흔들어 주는 건 좋아. 팬티 바람으로 길바닥에 푯말 들고 세우는 건 아니고.
+로맹 : 아, 그 유명한 푯말. 영화에서 천 번은 봤지만 현실에선 반만 먹혀.
+야니스 : 게다가 결혼식에 아버지도 삼촌들도 오시잖아... 괜히 곤란한 사진 남기지 말자.
+바티스트 : 아니, 전통이잖아! 걔가 수줍다고 대충 넘길 순 없어.
+로맹 : 전통이라는 게 사실 미국 영화에서 들여온 거 아니야?
+마티스 : 일리가 있어. 프랑스에선 원래 남자들끼리 연회 열고 노래하는 식이었지.
+바티스트 : 술 노래? 그건 마음에 드는데.
+야니스 : 그거야! 저녁 먹고 노래하고, 파리에서 하면 비행기도 안 타고.
+로맹 : 타협점이 보이네. 리스본도 라클레트도 아닌 걸로.
+바티스트 : 타협은 늘 미지근한 거지. 그래도 인정할게.
+마티스 : 미지근해도 정직하잖아. 재미있는 활동 하나 더 넣는 건 되고.
+야니스 : 뭐가 있을까? 낙하산은 안 돼. 안투안 고소공포증 있어.
+로맹 : 방탈출? 아니면 위스키 시음, 걔가 늘 가 보고 싶어 했어.
+바티스트 : 아, 그래, 시음이 더 재미있겠다.
+(바티스트가 모두의 잔을 다시 채운다. 야니스가 노트북을 연다.)
+야니스 : 좋아, 그럼 저녁 식사에 시음. 이제 누굴 초대할지만 정하면 돼.
+로맹 : 우리 넷, 소피안, 클레망, 그리고 어쩌면 직장 동료 위그?
+바티스트 : 위그는 난 전혀 몰라. 진짜 친구들끼리만 하고 싶어.
+마티스 : 난 초대해야 한다고 봐. 안투안이 안 부르면 서운해할 거라고 했어.
+바티스트 : 서운해해? 나한텐 그런 말 한 적 없는데.
+마티스 : 걔는 예의가 바른 사람이라 아무한테나 말 안 해.
+야니스 : 클라라 오빠는? 석 달 뒤면 처남이 되잖아.
+로맹 : 오붓한 저녁 치고는 사람이 많아지는데. 열다섯 명 되겠다.
+바티스트 : 열다섯이면 저녁 의미가 없어. 총각 파티가 아니라 연회야.
+야니스 : 최대 열 명으로 정하고 누가 제일 가까운지 보자.
+마티스 : '제일 가까운' 게 누군데? 그런 식의 선별은 미끄러운 비탈이야.
+로맹 : 안투안 본인한테 몰래 꼭 필요한 다섯 명을 물어보자.
+바티스트 : 깜짝 파티를 망치자는 거야?
+로맹 : 날짜 깜짝이 아니라 명단만. 사고를 막는 거지.
+야니스 : 영리하네. 마티스, 네가 물어볼래?
+마티스 : 왜 나야? 내가 제일 눈치 있어서?
+바티스트 : 걔가 진짜 믿는 사람이 너 하나라서야, 시치미 떼지 마.
+마티스 : 알았어, 대신 한 잔씩 사.
+로맹 : 두 잔 사지. 오늘은 내가 통이 커.
+야니스 : 적어 둘게. '마티스가 안투안 떠보기, 보상은 두 잔'.
+(와인이 거의 바닥났다. 분위기가 풀려 더 자주 웃는다.)
+바티스트 : 예산은 온라인 모금으로 하자. 각자 낼 수 있는 만큼, 부담 없이.
+야니스 : 낼 수 있는 만큼도 좋은데, 결국 다들 슬쩍 비교하게 되잖아.
+로맹 : 익명이면 돼. 관리하는 사람만 금액을 보는 거지.
+마티스 : 관리하는 사람이 누군데? 야니스가 십오 유로 냈다고 떠벌리지 않을 사람?
+야니스 : 믿어 줘서 고맙다, 내가 엄청 사랑받는 기분이야.
+로맹 : 너 얘기 아니었어, 추상적인 예였어.
+바티스트 : 이름이 붙은 추상적인 예라니, 우연도 참.
+마티스 : 난 로맹을 회계로 뽑는다. 돈도 있고 뒤끝도 없어.
+로맹 : 뒤끝은 없지만 기억력은 코끼리야. 미리 말해 둔다.
+야니스 : 회계가 이비자 주말여행으로 금고를 털지만 않으면 난 괜찮아.
+바티스트 : 이비자라니! 안투안이 붐비는 해변에서 수영복 차림이라니, 못 버틸걸.
+마티스 : 난 그거 보려고 돈 좀 낼 수도 있어, 숨기진 않을게.
+로맹 : 우리 모두 영화감독 기질이 있나 봐, 마티스 군.
+야니스 : 선물 문제도 생각해 본 사람? 파티와 별개로 공동 선물.
+바티스트 : 아, 맞다. 스피커 어때? 요리할 때 늘 음악 듣잖아.
+로맹 : 아니면 좋은 레시피 노트, 클라라 엑셀에 맞서게.
+마티스 : 엑셀 대 레시피 노트, 집에서 한판 붙겠네.
+야니스 : 둘 다 적어 두자. 투표는 나중에.
+바티스트 : 좋아. 의견 차이는 있어도 진도는 나가네.
+로맹 : 의견 차이? 거의 싸운 적도 없잖아, 고등학교 때부터 알던 사이인데.
+(샤퀴테리 접시가 나온다. 다 같이 잔을 부딪친다.)
+마티스 : 다음 주 목요일에 경기 보는 줄 아는 안투안을 위해.
+바티스트 : 안투안과 샌드색 냅킨을 위해.
+야니스 : 아니면 아이보리, 걔는 아직 못 정했잖아.
+로맹 : 걔는 세상 운명을 결정하는 건 쉬워도 냅킨 하나 고르는 건 못할 애야.
+마티스 : 그래도 그게 걔 매력이지. 걔한테는 모든 게 중요하니까.
+바티스트 : 매력, 매력... 소시송 좀 줘, 배고파 죽겠어.
+야니스 : 자, 받아. 맛있어, 생산자에게서 직접 온 거야.
+로맹 : 너 이제 소시송 좀 아냐?
+야니스 : 오베르뉴에 삼촌이 있어서 도움이 돼.
+마티스 : 네가 라클레트에 열광하는 이유가 설명되네.
+바티스트 : 얘는 라클레트에 질리지도 않아.
+야니스 : 문명인의 음식이야, 난 그렇게 우길 거야.
+로맹 : 자, 날짜와 장소 투표를 보내고 결과를 보자.
+바티스트 : 좋아, 근데 난 리스본의 희망을 몰래 간직할게.
+마티스 : 따뜻하게 품고 있어, 모르는 일이니까.
+야니스 : 투표가 네 말대로 나오면 반바지 입고 올게, 아무 말 안 하고.
+로맹 : 약속 기억해 둘게. 문서 '다짐' 항목에 넣을 거야.
+바티스트 : 하하, 정말 그런 시트가 있어?
+야니스 : 이제 있지. 영감 준 클라라에게 감사를.
+마티스 : 건배, 신사 여러분. 최고의 주말이 이기기를.

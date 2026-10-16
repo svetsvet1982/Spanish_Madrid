@@ -89,12 +89,27 @@
 
 4부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 금액·규정·수치·제도는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
 
-## 5부 Ocio y fiestas 여가와 축제 (진행: 2/15화)
+## 5부 Ocio y fiestas 여가와 축제 (완료: 15/15화)
 
 | 파일 | 화 | Título | 한글 | 주 난이도 | 구간별 난이도 | 이슈 | 곡선 |
 |---|---|---|---|---|---|---|---|
 | part5/ep01.txt | 5-1 | Domingo en el Rastro | 일요일의 라스트로 | B1 | B1→B1→B1→B1→A2→B1 | ◐ | 2-2-1-0-0-2 |
 | part5/ep02.txt | 5-2 | Opiniones sobre una exposición | 전시에 대한 의견들 | B2 | B1→B2→B2→B1→B2→B1 | ◐ | 1-0-0-2-2-2 |
+| part5/ep03.txt | 5-3 | Fútbol en el parque | 공원 축구 | A2 | A2→B1→A2→A2→A2→A2 | ○ | 0-0-1-1-1-0 |
+| part5/ep04.txt | 5-4 | Se suspende por la lluvia | 비로 취소됩니다 | C1 | B2→C1→C1→B2→C1→C1 | ○ | 0-1-1-0-1-0 |
+| part5/ep05.txt | 5-5 | Dos entradas, por favor | 표 두 장 주세요 | A2 | B1→B1→A2→A2→A2→A2 | ◐ | 2-1-0-1-0-2 |
+| part5/ep06.txt | 5-6 | Concierto en la plaza | 광장 콘서트 | B1 | B1→B1→A2→B1→B2→A2 | ◐ | 1-2-1-2-1-2 |
+| part5/ep07.txt | 5-7 | Un paseo por el Retiro | 레티로 공원 산책 | A2 | A2→B1→B1→A2→B1→A2 | ○ | 0-1-1-0-1-0 |
+| part5/ep08.txt | 5-8 | Teatro con descuento | 할인 공연 | B1 | B2→A2→B1→B1→B1→B1 | ○ | 0-1-1-0-1-0 |
+| part5/ep09.txt | 5-9 | Entradas a precio de oro | 금값이 된 표 | B2 | B2→B2→B2→C1→B2→B2 | ● | 3-3-2-1-1-0 |
+| part5/ep10.txt | 5-10 | ¿Quedamos el sábado? | 토요일에 볼까? | A2 | A2→A2→A2→A2→B1→A2 | ○ | 0-1-1-0-1-0 |
+| part5/ep11.txt | 5-11 | El derbi en el bar | 바에서 보는 더비 | B1 | B2→B1→B1→B1→B1→B2 | ● | 3-1-0-1-0-3 |
+| part5/ep12.txt | 5-12 | Nochevieja en la Puerta del Sol | 푸에르타 델 솔의 섣달그믐 | C1 | B2→C1→C1→C1→C1→C1 | ◐ | 0-1-2-2-2-1 |
+| part5/ep13.txt | 5-13 | Entradas agotadas | 매진된 표 | B2 | C1→B2→C1→B2→B2→B2 | ● | 2-2-1-0-0-3 |
+| part5/ep14.txt | 5-14 | Otra vez a las fiestas | 또 축제에 | C1 | B2→C1→C1→C1→C1→B2 | ○ | 0-1-1-0-1-0 |
+| part5/ep15.txt | 5-15 | La verbena de agosto | 8월의 베르베나 | B2 | B1→B1→C1→B1→B2→B2 | ● | 1-2-3-2-1-0 |
+
+5부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 금액·규정·수치·제도는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
 
 ## 화 파일 형식
 

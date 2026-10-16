@@ -1,0 +1,290 @@
+# 4부 15화. La inspección (점검 나온 날)
+난이도: 주 C1 | 구간: C1→C1→C1→B2→C1→C1 | 형식: 다인(4명) | 장소: 바르 "El Pilar" 홀과 주방 | 시간: 목요일 오후 2시(점심 영업 중)
+등장인물: Aurora, Nicanor, Carmen, Idris
+이슈: 주 ● 노동 점검과 비공식 고용(부분 현금 지급), 소규모 사업주의 부담 | 곡선: 0-1-3-3-2-1 (정점형, 상한 3) | 입장: A 아우로라(노동 점검관, 신고되지 않은 근무와 현금 지급을 확인한다) / B 니카노르(사장, 세금과 사회보험료 부담 때문에 버텨 왔다고 항변한다) / C 카르멘(종업원, 계약은 반일인데 하루 종일 일하고 일부를 현금으로 받는다) / D 이드리스(주방 보조, 겁을 먹고 말을 아낀다)
+상황 카드: 점심 영업이 한창인 바에 노동 점검관 아우로라가 방문한다. 처음에는 서류 확인으로 시작하지만 근로 시간, 급여 명세, 현금 지급이 하나씩 드러난다. 니카노르는 소규모 사업의 부담을 호소하고, 카르멘은 처음엔 사장을 감싸다가 사실을 말한다. 걸림돌은 생계와 법 사이의 긴장. 결말은 점검 보고서가 작성되고 시정 기한이 주어지지만 모두의 앞날은 열려 있다.
+학습 포인트: 공적 대화(Buenos días, soy inspectora de trabajo) · 사실 확인과 진술(Según consta…, Declaro que…) · 변명과 반박 · 법적 어휘(el contrato, la cotización, la nómina, la sanción, el plazo) · 감정과 현실 사이의 균형
+
+## 대화
+(Jueves, dos de la tarde. El bar «El Pilar» está lleno de clientes de menú. Nicanor sirve en la barra, Carmen lleva platos y desde la cocina se oye a Idris. Entra Aurora con una carpeta y una credencial al cuello.)
+Aurora : Buenas tardes. Soy Aurora Salas, inspectora de Trabajo y Seguridad Social.
+Nicanor : Buenas tardes. ¿Inspectora? ¿De qué?
+Aurora : De Trabajo. Vengo a realizar una visita ordinaria. Aquí tiene mi acreditación.
+Nicanor : Vaya. Qué sorpresa. Es la hora punta.
+Aurora : Lo sé. Procuraré no molestar más de lo necesario. ¿Es usted el titular del negocio?
+Nicanor : Sí, Nicanor Bravo. Soy el dueño.
+Aurora : Muy bien. Necesito ver el libro de visitas, los contratos y las nóminas.
+Nicanor : Claro. Un momento, que dejo la barra. ¡Carmen, tú atiende, que vuelvo enseguida!
+Aurora : Gracias. Mientras tanto, ¿cuántos empleados tiene en plantilla?
+Nicanor : Tres. Carmen, Idris y yo mismo.
+Aurora : ¿Y los tres están dados de alta en la Seguridad Social?
+Nicanor : Pues... sí. Claro que sí.
+(Pasan a un pequeño despacho. Nicanor abre un archivador. Aurora empieza a revisar papeles.)
+Aurora : Aquí veo el contrato de Carmen Ortega. Veinte horas semanales.
+Nicanor : Eso es. Contrato parcial. Lleva tres años con nosotros.
+Aurora : Y el de Idris Benali... aquí no hay.
+Nicanor : Ah, el de Idris está en trámite. Lo hacemos esta semana.
+Aurora : ¿Cuánto tiempo lleva trabajando aquí?
+Nicanor : Poco. Unos tres meses.
+Aurora : Tres meses sin contrato ni alta. Eso ya es un problema.
+Nicanor : Pero es que está de prueba. Estamos viendo cómo va.
+Aurora : El periodo de prueba exige contrato. No es una excepción.
+Nicanor : Lo sé, lo sé. Es un descuido.
+Aurora : Los descuidos tienen consecuencias. Voy a hablar con los empleados.
+(Aurora sale a la sala. Carmen está recogiendo platos. Nicanor las sigue con el gesto tenso.)
+Aurora : Buenas tardes, señora Ortega. ¿Podemos hablar un momento?
+Carmen : Buenas tardes. Es que ahora no puedo, hay mucha gente.
+Aurora : Sin problema. ¿Cuántas horas trabaja al día, normalmente?
+Carmen : Pues depende. Unas ocho. O nueve.
+Aurora : Su contrato dice veinte semanales. ¿Lo sabe?
+Carmen : Sí. Lo firmé hace tres años.
+Aurora : Entonces, ¿trabaja cuarenta a la semana, pero está contratada por veinte?
+Carmen : No, no. Trabajo lo que me toca. Es que el negocio necesita más.
+Aurora : ¿Y esas horas extra, cómo se las pagan?
+Carmen : Mi jefe me da un sobre cada mes. Con lo que falta.
+Carmen : En efectivo, sí. Pero es normal. Muchos lo hacen así.
+Aurora : ¿Cuánto es el sobre, aproximadamente?
+Carmen : Unos ochocientos euros. Y la nómina oficial, setecientos.
+Aurora : Pero cotiza solo por setecientos.
+Carmen : Ya... Ya lo sé. Pero no quiero que el jefe tenga problemas.
+Aurora : Señora Ortega, entiendo su lealtad. Pero eso le afecta a usted.
+Carmen : ¿A mí?
+Aurora : Sí. Su pensión, su paro, su baja médica se calculan sobre lo que cotiza, no sobre lo que cobra.
+Carmen : No lo había pensado así.
+Aurora : Cuando se jubile, cobrará mucho menos de lo que merece.
+Carmen : Ay, Dios. Pues sí que es verdad.
+Aurora : Además, si se pone enferma o se queda sin trabajo, tendrá menos protección.
+Carmen : Me da miedo. Pero también me da miedo que cierre el bar.
+Aurora : Lo comprendo. No es una decisión fácil.
+Carmen : Nicanor es buena persona. Nos ha ayudado mucho.
+Aurora : Seguro. Pero la ley no se mide en bondad.
+Carmen : Ya... ya lo sé.
+Aurora : Ahora, si me permite, voy a hablar con Idris.
+Carmen : Está en la cocina. Es muy tímido. Y tiene mucho miedo.
+Aurora : Yo no vengo a perseguir a nadie. Vengo a proteger a los trabajadores.
+Carmen : Se lo creo. Pero él no.
+Aurora : Entonces tendré que ganarme su confianza.
+(Aurora entra en la cocina. Idris está pelando patatas. Nicanor ha entrado detrás de ella.)
+Aurora : Buenas tardes, Idris. Soy Aurora, inspectora de Trabajo.
+Idris : Buenas tardes, señora.
+Aurora : ¿Puedo hacerle unas preguntas? Con calma.
+Idris : Sí, señora. Pero... mi jefe está aquí.
+Aurora : Señor Bravo, ¿puede esperar fuera, por favor?
+Nicanor : Pero... es mi cocina.
+Aurora : Y esta es mi inspección. Le ruego que salga.
+Nicanor : Vale, vale. Estaré en la barra.
+(Nicanor sale. Aurora se acerca a Idris y habla en voz más baja.)
+Aurora : ¿Cuánto tiempo lleva aquí?
+Idris : Tres meses.
+Aurora : ¿Y trabaja todos los días?
+Idris : De lunes a sábado. De once a cinco, y de ocho a doce.
+Aurora : ¿Sin contrato?
+Idris : El jefe dice que pronto. Que pronto me hace papeles.
+Aurora : ¿Cuánto le pagan?
+Idris : Mil euros. En mano. Cada mes.
+Aurora : Mil euros por unas cuarenta y cinco horas semanales.
+Idris : Sí, señora. Pero estoy contento. Tengo trabajo.
+Aurora : Lo entiendo. Pero tiene derecho a un contrato y a cotizar.
+Idris : No puedo perder el trabajo. Mi familia está en Marruecos. Envío dinero.
+Aurora : Idris, la ley le protege. Si se regulariza, tendrá más seguridad.
+Idris : ¿Y mis papeles? ¿Me van a echar?
+Aurora : Eso es otra cuestión. Hay mecanismos. No lo decidimos en esta visita.
+Idris : Tengo miedo, señora.
+Aurora : Lo sé. Pero no está solo. Hay sindicatos y asociaciones que pueden ayudarle.
+Idris : ¿Y mi jefe? ¿Tendrá problemas?
+Aurora : Sí, probablemente. Pero eso es responsabilidad de él, no suya.
+Idris : Es un buen hombre.
+Aurora : Quizá. Pero también tiene que cumplir la ley.
+Idris : Lo sé. Solo quiero trabajar.
+Aurora : Y lo hará. Con derechos. Se lo prometo.
+(Aurora vuelve al despacho con Nicanor. Se sienta con la carpeta. Carmen se asoma a la puerta.)
+Aurora : Señor Bravo, tenemos que hablar. Siéntese.
+Nicanor : Ya sé lo que va a decir.
+Aurora : Entonces seré clara. Hay tres irregularidades graves.
+Aurora : Un trabajador sin contrato ni alta. Una trabajadora con horas no declaradas. Y pagos en efectivo no registrados.
+Nicanor : Mire, inspectora. Le voy a ser sincero.
+Nicanor : Este bar es de mi padre. Lo heredé hace diez años. No gano casi nada.
+Aurora : ¿Cuánto factura al mes?
+Nicanor : Treinta mil, más o menos. De ahí, alquiler, proveedores, luz, impuestos...
+Aurora : Y si declarara todos los sueldos, ¿qué ocurriría?
+Nicanor : Que me quedo en números rojos. O cierro. Llevo años aguantando.
+Aurora : Entiendo la presión. Pero no puede resolverse a costa de los trabajadores.
+Nicanor : Lo sé. No lo hago por maldad.
+Aurora : Debería consultarlo con su asesor. La sanción puede ser de varios miles de euros.
+Nicanor : Ay, madre. Entonces sí que cierro.
+Aurora : Hay un plazo para regularizar. Quince días para dar de alta a Idris y regularizar las horas de Carmen.
+Nicanor : ¿Y si lo hago? ¿Me libro de la multa?
+Aurora : Depende. Reduce la sanción, pero no la elimina.
+Aurora : Le entregaré el acta de infracción hoy mismo. Tendrá derecho a presentar alegaciones.
+Aurora : Y le recomiendo hablar con su asesor y con una asociación de hostelería.
+Nicanor : Lo haré. Esta noche no voy a dormir.
+Aurora : Lo siento. No es agradable este trabajo.
+Nicanor : No lo es para nadie.
+Aurora : Pero es necesario. Y ahora, ¿puedo pedirle algo más?
+Nicanor : Dígame.
+Aurora : No tome represalias contra los empleados.
+Nicanor : No lo haré. Son como de la familia.
+Aurora : Eso espero. Porque si no, será peor.
+Carmen : Jefe, perdone, pero ya estoy aquí.
+Nicanor : Carmen, pasa. Lo siento mucho.
+Carmen : No pasa nada. Quizá era hora.
+Aurora : Los dejo con el acta. Mañana volveré a comprobar que estén en plazo.
+Nicanor : Gracias por la claridad, inspectora.
+Aurora : A usted por la sinceridad. Buenas tardes.
+Nicanor : Buenas tardes.
+
+## 낭독 포인트
+- z/c: «gracias», «cotiza», «hace», «cinco» — [θ]. «Cotiza»는 [ko-tí-θa], «gracias»는 [ɡɾá-θjas].
+- j/g: «jefe», «jubile», «gente», «inspección» — j와 g+e/i는 강한 [x]. «Jefe»는 [xé-fe], «jubile»는 [xu-βí-le].
+- ll/y: «llevo», «ya», «yo», «mayor» — [ʝ]. «Lleva tres años»는 [ʝé-βa].
+- 억양: 아우로라의 공적 어조(Soy inspectora de Trabajo)는 또렷하고 평평하게, 카르멘의 망설임은 짧게 끊고, 이드리스의 대답은 낮고 느리게. 후반 니카노르의 호소(No gano casi nada)는 한숨 섞어 피곤하게.
+- 숫자: ochocientos, setecientos, mil quinientos, treinta mil을 구별해서 읽는다.
+- 호칭: 점검관과 사업주·직원은 usted. 이드리스와 카르멘 사이에는 tú가 아닌 간접 화법.
+
+## 학습 포인트 정리
+- C1 구간(1~60, 81~120턴): 공적 대화와 법적 설명
+  · 신분 밝히기: «Soy inspectora de Trabajo y Seguridad Social.», «Aquí tiene mi acreditación.»
+  · 사실 확인: «Su contrato dice veinte semanales. ¿Lo sabe?», «Pero cotiza solo por setecientos.»
+  · 법적 설명: «Su pensión, su paro, su baja médica se calculan sobre lo que cotiza, no sobre lo que cobra.»
+  · 입장 밝히기: «La ley no se mide en bondad.», «Eso es responsabilidad de él, no suya.»
+  · 절차: «Quince días para dar de alta a Idris.», «Le entregaré el acta de infracción.», «Tendrá derecho a presentar alegaciones.»
+- B2 구간(61~80턴): 직원 면담
+  · 직원 이야기: «De lunes a sábado. De once a cinco, y de ocho a doce.», «Mil euros. En mano. Cada mes.»
+  · 불안과 희망: «Tengo miedo, señora.», «No está solo. Hay sindicatos y asociaciones.»
+- 어휘: la inspección, el alta en la Seguridad Social, la cotización, la nómina, la sanción, la alegación, el acta, la regularización.
+
+## 속어 노트
+- «En mano»: 현금으로 직접(공식 기록 없이).
+- «Un sobre»: 봉투(비공식으로 주는 현금).
+- «Números rojos»: 적자.
+- «Algo es algo»: 없는 것보다는 낫다.
+- 임금 수치, 시정 기한, 과태료 규모는 이야기 속 설정이다. 실제 노동 점검 절차와 제재는 법령과 사안에 따라 다르므로 확인이 필요하다. 이 화는 사업주와 노동자의 어려움을 한쪽으로 몰아가지 않는다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(목요일 오후 두 시. 바 '엘 필라르'는 점심 메뉴 손님으로 가득하다. 니카노르는 카운터에서 서빙하고 카르멘은 접시를 나르며 주방에서는 이드리스의 소리가 들린다. 아우로라가 서류철을 들고 목에 신분증을 건 채 들어온다.)
+아우로라 : 안녕하세요. 노동·사회보장 감독관 아우로라 살라스입니다.
+니카노르 : 안녕하세요. 감독관이요? 무슨 감독관이죠?
+아우로라 : 노동이요. 정기 방문을 나왔어요. 여기 신분증이에요.
+니카노르 : 이런. 뜻밖이네요. 한창 붐빌 땐데.
+아우로라 : 알아요. 필요 이상으로 방해하지 않도록 할게요. 사업주 되시나요?
+니카노르 : 네, 니카노르 브라보예요. 사장입니다.
+아우로라 : 좋아요. 방문 대장, 계약서, 급여 명세서를 봐야 해요.
+니카노르 : 그럼요. 잠깐만요, 카운터를 비울게요. 카르멘, 네가 맡아, 금방 올게!
+아우로라 : 고마워요. 그동안 직원이 몇 명이죠?
+니카노르 : 셋이에요. 카르멘, 이드리스, 그리고 저요.
+아우로라 : 세 분 다 사회보장에 가입되어 있나요?
+니카노르 : 그러니까... 네. 물론이죠.
+(작은 사무실로 들어간다. 니카노르가 서류함을 연다. 아우로라가 서류를 살피기 시작한다.)
+아우로라 : 여기 카르멘 오르테가 씨 계약서가 있네요. 주 이십 시간이에요.
+니카노르 : 맞아요. 파트타임 계약이에요. 우리와 삼 년째예요.
+아우로라 : 이드리스 베날리 씨 계약서는... 여기 없네요.
+니카노르 : 아, 이드리스는 진행 중이에요. 이번 주에 해요.
+아우로라 : 여기서 일한 지 얼마나 됐죠?
+니카노르 : 얼마 안 돼요. 한 석 달요.
+아우로라 : 석 달 동안 계약도 가입도 없이요. 그건 이미 문제예요.
+니카노르 : 하지만 수습 중이에요. 어떻게 하나 보는 중이었어요.
+아우로라 : 수습도 계약이 있어야 해요. 예외가 아니에요.
+니카노르 : 알아요, 알아요. 제 불찰이에요.
+아우로라 : 불찰에는 결과가 따라요. 직원들과 얘기하겠어요.
+(아우로라가 홀로 나간다. 카르멘이 접시를 치우고 있다. 니카노르가 굳은 표정으로 뒤따른다.)
+아우로라 : 안녕하세요, 오르테가 씨. 잠깐 얘기해도 될까요?
+카르멘 : 안녕하세요. 지금은 곤란해요, 손님이 많아서요.
+아우로라 : 하루에 보통 몇 시간 일하세요?
+카르멘 : 그때그때 달라요. 여덟 시간쯤. 아니면 아홉요.
+아우로라 : 계약서에는 주 이십 시간이라고 돼 있어요. 알고 계세요?
+카르멘 : 네. 삼 년 전에 서명했어요.
+아우로라 : 그럼 주 사십 시간을 일하는데 계약은 이십 시간인 건가요?
+카르멘 : 아니, 아니에요. 제 몫만큼 일해요. 가게가 더 필요로 할 뿐이에요.
+아우로라 : 그 초과 시간은 어떻게 지급되죠?
+카르멘 : 사장님이 매달 봉투를 줘요. 부족한 만큼요.
+카르멘 : 현금으로요. 하지만 흔한 일이에요. 많은 곳이 그래요.
+아우로라 : 봉투에는 대략 얼마가 들어 있어요?
+카르멘 : 팔백 유로쯤요. 공식 급여는 칠백이고요.
+아우로라 : 하지만 보험료는 칠백분만 내고 있네요.
+카르멘 : 알아요... 알아요. 하지만 사장님이 곤란해지는 건 원치 않아요.
+아우로라 : 오르테가 씨, 충성심은 이해해요. 하지만 그건 당신에게 영향을 줘요.
+카르멘 : 저한테요?
+아우로라 : 네. 연금, 실업급여, 병가 급여는 받는 돈이 아니라 보험료를 낸 금액을 기준으로 계산돼요.
+카르멘 : 그렇게 생각해 본 적이 없어요.
+아우로라 : 은퇴하면 마땅히 받아야 할 것보다 훨씬 적게 받게 돼요.
+카르멘 : 아이고. 정말 그렇네요.
+아우로라 : 게다가 아프거나 일자리를 잃으면 보호가 더 적어져요.
+카르멘 : 무서워요. 하지만 가게가 문 닫는 것도 무서워요.
+아우로라 : 이해해요. 쉬운 결정이 아니에요.
+카르멘 : 니카노르는 좋은 사람이에요. 우리를 많이 도와줬어요.
+아우로라 : 분명 그렇겠죠. 하지만 법은 착함으로 재지 않아요.
+카르멘 : 알아요... 알아요.
+아우로라 : 이제 실례지만 이드리스와 얘기하겠어요.
+카르멘 : 주방에 있어요. 아주 수줍음이 많아요. 그리고 겁이 많고요.
+아우로라 : 저는 누구를 쫓으러 온 게 아니에요. 노동자를 보호하러 왔어요.
+카르멘 : 믿어요. 하지만 그 사람은 안 믿어요.
+아우로라 : 그럼 신뢰를 얻어야겠네요.
+(아우로라가 주방으로 들어간다. 이드리스가 감자를 깎고 있다. 니카노르가 뒤따라 들어온다.)
+아우로라 : 안녕하세요, 이드리스. 노동 감독관 아우로라예요.
+이드리스 : 안녕하세요, 부인.
+아우로라 : 질문 몇 가지 해도 될까요? 천천히요.
+이드리스 : 네, 부인. 그런데... 사장님이 여기 계세요.
+아우로라 : 브라보 씨, 밖에서 기다려 주시겠어요?
+니카노르 : 하지만... 제 주방인데요.
+아우로라 : 그리고 이건 제 감독이에요. 나가 주세요.
+니카노르 : 알았어요. 바에 있을게요.
+(니카노르가 나간다. 아우로라가 이드리스에게 다가가 낮은 목소리로 말한다.)
+아우로라 : 여기서 얼마나 일했죠?
+이드리스 : 석 달요.
+아우로라 : 매일 일하나요?
+이드리스 : 월요일부터 토요일까지요. 열한 시부터 다섯 시, 그리고 여덟 시부터 열두 시요.
+아우로라 : 계약 없이요?
+이드리스 : 사장님이 곧 해 준다고 해요. 곧 서류를 해 준다고요.
+아우로라 : 얼마를 받아요?
+이드리스 : 천 유로요. 현금으로. 매달요.
+아우로라 : 주 사십오 시간쯤에 천 유로군요.
+이드리스 : 네, 부인. 그래도 만족해요. 일이 있으니까요.
+아우로라 : 이해해요. 하지만 계약과 보험료 납부는 당신의 권리예요.
+이드리스 : 일을 잃을 순 없어요. 가족이 모로코에 있어요. 돈을 보내요.
+아우로라 : 이드리스, 법이 보호해요. 정규화되면 더 안전해져요.
+이드리스 : 제 서류는요? 쫓겨나나요?
+아우로라 : 그건 다른 문제예요. 방법이 있어요. 이번 방문에서 정하는 게 아니에요.
+이드리스 : 무서워요, 부인.
+아우로라 : 알아요. 하지만 혼자가 아니에요. 도와줄 노조와 협회가 있어요.
+이드리스 : 사장님은요? 문제가 생기나요?
+아우로라 : 네, 아마도요. 하지만 그건 그의 책임이지 당신 책임이 아니에요.
+이드리스 : 좋은 분이에요.
+아우로라 : 그럴 수도요. 하지만 법도 지켜야 해요.
+이드리스 : 알아요. 저는 일하고 싶을 뿐이에요.
+아우로라 : 그러실 거예요. 권리와 함께요. 약속해요.
+(아우로라가 니카노르와 함께 사무실로 돌아온다. 서류철을 들고 앉는다. 카르멘이 문가에서 안을 엿본다.)
+아우로라 : 브라보 씨, 얘기해야겠어요. 앉으세요.
+니카노르 : 무슨 말씀 하실지 알아요.
+아우로라 : 그럼 분명히 말하겠어요. 심각한 위반이 세 가지 있어요.
+아우로라 : 계약도 가입도 없는 근로자 한 명. 신고되지 않은 시간이 있는 근로자 한 명. 그리고 기록되지 않은 현금 지급이에요.
+니카노르 : 저, 감독관님. 솔직하게 말씀드릴게요.
+니카노르 : 이 바는 아버지 거예요. 십 년 전에 물려받았어요. 거의 벌지 못해요.
+아우로라 : 한 달 매출이 얼마죠?
+니카노르 : 삼만쯤요. 그중에서 임대료, 납품, 전기, 세금...
+아우로라 : 그리고 모든 급여를 신고하면 어떻게 되나요?
+니카노르 : 적자가 나요. 아니면 문을 닫아요. 몇 년째 버티고 있어요.
+아우로라 : 부담은 이해해요. 하지만 노동자 희생으로 풀 수는 없어요.
+니카노르 : 알아요. 악의로 한 건 아니에요.
+아우로라 : 세무사와 상의해 보시는 게 좋아요. 과태료는 수천 유로가 될 수 있어요.
+니카노르 : 아이고. 그럼 정말 문 닫아야겠네요.
+아우로라 : 정규화할 기한이 있어요. 십오 일 안에 이드리스를 가입시키고 카르멘의 시간을 정리해야 해요.
+니카노르 : 그렇게 하면 벌금을 면하나요?
+아우로라 : 경우에 따라요. 제재는 줄어들지만 없어지지는 않아요.
+아우로라 : 오늘 위반 확인서를 드릴게요. 이의 신청할 권리가 있어요.
+아우로라 : 세무사와 외식업 협회와 얘기해 보시길 권해요.
+니카노르 : 그럴게요. 오늘 밤은 잠 못 잘 거예요.
+아우로라 : 유감이에요. 기분 좋은 일이 아니에요.
+니카노르 : 누구에게도 그렇죠.
+아우로라 : 하지만 필요한 일이에요. 그리고 부탁 하나 더 드려도 될까요?
+니카노르 : 말씀하세요.
+아우로라 : 직원들에게 보복하지 마세요.
+니카노르 : 안 해요. 가족 같은 사람들이에요.
+아우로라 : 그러길 바라요. 안 그러면 더 나빠져요.
+카르멘 : 사장님, 죄송하지만 저 왔어요.
+니카노르 : 카르멘, 들어와. 정말 미안하다.
+카르멘 : 괜찮아요. 어쩌면 그럴 때였을 거예요.
+아우로라 : 확인서를 두고 갈게요. 내일 기한을 지키는지 다시 확인하러 올게요.
+니카노르 : 분명하게 말씀해 주셔서 고맙습니다, 감독관님.
+아우로라 : 솔직하게 말씀해 주셔서 감사합니다. 안녕히 계세요.
+니카노르 : 안녕히 가세요.

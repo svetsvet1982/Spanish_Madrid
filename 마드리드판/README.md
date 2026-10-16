@@ -45,6 +45,50 @@
 
 2부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 노선·요금·규정·수치는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
 
+## 3부 Comer y beber 먹고 마시기 (완료: 15/15화)
+
+| 파일 | 화 | Título | 한글 | 주 난이도 | 구간별 난이도 | 이슈 | 곡선 |
+|---|---|---|---|---|---|---|---|
+| part3/ep01.txt | 3-1 | La cuenta, a medias | 계산, 반반으로 | B2 | B1→C1→B2→B2→B2→C1 | ● | 2-3-3-1-0-0 |
+| part3/ep02.txt | 3-2 | En la frutería | 과일 가게에서 | A2 | A2→A2→A2→A2→A2→B1 | ◐ | 1-0-1-0-0-1 |
+| part3/ep03.txt | 3-3 | El camarero tiene su opinión | 웨이터의 의견 | B2 | C1→B2→C1→C1→B1→B2 | ◐ | 1-0-0-2-2-2 |
+| part3/ep04.txt | 3-4 | Reservamos para ocho | 여덟 명 예약 | B1 | B1→B1→B2→B1→B1→B1 | ○ | 0-1-1-0-1-0 |
+| part3/ep05.txt | 3-5 | Con cebolla o sin cebolla | 양파를 넣느냐 마느냐 | B2 | B2→B1→B2→B2→B2→B2 | ◐ | 0-1-2-2-2-1 |
+| part3/ep06.txt | 3-6 | El bar que cierra | 문 닫는 바 | C1 | C1→C1→B2→B2→C1→C1 | ● | 0-1-2-3-2-1 |
+| part3/ep07.txt | 3-7 | ¿Dejamos propina? | 팁을 줄까? | B1 | B1→B1→B2→B1→B1→B1 | ○ | 1-1-0-1-0-1 |
+| part3/ep08.txt | 3-8 | Cena con suegros | 시부모님과 저녁 | C1 | C1→B2→C1→C1→B2→C1 | ○ | 1-0-0-1-1-1 |
+| part3/ep09.txt | 3-9 | La tortilla de mi abuela | 우리 할머니의 토르티야 | B1 | B1→B1→A2→B1→B2→B2 | ○ | 1-0-1-0-0-1 |
+| part3/ep10.txt | 3-10 | El rider de las diez | 밤 열 시의 배달원 | B2 | C1→B2→B2→B2→B2→B2 | ● | 1-0-0-2-2-3 |
+| part3/ep11.txt | 3-11 | El menú del día | 오늘의 메뉴 | A2 | A2→B1→A2→A2→A2→B1 | ○ | 0-1-1-0-1-0 |
+| part3/ep12.txt | 3-12 | Mi caña de siempre | 늘 마시던 카냐 | C1 | B2→C1→C1→C1→C1→C1 | ○ | 0-0-1-1-1-0 |
+| part3/ep13.txt | 3-13 | Tupper para la oficina | 사무실 도시락 | A2 | A2→A2→A2→A2→A2→B1 | ◐ | 2-1-0-1-0-2 |
+| part3/ep14.txt | 3-14 | ¿Lleva gluten? | 글루텐 들어가요? | B1 | A2→B2→B1→A2→B1→B1 | ◐ | 1-2-2-2-1-0 |
+| part3/ep15.txt | 3-15 | Una caña, por favor | 카냐 한 잔 주세요 | A2 | B1→A2→B1→B1→A2→B1 | ○ | 1-1-1-0-0-1 |
+
+3부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 금액·규정·수치·제도는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
+
+## 4부 Trabajo y trámites 일과 행정 (완료: 15/15화)
+
+| 파일 | 화 | Título | 한글 | 주 난이도 | 구간별 난이도 | 이슈 | 곡선 |
+|---|---|---|---|---|---|---|---|
+| part4/ep01.txt | 4-1 | Entrevista de trabajo | 취업 면접 | B1 | B2→B2→A2→B1→B1→A2 | ● | 0-0-2-2-3-3 |
+| part4/ep02.txt | 4-2 | Una queja formal | 정식 불만 제기 | B2 | B2→C1→B2→B2→C1→B2 | ◐ | 1-2-1-2-1-2 |
+| part4/ep03.txt | 4-3 | El formulario | 신청서 | A2 | B1→A2→B1→A2→A2→A2 | ● | 3-1-0-1-0-3 |
+| part4/ep04.txt | 4-4 | Reunión por videollamada | 화상 회의 | B2 | C1→B2→B2→B1→B2→B2 | ◐ | 2-0-2-0-2-1 |
+| part4/ep05.txt | 4-5 | Quiero pedir cita | 예약하고 싶은데요 | A2 | A2→A2→B1→A2→A2→A2 | ● | 2-3-3-1-0-0 |
+| part4/ep06.txt | 4-6 | Teletrabajo desde el salón | 거실에서 재택근무 | B1 | B1→A2→B1→B1→B2→B1 | ◐ | 0-2-0-2-1-2 |
+| part4/ep07.txt | 4-7 | Prácticas sin sueldo | 무급 인턴 | B2 | B2→B2→B2→B2→B1→C1 | ● | 3-2-1-1-0-0 |
+| part4/ep08.txt | 4-8 | Abrir una cuenta | 계좌 개설 | B1 | A2→B1→A2→B1→A2→B1 | ◐ | 0-1-2-2-2-1 |
+| part4/ep09.txt | 4-9 | Negociar el sueldo | 급여 협상 | C1 | C1→C1→C1→C1→C1→B2 | ● | 0-0-2-2-3-3 |
+| part4/ep10.txt | 4-10 | Un café con los compañeros | 동료들과 커피 한 잔 | A2 | A2→A2→A2→B1→A2→A2 | ○ | 0-0-1-1-1-0 |
+| part4/ep11.txt | 4-11 | Cambio de médico | 주치의 변경 | B2 | B2→C1→B1→B1→B2→B1 | ● | 3-1-0-1-0-3 |
+| part4/ep12.txt | 4-12 | Ya sé a qué ventanilla ir | 이제 어느 창구인지 알아 | C1 | C1→C1→C1→B2→B2→C1 | ◐ | 0-0-1-1-1-0 |
+| part4/ep13.txt | 4-13 | Volver mañana | 내일 다시 오세요 | B1 | A2→B2→B1→B1→B1→B1 | ● | 3-3-2-1-1-0 |
+| part4/ep14.txt | 4-14 | Primer día en la oficina | 사무실 첫날 | A2 | A2→A2→A2→B1→A2→A2 | ◐ | 0-1-1-0-1-0 |
+| part4/ep15.txt | 4-15 | La inspección | 점검 나온 날 | C1 | C1→C1→C1→B2→C1→C1 | ● | 0-1-3-3-2-1 |
+
+4부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 금액·규정·수치·제도는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
+
 ## 화 파일 형식
 
 ```

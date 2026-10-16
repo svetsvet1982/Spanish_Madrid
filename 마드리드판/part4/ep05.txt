@@ -1,0 +1,285 @@
+# 4부 5화. Quiero pedir cita (예약하고 싶은데요)
+난이도: 주 A2 | 구간: A2→A2→B1→A2→A2→A2 | 형식: 전화 | 장소: 전화 통화(로센도는 집, 마르가는 보건소 접수대) | 시간: 월요일 오전 8시 10분
+등장인물: Rosendo, Marga, Elena, Paco
+이슈: 주 ● 공공 의료 예약 대기 | 곡선: 2-3-3-1-0-0 (초반충격형, 상한 3) | 입장: A 로센도(일흔두 살, 어지럼증이 일주일째인데 예약이 삼 주 뒤라고 한다) / B 마르가(접수 직원, 대기 명단과 규정을 설명하지만 긴급 분류로 연결해 준다)
+상황 카드: 아침 여덟 시가 되자마자 로센도가 보건소에 전화한다. 접수 직원 마르가는 가장 빠른 예약이 삼 주 뒤라고 한다. 로센도는 일주일째 어지럽고 머리가 아프다고 말한다. 마르가는 증상을 묻고 간호사 분류로 연결해 준다. 걸림돌은 대기와 불안. 결말은 간호사가 당일 오전에 진료를 잡아 주는 것.
+학습 포인트: 전화로 예약하기(Quiero pedir cita) · 증상 표현(Me duele la cabeza, Estoy mareado) · 날짜와 요일 · 숫자 · 정중한 부탁과 확인
+
+## 대화
+(Lunes, ocho y diez de la mañana. Rosendo llama desde su casa con el teléfono fijo. Marga contesta en la recepción de un centro de salud, con el teléfono pegado a la oreja y la sala de espera detrás.)
+Marga : Centro de Salud La Fortuna. Buenos días.
+Rosendo : Buenos días, señorita. Quiero pedir cita.
+Marga : ¿Con qué médico, por favor?
+Rosendo : Con mi médico de cabecera. El doctor Medina.
+Marga : ¿Me dice su nombre y su fecha de nacimiento?
+Rosendo : Rosendo Cabrera. Nací el diez de marzo de mil novecientos cincuenta y dos.
+Marga : Un momento. Rosendo Cabrera... Ya lo tengo.
+Rosendo : Muchas gracias.
+Marga : ¿Para qué día quiere la cita?
+Rosendo : Para hoy, si puede ser.
+Marga : Hoy no hay citas. El doctor Medina está completo.
+Rosendo : ¿Mañana, entonces?
+Marga : Mañana tampoco. Todo el mes está ocupado.
+Rosendo : ¿Todo el mes? No puede ser.
+Marga : Hay una cita libre dentro de tres semanas.
+Rosendo : ¿Tres semanas? Eso es mucho tiempo.
+Marga : Lo sé. Hay muchos pacientes y pocos médicos.
+Rosendo : Pero yo estoy mal desde hace una semana.
+Marga : ¿Qué le pasa, si me permite?
+Rosendo : Estoy mareado. Y me duele la cabeza.
+Marga : ¿Desde cuándo?
+Rosendo : Desde el lunes pasado. Todos los días.
+Marga : ¿Se ha caído o se ha dado algún golpe?
+Rosendo : No. Pero ayer casi me caigo en la cocina.
+Marga : Vaya. ¿Tiene visión borrosa o dolor en el pecho?
+Rosendo : Un poco borrosa la vista. El pecho, no.
+Marga : ¿Toma alguna medicina?
+Rosendo : Sí. Para la tensión. Una pastilla cada mañana.
+Marga : ¿Se ha tomado la tensión últimamente?
+Rosendo : No. No tengo aparato. Mi mujer sí, pero está de viaje.
+Marga : Entiendo. Señor Cabrera, voy a hacerle una pregunta importante.
+Rosendo : Dígame.
+Marga : ¿Tiene dificultad para hablar o la cara torcida?
+Rosendo : No. Hablo bien. La cara está bien.
+Marga : ¿Y siente debilidad en un brazo o una pierna?
+Rosendo : No. Los brazos están bien. Solo estoy mareado.
+Marga : Bien. No parece una urgencia grave, pero tampoco puedo esperar tres semanas.
+Rosendo : Tampoco yo, señorita.
+Marga : Voy a pasarle con la enfermera. Ella decide.
+Rosendo : ¿La enfermera? ¿Y me ve hoy?
+Marga : No le puedo prometer nada. Pero ella le atiende por teléfono.
+Rosendo : Está bien. Gracias.
+Marga : No cuelgue. Un momento, por favor.
+(Sonido de espera, unos segundos. Después, otra voz.)
+Marga : Señor Cabrera, ¿me oye?
+Rosendo : Sí, la oigo.
+Marga : La enfermera está ocupada. La llamará en diez minutos.
+Rosendo : ¿Diez minutos? Y si no llama, ¿qué hago?
+Marga : Si no llama, vuelva a llamar y pregunte por mí.
+Rosendo : Me llamo Rosendo. ¿Y usted?
+Marga : Me llamo Marga. Estoy aquí hasta las tres.
+Rosendo : Gracias, Marga. Es usted muy amable.
+Marga : Es mi trabajo. Y si empeora, llame al uno, uno, dos.
+Rosendo : Al uno, uno, dos. Sí, lo sé.
+Marga : Si siente dolor en el pecho, o no puede hablar, o se desmaya, llame enseguida.
+Rosendo : Lo haré. Gracias.
+Marga : Quédese sentado, por favor. No se levante deprisa.
+Rosendo : Estoy sentado en el sillón.
+Marga : Perfecto. Espere la llamada.
+Rosendo : Espero. Mil gracias.
+Marga : Hasta ahora, señor Cabrera.
+Rosendo : Hasta ahora.
+(Cuelgan. Pasan diez minutos. El teléfono de Rosendo suena.)
+Rosendo : ¿Sí? Dígame.
+Elena : Señor Cabrera, soy Elena, la enfermera del centro.
+Rosendo : Buenos días, Elena.
+Elena : Buenos días. Me han dicho que está mareado. Cuénteme.
+Rosendo : Estoy mareado desde hace una semana. Y me duele la cabeza.
+Elena : ¿Cuántos años tiene?
+Rosendo : Setenta y dos.
+Elena : ¿Y toma medicación para la tensión?
+Rosendo : Sí. Cada mañana.
+Elena : ¿La tomó hoy?
+Rosendo : Todavía no. Iba a tomarla ahora.
+Elena : Tómela con un vaso de agua. Y desayune algo.
+Rosendo : Vale.
+Elena : Voy a darle cita hoy a las once y media, con el doctor Medina.
+Rosendo : ¿Hoy? ¿Hoy a las once y media?
+Elena : Sí. Le hará un hueco entre pacientes.
+Rosendo : Qué alivio. Gracias.
+Elena : Venga acompañado, si puede. No venga solo.
+Rosendo : Mi vecino puede acompañarme.
+Elena : Perfecto. Traiga la tarjeta sanitaria y las pastillas.
+Rosendo : Las pastillas y la tarjeta. Sí.
+Elena : ¿Tiene alergia a algún medicamento?
+Rosendo : No. Ninguna.
+Elena : ¿Cuántas pastillas toma al día?
+Rosendo : Dos. Una para la tensión y otra para el colesterol.
+Elena : ¿Cómo se llaman?
+Rosendo : No me acuerdo. Tengo las cajas en la cocina.
+Elena : Tráigalas hoy, así las vemos.
+Rosendo : Las llevo en una bolsa.
+Elena : ¿Ha comido bien estos días?
+Rosendo : Más o menos. Poco, porque estoy mareado.
+Elena : Beba agua. Mucha agua. Y no conduzca.
+Rosendo : No conduzco. Voy a pie o en autobús.
+Elena : Muy bien. Hoy tampoco salga solo.
+Rosendo : Mi vecino Paco me acompaña. Es muy bueno.
+Elena : Qué suerte. ¿Vive cerca?
+Rosendo : En el piso de al lado. Es jubilado, como yo.
+Elena : Perfecto. Dígale que llegue unos minutos antes.
+Rosendo : A las once y cuarto. Se lo digo.
+Elena : El doctor Medina es muy bueno. Le va a gustar.
+Rosendo : Ya lo conozco. Lo veo desde hace quince años.
+Elena : Entonces todo es más fácil. Anote la hora: once y media.
+Rosendo : Once y media. Lo apunto en el papel.
+Rosendo : Gracias, Elena.
+Elena : Y si empeora antes de venir, llame al uno, uno, dos.
+Rosendo : Sí, sí. Lo apunto.
+Elena : ¿Sabe cómo llegar al centro?
+Rosendo : Sí. Está en la calle Fortuna, número ocho.
+Elena : Eso es. Entrada por la puerta lateral. Pregunte por Marga.
+Rosendo : Por Marga. Gracias otra vez.
+Elena : A usted. Que se mejore.
+Rosendo : Gracias. Hasta luego.
+Elena : Hasta luego.
+(Rosendo cuelga. Respira hondo. Llama a su vecino.)
+Rosendo : Hola, Paco. ¿Puedes acompañarme al centro de salud?
+Paco : Claro, Rosendo. En diez minutos estoy en tu puerta.
+Rosendo : Gracias. La cita es a las once y media.
+Paco : Perfecto. ¿Estás bien? ¿Qué te pasa?
+Rosendo : Estoy mareado, pero ya hablé con la enfermera.
+Paco : No te muevas. Voy ahora mismo.
+
+## 낭독 포인트
+- z/c: «cita», «gracias», «cincuenta», «hacer» — [θ]. «Cita»는 [θí-ta], «gracias»는 [ɡɾá-θjas].
+- j/g: «jubilado», «urgente», «mejor» — j와 g+e/i는 강한 [x]. «Jubilado»는 [xu-βi-lá-ðo].
+- ll/y: «llamar», «llevo», «ya», «calle» — [ʝ]. «Calle»는 [ká-ʝe].
+- 숫자 읽기: uno, uno, dos(112), diez de marzo de mil novecientos cincuenta y dos(생년월일)를 또박또박.
+- 억양: 로센도의 불안(¿Tres semanas? Eso es mucho tiempo)은 올렸다 내리고, 마르가의 증상 질문은 침착하게 한 박자씩 끊는다. 후반 간호사의 안내는 부드럽고 느리게.
+- 호칭: 접수 직원·간호사와 환자는 usted. 이웃 파코와는 tú.
+
+## 학습 포인트 정리
+- A2 구간(1~40, 61~120턴): 예약과 증상 말하기
+  · 예약: «Quiero pedir cita.», «¿Para qué día quiere la cita?», «Hoy no hay citas.»
+  · 증상: «Estoy mareado.», «Me duele la cabeza.», «Tengo la vista borrosa.»
+  · 질문: «¿Desde cuándo?», «¿Toma alguna medicina?», «¿Tiene alergia a algún medicamento?»
+  · 안내: «Traiga la tarjeta sanitaria.», «Beba mucha agua.», «No conduzca.»
+  · 응급: «Llame al uno, uno, dos.»
+- B1 구간(41~60턴): 대기와 분류
+  · 설명: «Hay muchos pacientes y pocos médicos.», «Voy a pasarle con la enfermera. Ella decide.»
+- 어휘: la cita, el médico de cabecera, la tarjeta sanitaria, la enfermera, la tensión, el mareo, la pastilla, el centro de salud.
+
+## 속어 노트
+- «Hacer un hueco»: 시간을 비워 주다.
+- «Qué alivio»: 다행이다, 마음이 놓이네.
+- «Médico de cabecera»: 주치의, 가정의.
+- «Uno, uno, dos»: 유럽 공통 응급 번호(112).
+- 예약 대기 기간과 센터 운영, 간호사 분류 절차는 이야기 속 설정이다. 실제 의료 시스템은 지역과 시기에 따라 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(월요일 오전 여덟 시 십 분. 로센도가 집 유선 전화로 건다. 마르가는 보건소 접수대에서 전화를 귀에 대고 받는다. 뒤로 대기실이 보인다.)
+마르가 : 라 포르투나 보건소입니다. 안녕하세요.
+로센도 : 안녕하세요, 아가씨. 예약하고 싶은데요.
+마르가 : 어느 의사 선생님이시죠?
+로센도 : 제 주치의요. 메디나 선생님이요.
+마르가 : 성함과 생년월일을 말씀해 주시겠어요?
+로센도 : 로센도 카브레라예요. 천구백오십이 년 삼월 십 일생이에요.
+마르가 : 잠시만요. 로센도 카브레라... 찾았어요.
+로센도 : 정말 고마워요.
+마르가 : 어느 날로 예약하시겠어요?
+로센도 : 오늘이면 좋겠어요.
+마르가 : 오늘은 예약이 없어요. 메디나 선생님은 꽉 찼어요.
+로센도 : 그럼 내일은요?
+마르가 : 내일도 안 돼요. 이번 달 내내 찼어요.
+로센도 : 한 달 내내요? 말도 안 돼요.
+마르가 : 삼 주 뒤에 빈 예약이 하나 있어요.
+로센도 : 삼 주요? 너무 오래네요.
+마르가 : 알아요. 환자는 많고 의사는 적어요.
+로센도 : 하지만 저는 일주일째 아파요.
+마르가 : 괜찮으시다면, 어떻게 아프세요?
+로센도 : 어지러워요. 그리고 머리가 아파요.
+마르가 : 언제부터요?
+로센도 : 지난 월요일부터요. 매일이요.
+마르가 : 넘어지거나 부딪힌 적 있어요?
+로센도 : 아니요. 그런데 어제 부엌에서 넘어질 뻔했어요.
+마르가 : 저런. 시야가 흐리거나 가슴이 아프세요?
+로센도 : 시야는 조금 흐려요. 가슴은 아니에요.
+마르가 : 드시는 약이 있나요?
+로센도 : 네. 혈압약이요. 매일 아침 한 알이요.
+마르가 : 최근에 혈압을 재 보셨어요?
+로센도 : 아니요. 혈압계가 없어요. 아내는 있는데 여행 중이에요.
+마르가 : 알겠어요. 카브레라 님, 중요한 질문을 하나 드릴게요.
+로센도 : 말씀하세요.
+마르가 : 말하기가 어렵거나 얼굴이 한쪽으로 틀어지지는 않나요?
+로센도 : 아니요. 말은 잘해요. 얼굴도 괜찮아요.
+마르가 : 팔이나 다리에 힘이 빠지는 느낌은요?
+로센도 : 아니요. 팔은 괜찮아요. 어지럽기만 해요.
+마르가 : 좋아요. 심각한 응급은 아닌 것 같지만 삼 주를 기다리실 순 없어요.
+로센도 : 저도요, 아가씨.
+마르가 : 간호사에게 연결해 드릴게요. 간호사가 결정해요.
+로센도 : 간호사요? 오늘 봐 줄까요?
+마르가 : 약속은 못 드려요. 하지만 전화로 상담해 줄 거예요.
+로센도 : 알겠어요. 고마워요.
+마르가 : 끊지 마세요. 잠시만요.
+(대기음이 몇 초 들린다. 그 뒤 다른 목소리가 나온다.)
+마르가 : 카브레라 님, 들리세요?
+로센도 : 네, 들려요.
+마르가 : 간호사가 바빠서 십 분 뒤에 전화드릴 거예요.
+로센도 : 십 분이요? 전화 안 오면 어떡하죠?
+마르가 : 안 오면 다시 전화해서 저를 찾으세요.
+로센도 : 저는 로센도예요. 성함이 어떻게 되세요?
+마르가 : 마르가예요. 세 시까지 여기 있어요.
+로센도 : 고마워요, 마르가. 정말 친절하시네요.
+마르가 : 제 일이에요. 그리고 나빠지면 일, 일, 이로 전화하세요.
+로센도 : 일, 일, 이. 네, 알아요.
+마르가 : 가슴이 아프거나 말을 못 하거나 정신을 잃으면 바로 전화하세요.
+로센도 : 그럴게요. 고마워요.
+마르가 : 앉아 계세요. 갑자기 일어나지 마세요.
+로센도 : 소파에 앉아 있어요.
+마르가 : 좋아요. 전화를 기다리세요.
+로센도 : 기다릴게요. 정말 고마워요.
+마르가 : 이따 뵐게요, 카브레라 님.
+로센도 : 이따요.
+(전화가 끊긴다. 십 분이 흐른다. 로센도의 전화가 울린다.)
+로센도 : 여보세요? 말씀하세요.
+엘레나 : 카브레라 님, 보건소 간호사 엘레나예요.
+로센도 : 안녕하세요, 엘레나.
+엘레나 : 안녕하세요. 어지러우시다고 들었어요. 말씀해 주세요.
+로센도 : 일주일째 어지러워요. 머리도 아프고요.
+엘레나 : 연세가 어떻게 되세요?
+로센도 : 일흔둘이에요.
+엘레나 : 혈압약을 드시나요?
+로센도 : 네. 매일 아침이요.
+엘레나 : 오늘은 드셨어요?
+로센도 : 아직요. 지금 먹으려던 참이에요.
+엘레나 : 물 한 잔과 함께 드세요. 그리고 뭘 좀 드세요.
+로센도 : 알겠어요.
+엘레나 : 오늘 열한 시 반에 메디나 선생님께 진료를 잡아 드릴게요.
+로센도 : 오늘요? 오늘 열한 시 반요?
+엘레나 : 네. 환자 사이에 시간을 내 주실 거예요.
+로센도 : 정말 다행이에요. 고마워요.
+엘레나 : 가능하면 누군가와 함께 오세요. 혼자 오지 마세요.
+로센도 : 이웃이 같이 가 줄 수 있어요.
+엘레나 : 좋아요. 건강보험 카드와 약을 가져오세요.
+로센도 : 약이랑 카드요. 네.
+엘레나 : 약물 알레르기가 있으세요?
+로센도 : 아니요. 없어요.
+엘레나 : 하루에 약을 몇 알 드세요?
+로센도 : 두 알이요. 하나는 혈압약, 하나는 콜레스테롤약이에요.
+엘레나 : 이름이 뭐죠?
+로센도 : 기억이 안 나요. 부엌에 상자가 있어요.
+엘레나 : 오늘 가져오세요. 같이 볼게요.
+로센도 : 봉지에 담아 갈게요.
+엘레나 : 요 며칠 잘 드셨어요?
+로센도 : 그럭저럭요. 어지러워서 조금만 먹었어요.
+엘레나 : 물을 많이 드세요. 그리고 운전은 하지 마세요.
+로센도 : 운전 안 해요. 걸어 다니거나 버스를 타요.
+엘레나 : 좋아요. 오늘도 혼자 나가지 마세요.
+로센도 : 이웃 파코가 같이 가 줘요. 아주 좋은 사람이에요.
+엘레나 : 다행이네요. 가까이 사세요?
+로센도 : 옆집이에요. 저처럼 은퇴했어요.
+엘레나 : 좋아요. 몇 분 일찍 오라고 전해 주세요.
+로센도 : 열한 시 십오 분에요. 말해 둘게요.
+엘레나 : 메디나 선생님은 아주 좋은 분이세요. 마음에 드실 거예요.
+로센도 : 이미 알아요. 십오 년째 뵙고 있어요.
+엘레나 : 그럼 훨씬 쉽겠네요. 시간을 적어 두세요: 열한 시 반.
+로센도 : 열한 시 반. 종이에 적을게요.
+로센도 : 고마워요, 엘레나.
+엘레나 : 그리고 오시기 전에 나빠지면 일, 일, 이로 전화하세요.
+로센도 : 네, 네. 적어 둘게요.
+엘레나 : 보건소 오는 길은 아세요?
+로센도 : 네. 포르투나 거리 팔 번지예요.
+엘레나 : 맞아요. 옆문으로 들어오세요. 마르가를 찾으세요.
+로센도 : 마르가요. 다시 한번 고마워요.
+엘레나 : 저야말로요. 얼른 나으세요.
+로센도 : 고마워요. 이따 봬요.
+엘레나 : 이따 봬요.
+(로센도가 전화를 끊는다. 숨을 크게 쉰다. 이웃에게 전화한다.)
+로센도 : 안녕, 파코. 보건소에 같이 가 줄 수 있어?
+파코 : 그럼, 로센도. 십 분 뒤에 자네 집 앞에 있을게.
+로센도 : 고마워. 예약이 열한 시 반이야.
+파코 : 좋아. 괜찮아? 어디가 안 좋아?
+로센도 : 어지럽긴 한데 간호사와 이미 통화했어.
+파코 : 움직이지 마. 지금 바로 갈게.

@@ -1,0 +1,286 @@
+# 4부 3화. El formulario (신청서)
+난이도: 주 A2 | 구간: B1→A2→B1→A2→A2→A2 | 형식: 2인 대면 | 장소: 구청 민원 창구 | 시간: 월요일 오전 9시 30분
+등장인물: Ibrahima, Pilar, Mamadou
+이슈: 주 ● 행정 절차의 디지털화와 사전 예약, 서류 장벽 | 곡선: 3-1-0-1-0-3 (반전형, 상한 3) | 입장: A 이브라히마(주민 등록이 필요한데 이메일도 인터넷도 어렵다) / B 필라(창구 직원, 규정상 온라인 예약이 필요하다고 안내하지만 방법을 찾아 준다)
+상황 카드: 이브라히마가 아이의 학교 등록에 필요한 주민 등록 증명서를 신청하러 구청 창구에 왔다. 직원 필라는 사전 예약이 있어야 한다고 말하고, 예약은 온라인뿐이라고 설명한다. 이브라히마에게는 이메일이 없다. 걸림돌은 예약 가능 날짜가 한 달 뒤라는 점과 학교 등록 마감. 결말은 필라가 협회 안내문과 임시 방법을 건네지만 확실하지 않은 열린 결말.
+학습 포인트: 서류와 신청 표현(el formulario, rellenar, la cita previa) · 날짜와 시간 · 짧은 질문과 대답 · 이름·주소·전화 말하기 · 도움 요청하기
+
+## 대화
+(Lunes, nueve y media de la mañana. La oficina de atención al ciudadano de un distrito de Madrid. Hay cola. Ibrahima llega al mostrador con una carpeta y un niño de la mano.)
+Pilar : Buenos días. ¿Tiene cita?
+Ibrahima : Buenos días, señora. ¿Cita?
+Pilar : Sí, cita previa. Con día y hora.
+Ibrahima : No. No tengo cita.
+Pilar : ¿Qué trámite quiere hacer?
+Ibrahima : El padrón. Quiero un certificado del padrón.
+Pilar : Ah, el certificado de empadronamiento.
+Ibrahima : Sí. Para el colegio de mi hijo.
+Pilar : ¿Cuántos años tiene su hijo?
+Ibrahima : Seis años. Se llama Mamadou.
+Pilar : Señor, ¿está usted empadronado en este distrito?
+Ibrahima : Sí. Vivo aquí desde hace tres años.
+Pilar : ¿Tiene el volante de empadronamiento antiguo?
+Ibrahima : No. Lo perdí.
+Pilar : No pasa nada. Lo pedimos de nuevo.
+Ibrahima : Perfecto. ¿Puedo pedirlo hoy?
+Pilar : Aquí sin cita no puedo. Necesita cita previa.
+Ibrahima : No entiendo. ¿Por qué?
+Pilar : Es la norma. Ahora todo se pide por internet.
+Ibrahima : Yo no tengo internet. Solo el móvil.
+Pilar : Con el móvil se puede. Es una página web.
+Ibrahima : No sé usarla bien. No tengo correo electrónico.
+Pilar : Ah. Eso es un problema, sí.
+Ibrahima : Necesito el papel hoy. Para el colegio.
+Pilar : ¿Hasta cuándo es el plazo del colegio?
+Ibrahima : Hasta el viernes. Es el último día.
+Pilar : Vaya. Esto es complicado.
+Ibrahima : Por favor, señora. Es muy importante.
+Pilar : Lo sé. Déjeme ver el sistema.
+(Pilar mira la pantalla. Mamadou juega con una pegatina.)
+Pilar : A ver. La primera cita libre es el día veintiocho.
+Ibrahima : ¿Veintiocho? ¿De este mes?
+Pilar : No, del mes que viene. Dentro de un mes.
+Ibrahima : Un mes. No puedo. El viernes es el plazo.
+Pilar : Lo entiendo. Pero ahora mismo no hay más citas.
+Ibrahima : ¿Y si vengo mañana temprano?
+Pilar : Mañana tampoco. Todas las citas están ocupadas.
+Ibrahima : ¿Hay otra oficina?
+Pilar : Sí, en otro distrito. Pero también con cita.
+Ibrahima : ¿Y por teléfono?
+Pilar : Por teléfono, el mismo problema. El teléfono es el cero, cinco, uno...
+Ibrahima : Perdone, no entiendo los números tan rápido.
+Pilar : Es el número del Ayuntamiento. Se lo escribo.
+Ibrahima : Gracias. ¿Y ellos me pueden dar cita antes?
+Pilar : No sé. A veces hay anulaciones. Hay que llamar muy pronto.
+Ibrahima : ¿A qué hora?
+Pilar : A las ocho en punto. Hay mucha gente llamando.
+Ibrahima : A las ocho. Mi trabajo empieza a las siete.
+Pilar : ¿Dónde trabaja?
+Ibrahima : En la limpieza de oficinas. De siete a tres.
+Pilar : Entonces es complicado. Lo siento mucho.
+Ibrahima : Señora, ¿no puede ayudarme? Un papel solo.
+Pilar : Quiero ayudarle. Pero si no hay cita, no puedo entrar en el sistema.
+Ibrahima : ¿Por qué no?
+Pilar : Es un procedimiento. No lo decido yo.
+Ibrahima : Entiendo. Usted no decide.
+Pilar : No. Yo cumplo la norma. Pero entiendo su problema.
+Ibrahima : Gracias, señora. Es usted amable.
+Pilar : No sé si le sirvo de algo.
+Ibrahima : Sí. Me escucha.
+Pilar : Mire, déjeme probar una cosa.
+Ibrahima : Dígame.
+Pilar : Hay una solución rápida: el volante de padrón puede pedirse por teléfono.
+Ibrahima : ¿Por teléfono? ¿Y me lo dan hoy?
+Pilar : No hoy. Lo envían por correo en tres días hábiles.
+Ibrahima : Tres días. Hoy es lunes.
+Pilar : Lunes, martes, miércoles, jueves. Llegaría el jueves.
+Ibrahima : Justo antes del viernes.
+Pilar : Sí, con suerte.
+Ibrahima : ¿Y cómo lo pido?
+Pilar : Llamando al teléfono que le doy. Con su DNI o pasaporte.
+Ibrahima : Yo tengo pasaporte. Y tarjeta de residencia.
+Pilar : Con la tarjeta es suficiente. Dígales su dirección.
+Ibrahima : Calle del Doctor Esquerdo, quince, tercero B.
+Pilar : Eso lo tengo en pantalla. ¿Coincide?
+Ibrahima : Sí. Es mi casa.
+Pilar : Perfecto. Entonces solo falta llamar.
+Ibrahima : Pero ahora no tengo teléfono con saldo.
+Pilar : Puede llamar desde aquí. Desde el teléfono de la oficina.
+Ibrahima : ¿De verdad?
+Pilar : De verdad. Pero rápido, sin que se entere el jefe.
+Ibrahima : Muchas gracias, señora.
+Pilar : No me dé las gracias todavía. Veamos si responden.
+(Pilar marca. Espera. Se oye una música de espera.)
+Pilar : La línea está ocupada. Espere un momento.
+Ibrahima : Espero.
+Pilar : Mientras, déjeme darle una hoja.
+Ibrahima : ¿Qué hoja?
+Pilar : La dirección de una asociación del barrio. Ayudan con estos trámites.
+Ibrahima : ¿Gratis?
+Pilar : Sí, gratis. Tienen voluntarios. Abren martes y jueves por la mañana.
+Ibrahima : Mañana es martes.
+Pilar : Mañana puede ir. Le ayudarán con la web y con el correo.
+Ibrahima : Eso es muy bueno. Gracias.
+Pilar : Aquí lo tiene: Asociación Vecinal Doctor Esquerdo.
+Ibrahima : Voy mañana. A las diez.
+Pilar : Mejor a las nueve y media. Hay cola.
+Ibrahima : Entendido. Mamadou y yo vamos.
+Pilar : Muy bien. Ahora, intento otra vez el teléfono.
+Mamadou : Papá, tengo hambre.
+Ibrahima : Un poco más, hijo. Ya terminamos.
+Pilar : Ahora sí suena. Espere.
+(Una voz grabada responde. Pilar pulsa números.)
+Pilar : Opción dos. Padrón. Ahora, espere un agente.
+Ibrahima : Espero.
+Pilar : Ya. Le paso con usted. Tome el auricular.
+Ibrahima : Gracias, señora. Buenos días. Quiero pedir un volante de empadronamiento.
+(Ibrahima habla por teléfono con el agente. Pilar ordena papeles. Pasan unos minutos.)
+Ibrahima : (cuelga) ¿Qué dicen?
+Pilar : No sé. Cuénteme.
+Ibrahima : Me dicen que no pueden enviarlo por correo hasta el viernes.
+Pilar : ¿Hasta el viernes?
+Ibrahima : Sí. Y que si quiero, puedo recogerlo con cita.
+Pilar : Con cita. Otra vez.
+Ibrahima : Otra vez. La cita más cercana, el veintiocho.
+Pilar : Lo siento muchísimo. No entiendo por qué.
+Ibrahima : Yo tampoco. Es mucha espera para un papel.
+Pilar : Mire, voy a hablar con mi jefa. A ver si podemos hacer algo.
+Ibrahima : ¿Puede?
+Pilar : No lo sé. No le prometo nada.
+Ibrahima : Gracias de todos modos.
+Pilar : Espere aquí. Vuelvo en cinco minutos.
+Ibrahima : Aquí espero.
+Ibrahima : Un poco más, hijo. Ya casi.
+
+## 낭독 포인트
+- z/c: «cita», «certificado», «gracias», «cinco», «hacer» — [θ]. «Certificado»는 [θer-ti-fi-ká-ðo].
+- j/g: «viernes», «jefa», «gente», «mejor» — 강한 [x]. «Jefa»는 [xé-fa].
+- ll/y: «calle», «llamar», «ya», «hoy» — [ʝ]. «Calle»는 [ká-ʝe].
+- 억양: 이브라히마의 부탁(Por favor, señora. Es muy importante)은 천천히 간절하게, 필라의 안내(Es la norma)는 평평하되 미안함을 담는다.
+- 숫자 읽기: veintiocho(28), cero cinco uno(전화 접두), quince tercero B(주소)를 또박또박.
+- 호칭: 직원과 시민은 usted. 이브라히마는 'señora'를 반복해 예의를 지킨다.
+
+## 학습 포인트 정리
+- B1 구간(1~20, 41~60턴): 신청과 설명
+  · 신청: «Quiero un certificado del padrón.», «Es para el colegio de mi hijo.»
+  · 설명: «Necesita cita previa.», «Ahora todo se pide por internet.»
+- A2 구간(21~40, 61~120턴): 짧은 질문과 대답
+  · 짧은 문답: «¿Tiene cita?», «No tengo cita.», «¿A qué hora?», «A las ocho en punto.»
+  · 날짜: «el día veintiocho», «dentro de un mes», «lunes, martes, miércoles, jueves», «hasta el viernes».
+  · 부탁과 감사: «Por favor, señora.», «Muchas gracias.», «Gracias de todos modos.»
+  · 가능성: «No le prometo nada.», «Con suerte.»
+- 어휘: la cita previa, el padrón, el certificado, el trámite, el volante, la asociación, el plazo, el correo electrónico, el voluntario.
+
+## 속어 노트
+- «No pasa nada»: 괜찮아요.
+- «Sin que se entere el jefe»: 상사가 모르게(가벼운 호의).
+- «Con suerte»: 운이 좋으면.
+- 사전 예약 날짜, 우편 처리 일수, 협회 운영 시간은 이야기 속 설정이다. 실제 행정 절차는 자치단체마다 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(월요일 오전 아홉 시 반. 마드리드 어느 구의 시민 상담실. 줄이 길다. 이브라히마가 서류철을 들고 아이의 손을 잡은 채 창구에 다가온다.)
+필라 : 안녕하세요. 예약하셨나요?
+이브라히마 : 안녕하세요, 부인. 예약이요?
+필라 : 네, 사전 예약이요. 날짜와 시간이 있는 거요.
+이브라히마 : 아니요. 예약이 없어요.
+필라 : 어떤 업무를 보시려고요?
+이브라히마 : 주민 등록이요. 주민 등록 증명서가 필요해요.
+필라 : 아, 주민 등록 증명서요.
+이브라히마 : 네. 아이 학교에 내려고요.
+필라 : 아이가 몇 살이에요?
+이브라히마 : 여섯 살이에요. 이름은 마마두예요.
+필라 : 선생님, 이 구에 주민 등록이 되어 있나요?
+이브라히마 : 네. 삼 년째 여기 살아요.
+필라 : 예전 등록 확인서는 가지고 계세요?
+이브라히마 : 아니요. 잃어버렸어요.
+필라 : 괜찮아요. 다시 신청하면 돼요.
+이브라히마 : 좋아요. 오늘 신청할 수 있나요?
+필라 : 여기선 예약 없이는 안 돼요. 사전 예약이 필요해요.
+이브라히마 : 이해가 안 돼요. 왜죠?
+필라 : 규정이에요. 이제 모든 게 인터넷으로 신청돼요.
+이브라히마 : 저는 인터넷이 없어요. 휴대폰만 있어요.
+필라 : 휴대폰으로도 돼요. 웹사이트예요.
+이브라히마 : 잘 못 써요. 이메일도 없고요.
+필라 : 아. 그건 문제네요.
+이브라히마 : 오늘 서류가 필요해요. 학교에 내야 해서요.
+필라 : 학교 마감은 언제까지예요?
+이브라히마 : 금요일까지요. 마지막 날이에요.
+필라 : 저런. 복잡하네요.
+이브라히마 : 부탁이에요, 부인. 아주 중요해요.
+필라 : 알아요. 시스템을 볼게요.
+(필라가 화면을 본다. 마마두는 스티커를 가지고 논다.)
+필라 : 어디 보자. 제일 빠른 빈 예약이 이십팔 일이에요.
+이브라히마 : 이십팔 일이요? 이번 달요?
+필라 : 아니요, 다음 달이요. 한 달 뒤예요.
+이브라히마 : 한 달이요. 안 돼요. 금요일이 마감이에요.
+필라 : 이해해요. 하지만 지금은 예약이 더 없어요.
+이브라히마 : 내일 일찍 오면요?
+필라 : 내일도 안 돼요. 예약이 모두 찼어요.
+이브라히마 : 다른 사무소가 있나요?
+필라 : 네, 다른 구에요. 하지만 거기도 예약해야 해요.
+이브라히마 : 전화로는요?
+필라 : 전화도 같은 문제예요. 전화번호는 영, 오, 일...
+이브라히마 : 죄송해요, 숫자가 너무 빨라서 못 알아듣겠어요.
+필라 : 시청 번호예요. 적어 드릴게요.
+이브라히마 : 고마워요. 거기서 더 빨리 예약해 줄 수 있나요?
+필라 : 모르겠어요. 가끔 취소가 생겨요. 아주 일찍 전화해야 해요.
+이브라히마 : 몇 시에요?
+필라 : 여덟 시 정각에요. 전화하는 사람이 많아요.
+이브라히마 : 여덟 시요. 제 일은 일곱 시에 시작해요.
+필라 : 어디서 일하세요?
+이브라히마 : 사무실 청소요. 일곱 시부터 세 시까지요.
+필라 : 그럼 어렵겠네요. 정말 죄송해요.
+이브라히마 : 부인, 도와주실 수 없나요? 서류 한 장이에요.
+필라 : 돕고 싶어요. 하지만 예약이 없으면 시스템에 접속할 수 없어요.
+이브라히마 : 왜 안 돼요?
+필라 : 절차예요. 제가 정하는 게 아니에요.
+이브라히마 : 알겠어요. 부인이 정하는 게 아니군요.
+필라 : 네. 저는 규정을 지켜요. 하지만 사정은 이해해요.
+이브라히마 : 고맙습니다, 부인. 친절하시네요.
+필라 : 도움이 될지 모르겠어요.
+이브라히마 : 돼요. 들어 주시잖아요.
+필라 : 저, 한 가지 해 볼게요.
+이브라히마 : 말씀하세요.
+필라 : 빠른 방법이 있어요. 등록 확인서는 전화로도 신청할 수 있어요.
+이브라히마 : 전화로요? 오늘 받을 수 있나요?
+필라 : 오늘은 아니에요. 영업일로 사흘 안에 우편으로 보내요.
+이브라히마 : 사흘이요. 오늘이 월요일인데.
+필라 : 월, 화, 수, 목. 목요일에 도착할 거예요.
+이브라히마 : 금요일 바로 전이네요.
+필라 : 네, 운이 좋으면요.
+이브라히마 : 어떻게 신청하죠?
+필라 : 제가 드리는 번호로 전화하세요. 신분증이나 여권으로요.
+이브라히마 : 여권이 있어요. 거주 카드도 있고요.
+필라 : 카드면 충분해요. 주소를 말하세요.
+이브라히마 : 도크토르 에스케르도 거리 십오 번지, 삼층 비호예요.
+필라 : 화면에 있어요. 맞나요?
+이브라히마 : 네. 우리 집이에요.
+필라 : 좋아요. 그럼 전화만 하면 돼요.
+이브라히마 : 그런데 지금 휴대폰에 잔액이 없어요.
+필라 : 여기서 전화하셔도 돼요. 사무실 전화로요.
+이브라히마 : 정말요?
+필라 : 정말요. 하지만 빨리요, 상사 모르게.
+이브라히마 : 정말 고맙습니다, 부인.
+필라 : 아직 고마워하지 마세요. 받을지 봐요.
+(필라가 번호를 누른다. 기다린다. 대기 음악이 들린다.)
+필라 : 통화 중이에요. 잠시 기다리세요.
+이브라히마 : 기다릴게요.
+필라 : 그동안 종이 한 장 드릴게요.
+이브라히마 : 무슨 종이요?
+필라 : 동네 협회 주소예요. 이런 절차를 도와줘요.
+이브라히마 : 무료인가요?
+필라 : 네, 무료예요. 자원봉사자들이 있어요. 화, 목 오전에 열어요.
+이브라히마 : 내일이 화요일이에요.
+필라 : 내일 가세요. 웹사이트와 이메일도 도와줄 거예요.
+이브라히마 : 아주 좋네요. 고마워요.
+필라 : 여기요. 도크토르 에스케르도 이웃 협회예요.
+이브라히마 : 내일 갈게요. 열 시에요.
+필라 : 아홉 시 반이 나아요. 줄이 길어요.
+이브라히마 : 알겠어요. 마마두와 같이 갈게요.
+필라 : 좋아요. 이제 전화를 다시 해 볼게요.
+마마두 : 아빠, 배고파.
+이브라히마 : 조금만 더, 아들. 거의 다 됐어.
+필라 : 이제 울려요. 기다리세요.
+(녹음된 목소리가 응답한다. 필라가 번호를 누른다.)
+필라 : 이번 선택, 주민 등록. 이제 상담원을 기다리세요.
+이브라히마 : 기다릴게요.
+필라 : 연결됐어요. 수화기를 받으세요.
+이브라히마 : 고맙습니다, 부인. 안녕하세요. 주민 등록 확인서를 신청하고 싶어요.
+(이브라히마가 상담원과 통화한다. 필라는 서류를 정리한다. 몇 분이 흐른다.)
+이브라히마 : (끊는다) 뭐라고 하는지 아세요?
+필라 : 몰라요. 말씀해 주세요.
+이브라히마 : 금요일까지는 우편으로 못 보낸대요.
+필라 : 금요일까지요?
+이브라히마 : 네. 원하면 예약하고 와서 받으래요.
+필라 : 또 예약이네요.
+이브라히마 : 또요. 가장 가까운 예약이 이십팔 일이에요.
+필라 : 정말 죄송해요. 왜 이런지 모르겠어요.
+이브라히마 : 저도요. 서류 한 장에 기다림이 너무 길어요.
+필라 : 저, 팀장님과 얘기해 볼게요. 뭔가 할 수 있을지.
+이브라히마 : 가능할까요?
+필라 : 모르겠어요. 약속은 못 드려요.
+이브라히마 : 어쨌든 고마워요.
+필라 : 여기서 기다리세요. 오 분 안에 올게요.
+이브라히마 : 여기서 기다릴게요.
+이브라히마 : 조금만 더, 아들. 거의 다 됐어.

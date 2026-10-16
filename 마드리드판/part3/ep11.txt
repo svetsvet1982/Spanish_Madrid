@@ -1,0 +1,288 @@
+# 3부 11화. El menú del día (오늘의 메뉴)
+난이도: 주 A2 | 구간: A2→B1→A2→A2→A2→B1 | 형식: 2인 대면 | 장소: 구시가지 식당 | 시간: 화요일 낮 2시
+등장인물: Nora, Paco
+이슈: 주 ○ 점심 메뉴 가격 | 곡선: 0-1-1-0-1-0 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 메뉴 가격이 올랐다는 말이 한마디 스침)
+상황 카드: 마드리드에 출장 온 노라가 점심에 식당에 들어간다. 종업원 파코가 오늘의 메뉴를 설명해 준다. 첫 번째 요리, 두 번째 요리, 후식, 음료를 고르는 과정이다. 걸림돌은 어휘와 속도. 결말은 계산을 하고 파코가 다음에 또 오라고 말하는 것.
+학습 포인트: 메뉴 읽기(primer plato, segundo plato, postre) · 주문하기(Quiero…, De primero…, De segundo…) · 음식 어휘 · 가격 묻기 · 정중한 부탁
+
+## 대화
+(Martes, las dos de la tarde. Un restaurante pequeño del centro. Nora entra con una mochila. Paco está en la puerta con una pizarra.)
+Paco : Buenas tardes. ¿Mesa para uno?
+Nora : Sí, para una persona, por favor.
+Paco : Pase. Puede sentarse ahí, junto a la ventana.
+Nora : Gracias. Es muy bonita la mesa.
+Paco : Gracias. Aquí tiene el menú del día.
+Nora : ¿El menú del día? ¿Qué es?
+Paco : Es una comida completa. Primer plato, segundo plato, postre y bebida.
+Nora : ¿Y cuánto cuesta?
+Paco : Catorce euros con cincuenta. Con pan y bebida.
+Nora : Me parece bien. ¿Qué hay hoy?
+Paco : De primero hay sopa, ensalada o lentejas.
+Nora : ¿Las lentejas son muy fuertes?
+Paco : Son normales. Con chorizo y verduras.
+Nora : Prefiero algo ligero. La ensalada, entonces.
+Paco : Muy bien. Ensalada mixta, con tomate y atún.
+Nora : Perfecto. Y de segundo, ¿qué hay?
+Paco : Hay pescado, pollo o carne con patatas.
+Nora : ¿Qué pescado es?
+Paco : Merluza. Es fresca de hoy.
+Nora : Quiero la merluza.
+Paco : Merluza a la plancha, con patatas. Muy bien.
+Nora : ¿Y de postre?
+Paco : Hay flan, fruta o helado.
+Nora : Quiero fruta, por favor.
+Paco : ¿Qué fruta prefiere? Hay naranja, manzana y plátano.
+Nora : Una manzana.
+Paco : Una manzana. Y de beber, ¿qué quiere?
+Nora : Agua sin gas, por favor.
+Paco : Agua sin gas. ¿Pequeña o grande?
+Nora : Una botella pequeña.
+Paco : Muy bien. Y vino o cerveza, si quiere, está incluido.
+Nora : No, gracias. Hoy trabajo.
+Paco : Entendido. ¿Quiere pan?
+Nora : Sí, pan, por favor.
+Paco : Ahora mismo se lo traigo.
+(Paco se va. Vuelve con el pan y una botella.)
+Paco : Aquí tiene el pan y el agua.
+Nora : Muchas gracias.
+Paco : De nada. En unos minutos, la ensalada.
+Nora : No hay prisa. Tengo una hora.
+Nora : Una pregunta. ¿Hay menú todos los días?
+Paco : De lunes a viernes. El fin de semana no.
+Nora : ¿Y por qué no?
+Paco : Porque los fines de semana viene más gente turista. Y el menú es para los trabajadores.
+Nora : Entiendo. Es una buena idea.
+Paco : Sí, es una tradición de España. Muy popular.
+Nora : En mi país no es así.
+Paco : ¿De dónde es usted?
+Nora : De Alemania. Vivo en Hamburgo.
+Paco : Ah, qué bien. ¿Y cuánto tiempo en Madrid?
+Nora : Tres días. Estoy aquí por trabajo.
+Paco : ¿Y qué le parece la ciudad?
+Nora : Me gusta mucho. Hay mucha vida.
+Paco : Es verdad. Sobre todo por la noche.
+Nora : Sí. Anoche cené a las diez y media.
+Paco : A las diez y media es temprano para nosotros.
+Nora : Ja, ja. Qué horarios más diferentes.
+Paco : Sí. Pero nos gustan.
+(Paco trae la ensalada.)
+Paco : Aquí tiene la ensalada mixta.
+Nora : Qué buena pinta. Gracias.
+Paco : Que aproveche.
+Nora : Igualmente. Es decir, gracias.
+Paco : Se dice «gracias» o «igualmente». Las dos están bien.
+Nora : Vale. Voy a probar la ensalada.
+Paco : Con calma.
+Nora : Mmm. Está muy rica.
+Paco : Me alegro. El atún es de lata, pero muy bueno.
+Nora : A mí me gusta el atún de lata.
+Paco : A mucha gente. Es barato y sabe bien.
+Nora : Los precios ahora están altos en todo el mundo, ¿verdad?
+Paco : Sí. Los precios suben. El año pasado el menú costaba trece euros.
+Nora : Un euro y medio más. No es mucho.
+Paco : No es mucho, pero se nota. Para nosotros también.
+Nora : Lo entiendo. Todo sube.
+Paco : Sí, pero aquí seguimos con el menú.
+Nora : Y eso es una suerte para los turistas.
+Paco : Y para los trabajadores. Mire, viene un grupo.
+Nora : ¿Son compañeros de oficina?
+Paco : Sí, son de una empresa de aquí al lado.
+Nora : Vienen todos los días.
+Paco : Casi todos. Les ponemos su mesa de siempre.
+Nora : Qué simpático. Ya tiene su comunidad.
+Paco : Un poco. Eso ayuda a que el menú siga.
+(Paco atiende a los recién llegados y vuelve con la merluza.)
+Paco : Aquí tiene la merluza a la plancha.
+Nora : Gracias. Qué bien huele.
+Paco : Es el limón. Un poquito de limón, y ya.
+Nora : ¿Puedo añadir sal?
+Paco : Sí, claro. La sal está en la mesa.
+Nora : La pruebo primero. Está perfecta.
+Paco : Me alegro. La cocinera es mi mujer.
+Nora : Dígale que cocina muy bien.
+Paco : Se lo digo. Se pondrá contenta.
+Nora : ¿Trabajan juntos?
+Paco : Sí. Ella en la cocina, yo en el comedor.
+Nora : Qué bonito trabajar en familia.
+Paco : A veces. A veces discutimos por la sal.
+Nora : Ja, ja. Eso pasa en todas las familias.
+Paco : Seguro. ¿Todo bien con el pescado?
+Nora : Todo perfecto. Gracias.
+Paco : Perfecto. Ahora le traigo el postre.
+(Nora termina. Paco recoge los platos y trae una manzana en un plato.)
+Paco : Su postre. Una manzana verde.
+Nora : Gracias. Es muy grande.
+Paco : Es de un pueblo de Aragón. Muy dulce.
+Nora : Voy a probarla. Está muy rica.
+Paco : Si quiere un café, está fuera del menú.
+Nora : ¿Cuánto cuesta el café?
+Paco : Un euro con veinte. Es barato.
+Nora : Sí, un café solo, por favor.
+Paco : Un café solo. Ahora mismo.
+(Paco trae el café.)
+Paco : Aquí tiene.
+Nora : Gracias. ¿Me trae la cuenta, por favor?
+Paco : Claro. Un momento. (escribe) Son quince con setenta.
+Nora : Quince setenta. ¿Puedo pagar con tarjeta?
+Paco : Sí, claro. Aquí tiene el datáfono.
+Nora : (paga) Ya está. Muchas gracias por todo.
+Paco : A usted. Ha sido un placer.
+Nora : Volveré mañana, creo. ¿Habrá menú?
+Paco : Habrá menú. Mañana hay paella.
+Nora : ¡Paella! Entonces vuelvo.
+Paco : Aquí estaremos. Hasta mañana, Nora.
+Nora : Hasta mañana, Paco.
+
+## 낭독 포인트
+- z/c: «cincuenta», «cerveza», «gracias», «catorce» — [θ]. «Gracias»는 [ɡɾá-θjas].
+- j/g: «jamón», «mejor», «gente», «Aragón» — 강한 [x] (Aragón의 g는 부드러운 [ɣ]). «Mejor»는 [me-xór].
+- ll/y: «llevo», «ya», «yo», «paella» — [ʝ]. «Paella»는 [pa-é-ʝa].
+- 숫자 읽기: catorce con cincuenta(14,50), quince con setenta(15,70), un euro con veinte(1,20)를 또박또박.
+- 억양: 주문(Quiero la merluza)은 분명하게, 질문(¿Qué fruta prefiere?)은 올린다. 파코의 환대는 따뜻하게.
+- 호칭: 종업원과 손님은 usted. 끝에서 이름을 부른다.
+
+## 학습 포인트 정리
+- A2 구간(1~20, 61~100턴): 메뉴와 주문
+  · 메뉴 구성: «primer plato, segundo plato, postre y bebida»
+  · 주문: «De primero, la ensalada.», «Quiero la merluza.», «Agua sin gas, por favor.»
+  · 질문: «¿Cuánto cuesta?», «¿Qué hay hoy?», «¿Qué fruta prefiere?»
+  · 음식 어휘: la sopa, la ensalada, las lentejas, la merluza, el pollo, el flan, la fruta, el pan.
+- B1 구간(21~60, 101~120턴): 대화와 가격
+  · 일상 대화: «¿De dónde es usted?», «Vivo en Hamburgo.», «Estoy aquí por trabajo.»
+  · 가격 변화: «El año pasado el menú costaba trece euros.», «Un euro y medio más.»
+  · 인사: «Que aproveche.», «Igualmente.», «Hasta mañana.»
+
+## 속어 노트
+- «Que aproveche»: 맛있게 드세요. 대답은 «Gracias» 또는 «Igualmente».
+- «A la plancha»: 철판에 구운.
+- «Está fuera del menú»: 메뉴에 포함되지 않았다(추가 요금).
+- 메뉴 가격(14.50유로)과 변동은 이야기 속 설정이다. 실제 가격은 지역과 시기에 따라 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(화요일 오후 두 시. 도심의 작은 식당. 노라가 배낭을 메고 들어온다. 파코가 칠판을 들고 문 앞에 서 있다.)
+파코 : 안녕하세요. 한 분이세요?
+노라 : 네, 한 명이에요.
+파코 : 들어오세요. 저기 창가에 앉으세요.
+노라 : 고마워요. 자리가 예쁘네요.
+파코 : 고맙습니다. 여기 오늘의 메뉴예요.
+노라 : 오늘의 메뉴요? 그게 뭐예요?
+파코 : 완전한 점심이에요. 첫 번째 요리, 두 번째 요리, 후식, 음료요.
+노라 : 얼마예요?
+파코 : 십사 유로 오십 센트예요. 빵과 음료 포함이에요.
+노라 : 좋네요. 오늘은 뭐가 있어요?
+파코 : 첫 번째는 수프, 샐러드, 렌틸콩이 있어요.
+노라 : 렌틸콩은 아주 든든해요?
+파코 : 보통이에요. 초리소와 채소가 들어가요.
+노라 : 가벼운 게 좋아요. 그럼 샐러드요.
+파코 : 좋아요. 토마토와 참치를 넣은 믹스 샐러드예요.
+노라 : 완벽해요. 두 번째는 뭐가 있어요?
+파코 : 생선, 닭고기, 감자를 곁들인 고기가 있어요.
+노라 : 생선은 뭐예요?
+파코 : 대구예요. 오늘 신선한 거예요.
+노라 : 대구로 할게요.
+파코 : 감자를 곁들인 구운 대구. 좋아요.
+노라 : 후식은요?
+파코 : 플란, 과일, 아이스크림이 있어요.
+노라 : 과일로 할게요.
+파코 : 어떤 과일로 하시겠어요? 오렌지, 사과, 바나나가 있어요.
+노라 : 사과요.
+파코 : 사과요. 마실 건 뭘로 하시겠어요?
+노라 : 탄산 없는 물이요.
+파코 : 탄산 없는 물. 작은 걸로요, 큰 걸로요?
+노라 : 작은 병으로요.
+파코 : 알겠어요. 원하시면 와인이나 맥주도 포함이에요.
+노라 : 아니요, 괜찮아요. 오늘은 일해야 해서요.
+파코 : 알겠습니다. 빵 드릴까요?
+노라 : 네, 빵 주세요.
+파코 : 지금 바로 가져올게요.
+(파코가 나갔다가 빵과 병을 들고 돌아온다.)
+파코 : 빵과 물이에요.
+노라 : 정말 고마워요.
+파코 : 별말씀을요. 몇 분 뒤에 샐러드가 나와요.
+노라 : 서두르지 않아요. 한 시간 있어요.
+노라 : 하나 물어볼게요. 메뉴는 매일 있어요?
+파코 : 월요일부터 금요일까지요. 주말에는 없어요.
+노라 : 왜 없어요?
+파코 : 주말에는 관광객이 더 많이 와서요. 메뉴는 일하는 사람들을 위한 거예요.
+노라 : 알겠어요. 좋은 생각이네요.
+파코 : 네, 스페인의 전통이에요. 아주 인기가 많아요.
+노라 : 우리나라에는 이런 게 없어요.
+파코 : 어느 나라에서 오셨어요?
+노라 : 독일이요. 함부르크에 살아요.
+파코 : 아, 좋네요. 마드리드에는 얼마나 계세요?
+노라 : 사흘이요. 출장으로 왔어요.
+파코 : 도시는 어떠세요?
+노라 : 아주 좋아요. 활기가 넘쳐요.
+파코 : 맞아요. 특히 밤에는요.
+노라 : 네. 어젯밤에는 열 시 반에 저녁을 먹었어요.
+파코 : 열 시 반이면 우리에겐 이른 편이에요.
+노라 : 하하. 시간대가 참 다르네요.
+파코 : 네. 그래도 우린 좋아해요.
+(파코가 샐러드를 가져온다.)
+파코 : 믹스 샐러드예요.
+노라 : 맛있어 보여요. 고마워요.
+파코 : 맛있게 드세요.
+노라 : 당신도요. 아니, 고맙습니다.
+파코 : '고맙습니다'나 '당신도요'라고 해요. 둘 다 좋아요.
+노라 : 알겠어요. 샐러드 먹어 볼게요.
+파코 : 천천히요.
+노라 : 음. 아주 맛있어요.
+파코 : 다행이네요. 참치는 통조림이지만 아주 좋은 거예요.
+노라 : 저는 통조림 참치 좋아해요.
+파코 : 많은 사람이 그래요. 싸고 맛있으니까요.
+노라 : 요즘은 어디나 물가가 높죠?
+파코 : 네. 물가가 올라요. 작년에 메뉴가 십삼 유로였어요.
+노라 : 일 유로 오십 센트 더요. 많지는 않네요.
+파코 : 많지는 않지만 체감돼요. 우리에게도요.
+노라 : 이해해요. 다 오르니까요.
+파코 : 네, 그래도 우리는 메뉴를 계속해요.
+노라 : 관광객에게는 행운이네요.
+파코 : 일하는 사람들에게도요. 보세요, 단체가 와요.
+노라 : 회사 동료들이에요?
+파코 : 네, 바로 옆 회사 사람들이에요.
+노라 : 매일 오나 봐요.
+파코 : 거의 매일요. 늘 앉는 자리를 마련해 둬요.
+노라 : 다정하네요. 이미 단골이 있군요.
+파코 : 조금요. 그래서 메뉴가 이어지는 거예요.
+(파코가 새로 온 손님들을 맞이한 뒤 대구를 가지고 돌아온다.)
+파코 : 구운 대구예요.
+노라 : 고마워요. 냄새가 좋네요.
+파코 : 레몬 덕분이에요. 레몬을 조금 짜면 돼요.
+노라 : 소금을 더 쳐도 되나요?
+파코 : 네, 그럼요. 소금은 탁자에 있어요.
+노라 : 먼저 먹어 볼게요. 완벽해요.
+파코 : 다행이에요. 요리사는 제 아내예요.
+노라 : 요리를 아주 잘한다고 전해 주세요.
+파코 : 전할게요. 기뻐할 거예요.
+노라 : 같이 일하세요?
+파코 : 네. 아내는 주방, 저는 홀에서요.
+노라 : 가족이 함께 일하다니 좋네요.
+파코 : 가끔은요. 가끔은 소금 때문에 싸워요.
+노라 : 하하. 어느 가족에게나 있는 일이에요.
+파코 : 그렇죠. 생선은 괜찮으세요?
+노라 : 다 완벽해요. 고마워요.
+파코 : 좋아요. 이제 후식을 가져올게요.
+(노라가 식사를 마친다. 파코가 접시를 치우고 사과를 접시에 담아 가져온다.)
+파코 : 후식입니다. 초록 사과예요.
+노라 : 고마워요. 아주 크네요.
+파코 : 아라곤의 한 마을 거예요. 아주 달아요.
+노라 : 먹어 볼게요. 아주 맛있어요.
+파코 : 커피를 원하시면 메뉴에는 포함되지 않아요.
+노라 : 커피는 얼마예요?
+파코 : 일 유로 이십 센트예요. 싸요.
+노라 : 네, 에스프레소 한 잔 주세요.
+파코 : 에스프레소요. 바로 드릴게요.
+(파코가 커피를 가져온다.)
+파코 : 여기 있어요.
+노라 : 고마워요. 계산서 주시겠어요?
+파코 : 그럼요. 잠깐만요. (적는다) 십오 유로 칠십 센트예요.
+노라 : 십오 칠십이요. 카드로 낼 수 있어요?
+파코 : 네, 그럼요. 단말기 여기 있어요.
+노라 : (결제한다) 됐어요. 모든 게 정말 고마웠어요.
+파코 : 저희가 고맙죠. 즐거웠어요.
+노라 : 내일 또 올 것 같아요. 메뉴가 있나요?
+파코 : 있어요. 내일은 파에야예요.
+노라 : 파에야요! 그럼 올게요.
+파코 : 기다리고 있을게요. 내일 봐요, 노라.
+노라 : 내일 봐요, 파코.

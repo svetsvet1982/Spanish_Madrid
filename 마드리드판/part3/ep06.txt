@@ -1,0 +1,288 @@
+# 3부 6화. El bar que cierra (문 닫는 바)
+난이도: 주 C1 | 구간: C1→C1→B2→B2→C1→C1 | 형식: 2인 + 단체 메시지 | 장소: 라바피에스 바 "Casa Fermín" 마감 후 | 시간: 일요일 밤 11시
+등장인물: Nuria, Álvaro, Pilar, Toño
+이슈: 주 ● 오래된 동네 가게의 임대 갱신과 폐업 | 곡선: 0-1-2-3-2-1 (정점형, 상한 3) | 입장: A 누리아(삼십 년 세 든 가게를 지키고 싶다) / B 알바로(월세가 두 배라 계산이 안 맞으니 정리하고 쉬자) / C 이웃 단체방(가게를 살리자는 쪽과 현실을 말하는 쪽)
+상황 카드: 마감 후 텅 빈 바에서 누리아와 조카 알바로가 임대 갱신 통지서를 놓고 마주 앉는다. 건물주가 월세를 두 배로 올리겠다고 했다. 이웃 단체방에서는 메시지가 쏟아진다. 걸림돌은 누리아의 자존심과 알바로의 계산. 결말은 결정을 내리지 못한 채 마지막 영업일을 정하는 것.
+학습 포인트: 복잡한 의견 표현(En el fondo, A mi modo de ver) · 가정(Si pudiera, Aunque quisiera) · 숫자와 계약 어휘(el alquiler, la prórroga, el traspaso) · 감정과 체념의 표현 · 단체 메시지 문체
+
+## 대화
+(Domingo, once de la noche. Casa Fermín, en Lavapiés, ya sin clientes. Las sillas están sobre las mesas. Nuria cuenta la caja. Su sobrino Álvaro llega con una carpeta y se sienta en la barra. El móvil de Nuria vibra sin parar sobre el mostrador.)
+Álvaro : Tía, ¿te queda mucho?
+Nuria : Cinco minutos. La caja no se cuenta sola.
+Nuria : Pues siéntate, que te sirvo algo.
+Álvaro : Un vermut, si hay.
+Nuria : Siempre hay. Es lo único que nunca falta aquí.
+Álvaro : Gracias. ¿Y el ambiente de hoy?
+Nuria : Flojo para ser domingo. Ha habido más curiosos que clientes.
+Nuria : El encanto no paga la luz.
+Álvaro : Pues eso quería hablar contigo.
+Nuria : Ya me lo imaginaba. Trae la carpeta.
+Álvaro : ¿Has abierto la carta que te mandaron?
+Nuria : La abrí. Y la volví a cerrar.
+(El móvil vibra. Nuria lo mira sin cogerlo.)
+Pilar : (mensaje) Nuria, ¿es verdad lo que dicen del local?
+Toño : (mensaje) Si hace falta, hacemos una recogida de firmas.
+Nuria : Ya empiezan. Este grupo del barrio no duerme.
+Álvaro : Déjame verlo. ¿Qué dicen?
+Nuria : Que si es verdad. Y que si firman.
+Álvaro : Bueno. Abramos la carpeta.
+Nuria : Ábrela tú. A mí me tiemblan las manos.
+Álvaro : A ver. «Prórroga del contrato de arrendamiento del local».
+Álvaro : «A partir del uno de enero, la renta mensual será de cuatro mil doscientos euros».
+Nuria : Repite la cifra.
+Álvaro : Cuatro mil doscientos.
+Nuria : Ahora pago dos mil cien.
+Álvaro : Sí. Es exactamente el doble.
+Nuria : Lo llaman «actualización de mercado».
+Álvaro : Tía, vamos por partes. ¿Cuánto facturas al mes?
+Nuria : Depende del mes. Entre doce y catorce mil, con suerte.
+Álvaro : Y los gastos fijos, sin contar la renta?
+Nuria : Proveedores, luz, sueldos, la gestoría. Unos nueve mil.
+Álvaro : O sea, que ahora te quedan tres o cuatro mil, antes de la renta.
+Nuria : Menos la renta, me quedan mil y pico.
+Álvaro : Con la nueva renta, no te queda nada.
+Álvaro : Tía, en el fondo yo no quiero que cierres.
+Nuria : Pues no lo parece.
+Álvaro : Quiero que no te mueras trabajando aquí.
+Nuria : Mira, tu tío Fermín se murió con el trapo en la mano.
+Álvaro : Y por eso te lo digo. No quiero lo mismo para ti.
+Nuria : Esto es mi vida, Álvaro. No es un trabajo.
+Álvaro : A mi modo de ver, es las dos cosas. Y a veces la vida ahoga.
+(El móvil vuelve a vibrar.)
+Toño : (mensaje) Nuria, si cierras, ¿dónde vamos a tomar el vermú los domingos?
+Pilar : (mensaje) Yo no sé de otro sitio donde te fíen un café.
+Nuria : Ya ves. Me quieren por el fiado.
+Álvaro : Eso es otro problema. ¿Cuánto te deben?
+Nuria : No me deben. Me tienen confianza, que es distinto.
+Álvaro : Con todo el cariño del mundo: el negocio no es viable.
+Nuria : ¿Y si me lo traspaso a alguien?
+Álvaro : ¿A quién?
+Nuria : Hay un chico que ha preguntado. Quiere abrir algo de moda.
+Álvaro : Un bar de moda. Con cerveza artesanal y barra de mármol.
+Nuria : Con mármol, sí.
+Álvaro : Y con carta de precios que no podrán pagar los vecinos.
+Nuria : Lo sé. Es el negocio de ahora.
+Álvaro : ¿Y eso te gustaría? ¿Ver tu barra convertida en eso?
+Nuria : No. Pero al menos seguiría abierta.
+Álvaro : Abierta, sí. Pero ya no sería Casa Fermín.
+Nuria : El nombre se queda en la placa de la puerta, si quieren.
+Álvaro : ¿Y el traspaso cuánto te daría?
+Nuria : Me ha dicho ochenta mil, de entrada.
+Álvaro : Ochenta mil. Es una cifra seria.
+Nuria : Es casi lo que gané en cinco años.
+Álvaro : Podría ser tu jubilación, tía.
+Nuria : O mi traición. Según con quién hable.
+Álvaro : ¿Traición a quién?
+Nuria : A los que vienen. A tu tío. A mí misma.
+Álvaro : Nadie va a decir eso.
+Nuria : Lo dirá Toño. Lo dirá Pilar. Lo diré yo, cada mañana.
+Álvaro : Quizá sí. Pero también habrá quien diga: «Se lo ha ganado».
+Nuria : Eso lo dirán dos personas. Las otras cien dirán lo otro.
+Álvaro : Tía, no se vive de lo que digan.
+Nuria : No, se vive de lo que uno puede mirar a la cara.
+Álvaro : Pues entonces hay que mirarla bien. ¿Qué prefieres?
+Nuria : Prefiero que el dueño no me haga esto.
+Álvaro : Eso no depende de ti. Depende de la ley y del mercado.
+Nuria : La ley dice que él puede subir, y yo puedo irme.
+Álvaro : Así es. No te protege más que eso.
+Nuria : Ya. Por eso me da tanta rabia.
+Álvaro : Hay otra opción: negociar. Proponer una subida gradual.
+Nuria : Lo he intentado. Me ha contestado su abogado.
+Álvaro : ¿Y qué dice?
+Nuria : Que el contrato no obliga a nada, que tiene ofertas, que lo siente.
+Álvaro : «Que lo siente». Qué bonito.
+Nuria : Muy bonito. Con un sello al lado.
+(Se oye la verja de la calle. Alguien llama con los nudillos.)
+Pilar : Nuria, soy Pilar. ¿Puedo pasar?
+Nuria : Pasa, mujer. Pero que sea breve, que estamos hablando.
+Pilar : Es solo un segundo. Traigo una cosa.
+Nuria : ¿Qué es eso?
+Pilar : Una hoja con cuarenta firmas. Y esto: cien euros del grupo.
+Nuria : Pilar, no puedo aceptarlo.
+Pilar : No es para ti. Es para el abogado, si lo necesitas.
+Álvaro : Es un gesto precioso, Pilar. Pero no cambia las cuentas.
+Pilar : Lo sé. Pero cambia el ánimo.
+Nuria : Eso sí. Gracias de corazón, Pilar.
+Pilar : Que sepas que no estás sola. Eso es lo importante.
+Nuria : Lo sé. Pero a las ocho de la mañana, cuando abro, estoy sola.
+Pilar : Entonces ven a mi casa a las ocho. Te preparo el café.
+Nuria : Anda, que me vas a hacer llorar.
+Álvaro : Tía, ¿y si nos damos una semana para pensar?
+Nuria : Una semana. Está bien.
+Álvaro : Y quedamos otra vez, con calma, con números.
+Nuria : Con números y con vermut.
+Pilar : Y con firmas, que ya tengo cuarenta.
+Nuria : Anda, vete a dormir, Pilar. Mañana vuelves.
+Pilar : Vuelvo. Hasta mañana, Nuria. Hasta mañana, Álvaro.
+Álvaro : Hasta mañana, Pilar.
+(Pilar sale. La verja vuelve a sonar. Nuria apaga una luz.)
+Nuria : ¿Sabes qué es lo peor?
+Álvaro : Dime.
+Nuria : Que tenía pensado cerrar en diez años, con mi pie.
+Álvaro : Con tu pie y con una fiesta.
+Nuria : Con una fiesta de las grandes. Con paella.
+Álvaro : Aún puede haber fiesta.
+Nuria : Una fiesta de despedida, ¿no?
+Álvaro : Una fiesta, sí. Aunque no sea el final.
+Nuria : Está bien. El treinta y uno de diciembre, última noche.
+Álvaro : Si no hay otra solución.
+Nuria : Si no la hay. Pero la fiesta la hago igual.
+Álvaro : Trato hecho. Yo traigo el vermut.
+Nuria : Tú traes las sillas. El vermut lo pongo yo.
+Álvaro : Qué testaruda eres.
+Nuria : Soy tu tía. Es mi obligación.
+
+## 낭독 포인트
+- z/c: «cinco», «cifra», «actualización», «gracias», «alquiler» — [θ]. «Actualización»은 [ak-twa-li-θa-θjón].
+- j/g: «gestoría», «jubilación», «ajena», «Álvaro» — 강한 [x]. «Jubilación»은 [xu-βi-la-θjón].
+- ll/y: «llamo», «llorar», «ya», «yo» — [ʝ].
+- 억양: 숫자를 말하는 대목(Cuatro mil doscientos)은 한 박자 쉬고 무겁게 내린다. 누리아의 체념(Qué fácil es decir «mercado»…)은 낮고 건조하게.
+- 메시지: 단체방 메시지(Pilar, Toño)는 가볍고 빠르게 읽어 대화 톤과 구분한다.
+- 호칭: 조카와 숙모 사이라 tú. 이웃 필라와도 tú. 변호사와는 간접적으로만 등장.
+
+## 학습 포인트 정리
+- C1 구간(1~40, 81~120턴): 감정과 체념, 복잡한 의견
+  · 완곡한 반박: «A mi modo de ver, es las dos cosas.», «En el fondo yo no quiero que cierres.»
+  · 비꼼: «Claro eres, hijo. Como la lejía.», «Qué fácil es decir “mercado” cuando no te toca pagarlo.»
+  · 대비: «No es para ti. Es para el abogado.», «Abierta, sí. Pero ya no sería Casa Fermín.»
+  · 체념과 결정: «Si no la hay. Pero la fiesta la hago igual.»
+- B2 구간(41~80턴): 숫자와 계약
+  · 계약 어휘: la renta, la prórroga, el traspaso, el contrato, el arrendamiento, la gestoría, el fiado.
+  · 숫자: «Cuatro mil doscientos.», «Es exactamente el doble.», «Entre doce y catorce mil.»
+  · 가정: «¿Y si me lo traspaso a alguien?», «Si no hay otra solución.»
+- 단체 메시지 문체: «Nuria, ¿es verdad lo que dicen del local?», «Si hace falta, hacemos una recogida de firmas.»
+
+## 속어 노트
+- «El fiado»: 외상(바에서 커피를 외상으로 주는 오랜 관습).
+- «Como la lejía»: 표백제처럼 명쾌하다(비꼬는 칭찬).
+- «Pintarlo»: 그림을 그리듯 설명하다. «No hace falta que me lo pintes»는 굳이 설명하지 마.
+- «Ser un altavoz»: 말을 널리 퍼뜨리는 사람.
+- 임대료, 매출, 양도금과 법적 구조는 이야기 속 설정이다. 실제 임대 갱신 규정은 계약과 시기에 따라 다르므로 확인이 필요하다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(일요일 밤 열한 시. 라바피에스의 카사 페르민에는 손님이 없다. 의자가 탁자 위에 올려져 있다. 누리아가 돈통을 센다. 조카 알바로가 서류철을 들고 와서 바에 앉는다. 누리아의 휴대폰이 카운터 위에서 쉬지 않고 진동한다.)
+알바로 : 숙모, 많이 남았어요?
+누리아 : 오 분. 돈통은 혼자 세어지지 않아.
+누리아 : 그럼 앉아, 뭐라도 내줄게.
+알바로 : 베르무트 한 잔요, 있으면.
+누리아 : 늘 있어. 여기서 안 떨어지는 건 그것뿐이야.
+알바로 : 고마워요. 오늘 분위기는 어땠어요?
+누리아 : 일요일치곤 시들했어. 손님보다 구경꾼이 더 많았지.
+누리아 : 분위기는 전기세를 안 내 줘.
+알바로 : 그 얘기를 하러 왔어요.
+누리아 : 짐작했어. 서류철 가져와.
+알바로 : 받은 편지는 열어 봤어요?
+누리아 : 열었지. 그리고 다시 닫았어.
+(휴대폰이 진동한다. 누리아는 받지 않고 쳐다본다.)
+필라 : (메시지) 누리아, 가게 얘기 사실이야?
+토뇨 : (메시지) 필요하면 서명 운동을 하자.
+누리아 : 벌써 시작이네. 동네 단체방은 잠도 안 자.
+알바로 : 저도 볼래요. 뭐라고 해요?
+누리아 : 사실이냐고. 그리고 서명할까 하고.
+알바로 : 그럼 서류철 열어 봐요.
+누리아 : 네가 열어. 난 손이 떨려.
+알바로 : 어디 봐요. '상가 임대차 계약 연장'.
+알바로 : '1월 1일부터 월 임대료는 사천이백 유로로 한다.'
+누리아 : 금액 다시 말해 봐.
+알바로 : 사천이백요.
+누리아 : 지금은 이천백을 내.
+알바로 : 네. 정확히 두 배예요.
+누리아 : '시장 시세 반영'이라고 부르더라.
+알바로 : 숙모, 하나씩 해요. 한 달 매출이 얼마예요?
+누리아 : 달마다 달라. 운이 좋으면 만이천에서 만사천.
+알바로 : 임대료 빼고 고정비는요?
+누리아 : 납품업체, 전기, 월급, 세무사. 한 구천 정도.
+알바로 : 그러니까 임대료 내기 전에 삼사천이 남네요.
+누리아 : 임대료 내면 천 몇백이 남지.
+알바로 : 새 임대료를 내면 남는 게 없어요.
+알바로 : 숙모, 사실 저는 숙모가 문 닫는 걸 원하지 않아요.
+누리아 : 그렇게 안 보이는데.
+알바로 : 여기서 일하다 쓰러지지 않으셨으면 해서요.
+누리아 : 네 삼촌 페르민은 행주를 손에 든 채 죽었어.
+알바로 : 그래서 말씀드리는 거예요. 숙모는 그러지 않으셨으면 해요.
+누리아 : 이건 내 삶이야, 알바로. 일이 아니라.
+알바로 : 제 생각엔 둘 다예요. 그리고 가끔은 삶이 숨통을 조이죠.
+(휴대폰이 다시 진동한다.)
+토뇨 : (메시지) 누리아, 문 닫으면 일요일마다 베르무트는 어디서 마셔?
+필라 : (메시지) 커피를 외상으로 주는 다른 곳은 나는 몰라.
+누리아 : 봤지? 외상 때문에 나를 좋아하는 거야.
+알바로 : 그것도 또 다른 문제예요. 외상이 얼마예요?
+누리아 : 외상이 아니야. 믿어 주는 거지, 다르잖아.
+알바로 : 숙모에 대한 애정을 다 담아 말씀드리지만, 이 가게는 수지가 안 맞아요.
+누리아 : 누구한테 양도하면 어때?
+알바로 : 누구한테요?
+누리아 : 물어본 청년이 있어. 유행하는 걸 열고 싶대.
+알바로 : 유행하는 바요. 수제 맥주에 대리석 바 있는.
+누리아 : 대리석, 그래.
+알바로 : 그리고 동네 사람들은 못 낼 가격표도요.
+누리아 : 알아. 요즘 장사가 그래.
+알바로 : 그게 마음에 들겠어요? 숙모의 바가 그렇게 바뀌는 걸 보는 게?
+누리아 : 아니. 그래도 적어도 열려 있긴 하겠지.
+알바로 : 열려 있긴 하겠죠. 하지만 더는 카사 페르민이 아니에요.
+누리아 : 원하면 이름은 문 간판에 남겨 두라지.
+알바로 : 양도금은 얼마나 받을 수 있어요?
+누리아 : 선금으로 팔만 유로라더라.
+알바로 : 팔만. 진지한 금액이네요.
+누리아 : 오 년 동안 번 거나 비슷해.
+알바로 : 숙모의 노후 자금이 될 수도 있어요.
+누리아 : 아니면 내 배신이 되거나. 누구한테 말하느냐에 따라.
+알바로 : 누구에 대한 배신요?
+누리아 : 오는 사람들에게. 네 삼촌에게. 나 자신에게.
+알바로 : 아무도 그런 말은 안 할 거예요.
+누리아 : 토뇨가 하겠지. 필라가 하겠지. 나는 매일 아침 하겠지.
+알바로 : 그럴 수도 있죠. 하지만 '그럴 자격 있다'고 할 사람도 있을 거예요.
+누리아 : 두 사람이 그러겠지. 나머지 백 명은 다른 말을 할 거야.
+알바로 : 숙모, 사람들이 하는 말로 먹고사는 건 아니에요.
+누리아 : 아니, 사람들 얼굴을 똑바로 볼 수 있는 걸로 먹고사는 거야.
+알바로 : 그럼 얼굴을 잘 봐야죠. 어느 쪽을 택하고 싶으세요?
+누리아 : 건물주가 이러지 않았으면 좋겠어.
+알바로 : 그건 숙모에게 달려 있지 않아요. 법과 시장에 달려 있죠.
+누리아 : 법은 그가 올릴 수 있고 나는 나갈 수 있다고 해.
+알바로 : 맞아요. 그 이상으로는 보호해 주지 않아요.
+누리아 : 그래. 그래서 이렇게 화가 나.
+알바로 : 다른 길도 있어요. 협상하는 거요. 점진적 인상을 제안하는 거죠.
+누리아 : 해 봤어. 그쪽 변호사가 답했어.
+알바로 : 뭐라고 해요?
+누리아 : 계약상 의무는 없고, 다른 제안들이 있고, 유감이래.
+알바로 : '유감이래요.' 참 멋지네요.
+누리아 : 아주 멋지지. 도장까지 찍혀서.
+(바깥 셔터 소리가 난다. 누군가 손마디로 문을 두드린다.)
+필라 : 누리아, 나 필라야. 들어가도 돼?
+누리아 : 들어와, 이 사람아. 짧게 해, 얘기 중이니까.
+필라 : 잠깐이면 돼. 가져온 게 있어.
+누리아 : 그게 뭐야?
+필라 : 서명 마흔 명 받은 종이야. 그리고 이거, 단체방에서 모은 백 유로.
+누리아 : 필라, 받을 수 없어.
+필라 : 너한테 주는 게 아니야. 변호사한테 필요하면 쓰라고.
+알바로 : 정말 멋진 마음이에요, 필라. 하지만 계산은 바뀌지 않아요.
+필라 : 알아. 그래도 기운은 바뀌잖아.
+누리아 : 그건 그래. 진심으로 고마워, 필라.
+필라 : 너는 혼자가 아니라는 걸 알아 둬. 그게 중요해.
+누리아 : 알아. 그래도 아침 여덟 시에 가게 열 때는 혼자야.
+필라 : 그럼 여덟 시에 우리 집에 와. 커피 내려 줄게.
+누리아 : 아이고, 울리겠네.
+알바로 : 숙모, 일주일 동안 생각해 볼까요?
+누리아 : 일주일. 좋아.
+알바로 : 그리고 다시 만나요, 차분하게, 숫자를 가지고.
+누리아 : 숫자랑 베르무트랑.
+필라 : 그리고 서명이랑. 벌써 마흔 개야.
+누리아 : 어서 가서 자, 필라. 내일 다시 오고.
+필라 : 올게. 내일 보자, 누리아. 내일 봐요, 알바로.
+알바로 : 내일 봐요, 필라.
+(필라가 나간다. 셔터가 다시 울린다. 누리아가 불 하나를 끈다.)
+누리아 : 제일 힘든 게 뭔지 알아?
+알바로 : 말해 봐요.
+누리아 : 십 년 뒤에 내 발로 닫으려고 했다는 거.
+알바로 : 숙모 발로, 그리고 잔치와 함께요.
+누리아 : 큰 잔치와 함께. 파에야도 하고.
+알바로 : 잔치는 아직 할 수 있어요.
+누리아 : 작별 잔치 말이지?
+알바로 : 잔치요, 네. 끝이 아니더라도요.
+누리아 : 좋아. 십이월 삼십일 일, 마지막 밤.
+알바로 : 다른 방법이 없다면요.
+누리아 : 없다면. 하지만 잔치는 어차피 해.
+알바로 : 약속해요. 제가 베르무트를 가져올게요.
+누리아 : 넌 의자를 가져와. 베르무트는 내가 내.
+알바로 : 정말 고집불통이세요.
+누리아 : 네 숙모잖니. 그게 내 의무야.

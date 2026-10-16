@@ -1,0 +1,287 @@
+# 4부 6화. Teletrabajo desde el salón (거실에서 재택근무)
+난이도: 주 B1 | 구간: B1→A2→B1→B1→B2→B1 | 형식: 화상+2인 | 장소: 마드리드 공유 아파트 거실 | 시간: 수요일 오전 10시
+등장인물: Sara, Tomás, Jefe
+이슈: 주 ◐ 재택근무 비용과 공유 주택 공간 문제 | 곡선: 0-2-0-2-1-2 (파도형, 상한 2) | 입장: A 사라(재택근무를 하지만 방이 없어 거실을 쓴다, 전기·인터넷 비용도 부담) / B 토마스(룸메이트, 거실을 같이 쓰고 싶고 소음에 지쳤다) / C 상사(화면 속, 비용 보전은 없다고 말한다)
+상황 카드: 사라는 방이 작아 거실에서 재택근무를 한다. 룸메이트 토마스는 아침마다 거실에서 운동과 청소를 한다. 중간중간 상사와의 화상 회의가 끼어든다. 걸림돌은 소음, 전기세, 월세. 결말은 시간표를 정해 거실 사용을 나누기로 하지만 비용 문제는 남는다.
+학습 포인트: 일상 갈등 조정(¿Te importa si…?, Si te parece bien…) · 일정과 시간 약속 · 비용 이야기 · 부탁과 제안 · 화상 회의 중 사적인 상황 처리
+
+## 대화
+(Miércoles, diez de la mañana. El salón de un piso compartido en Embajadores. Sara tiene el portátil sobre la mesa de comer. Tomás sale de su habitación con una esterilla de yoga.)
+Tomás : Buenos días. ¿Otra vez trabajando en el salón?
+Sara : Buenos días. Sí, otra vez. Mi cuarto es muy pequeño.
+Tomás : Ya, pero yo quería hacer yoga aquí.
+Sara : ¿A las diez? Tengo una reunión a las diez y cuarto.
+Tomás : Yo hago yoga a las diez. Siempre.
+Sara : Esta semana no. Tengo reuniones toda la mañana.
+Tomás : ¿Toda la mañana?
+Sara : Sí. De diez a una, con descanso a las doce.
+Tomás : Uf. ¿Y yo qué hago?
+Sara : ¿Puedes hacerlo en tu cuarto?
+Tomás : Mi cuarto es todavía más pequeño que el tuyo.
+Sara : Pero tiene espacio para una esterilla.
+Tomás : Apenas. Se pega a la cama.
+Sara : Te propongo algo. Yo termino a la una y tú haces yoga después.
+Tomás : A la una y media tengo que salir a trabajar.
+Sara : Entonces, a las doce, en mi descanso. Media hora.
+Tomás : Vale. A las doce, entonces.
+Sara : Perfecto. Gracias.
+Tomás : Oye, ¿puedo preguntarte algo?
+Sara : Dime.
+Tomás : ¿Cuánto te paga tu empresa por trabajar desde casa?
+Sara : Nada. Ni la luz, ni el internet, ni la silla.
+Tomás : ¿Nada? Eso no me parece justo.
+Sara : Dicen que es una opción mía, no una obligación.
+Tomás : Pero si no hay oficina para ti, ¿qué opción hay?
+Sara : Hay una oficina, pero está lejos y es incómoda.
+Tomás : ¿Cuánto tardas en llegar?
+Sara : Una hora y diez. Cada día, dos horas y veinte.
+Tomás : Prefiero tu opción, entonces.
+Sara : Yo también. Pero cuesta dinero.
+Tomás : ¿Cuánto más gastas al mes?
+Sara : Unos treinta euros de luz. Y la tarifa de internet más rápida.
+Tomás : ¿Treinta euros solo tú?
+Sara : Sí, porque trabajo con dos pantallas y el aire acondicionado.
+Tomás : Hmm. Entonces la factura sube por tu culpa.
+Sara : Un poco. Pero la pago a medias contigo, ¿no?
+Tomás : Sí. Quizá deberíamos hablar de eso.
+Sara : Tienes razón. Lo hablamos el domingo.
+Tomás : Vale. No me enfado, solo quiero que sea justo.
+Sara : Claro. Yo también.
+Tomás : Y gracias por no enfadarte.
+Sara : Gracias a ti por decírmelo con calma.
+(El portátil suena. Es una llamada entrante.)
+Sara : Perdona, es mi jefe. Tengo que contestar.
+Tomás : Contesta, contesta. Yo me voy a la cocina.
+Sara : Gracias. Hazme el favor de no hacer ruido.
+Tomás : Prometido.
+(Sara se pone los auriculares. En la pantalla aparece el rostro del jefe.)
+Jefe : Buenos días, Sara. ¿Me ves bien?
+Sara : Buenos días. Sí, perfecto.
+Jefe : ¿Estás en casa o en la oficina?
+Sara : En casa. En el salón de mi piso.
+Jefe : Qué bien. Se nota que hay un poco de ruido de fondo.
+Sara : Mi compañero está en la cocina. Ahora se calla.
+Jefe : No pasa nada. Hoy tenemos mucho trabajo.
+Sara : Lo sé. Estoy lista.
+Jefe : Primero, el informe del trimestre. ¿Lo tienes?
+Sara : Sí. Está terminado. Te lo he enviado esta mañana.
+Jefe : Perfecto. Lo reviso luego. Segundo, la reunión con el cliente de las once.
+Sara : Sí, a las once. Necesito conectar con una cámara mejor.
+Jefe : ¿Y eso?
+Sara : Mi webcam es antigua. La imagen sale borrosa.
+Jefe : Entonces cómprate una. Es una inversión pequeña.
+Sara : ¿La paga la empresa?
+Jefe : No, no. Eso corre de tu cuenta.
+Sara : ¿Aunque me la pidáis vosotros?
+Jefe : Es lo normal en teletrabajo. Cada uno pone sus herramientas.
+Sara : Entiendo. Pero tengo ahorros limitados.
+Jefe : Lo siento. Es la política de la empresa.
+Sara : Está bien. La compraré esta semana.
+Jefe : Muy bien. ¿Algún problema más?
+Sara : No. Solo que a veces me falta espacio.
+Jefe : ¿En serio? ¿Cómo es tu casa?
+Sara : Es un piso compartido. Comparto el salón con mi compañero.
+Jefe : Ah, vaya. Habla con la empresa si necesitas un espacio de coworking.
+Sara : ¿Lo pagarían ustedes?
+Jefe : No lo sé. Habría que consultarlo.
+Sara : Entonces consúltelo, por favor.
+Jefe : Lo haré. Te contesto mañana.
+Sara : Gracias. Se lo agradezco.
+Jefe : De nada. Seguimos en contacto. Hasta luego.
+Sara : Hasta luego.
+(La llamada termina. Sara se quita los auriculares. Tomás entra con un café.)
+Tomás : ¿Qué tal? ¿Todo bien?
+Sara : Más o menos. La empresa no paga la webcam.
+Tomás : Qué fuerte. ¿Entonces tienes que pagarla tú?
+Sara : Sí. Veinticinco euros, más o menos.
+Tomás : Es poco, pero molesta que lo digan así.
+Sara : Eso mismo pienso. Me da rabia.
+Tomás : Podríamos cambiar la mesa de sitio. Para que tengas más luz.
+Sara : Gracias. Quizá más cerca de la ventana.
+Tomás : Y yo te dejo el salón de lunes a jueves.
+Sara : ¿Y tú cuándo lo usas?
+Tomás : Viernes y fines de semana. Y por las tardes, a partir de las seis.
+Sara : Me parece bien. Gracias, Tomás.
+Tomás : Y de la factura, pagamos la luz según el uso. Tú treinta y cinco por ciento.
+Sara : ¿Treinta y cinco? Eso es más que a medias.
+Tomás : Es más justo. Tú usas más.
+Sara : Vale. Lo acepto. Pero seguimos pagando el internet a medias.
+Tomás : Sí, el internet a medias. Tú también lo necesitas más.
+Sara : Pero lo uso solo para trabajar. Tú lo usas para entretenimiento.
+Tomás : Es verdad. A medias entonces.
+Sara : Trato hecho.
+Tomás : Y el yoga, ¿a las doce?
+Sara : A las doce. Treinta minutos.
+Tomás : Pues perfecto. Voy a vestirme.
+Sara : Voy a revisar los datos para la reunión.
+Tomás : Oye, una cosa más.
+Sara : Dime.
+Tomás : Gracias por escucharme. A veces me da miedo discutir.
+Sara : A mí también. Pero hablando se arregla todo.
+Tomás : Es lo bueno de vivir con alguien que habla.
+Sara : Y que escucha.
+Tomás : Y que paga el treinta y cinco por ciento.
+Sara : Ja, ja. Qué listo eres.
+Tomás : Es que lo calculé antes.
+Sara : Y yo lo acepté sin discutir. Debo de estar cansada.
+Tomás : O contenta. Vamos, que se te hace tarde.
+Sara : Ya voy. Hasta luego.
+Tomás : Hasta luego. Que vaya bien la reunión.
+Sara : Gracias. Y a ti la clase de yoga.
+Tomás : Gracias. Hasta las doce.
+Sara : Hasta las doce.
+
+## 낭독 포인트
+- z/c: «cinco», «gracias», «cocina», «hacer», «empresa»의 s — [θ]. «Hacer»는 [a-θér], «gracias»는 [ɡɾá-θjas].
+- j/g: «jefe», «trabajo», «agua», «girar» — j와 g+e/i는 강한 [x]. «Jefe»는 [xé-fe].
+- ll/y: «llamada», «ya», «yo», «calle» — [ʝ]. «Llamada»는 [ʝa-má-ða].
+- 억양: 토마스와의 협상(Te propongo algo)은 가볍게 올리고, 상사와의 대화는 한 단계 낮추어 격식을 지킨다. 사라의 서운함(Me da rabia)은 낮고 짧게.
+- 호칭: 사라와 토마스는 tú. 상사에게는 tú와 usted가 섞여 어색한 존댓말이 되도록 연기한다(Hazme el favor / consúltelo).
+
+## 학습 포인트 정리
+- 일상 협상 (B1 구간):
+  · 제안: «Te propongo algo.», «Yo termino a la una y tú haces yoga después.»
+  · 합의: «Vale. A las doce, entonces.», «Trato hecho.»
+  · 시간표: «De lunes a jueves el salón es mío.», «Los viernes y fines de semana es tuyo.»
+- 비용 이야기:
+  · 비용: «Unos treinta euros de luz.», «Veinticinco euros, más o menos.», «Tú treinta y cinco por ciento.»
+  · 정책: «Eso corre de tu cuenta.», «Es la política de la empresa.»
+- A2 구간(21~40턴): 짧은 말
+  · 질문: «¿Cuánto paga tu empresa?», «¿Puedo preguntarte algo?»
+- B2 구간(81~100턴): 설명과 감정
+  · 감정: «Me da rabia.», «A veces me da miedo discutir.»
+- 어휘: el teletrabajo, la esterilla, el coworking, la webcam, la factura, la tarifa, la política, el reparto.
+
+## 속어 노트
+- «Qué fuerte»: 심하네, 어이없네(놀람).
+- «Correr de tu cuenta»: 비용을 네가 부담하다.
+- «Trato hecho»: 약속된 거야.
+- «Más o menos»: 대략.
+- 회사의 재택 지원 정책, 전기료 분담 비율은 이야기 속 설정이다. 실제 법규와 회사 규정은 다를 수 있다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(수요일 오전 열 시. 엠바하도레스의 공유 아파트 거실. 사라가 식탁 위에 노트북을 놓았다. 토마스가 요가 매트를 들고 방에서 나온다.)
+토마스 : 좋은 아침. 또 거실에서 일해?
+사라 : 좋은 아침. 응, 또. 내 방은 너무 작아.
+토마스 : 알아, 근데 나 여기서 요가하고 싶었는데.
+사라 : 열 시에? 나 열 시 십오 분에 회의가 있어.
+토마스 : 나는 열 시에 요가해. 항상.
+사라 : 이번 주는 안 돼. 아침 내내 회의야.
+토마스 : 아침 내내?
+사라 : 응. 열 시부터 한 시까지, 열두 시에 쉬는 시간이 있어.
+토마스 : 으. 그럼 나는 뭘 해?
+사라 : 네 방에서 할 수 있어?
+토마스 : 내 방은 네 방보다 더 작아.
+사라 : 그래도 매트 놓을 자리는 있잖아.
+토마스 : 겨우. 침대에 붙어.
+사라 : 제안 하나 할게. 나는 한 시에 끝나고, 너는 그 뒤에 요가해.
+토마스 : 한 시 반에 일하러 나가야 해.
+사라 : 그럼 열두 시, 내 쉬는 시간에. 삼십 분.
+토마스 : 좋아. 그럼 열두 시.
+사라 : 완벽해. 고마워.
+토마스 : 저기, 하나 물어봐도 돼?
+사라 : 말해.
+토마스 : 네 회사는 재택근무에 얼마를 줘?
+사라 : 아무것도. 전기도 인터넷도 의자도.
+토마스 : 아무것도? 그건 공정하지 않은 것 같아.
+사라 : 의무가 아니라 내 선택이래.
+토마스 : 하지만 네 자리가 사무실에 없다면 무슨 선택이야?
+사라 : 사무실은 있어. 멀고 불편해.
+토마스 : 가는 데 얼마나 걸려?
+사라 : 한 시간 십 분. 하루에 두 시간 이십 분.
+토마스 : 그럼 나도 네 선택이 낫겠다.
+사라 : 나도. 하지만 돈이 들어.
+토마스 : 한 달에 얼마나 더 써?
+사라 : 전기세로 한 삼십 유로. 그리고 더 빠른 인터넷 요금제.
+토마스 : 삼십 유로가 너 혼자?
+사라 : 응, 모니터 두 개랑 에어컨을 쓰니까.
+토마스 : 흠. 그럼 청구서가 너 때문에 올라가네.
+사라 : 조금은. 하지만 너랑 반반 내잖아?
+토마스 : 응. 그 얘기 해 봐야겠다.
+사라 : 맞아. 일요일에 얘기하자.
+토마스 : 좋아. 화내는 게 아니라 공정하고 싶은 거야.
+사라 : 당연하지. 나도.
+토마스 : 화 안 내 줘서 고마워.
+사라 : 차분히 말해 줘서 고마워.
+(노트북이 울린다. 걸려 오는 통화다.)
+사라 : 미안, 상사야. 받아야 해.
+토마스 : 받아, 받아. 나는 주방에 있을게.
+사라 : 고마워. 제발 조용히 해 줘.
+토마스 : 약속.
+(사라가 이어폰을 낀다. 화면에 상사의 얼굴이 나타난다.)
+상사 : 좋은 아침이에요, 사라. 잘 보여요?
+사라 : 좋은 아침이에요. 네, 완벽해요.
+상사 : 집이에요, 사무실이에요?
+사라 : 집이요. 아파트 거실이에요.
+상사 : 좋네요. 뒤에서 소리가 좀 나는 것 같은데.
+사라 : 룸메이트가 주방에 있어요. 이제 조용히 할 거예요.
+상사 : 괜찮아요. 오늘 일이 많아요.
+사라 : 알아요. 준비됐어요.
+상사 : 먼저 분기 보고서. 가지고 있죠?
+사라 : 네. 끝났어요. 오늘 아침에 보냈어요.
+상사 : 좋아요. 나중에 볼게요. 두 번째로, 열한 시 고객 회의요.
+사라 : 네, 열한 시요. 더 좋은 카메라로 연결해야 해요.
+상사 : 왜요?
+사라 : 제 웹캠이 오래돼서요. 화면이 흐릿해요.
+상사 : 그럼 하나 사요. 작은 투자잖아요.
+사라 : 회사가 내 주나요?
+상사 : 아니, 아니. 그건 본인 부담이에요.
+사라 : 저희가 요청해도요?
+상사 : 재택근무에서는 그게 보통이에요. 각자 장비를 마련해요.
+사라 : 알겠어요. 하지만 저는 저축이 많지 않아요.
+상사 : 유감이에요. 회사 방침이에요.
+사라 : 알겠어요. 이번 주에 살게요.
+상사 : 좋아요. 다른 문제 있어요?
+사라 : 없어요. 가끔 공간이 부족하다는 것뿐이에요.
+상사 : 정말요? 집이 어떤데요?
+사라 : 공유 아파트예요. 룸메이트와 거실을 같이 써요.
+상사 : 아, 저런. 공유 오피스가 필요하면 회사에 말해 봐요.
+사라 : 회사에서 내 주나요?
+상사 : 모르겠어요. 확인해 봐야겠어요.
+사라 : 그럼 확인해 주세요.
+상사 : 그럴게요. 내일 답해 줄게요.
+사라 : 감사합니다.
+상사 : 별말을요. 계속 연락해요. 이따 봐요.
+사라 : 이따 봬요.
+(통화가 끝난다. 사라가 이어폰을 뺀다. 토마스가 커피를 들고 들어온다.)
+토마스 : 어때? 괜찮아?
+사라 : 그럭저럭. 회사가 웹캠은 안 내 줘.
+토마스 : 어이없다. 그럼 네가 사야 해?
+사라 : 응. 한 이십오 유로.
+토마스 : 얼마 안 되지만 그렇게 말하니까 화나네.
+사라 : 내 생각도 그래. 화가 나.
+토마스 : 탁자 위치를 바꿀 수 있어. 빛이 더 들어오게.
+사라 : 고마워. 창문 가까이가 좋겠어.
+토마스 : 그리고 월요일부터 목요일까지는 거실을 네게 줄게.
+사라 : 너는 언제 써?
+토마스 : 금요일이랑 주말. 그리고 오후 여섯 시부터.
+사라 : 좋아. 고마워, 토마스.
+토마스 : 전기세는 쓴 만큼 내자. 너는 삼십오 퍼센트.
+사라 : 삼십오? 반반보다 많잖아.
+토마스 : 더 공정해. 네가 더 쓰잖아.
+사라 : 알았어. 받아들일게. 하지만 인터넷은 계속 반반이야.
+토마스 : 응, 인터넷은 반반. 너도 더 필요하니까.
+사라 : 하지만 나는 일에만 쓰고, 너는 오락에 쓰잖아.
+토마스 : 맞아. 그럼 반반.
+사라 : 약속.
+토마스 : 요가는 열두 시에?
+사라 : 열두 시에. 삼십 분.
+토마스 : 완벽해. 옷 갈아입으러 갈게.
+사라 : 나는 회의용 자료 확인할게.
+토마스 : 저기, 하나만 더.
+사라 : 말해.
+토마스 : 들어 줘서 고마워. 가끔 다투는 게 무서워.
+사라 : 나도. 하지만 말하면 다 풀려.
+토마스 : 말하는 사람과 사는 게 좋은 점이지.
+사라 : 그리고 듣는 사람과.
+토마스 : 그리고 삼십오 퍼센트를 내는 사람과.
+사라 : 하하. 똑똑하네.
+토마스 : 미리 계산해 둔 거야.
+사라 : 나는 따지지도 않고 받아들였네. 피곤한가 봐.
+토마스 : 아니면 만족했거나. 가 봐, 늦겠다.
+사라 : 갈게. 이따 봐.
+토마스 : 이따 봐. 회의 잘하고.
+사라 : 고마워. 너도 요가 잘해.
+토마스 : 고마워. 열두 시까지.
+사라 : 열두 시까지.

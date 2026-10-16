@@ -1,0 +1,281 @@
+# 6부 2화. Despedida de soltero (총각 파티)
+난이도: 주 C1 | 구간: C1→C1→C1→B2→C1→C1 | 형식: 다인(4명) | 장소: 라 라티나 바 뒷방 | 시간: 목요일 밤 10시
+등장인물: Bruno, Jaime, Tomás, Fede
+이슈: 주 ◐ 친구 모임의 비용 분담과 소득 격차 | 곡선: 1-2-2-2-1-0 (정점형, 상한 2) | 입장: A 브루노(이비사 주말 여행을 밀어붙인다) / B 하이메(찬성하지만 비용을 걱정한다) / C 토마스(중재자) / D 페데(실직 중이라 육백 유로가 부담이지만 말하기 어렵다)
+상황 카드: 친구 파블로의 결혼을 앞두고 네 친구가 총각 파티를 계획한다. 브루노는 이비사 주말을 제안하고 총액이 한 사람 육백 유로라고 한다. 페데는 실직 중이라 선뜻 말하지 못한다. 토마스가 눈치를 채고 조용히 중재한다. 걸림돌은 체면과 소득 격차. 결말은 마드리드 근교 산장 주말로 규모를 줄이고, 파블로에게는 이유를 솔직히 말하기로 하는 것.
+학습 포인트: 계획과 제안(¿Qué os parece si…?) · 비용 분담(a partes iguales, según cada uno) · 완곡한 거절(No me sale a cuenta) · 우정과 체면 · 접속법(Para que nadie se sienta mal)
+
+## 대화
+(Jueves, diez de la noche. La sala trasera de un bar de La Latina. Sobre la mesa hay platos de croquetas, cañas y un portátil abierto. Bruno, de pie, señala la pantalla. Jaime, Tomás y Fede escuchan sentados.)
+Bruno : Bueno, señores, a lo que vamos. La despedida de Pablo.
+Jaime : Por fin. Llevas semanas dándole vueltas.
+Bruno : Porque tiene que ser una despedida de las que no se olvidan.
+Tomás : Eso suena a promesa y a amenaza.
+Bruno : Ambas cosas. Mirad esta pantalla.
+Fede : ¿Qué es?
+Bruno : Una villa en Ibiza. Piscina, cocinera y tres noches. Del viernes al lunes.
+Jaime : Madre mía, qué pasada. ¿Cuánto cuesta?
+Bruno : Con vuelos, alojamiento, comida y una noche en una discoteca, unos seiscientos euros por cabeza.
+Tomás : Seiscientos. Es bastante.
+Bruno : Es lo que cuesta una despedida decente. No todos los días se casa un amigo.
+Jaime : Bien, a mí me parece razonable. Yo me apunto.
+Bruno : Genial. ¿Fede?
+Fede : Eh... déjame verlo con calma.
+Bruno : ¿Qué hay que ver? Es un viaje a Ibiza. Todo incluido.
+Fede : No lo dudo. Pero necesito mirar mis cuentas.
+Bruno : ¿Tus cuentas? Hombre, son seiscientos euros. Lo tiene cualquiera.
+Fede : No cualquiera, Bruno.
+Tomás : Un momento. ¿Y la fecha? ¿Cuándo es?
+Bruno : El tercer fin de semana de junio. Hay que reservar ya.
+Tomás : Es que quedan cuatro meses. No hace falta decidirlo hoy.
+Bruno : Sí hace falta. Los vuelos suben.
+Jaime : Tiene razón Bruno. Las ofertas no esperan.
+Tomás : Las ofertas siempre esperan. Es una estrategia de venta.
+Bruno : Tomás, no empieces con tus teorías.
+Tomás : No son teorías. Son hechos.
+(Pausa incómoda. Fede mira el fondo de su caña. Jaime da un sorbo.)
+Jaime : Bueno. Pongámoslo en votación. ¿Quién está a favor de Ibiza?
+Bruno : Yo. Y Jaime.
+Jaime : Y yo. Dos votos.
+Tomás : Yo me abstengo. Quiero oír a Fede.
+Fede : Yo... no sé. Me gustaría ir.
+Bruno : Perfecto. Entonces, tres votos.
+Fede : Pero no sé si puedo pagar seiscientos.
+Bruno : ¿Cómo que no puedes? ¿Qué pasa?
+Fede : Que... llevo seis meses sin trabajo. Mi indemnización se acabó.
+Jaime : ¿Seis meses? No lo sabía.
+Fede : No lo he contado. Me daba vergüenza.
+Bruno : Hombre, Fede. Eso es normal. Mucha gente...
+Fede : Normal no es. Es un problema.
+Tomás : Lo siento, Fede. No lo sabía.
+Fede : No pasa nada. No quería arruinaros la fiesta.
+Bruno : Pero no la arruinas. Podemos buscar una solución.
+Fede : ¿Qué solución?
+Bruno : Pues... te prestamos el dinero.
+Fede : No. Eso no. No quiero deber dinero a mis amigos.
+Bruno : Entonces te lo pagamos entre todos. Y lo devuelves cuando puedas.
+Fede : Tampoco. No quiero que paguéis mi parte.
+Jaime : Fede, no es caridad. Es amistad.
+Fede : Lo sé. Pero es mi orgullo. Y mi problema.
+Bruno : Vaya. Entonces, ¿qué hacemos?
+Tomás : A ver, os propongo algo distinto.
+Bruno : Dispara.
+Tomás : ¿Y si cambiamos el plan? Algo más barato, pero igual de divertido.
+Bruno : ¿Más barato? Hombre, es una despedida.
+Tomás : Ya, pero no necesita ser en Ibiza para ser inolvidable.
+Jaime : Eso es cierto. Una de las mejores noches de mi vida fue en un pueblo de Burgos.
+Bruno : Ja, ja. Eso lo dices porque te enamoraste de una burgalesa.
+Jaime : Y qué. Fue inolvidable.
+Tomás : Os cuento. Mi primo tiene una casa rural en la sierra de Guadarrama. Con chimenea y barbacoa.
+Bruno : ¿Y cuánto cuesta?
+Tomás : Cien euros por persona, todo el fin de semana. Con comida.
+Fede : Cien... eso sí puedo.
+Tomás : Y podemos organizar juegos, un asado, una noche de póker.
+Bruno : ¿Póker? ¿Y la fiesta?
+Tomás : La fiesta es estar juntos. Sin tanto postureo.
+Jaime : Me gusta. Más íntimo. Más nuestro.
+Bruno : Pues yo quería algo grande. Que Pablo se acuerde para siempre.
+Tomás : Se acordará. Porque habrá risas, historias, y todos podremos estar.
+Bruno : Hmm. Es verdad que seiscientos euros es mucho para algunos.
+Jaime : Yo tampoco estoy tan sobrado, la verdad.
+Bruno : ¿Tú tampoco? Creía que ganabas bien.
+Jaime : Ganar bien y llegar a fin de mes son cosas distintas. Alquiler, hipoteca, hijos...
+Bruno : Ya. Tienes razón. Mi sueldo es el que es y no pensé en vosotros.
+Tomás : No pasa nada. Lo importante es que lo hablemos.
+Fede : Gracias, chicos. De verdad.
+Bruno : No me des las gracias. Me siento un poco tonto.
+Fede : No lo eres. Solo tienes un buen sueldo y mucha ilusión.
+Bruno : Ja, ja. Eso último es cierto.
+Tomás : Entonces, ¿votamos de nuevo?
+Bruno : Vale. ¿Quién está a favor de la sierra?
+Jaime : Yo.
+Tomás : Yo.
+Fede : Yo. Con muchas ganas.
+Bruno : Pues yo también. Unanimidad.
+Tomás : Perfecto. Hablaré con mi primo mañana.
+Bruno : Pero hay que contárselo a Pablo.
+Jaime : ¿Qué se lo cuente quién?
+Bruno : Alguien. Mejor que no se entere por casualidad.
+Fede : Yo se lo cuento. Es mi amigo desde los quince años.
+Bruno : ¿Seguro?
+Fede : Sí. Me hace bien decir las cosas por mí mismo.
+Tomás : Muy valiente.
+Fede : No tanto. Pero hay que empezar a decir la verdad.
+Bruno : Entonces, ¿cuándo quedamos?
+Tomás : El sábado. Con el plan montado.
+Bruno : Perfecto. Y yo me encargo de las bebidas.
+Jaime : Y yo de la música.
+Fede : Yo de las cartas.
+Tomás : Y yo de la cabaña y la comida.
+Bruno : Un buen equipo. ¿Un brindis?
+Jaime : Por Pablo.
+Tomás : Por la amistad.
+Fede : Por quien dice las cosas a tiempo.
+Bruno : Por la sierra y por la barbacoa.
+Jaime : Salud.
+Tomás : Salud.
+Fede : Salud.
+Bruno : Salud, y que ningún amigo se quede fuera por culpa del dinero.
+Tomás : Eso es lo más bonito que has dicho esta noche.
+Bruno : Será el vino.
+Jaime : Es cerveza, Bruno.
+Bruno : Pues la cerveza.
+Bruno : Esta ronda la pago yo. Por Ibiza, que ya no iremos.
+Jaime : Ja, ja. Por Ibiza, que nos espera algún día.
+Tomás : Cuando seamos ricos.
+Fede : O cuando Pablo se divorcie.
+Bruno : ¡Fede! Qué bruto.
+Fede : Es una broma. Con cariño.
+Jaime : Con mucho cariño.
+Tomás : Anda, calla y bebe.
+
+## 낭독 포인트
+- z/c: «ibiza», «seiscientos», «entonces», «hace» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «alojamiento», «estrategia», «mejores», «trabajo» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «pantalla», «orgullo», «llegar», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
+- 억양: 브루노의 제안은 활기차고 빠르게, 페데의 고백(Llevo seis meses sin trabajo)은 낮고 느리게. 토마스의 중재는 부드럽고 균형 있게. 마지막 건배는 가볍게 웃으며.
+- 접속법: «Para que nadie se quede fuera», «Que ningún amigo se quede fuera por culpa del dinero»는 소망을 담아 끝을 천천히 내린다.
+- 호칭: 오랜 친구라 tú와 vosotros. 구어체 감탄(Madre mía)과 농담이 많다.
+
+## 학습 포인트 정리
+- C1 구간(1~60, 81~120턴): 계획, 협상, 고백
+  · 제안: «Mirad esta pantalla.», «¿Y si cambiamos el plan?», «Os propongo algo distinto.»
+  · 비용: «Unos seiscientos euros por cabeza.», «Cien euros por persona, todo el fin de semana.»
+  · 완곡한 거절: «Déjame verlo con calma.», «Necesito mirar mis cuentas.», «No es caridad. Es amistad.»
+  · 고백과 용기: «Llevo seis meses sin trabajo.», «Me hace bien decir las cosas por mí mismo.»
+  · 합의: «Unanimidad.», «Por quien dice las cosas a tiempo.», «Que ningún amigo se quede fuera por culpa del dinero.»
+- B2 구간(61~80턴): 대안 제시
+  · 대안: «No necesita ser en Ibiza para ser inolvidable.», «La fiesta es estar juntos. Sin tanto postureo.»
+- 어휘: la despedida de soltero, la villa, por cabeza, a partes iguales, la cabaña, el postureo, la unanimidad, la vergüenza.
+
+## 속어 노트
+- «Por cabeza»: 한 사람당.
+- «Postureo»: 겉치레, 보이기 위한 과시.
+- «Dispara»: 말해 봐(농담조).
+- «Estar sobrado»: 여유가 있다.
+- 여행 가격, 숙소, 개인의 소득 상황은 이야기 속 설정이다.
+- 레지스터 주의: 비속어를 쓰지 않고 구어체 감탄만 사용한다.
+
+## 한글 해석
+(목요일 밤 열 시. 라 라티나의 한 바 뒷방. 탁자 위에 크로켓 접시, 맥주잔, 열린 노트북이 있다. 브루노가 서서 화면을 가리킨다. 하이메, 토마스, 페데가 앉아 듣는다.)
+브루노 : 자, 신사 여러분, 본론으로 가자. 파블로의 총각 파티야.
+하이메 : 드디어. 몇 주째 고민하더니.
+브루노 : 잊지 못할 파티여야 하니까.
+토마스 : 약속처럼도 협박처럼도 들리네.
+브루노 : 둘 다야. 이 화면을 봐.
+페데 : 그게 뭐야?
+브루노 : 이비사의 빌라. 수영장, 요리사, 삼 박. 금요일부터 월요일까지.
+하이메 : 와, 대단하다. 얼마야?
+브루노 : 항공, 숙박, 식사, 클럽 하루 포함해서 한 사람당 육백 유로쯤.
+토마스 : 육백. 꽤 크네.
+브루노 : 제대로 된 총각 파티 값이야. 친구가 매일 결혼하는 건 아니잖아.
+하이메 : 난 괜찮은 것 같아. 나는 할게.
+브루노 : 좋아. 페데는?
+페데 : 어... 차분히 좀 볼게.
+브루노 : 뭘 봐? 이비사 여행이야. 다 포함이고.
+페데 : 의심하는 건 아니야. 내 형편을 봐야 해서.
+브루노 : 형편? 육백 유로야. 누구나 낼 수 있잖아.
+페데 : 누구나는 아니야, 브루노.
+토마스 : 잠깐만. 날짜는? 언제야?
+브루노 : 유월 셋째 주말. 지금 예약해야 해.
+토마스 : 아직 넉 달 남았잖아. 오늘 정할 필요 없어.
+브루노 : 필요 있어. 항공권이 올라.
+하이메 : 브루노 말이 맞아. 할인은 안 기다려 줘.
+토마스 : 할인은 늘 기다려 줘. 그건 판매 전략이야.
+브루노 : 토마스, 또 네 이론 시작하지 마.
+토마스 : 이론이 아니라 사실이야.
+(어색한 침묵. 페데가 맥주잔 바닥을 바라본다. 하이메가 한 모금 마신다.)
+하이메 : 자. 투표로 하자. 이비사에 찬성하는 사람?
+브루노 : 나. 그리고 하이메.
+하이메 : 나도. 두 표.
+토마스 : 나는 기권. 페데 얘기를 듣고 싶어.
+페데 : 나는... 모르겠어. 가고 싶긴 해.
+브루노 : 좋아. 그럼 세 표.
+페데 : 하지만 육백을 낼 수 있을지 모르겠어.
+브루노 : 어떻게 못 내? 무슨 일이야?
+페데 : 육 개월째 일이 없어. 퇴직금도 다 떨어졌어.
+하이메 : 육 개월? 몰랐어.
+페데 : 말 안 했어. 창피해서.
+브루노 : 야, 페데. 그건 흔한 일이야. 많은 사람이...
+페데 : 흔한 일이 아니야. 문제야.
+토마스 : 미안해, 페데. 몰랐어.
+페데 : 괜찮아. 파티를 망치고 싶지 않았어.
+브루노 : 망치는 거 아니야. 해결책을 찾을 수 있어.
+페데 : 어떤 해결책?
+브루노 : 그러니까... 우리가 돈을 빌려줄게.
+페데 : 아니. 그건 싫어. 친구들에게 빚지고 싶지 않아.
+브루노 : 그럼 다 같이 내 줄게. 나중에 형편 되면 갚아.
+페데 : 그것도 아니야. 내 몫을 남이 내는 건 싫어.
+하이메 : 페데, 자선이 아니야. 우정이야.
+페데 : 알아. 하지만 내 자존심이고 내 문제야.
+브루노 : 이런. 그럼 어떡하지?
+토마스 : 다른 제안을 해 볼게.
+브루노 : 말해 봐.
+토마스 : 계획을 바꾸면 어떨까? 더 싸지만 똑같이 재밌게.
+브루노 : 더 싸게? 총각 파티인데.
+토마스 : 알아, 하지만 이비사가 아니라도 잊지 못할 수 있어.
+하이메 : 맞아. 내 인생 최고의 밤 중 하나는 부르고스의 어느 마을이었어.
+브루노 : 하하. 그건 부르고스 아가씨랑 사랑에 빠져서 그렇지.
+하이메 : 그래서 뭐. 잊지 못했어.
+토마스 : 내 사촌이 과다라마 산맥에 시골 별장이 있어. 벽난로와 바비큐도 있어.
+브루노 : 얼마야?
+토마스 : 한 사람당 백 유로, 주말 내내. 식사 포함.
+페데 : 백... 그건 낼 수 있어.
+토마스 : 게임, 구이, 포커 밤도 할 수 있어.
+브루노 : 포커? 파티는?
+토마스 : 파티는 함께 있는 거야. 겉치레 없이.
+하이메 : 마음에 들어. 더 친밀하고 우리다운 거야.
+브루노 : 나는 큰 걸 원했어. 파블로가 평생 기억하도록.
+토마스 : 기억할 거야. 웃음과 이야기가 있고 우리 모두 갈 수 있으니까.
+브루노 : 흠. 육백 유로가 누구에게는 많긴 해.
+하이메 : 나도 사실 그렇게 여유롭진 않아.
+브루노 : 너도? 넌 잘 번다고 생각했는데.
+하이메 : 잘 버는 것과 월말을 버티는 건 달라. 월세, 대출, 애들...
+브루노 : 그렇구나. 맞는 말이야. 내 월급은 이 정도고 너희 생각을 못 했어.
+토마스 : 괜찮아. 중요한 건 이렇게 얘기하는 거야.
+페데 : 고마워, 얘들아. 정말로.
+브루노 : 고마워하지 마. 좀 바보 같은 기분이야.
+페데 : 바보 아니야. 월급 좋고 열정이 많을 뿐이야.
+브루노 : 하하. 마지막 말은 맞네.
+토마스 : 그럼 다시 투표할까?
+브루노 : 좋아. 산 별장에 찬성하는 사람?
+하이메 : 나.
+토마스 : 나.
+페데 : 나. 아주 기쁘게.
+브루노 : 나도. 만장일치네.
+토마스 : 좋아. 내일 사촌에게 얘기할게.
+브루노 : 하지만 파블로에게 알려야 해.
+하이메 : 누가 알려?
+브루노 : 누군가. 우연히 알게 되는 것보다 낫잖아.
+페데 : 내가 말할게. 열다섯 살 때부터 친구니까.
+브루노 : 확실해?
+페데 : 응. 내 입으로 말하는 게 나한테 좋아.
+토마스 : 아주 용기 있네.
+페데 : 그리 대단하진 않아. 하지만 사실을 말하는 것부터 시작해야지.
+브루노 : 그럼 언제 모일까?
+토마스 : 토요일. 계획을 짜서.
+브루노 : 좋아. 음료는 내가 맡을게.
+하이메 : 음악은 내가.
+페데 : 카드는 내가.
+토마스 : 별장과 음식은 내가.
+브루노 : 좋은 팀이네. 건배할까?
+하이메 : 파블로를 위해.
+토마스 : 우정을 위해.
+페데 : 제때 말하는 사람을 위해.
+브루노 : 산과 바비큐를 위해.
+하이메 : 건배.
+토마스 : 건배.
+페데 : 건배.
+브루노 : 건배, 돈 때문에 소외되는 친구가 없기를.
+토마스 : 오늘 밤 네가 한 말 중 제일 멋지다.
+브루노 : 와인 탓이겠지.
+하이메 : 맥주야, 브루노.
+브루노 : 그럼 맥주 탓이지.
+브루노 : 이번 라운드는 내가 낼게. 이제 못 갈 이비사를 위해.
+하이메 : 하하. 언젠가 우릴 기다릴 이비사를 위해.
+토마스 : 부자가 되면.
+페데 : 아니면 파블로가 이혼하면.
+브루노 : 페데! 너무하네.
+페데 : 농담이야. 애정으로.
+하이메 : 아주 많은 애정으로.
+토마스 : 자, 조용히 하고 마셔.

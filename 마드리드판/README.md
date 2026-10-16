@@ -111,6 +111,28 @@
 
 5부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 금액·규정·수치·제도는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
 
+## 6부 Gente y vínculos 사람과 관계 (완료: 15/15화)
+
+| 파일 | 화 | Título | 한글 | 주 난이도 | 구간별 난이도 | 이슈 | 곡선 |
+|---|---|---|---|---|---|---|---|
+| part6/ep01.txt | 6-1 | Me he equivocado | 내가 잘못했어 | B1 | A2→A2→A2→B1→B1→B1 | ● | 0-2-0-3-1-3 |
+| part6/ep02.txt | 6-2 | Despedida de soltero | 총각 파티 | C1 | C1→C1→C1→B2→C1→C1 | ◐ | 1-2-2-2-1-0 |
+| part6/ep03.txt | 6-3 | Consejos que nadie pidió | 아무도 청하지 않은 충고 | B2 | B2→B1→B2→B2→C1→B2 | ● | 3-3-2-1-1-0 |
+| part6/ep04.txt | 6-4 | Te presento a mi hermana | 우리 언니 소개할게 | A2 | A2→A2→A2→A2→A2→B1 | ○ | 1-1-0-1-0-1 |
+| part6/ep05.txt | 6-5 | Plan de amigos | 친구들 계획 | B1 | B1→B1→B2→B1→B1→B1 | ◐ | 1-2-2-2-1-0 |
+| part6/ep06.txt | 6-6 | Te presento a mi hermana | otra vez) (우리 언니 소개할게 (다시) | C1 | C1→C1→B2→C1→B2→C1 | ◐ | 2-0-2-0-2-1 |
+| part6/ep07.txt | 6-7 | Feliz cumpleaños | 생일 축하해 | A2 | A2→B1→A2→B1→A2→A2 | ○ | 1-1-0-1-0-1 |
+| part6/ep08.txt | 6-8 | Cumpleaños en el colegio | 학교 생일 파티 | B1 | A2→A2→B1→B1→B1→B1 | ○ | 0-1-1-0-1-0 |
+| part6/ep09.txt | 6-9 | Una amistad que se enfría | 식어 가는 우정 | B2 | B2→B2→B2→C1→B2→B2 | ● | 3-1-0-1-0-3 |
+| part6/ep10.txt | 6-10 | La primera cita | 첫 데이트 | B1 | B2→B1→B1→B2→B1→B2 | ◐ | 2-0-2-0-2-1 |
+| part6/ep11.txt | 6-11 | La abuela y la residencia | 할머니와 요양원 | C1 | C1→B2→B2→C1→B2→C1 | ● | 0-1-1-2-3-3 |
+| part6/ep12.txt | 6-12 | Llamar para pedir ayuda | 도움을 청하는 전화 | B2 | B2→B2→B2→B2→B1→B1 | ◐ | 1-2-2-2-1-0 |
+| part6/ep13.txt | 6-13 | Lo que no te dije | 못 했던 말 | C1 | C1→B2→C1→C1→C1→C1 | ● | 2-0-3-0-3-1 |
+| part6/ep14.txt | 6-14 | Mi familia es grande | 우리 가족은 대가족이야 | A2 | A2→B1→A2→A2→A2→A2 | ○ | 1-0-1-0-0-1 |
+| part6/ep15.txt | 6-15 | Comida de domingo | 일요일 점심 | B2 | B2→B1→B2→B2→B2→B2 | ● | 2-3-3-1-0-0 |
+
+6부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 금액·규정·수치·제도는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
+
 ## 화 파일 형식
 
 ```

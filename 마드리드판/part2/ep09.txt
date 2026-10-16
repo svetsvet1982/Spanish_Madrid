@@ -1,0 +1,284 @@
+# 2부 9화. Un coche de empresa (회사 차)
+난이도: 주 C1 | 구간: B2→C1→C1→C1→B2→C1 | 형식: 다인 대면 (5명) | 장소: 바예카스의 물류 회사 회의실 | 시간: 화요일 오전 9시~10시 10분
+등장인물: Sofía, Pedro, Hamid, Ricardo, Carmen
+이슈: 주 ● 사무실 이전과 출퇴근, 통근 수당 폐지 | 곡선: 0-0-1-2-3-3 (후반폭발형) | 입장: A 경영진 리카르도(임대료 절감을 위해 20km 떨어진 산업단지로 이전) / B 직원 소피아(운전면허 없음, 출퇴근 시간이 두 배 이상 늘어 육아와 직장을 택일해야 할 위기) / C 노조 대표 하미드(통상 협상 절차와 서면 약속 요구) / D 영업직 페드로(회사 차를 받지만 동료의 희생에는 반대) / E 인사 담당 카르멘(법적 절차를 상기시키는 중재자)
+상황 카드: 아침 회의에서 회사가 "지속가능 이동 계획"이라는 이름으로 사무실 이전, 영업직 12명에게만 회사 차 제공, 통근 수당 폐지를 발표한다. 직원들의 저항과 노조 대표의 요구로 경영진이 절차를 인정한다. 결말은 열려 있다. 10일 안에 서면 답변과 협상 테이블을 열기로 하지만 통근 수당 유지는 "가능하면"으로 남는다.
+학습 포인트: 기업·노동 어휘(el convenio, el comité, el preaviso, la modificación sustancial, el abono) · 완곡과 반어(Qué generosidad, Probablemente) · 접속법(Aunque me beneficie, Que nos conteste por escrito) · 협상 표현(Propongo que…, Me temo que…, No pedimos que… Pedimos que…) · 입장이 다른 사람들 사이의 공손한 반박
+
+## 대화
+(Martes por la mañana, nueve en punto. Sala de reuniones de una empresa de logística. Sofía llega con un café. Pedro ya está sentado, con las llaves de un coche sobre la mesa. Hamid hojea unos papeles.)
+Sofía : Buenos días. ¿Llego tarde?
+Pedro : Llegas justa. Los demás están al caer.
+Sofía : ¿Alguien sabe de qué va la reunión? El correo decía «Plan de movilidad».
+Hamid : Eso decía. Y nada más. Cuando no dicen nada, es que viene algo gordo.
+Pedro : Tú siempre pensando lo peor, Hamid.
+Hamid : Soy delegado sindical. Pensar lo peor es mi trabajo.
+Pedro : A mí me parece que puede ser una buena noticia. Un plan de movilidad suena a mejoras.
+Sofía : O a que nos suben el parking.
+Pedro : Si no tienes coche, no pagas parking.
+Sofía : Y si tengo que ir a un polígono a veinte kilómetros, tendré que comprarme uno.
+Hamid : (levanta la vista) ¿Qué polígono?
+Sofía : Nada, nada. Un rumor.
+Hamid : Los rumores en esta empresa suelen ser ciertos.
+Pedro : ¿Tú has oído algo?
+Sofía : He oído que la dirección quiere cambiar la oficina.
+Pedro : ¿Cambiar de oficina? Si estamos en el centro de Vallecas, a cinco minutos del metro.
+Sofía : Por eso mismo. El alquiler es caro.
+Hamid : Y en un polígono es más barato. Eso lo sabe cualquiera.
+Pedro : Bueno, pues vamos a oír lo que dicen. Que no cunda el pánico.
+Sofía : El pánico cunde solo.
+(Entran Ricardo, el gerente, y Carmen, de recursos humanos. Ricardo trae una carpeta y una sonrisa estudiada.)
+Ricardo : Buenos días a todos. Gracias por venir. Vamos a empezar, que el tiempo es oro.
+Carmen : Buenos días. Antes de nada, quiero agradecerles que hayan acudido con tan poca antelación.
+Hamid : Con tan poca antelación, es decir, con cero información.
+Carmen : Con la información justa. Ahora la ampliamos.
+Ricardo : Voy a ser claro y directo: la empresa ha decidido poner en marcha un plan de movilidad sostenible.
+Sofía : «Sostenible». Qué palabra tan bonita.
+Ricardo : Me alegra que le guste. Consta de tres ejes: eficiencia, ahorro y bienestar.
+Hamid : Los tres en ese orden, por lo que veo.
+Ricardo : El orden no altera el producto. Si me permiten, les explico los ejes.
+Carmen : Ricardo, tal vez convenga empezar por el primer punto, el de las instalaciones.
+Ricardo : Es verdad. Las instalaciones. Como saben, la sede de Vallecas cuesta a la compañía tres mil quinientos euros al mes.
+Pedro : No es poco.
+Ricardo : No es poco, y se ha encarecido un veinte por ciento en dos años. Hemos decidido trasladar la oficina central a un polígono de Coslada.
+Sofía : (en voz baja) Lo sabía.
+Hamid : ¿Cuándo?
+Ricardo : A partir de enero. Es decir, dentro de tres meses.
+Hamid : Tres meses de preaviso para trasladar una oficina a veinte kilómetros. Qué generosidad.
+Ricardo : El convenio exige un mes. Hemos triplicado el plazo.
+Carmen : Y queremos acompañarles en el proceso. Por eso el plan de movilidad.
+Ricardo : Exacto. Les explico qué ofrecemos.
+Ricardo : Primero: para los doce comerciales que visitan clientes, la empresa pondrá un coche de empresa a su disposición.
+Pedro : (disimula una sonrisa) Muy bien. Eso ayuda mucho.
+Ricardo : Segundo: durante seis meses habrá una lanzadera que saldrá de Vallecas a las ocho y volverá a las seis.
+Sofía : ¿Una sola lanzadera?
+Ricardo : Una sola. Con capacidad para veinticinco personas.
+Hamid : Somos treinta y ocho.
+Ricardo : Algunos preferirán ir en su coche o con compañeros. Hay aparcamiento gratuito en el polígono.
+Sofía : Gratuito, si tienes coche.
+Ricardo : Tercero: la ayuda al transporte se sustituirá por una compensación de combustible para quienes vayan en coche particular.
+Hamid : ¿Se sustituirá? ¿Y el abono transporte?
+Ricardo : El abono dejará de subvencionarse, porque ya no hace falta si se va en lanzadera o en coche.
+Sofía : ¿Y si la lanzadera se acaba a los seis meses?
+Ricardo : Entonces se evaluará. Probablemente se prorrogue.
+Hamid : «Probablemente.» Esa palabra me da escalofríos.
+Carmen : Es una cuestión de flexibilidad. La empresa quiere adaptarse a las necesidades.
+Hamid : ¿A las necesidades de quién?
+Ricardo : De todos, por supuesto.
+Sofía : Eso lo dice usted. Yo vivo en Carabanchel y no tengo carné.
+Ricardo : Lo sé, Sofía. Tampoco es obligatorio. Hay alternativas.
+Sofía : ¿Cuáles? ¿El autobús que tarda hora y media?
+Ricardo : Hay rutas de autobús. Quizá no las ideales.
+Hamid : Quizá no las ideales. Vamos a hacer un cálculo rápido. Sofía, ¿cuánto tardas ahora en llegar a Vallecas?
+Sofía : Veinte minutos en metro.
+Hamid : Y a Coslada, ¿cuánto tardarás, según un cálculo realista?
+Sofía : Una hora y diez, en dos autobuses. Dos horas y veinte al día.
+Hamid : Dos horas y veinte, más del doble de lo que pierdes ahora. Eso, al mes, son casi diez horas más.
+Ricardo : No se trata de pérdida. Se trata de movilidad.
+Hamid : Movilidad hacia abajo.
+Pedro : Perdón, quiero intervenir. Yo creo que el polígono tiene ventajas. Hay aparcamiento, hay más espacio, hay menos ruido.
+Sofía : A ti te encanta, claro. Te dan un coche de empresa.
+Pedro : No es un privilegio. Es una herramienta de trabajo. Visito veinte clientes al mes.
+Sofía : Pero tú ganas más y ahora también tendrás coche, aparcamiento y combustible. Y yo, una lanzadera con asiento por orden de llegada.
+Pedro : No me hables así. Yo no he decidido nada.
+Sofía : No te acuso. Digo que el plan beneficia más a unos que a otros.
+Carmen : Entiendo su preocupación. Pero también hemos incluido una cláusula para casos personales.
+Hamid : ¿Qué casos?
+Carmen : Personas con dificultades especiales para desplazarse. Estudiaremos cada caso.
+Hamid : «Estudiaremos.» Otra palabra con riesgo.
+Ricardo : Hamid, entiendo su desconfianza, pero no puede asumir mala fe de entrada.
+Hamid : No asumo mala fe. Asumo mala planificación.
+Ricardo : Lo que ustedes llaman mala planificación es una decisión para salvar la empresa. Si no reducimos costes, no habrá empresa.
+Sofía : Siempre dicen lo mismo. Siempre «para salvar la empresa». Y nosotros pagamos.
+Ricardo : ¿Qué quiere decir?
+Sofía : Que me están diciendo que si no puedo ir, me voy yo. Eso no es un plan de movilidad. Es una forma de echarme.
+Ricardo : Nadie la está echando.
+Sofía : Pues se parece mucho.
+Pedro : Sofía, no exageres.
+Sofía : No exagero. Tengo una hija de cuatro años y llevo siete años en esta empresa. Y ahora tengo que elegir entre mi hija y mi trabajo.
+Ricardo : No tiene que elegir. Hablaremos de soluciones.
+Sofía : Hablar, siempre hablar. ¡Y mientras tanto, cada mes sube el alquiler en mi barrio!
+Hamid : (levanta la mano) Un momento. Sofía, respira. Ricardo, déjeme hacer una propuesta.
+Ricardo : Adelante.
+Hamid : Propongo que se negocie esto en la mesa del convenio, con presencia del comité.
+Ricardo : No es necesario. Es un cambio de condiciones menor.
+Hamid : ¿Menor? Un traslado de veinte kilómetros que triplica el tiempo de desplazamiento no es menor.
+Carmen : Legalmente, es una modificación sustancial. Habría que seguir el procedimiento.
+Ricardo : Carmen, por favor.
+Carmen : Es la verdad, Ricardo. Si lo hacemos mal, tendremos un problema.
+Ricardo : (suspira) Está bien. Admito que quizá hemos corrido demasiado.
+Hamid : Gracias. Eso ya es un avance.
+Hamid : Entonces, propuesta formal: suspendemos el traslado hasta que se abra la mesa de negociación. Y mientras tanto, el abono transporte se mantiene.
+Ricardo : No puedo prometer eso hoy. Tengo que hablar con el consejo.
+Hamid : Pues hable con el consejo. Y que nos conteste por escrito en una semana.
+Ricardo : Una semana es poco.
+Hamid : Tres meses de preaviso les parecían suficientes a ustedes. Una semana es suficiente para nosotros.
+Carmen : Podemos dar diez días hábiles. Con un compromiso por escrito.
+Ricardo : Diez días. Pero no garantizo el resultado.
+Hamid : No pedimos que garantice el resultado. Pedimos que garantice la mesa.
+Sofía : Y que no nos dejen sin abono mientras tanto.
+Ricardo : Eso lo consulto. No prometo nada.
+Pedro : Yo apoyo la mesa. Aunque me beneficie el plan, no quiero que se haga a costa de los compañeros.
+Sofía : (sorprendida) Gracias, Pedro.
+Pedro : No me des las gracias. Aún no he renunciado al coche.
+Sofía : (ríe a pesar suyo) Ya lo imaginaba.
+Ricardo : Entonces, queda acordado: diez días, mesa de negociación y, si es posible, abono transporte hasta marzo.
+Hamid : «Si es posible.» Otra palabra con riesgo.
+Ricardo : (ríe) Tomo nota. Veremos qué dice el consejo.
+Carmen : Redactaré el acta de esta reunión y se la mandaré a todos.
+Hamid : Y yo la leeré con lupa.
+Sofía : Y yo la imprimiré. Por si acaso.
+
+## 낭독 포인트
+- z/c: cinco, gracias, necesario, cero, dice, hace — [θ].
+- j/g: gerente, ejes, dirección — 강한 [x]. «Gerente»의 g는 [x].
+- ll/y: calle, llevo, ya, yo — [ʝ].
+- 어조: 경영진의 공손한 어조(Si me permiten…)와 직원의 반어(Qué generosidad)의 대비. 문장 끝을 끌지 않고 짧게 끊는다.
+- 억양: 항의와 폭발 구간(Hablar, siempre hablar)은 높고 빠르게, 협상 구간(Propongo que…)은 차분하고 또렷하게.
+- 강세: «sindical»은 -cal에, «negociación»은 -ción에, «movilidad»는 -dad에 강세.
+
+## 학습 포인트 정리
+- B2 구간(1~20, 81~100턴): 일상 대화와 폭발
+  · 구어: «Están al caer.», «Que no cunda el pánico.», «El pánico cunde solo.», «No exageres.»
+  · 불만 표현: «Siempre dicen lo mismo.», «Es una forma de echarme.», «Se parece mucho.»
+  · 접속법: «Que no cunda el pánico.», «No quiero que se haga a costa de los compañeros.»
+  · 조건: «Si no puedo ir, me voy yo.»
+- C1 구간(21~80, 101~120턴): 기업 협상
+  · 격식 표현: «Antes de nada, quiero agradecerles que hayan acudido.», «Si me permiten, les explico…», «Tal vez convenga empezar por…»
+  · 반어와 압축: «Con tan poca antelación, es decir, con cero información.», «Qué generosidad.», «Movilidad hacia abajo.»
+  · 협상: «Propongo que se negocie esto en la mesa del convenio.», «No pedimos que garantice el resultado. Pedimos que garantice la mesa.», «Pues hable con el consejo.»
+  · 모호한 약속에 대한 경계: «Probablemente», «Estudiaremos», «Si es posible» — 위험한 단어로 짚는 장면.
+  · 노동 어휘: el convenio, el comité, el preaviso, la modificación sustancial, el abono, la compensación, la lanzadera, el polígono, el acta, el delegado sindical.
+
+## 속어 노트
+- «Están al caer»: 곧 도착한다.
+- «Algo gordo»: 큰일, 심각한 일.
+- «Tener escalofríos»: 소름이 돋는다.
+- «A costa de»: ~를 희생시켜서.
+- «Leer con lupa»: 꼼꼼히 살피다.
+- 금액, 이전 일정, 법적 절차(수정 중대성, 협상 테이블 등)는 가공이다. 실제 노동법과 단체협약의 규정은 사안마다 다르며, 작성 전에 확인이 필요하다.
+- 레지스터 주의: 욕설은 없다. 논쟁 장면에서 반어와 빈정거림이 있다.
+
+## 한글 해석
+(화요일 아침, 아홉 시 정각. 물류 회사 회의실. 소피아가 커피를 들고 도착한다. 페드로는 이미 앉아 있고 책상에 차 열쇠가 놓여 있다. 하미드가 서류를 넘겨 본다.)
+소피아 : 안녕하세요. 늦었나요?
+페드로 : 딱 맞춰 왔어. 다른 사람들도 곧 와.
+소피아 : 무슨 회의인지 아는 사람 있어요? 메일에 "이동 계획"이라고만 되어 있던데요.
+하미드 : 그렇게만 썼어. 아무 말도 안 하면 큰일이 온다는 거야.
+페드로 : 너는 늘 최악만 생각하는구나, 하미드.
+하미드 : 나는 노조 대표야. 최악을 생각하는 게 내 일이야.
+페드로 : 내가 보기엔 좋은 소식일 수도 있어. 이동 계획이면 개선처럼 들리는데.
+소피아 : 아니면 주차비를 올린다는 소리처럼 들리거나요.
+페드로 : 차가 없으면 주차비 안 내잖아.
+소피아 : 20킬로미터 떨어진 산업단지에 가야 하면 차를 사야죠.
+하미드 : (고개를 든다) 무슨 산업단지?
+소피아 : 아니에요, 아니에요. 소문이에요.
+하미드 : 이 회사 소문은 대개 사실이야.
+페드로 : 너 뭐 들은 거 있어?
+소피아 : 경영진이 사무실을 옮기려고 한다는 말을 들었어요.
+페드로 : 사무실을 옮긴다고? 우린 바예카스 중심가에 있고 지하철까지 5분인데.
+소피아 : 그래서요. 임대료가 비싸니까요.
+하미드 : 그리고 산업단지는 더 싸지. 누구나 알아.
+페드로 : 좋아, 그럼 뭐라고 하는지 들어 보자. 공황은 퍼지지 않게.
+소피아 : 공황은 저절로 퍼져요.
+(경영자 리카르도와 인사 담당 카르멘이 들어온다. 리카르도는 서류철과 꾸며 낸 미소를 들고 있다.)
+리카르도 : 다들 안녕하세요. 와 줘서 고맙습니다. 시작하죠, 시간이 금이니까요.
+카르멘 : 안녕하세요. 우선 갑작스러운 통보에도 와 주신 데 감사드립니다.
+하미드 : 갑작스러운 통보라는 건 정보가 0이라는 뜻이죠.
+카르멘 : 필요한 만큼의 정보였어요. 이제 더 설명드리겠습니다.
+리카르도 : 분명하고 직접 말씀드리겠습니다. 회사는 지속가능 이동 계획을 시행하기로 했습니다.
+소피아 : "지속가능." 참 예쁜 말이네요.
+리카르도 : 마음에 드신다니 기쁩니다. 세 축으로 이루어져 있습니다. 효율, 절감, 복지.
+하미드 : 그 순서대로 말이죠, 제가 보기에는.
+리카르도 : 순서가 결과를 바꾸지는 않습니다. 괜찮으시다면 축을 설명하겠습니다.
+카르멘 : 리카르도, 첫 번째 사항인 시설부터 시작하는 게 좋겠어요.
+리카르도 : 맞습니다. 시설. 아시다시피 바예카스 본사는 회사에 월 3,500유로가 듭니다.
+페드로 : 적지 않네요.
+리카르도 : 적지 않고, 2년 동안 20퍼센트 올랐습니다. 본사를 코슬라다 산업단지로 옮기기로 했습니다.
+소피아 : (작은 소리로) 그럴 줄 알았어.
+하미드 : 언제요?
+리카르도 : 1월부터입니다. 즉 3개월 뒤요.
+하미드 : 사무실을 20킬로미터 옮기는데 사전 통보 3개월이라니요. 참 후하시네요.
+리카르도 : 단체협약상 한 달이면 됩니다. 기간을 세 배로 늘렸습니다.
+카르멘 : 그리고 이 과정을 함께하고 싶습니다. 그래서 이동 계획이 있는 거예요.
+리카르도 : 맞습니다. 제공하는 것을 설명드리죠.
+리카르도 : 첫째, 고객을 방문하는 영업직 12명에게는 회사가 회사 차를 제공합니다.
+페드로 : (미소를 숨긴다) 아주 좋네요. 큰 도움이 돼요.
+리카르도 : 둘째, 6개월 동안 셔틀을 운행합니다. 바예카스에서 8시에 출발해 6시에 돌아옵니다.
+소피아 : 셔틀 한 대요?
+리카르도 : 한 대입니다. 25명 정원이고요.
+하미드 : 우리는 38명이에요.
+리카르도 : 일부는 자기 차나 동료 차를 선호하실 겁니다. 산업단지에 무료 주차장이 있습니다.
+소피아 : 무료요, 차가 있으면.
+리카르도 : 셋째, 교통 수당은 자가용 이용자를 위한 연료 보상으로 대체합니다.
+하미드 : 대체한다고요? 정기권은요?
+리카르도 : 정기권은 더 이상 보조하지 않습니다. 셔틀이나 차로 이동하면 필요 없으니까요.
+소피아 : 6개월 뒤 셔틀이 끝나면요?
+리카르도 : 그때 평가합니다. 아마 연장될 겁니다.
+하미드 : "아마." 그 단어에 소름이 돋네요.
+카르멘 : 유연성의 문제입니다. 회사는 필요에 적응하려는 거예요.
+하미드 : 누구의 필요에요?
+리카르도 : 물론 모두의 필요입니다.
+소피아 : 그건 대표님 말씀이죠. 저는 카라반첼에 살고 면허가 없어요.
+리카르도 : 알고 있어요, 소피아. 의무도 아니고 대안이 있습니다.
+소피아 : 어떤 거요? 한 시간 반 걸리는 버스요?
+리카르도 : 버스 노선이 있습니다. 이상적이진 않을 수 있지만요.
+하미드 : 이상적이진 않을 수 있다. 빠르게 계산해 보죠. 소피아, 지금 바예카스까지 얼마나 걸려?
+소피아 : 지하철로 20분이에요.
+하미드 : 코슬라다까지는 현실적으로 얼마나 걸릴까?
+소피아 : 버스 두 대로 한 시간 십 분이요. 하루에 두 시간 이십 분요.
+하미드 : 두 시간 이십 분. 지금 길에서 버리는 시간의 두 배도 넘어. 한 달이면 거의 열 시간 더야.
+리카르도 : 손실의 문제가 아닙니다. 이동의 문제입니다.
+하미드 : 아래로 향하는 이동이네요.
+페드로 : 죄송하지만 말씀드릴게요. 제 생각에 산업단지는 장점이 있어요. 주차장이 있고 공간이 넓고 소음이 적어요.
+소피아 : 너한테는 좋겠지. 회사 차를 받으니까.
+페드로 : 특권이 아니야. 업무 도구야. 한 달에 고객 스무 곳을 방문해.
+소피아 : 하지만 너는 더 벌고 이제 차와 주차와 연료까지 받아. 나는 선착순 좌석의 셔틀이고.
+페드로 : 그렇게 말하지 마. 내가 결정한 건 아무것도 없어.
+소피아 : 비난하는 게 아니야. 이 계획이 어떤 사람들에게 더 유리하다는 말이야.
+카르멘 : 걱정은 이해해요. 하지만 개인 사정에 대한 조항도 넣었어요.
+하미드 : 어떤 사정이요?
+카르멘 : 이동에 특별한 어려움이 있는 분들요. 개별적으로 검토하겠습니다.
+하미드 : "검토하겠다." 또 위험한 단어네요.
+리카르도 : 하미드, 불신은 이해하지만 처음부터 악의를 전제하시면 안 됩니다.
+하미드 : 악의를 전제하는 게 아닙니다. 부실한 계획을 전제하는 겁니다.
+리카르도 : 여러분이 부실한 계획이라 부르는 것은 회사를 살리기 위한 결정입니다. 비용을 줄이지 않으면 회사가 없어집니다.
+소피아 : 늘 같은 말씀이세요. 늘 "회사를 살리기 위해서"라고. 그리고 대가는 우리가 치르죠.
+리카르도 : 무슨 뜻이죠?
+소피아 : 제가 갈 수 없으면 제가 나가라는 뜻이에요. 그건 이동 계획이 아니라 저를 내보내는 방법이에요.
+리카르도 : 아무도 내보내지 않습니다.
+소피아 : 그런데 꼭 그렇게 보여요.
+페드로 : 소피아, 과장하지 마.
+소피아 : 과장 아니에요. 저는 네 살 딸이 있고 이 회사에서 7년 일했어요. 그런데 이제 딸과 직장 중 하나를 골라야 해요.
+리카르도 : 고르실 필요 없습니다. 해결책을 이야기하죠.
+소피아 : 이야기, 늘 이야기만! 그동안 우리 동네는 월세가 달마다 올라요!
+하미드 : (손을 든다) 잠깐만. 소피아, 숨 쉬어. 리카르도 씨, 제안을 하나 하겠습니다.
+리카르도 : 하세요.
+하미드 : 이 문제를 단체협약 협상 테이블에서 노조 위원회가 참석한 상태로 협상하자고 제안합니다.
+리카르도 : 필요 없습니다. 조건의 사소한 변경이에요.
+하미드 : 사소하다고요? 20킬로미터 이전으로 통근 시간이 세 배가 되는 건 사소하지 않습니다.
+카르멘 : 법적으로 이건 중대한 변경이에요. 절차를 따라야 해요.
+리카르도 : 카르멘, 제발.
+카르멘 : 사실이에요, 리카르도. 잘못하면 문제가 생겨요.
+리카르도 : (한숨) 좋아요. 아마 우리가 너무 서둘렀다는 건 인정합니다.
+하미드 : 고맙습니다. 그건 이미 진전이네요.
+하미드 : 그럼 공식 제안입니다. 협상 테이블이 열릴 때까지 이전을 보류합니다. 그동안 정기권은 유지합니다.
+리카르도 : 오늘 그걸 약속할 수는 없습니다. 이사회와 이야기해야 해요.
+하미드 : 이사회와 이야기하세요. 그리고 일주일 안에 서면으로 답해 주세요.
+리카르도 : 일주일은 짧습니다.
+하미드 : 3개월 사전 통보가 회사 쪽엔 충분해 보였죠. 일주일은 우리 쪽엔 충분합니다.
+카르멘 : 영업일 기준 10일을 드릴 수 있어요. 서면 약속과 함께.
+리카르도 : 10일. 하지만 결과는 보장 못 합니다.
+하미드 : 결과를 보장하라는 게 아닙니다. 테이블을 보장하라는 겁니다.
+소피아 : 그리고 그동안 정기권을 없애지 않는 것도요.
+리카르도 : 그건 확인해 보겠습니다. 약속은 안 합니다.
+페드로 : 저는 테이블을 지지합니다. 이 계획이 저한테 유리하더라도 동료들을 희생해서 하는 건 원치 않아요.
+소피아 : (놀라서) 고마워, 페드로.
+페드로 : 고마워하지 마. 아직 차를 포기한 건 아니니까.
+소피아 : (어쩔 수 없이 웃는다) 그럴 줄 알았어.
+리카르도 : 그럼 합의된 겁니다. 10일, 협상 테이블, 그리고 가능하다면 3월까지 정기권.
+하미드 : "가능하다면." 또 위험한 단어네요.
+리카르도 : (웃는다) 메모해 둡니다. 이사회가 뭐라고 하는지 봅시다.
+카르멘 : 이 회의의 회의록을 작성해서 모두에게 보낼게요.
+하미드 : 저는 돋보기로 읽겠습니다.
+소피아 : 저는 인쇄해 둘게요. 혹시 모르니까요.

@@ -1,0 +1,301 @@
+# 1부 12화. La fin de la trêve hivernale (동계 퇴거 유예의 끝)
+난이도: 주 B2 | 구간: B1→C1→B2→B2→B1→C1 | 형식: 다인 | 장소: 일 층 조지안의 집 부엌 | 시간: 삼월 이십육 일 저녁 여섯 시
+등장인물: Nathalie, Josiane, Mehdi
+이슈: 주 ● 월세 체납과 퇴거 절차, 이웃과 사회복지사의 입장 차이 | 곡선: 1-3-1-3-1-2 (파도형, 상한 3) | 입장: A 조지안(이십삼 년 산 집을 지키고 싶은 오십 대 세입자, 체납액이 틀렸다고 생각한다) / B 메디(이웃, 이의 제기와 맞서기를 주장한다) / C 나탈리(사회복지사, 서면 대응과 분할 상환안, 재거주 신청을 병행하자고 한다)
+상황 카드: 목표: 동계 퇴거 유예가 끝나기 닷새 전에 세 사람이 대응 방법을 정한다. 걸림돌: 맞서자는 이웃과 협상을 권하는 사회복지사 사이에서 조지안은 두려움과 수치심을 느낀다. 해소: 이의 제기, 분할 상환안, 지원 신청, 이웃의 탄원서를 함께 진행하기로 한다. 결과는 보장되지 않는 열린 결말.
+학습 포인트: 퇴거 절차 어휘(la trêve hivernale, le commandement de quitter les lieux, le plan d'apurement) · 격식 있는 설명(Je préconise de répondre par écrit) · 반박과 완곡한 조정(Les deux démarches ne s'excluent pas) · 감정 표현(J'ai besoin qu'on me parle doucement) · 단계 정리(Un : ..., Deux : ...)
+
+## 대화
+(Une cuisine au rez-de-chaussée, fin mars, dix-huit heures. Josiane, une femme d'une soixantaine d'années, reçoit Nathalie, assistante sociale, et son voisin Mehdi. Sur la table, une lettre ouverte.)
+Nathalie : Bonsoir madame Roche, merci de me recevoir. Je suis Nathalie, du service social du quartier.
+Josiane : Entrez, entrez. Excusez le désordre, je n'ai pas bien dormi.
+Mehdi : Bonsoir madame, c'est moi qui ai appelé. Je suis Mehdi, le voisin du dessus.
+Nathalie : Merci d'avoir prévenu, monsieur. Madame Roche, vous êtes d'accord pour qu'il reste ?
+Josiane : Oui, oui, il m'aide beaucoup. Asseyez-vous, je fais du café.
+Nathalie : Pas de souci pour moi. Vous avez reçu un courrier, c'est ça ?
+Josiane : Voilà, je l'ai sur la table. Un huissier, ou je ne sais pas qui.
+Mehdi : C'est un commandement de quitter les lieux, madame. Le papier dit que le délai court à la fin de la trêve.
+Josiane : Quelle trêve ? Je n'ai jamais fait la guerre à personne.
+Nathalie : Ha, non, ce n'est pas ça. La trêve hivernale, c'est la période où on ne peut pas expulser un locataire, du premier novembre au trente et un mars.
+Josiane : Donc après, on peut ?
+Nathalie : Pas automatiquement. Il y a encore des étapes. Mais le délai commence à compter à partir du premier avril.
+Mehdi : Et on est le vingt-six mars. Il reste cinq jours.
+Josiane : Cinq jours ! Mon Dieu, et mon fils qui ne sait rien.
+Nathalie : Respirez, madame. Je suis là pour qu'on regarde tout ensemble.
+Josiane : Je vous remercie. J'ai tellement honte.
+Mehdi : Il n'y a pas de honte, madame Roche. Ça peut arriver à tout le monde.
+Nathalie : Mehdi a raison. D'abord, je voudrais comprendre comment on en est arrivés là.
+Josiane : Quand j'ai perdu mon travail à la cantine, il y a un an, j'ai commencé à prendre du retard.
+Nathalie : Je comprends. On va regarder ça.
+(Nathalie ouvre sa sacoche et sort un dossier. Le ton devient plus grave.)
+Nathalie : Le montant de la dette locative, d'après le courrier, s'élève à quatre mille deux cents euros, soit environ douze mois d'arriérés.
+Josiane : Douze mois ? Non, c'est faux. J'ai payé une partie, j'ai des virements, des reçus.
+Mehdi : Il faut contester ce chiffre tout de suite. On ne peut pas laisser passer une erreur pareille, c'est la porte ouverte à tout.
+Nathalie : Contester, oui, mais avec méthode. Une contestation mal ficelée risque de braquer le bailleur et de durcir la procédure.
+Mehdi : Durcir ? Elle est déjà au bord de l'expulsion ! Qu'est-ce qu'on a à perdre ?
+Nathalie : Beaucoup, justement. Les juridictions apprécient la bonne foi, et la bonne foi se démontre par la volonté de dialoguer, non par le bras de fer.
+Josiane : Je ne veux pas de bras de fer. Je veux juste garder mon logement, j'y habite depuis vingt-trois ans.
+Mehdi : Madame Roche, je ne vous pousse pas au conflit. Mais si on ne dit rien, le bailleur va croire que vous acceptez sa version des faits.
+Nathalie : Ce n'est pas ce que je préconise. Je préconise de répondre par écrit, de joindre les justificatifs, et de proposer un plan d'apurement réaliste.
+Josiane : Un plan d'apurement, c'est quoi, exactement ?
+Nathalie : Un échéancier, madame. On s'engage à payer le loyer courant, plus une somme mensuelle pour résorber la dette, par exemple quatre-vingts euros.
+Josiane : Quatre-vingts euros de plus par mois ? Ma petite retraite ne me le permet pas.
+Mehdi : Voilà pourquoi je dis qu'il faut aussi attaquer le montant. Si la dette est surévaluée, le plan est faussé.
+Nathalie : Les deux démarches ne s'excluent pas. On peut vérifier le décompte et, en parallèle, déposer un dossier d'aide au Fonds de solidarité pour le logement.
+Mehdi : Cette aide, c'est une promesse ou une réalité ? J'ai vu des gens attendre six mois pour un refus.
+Nathalie : Je ne vais pas vous mentir, les délais sont longs, et l'issue n'est jamais garantie. Mais c'est une porte, et il vaut mieux frapper que d'attendre.
+Josiane : Je suis fatiguée. J'ai l'impression qu'on parle de moi comme d'un dossier.
+Nathalie : Pardonnez-moi, madame. Ce n'est pas mon intention. Vous êtes au centre de tout ça.
+Mehdi : Excusez-moi aussi. Je m'emporte parce que je trouve cette situation révoltante.
+Josiane : Je sais, Mehdi, et je t'en remercie. Mais j'ai besoin qu'on me parle doucement.
+(Josiane se lève et sert du café dans trois tasses. Le calme revient peu à peu.)
+Josiane : Voilà du café. Je ne sais pas faire autre chose quand je suis nerveuse.
+Mehdi : C'est parfait. Merci, madame Roche.
+Nathalie : Merci. Si vous voulez bien, racontez-moi comment ça s'est passé depuis la perte de votre emploi.
+Josiane : J'étais cuisinière dans une cantine scolaire pendant quinze ans. Quand l'école a changé de prestataire, on m'a licenciée.
+Nathalie : Avez-vous touché des allocations chômage ?
+Josiane : Pendant dix mois, oui, mais elles étaient plus basses que mon salaire. J'ai d'abord payé les factures, puis le loyer a pris du retard.
+Mehdi : Elle m'a même prêté deux fois de la farine. Ça fait rire, mais c'est vrai.
+Josiane : Tu me l'as bien rendue en gâteaux, Mehdi. Ha ha.
+Nathalie : Je vois. Et votre fils, où habite-t-il ?
+Josiane : À Lille. Il ne sait pas, je ne veux pas l'inquiéter. Il a deux enfants, il se débrouille déjà à peine.
+Mehdi : Madame Roche, il serait peut-être bon de le prévenir. Il pourrait vous aider, ou au moins vous soutenir.
+Josiane : Je sais, mais j'ai peur de le décevoir. Il m'a toujours vue comme quelqu'un de solide.
+Nathalie : Les parents ont le droit de traverser des difficultés. Votre fils comprendra sûrement, d'autant plus s'il a des enfants.
+Josiane : Peut-être. Je vais y réfléchir.
+Nathalie : Autre point : votre quartier. Vous avez des voisins, des amis qui pourraient témoigner de votre sérieux ?
+Mehdi : Tout l'immeuble. Madame Roche garde les clés de la cave et surveille les colis depuis des années.
+Josiane : C'est mon petit rôle de voisine. Je n'ai jamais rien demandé en échange.
+Nathalie : Ces lettres de soutien peuvent avoir leur poids. Je vous aiderai à en rédiger quelques-unes.
+Mehdi : Je m'en occupe, je connais tous les voisins. On en aura une dizaine d'ici vendredi.
+Josiane : Ça me touche énormément. Je ne savais pas que j'avais tant de monde derrière moi.
+(Nathalie consulte un document. Elle pèse ses mots.)
+Nathalie : Madame Roche, je dois vous parler d'une démarche que je recommande en parallèle : une demande de relogement.
+Josiane : De relogement ? Mais je ne veux pas partir ! Mon appartement, c'est ma vie.
+Nathalie : Je sais, et personne ne vous demande de partir. C'est une sécurité, au cas où les autres démarches n'aboutiraient pas.
+Mehdi : C'est une manière de baisser les bras, oui. Quand on commence à parler de relogement, le bailleur se dit qu'on a déjà renoncé.
+Nathalie : Ce n'est pas du tout ce que ça signifie. Une demande de logement social prend des mois, voire des années, justement parce qu'il vaut mieux la déposer tôt.
+Josiane : Des années ? Et pendant ce temps, je reste ici ?
+Nathalie : Tout dépend de la décision du juge, si on en arrive là. Je préfère vous préparer à toutes les possibilités.
+Mehdi : Vous préparez surtout madame Roche à perdre, Nathalie. Moi, je veux qu'on prépare une victoire.
+Nathalie : Je veux qu'elle gagne, Mehdi, croyez-moi. Mais je ne peux pas lui promettre ce que je ne contrôle pas.
+Josiane : Arrêtez, tous les deux. Vous voulez mon bien, je le sais. Mais j'ai besoin d'un peu d'air.
+Mehdi : Pardon, madame. Je me laisse emporter parce que je pense à ma propre mère.
+Nathalie : Moi aussi, je pense à des familles que j'ai accompagnées, et qui auraient souhaité qu'on leur dise la vérité plus tôt.
+Josiane : La vérité, c'est que j'ai peur. Peur de la rue, peur de mon fils, peur de ne plus rien avoir.
+Nathalie : C'est tout à fait légitime. Je suis là, Mehdi aussi, et le quartier aussi.
+Mehdi : Je retire ce que j'ai dit. Les deux démarches, en parallèle. C'est la sagesse.
+Josiane : Le relogement, je le fais pour me rassurer, mais je garde mon appartement tant que je peux.
+Nathalie : C'est exactement l'état d'esprit qu'il faut. Je prépare le dossier dès demain.
+Mehdi : Et moi, les lettres de soutien et le contact de l'association de locataires.
+Josiane : Merci à vous deux. Je suis moins seule ce soir.
+Nathalie : Vous ne l'étiez pas, madame. Vous le saviez peut-être moins.
+(Nathalie note les étapes dans un carnet. Le ton se fait plus pratique.)
+Nathalie : Je récapitule ce qu'on fait cette semaine. Un : une lettre au bailleur pour contester le montant.
+Josiane : Je dois y joindre mes reçus. Je les cherche ce soir.
+Nathalie : Deux : le dossier d'aide, avec vos trois derniers relevés de compte et votre avis d'imposition.
+Josiane : Je les ai dans la commode, dans une enveloppe.
+Mehdi : Trois : les lettres des voisins. Je commence demain à la sortie du travail.
+Nathalie : Quatre : un rendez-vous avec l'association de locataires. Mehdi, vous avez leur numéro ?
+Mehdi : Je l'ai. Je vous l'envoie par message tout à l'heure.
+Josiane : Et mon fils ? Je l'appelle quand ?
+Nathalie : C'est vous qui décidez. Mais plus tôt, ce sera mieux.
+Josiane : Demain soir, alors. Je prépare ce que je vais lui dire.
+Mehdi : Si vous voulez, je peux rester à côté pendant l'appel.
+Josiane : Merci, Mehdi, mais je veux le faire seule. Je te dirai comment ça s'est passé.
+Nathalie : C'est tout à fait compréhensible. Un dernier détail : si un huissier se présente, ne signez rien sans me prévenir.
+Josiane : D'accord. Et si je ne suis pas là ?
+Mehdi : Je ferai en sorte d'être là, ou de demander à un autre voisin.
+Nathalie : Parfait. Voici ma carte, avec mon numéro direct. Appelez-moi à n'importe quelle heure en cas de besoin.
+Josiane : Merci beaucoup, Nathalie. C'est la première fois depuis longtemps que je me sens moins perdue.
+Nathalie : C'est le but. Nous ne réglerons pas tout en une soirée, mais nous avons un plan.
+Mehdi : Un plan, c'est déjà beaucoup.
+Josiane : Oui. C'est déjà beaucoup.
+(Nathalie range ses dossiers. Mehdi se lève pour partir. Le soir tombe sur la cour.)
+Nathalie : Je vous laisse, madame Roche. Je repasserai jeudi, avec ce qu'il faut pour envoyer la lettre.
+Josiane : Je vous attends. Je vous préparerai une part de gâteau.
+Mehdi : Un gâteau de cantine, j'espère. Les meilleurs.
+Josiane : De cantine, oui. Je n'ai pas perdu la main.
+Nathalie : Une dernière chose, avant de partir. Je dois être honnête : je ne peux pas garantir l'issue. La procédure peut aboutir à un maintien dans les lieux, à un délai supplémentaire, ou, dans le pire des cas, à un départ.
+Josiane : Je le sais. Mais j'ai besoin d'entendre que quelqu'un se bat avec moi.
+Nathalie : Je me bats avec vous, dans les limites de ce que le droit permet. Et Mehdi se bat à sa manière, plus passionnée.
+Mehdi : Plus bruyante, vous voulez dire. Ha ha.
+Nathalie : Bruyante et précieuse. Il faut les deux, dans une situation comme celle-là.
+Josiane : Il faut surtout du courage. Et je crois que j'en ai retrouvé un peu ce soir.
+Mehdi : On n'en a jamais trop. À demain, madame Roche.
+Josiane : À demain, mon grand. Merci d'avoir sonné à ma porte le jour où tu as vu la lettre dans ma boîte.
+Mehdi : C'était normal. Entre voisins, on ne laisse pas les gens seuls.
+Nathalie : C'est ce que je dis toujours : le plus beau dispositif de solidarité, c'est un palier.
+Josiane : Un palier, oui. Avec des gens qui savent où sont les clés de la cave.
+Mehdi : Et des gâteaux. Ne l'oublions pas.
+Nathalie : Au revoir, madame Roche. Bonne nuit, et essayez de dormir un peu.
+Josiane : Je vais essayer. Mais je ne promets rien.
+Mehdi : Bonne nuit, madame. Et demain, on commence.
+Josiane : Oui. Demain, on commence. Bonne nuit, vous deux.
+
+## 낭독 포인트
+- 비음 모음: «logement», «commandement», «relogement» — en, an, on은 코로 울리는 모음이고 n은 따로 소리 내지 않는다. -ment 어미는 [mɑ̃].
+- 연음·앙샹느망: «Vous avez», «Un échéancier» — 끝 자음이 다음 모음 앞에서 이어진다.
+- 프랑스어 r: «trêve», «procédure», «relogement» — 목젖 근처에서 내는 마찰음.
+- u / ou: «plus», «huissier» vs «tout», «vous» — u는 입술을 모아 [y], ou는 [u].
+- 숫자·금액: «trente et un mars», «quatre mille deux cents euros», «quatre-vingts euros», «vingt-trois ans» — 숫자와 단위를 한 호흡에 읽는다.
+- 호칭·억양: «madame Roche»에게 나탈리와 메디는 vous, 조지안은 메디에게 tu, 나탈리에게 vous. 갈등 구간(21~40, 61~80턴)은 말이 빨라지고 날이 서며, 조지안의 «J'ai besoin qu'on me parle doucement.»에서 속도와 볼륨이 확 낮아진다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 상황 파악
+  · 용어 설명: «La trêve hivernale, c'est la période où on ne peut pas expulser un locataire.»
+  · 감정: «J'ai tellement honte.», «Il n'y a pas de honte.»
+- C1 구간(21~40턴): 이의 제기와 협상의 충돌
+  · 방법론: «Contester, oui, mais avec méthode.», «Les deux démarches ne s'excluent pas.»
+  · 비유: «le bras de fer», «une contestation mal ficelée»
+  · 감정 호소: «J'ai l'impression qu'on parle de moi comme d'un dossier.»
+- B2 구간(41~60턴): 사연과 이웃의 지지
+  · 과거 서술: «J'étais cuisinière dans une cantine scolaire pendant quinze ans.»
+  · 위로: «Les parents ont le droit de traverser des difficultés.»
+- B2 구간(61~80턴): 재거주 신청을 둘러싼 의견 충돌
+  · 반론: «C'est une manière de baisser les bras.», «Je ne peux pas lui promettre ce que je ne contrôle pas.»
+  · 화해: «Je retire ce que j'ai dit. Les deux démarches, en parallèle.»
+- B1 구간(81~100턴): 이번 주 해야 할 일
+  · 순서: «Un : ..., Deux : ..., Trois : ...»
+  · 약속: «Je ferai en sorte d'être là.»
+- C1 구간(101~120턴): 솔직한 한계와 연대
+  · 한계 인정: «Je ne peux pas garantir l'issue.»
+  · 마무리: «Le plus beau dispositif de solidarité, c'est un palier.»
+- 어휘: l'huissier, le bailleur, l'arriéré, l'échéancier, le relogement, les justificatifs, la contestation, l'association de locataires.
+
+## 속어 노트
+- «le bras de fer»: 팔씨름. 힘겨루기, 팽팽한 대립.
+- «mal ficelé»: 허술하게 짜인, 엉성한.
+- «baisser les bras»: 포기하다, 손 놓다.
+- «Je n'ai pas perdu la main.»: 솜씨가 아직 녹슬지 않았다.
+- «Ça me touche.»: 마음에 와닿아요, 뭉클하네요.
+- 이 이야기의 퇴거 유예 기간, 체납액, 분할 상환 금액, 지원 기금과 절차는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 나탈리와 조지안은 vous, 메디는 조지안에게 vous, 조지안은 메디에게 tu를 쓴다.
+
+## 한글 해석
+(일 층 부엌, 삼월 말 저녁 여섯 시. 육십 안팎의 조지안이 사회복지사 나탈리와 이웃 메디를 맞는다. 탁자 위에는 뜯어 놓은 편지가 있다.)
+나탈리 : 안녕하세요, 로슈 부인, 맞아 주셔서 감사합니다. 저는 동네 사회복지 센터의 나탈리예요.
+조지안 : 들어와요, 들어와요. 어수선한 건 이해해 줘요, 잠을 잘 못 잤어요.
+메디 : 안녕하세요, 부인. 제가 전화했어요. 위층 이웃 메디예요.
+나탈리 : 알려 주셔서 감사해요. 로슈 부인, 메디 씨가 함께 있어도 괜찮으신가요?
+조지안 : 네, 네, 많이 도와줘요. 앉아요, 커피 끓일게요.
+나탈리 : 저는 괜찮아요. 편지를 받으셨죠?
+조지안 : 네, 탁자 위에 있어요. 집행관인지 뭔지 모르겠어요.
+메디 : 퇴거 명령서예요, 부인. 유예가 끝날 때부터 기한이 시작된다고 쓰여 있어요.
+조지안 : 무슨 유예요? 나는 누구와도 전쟁한 적 없는데.
+나탈리 : 아, 그게 아니에요. 동계 퇴거 유예는 세입자를 쫓아낼 수 없는 기간으로 십일월 일 일부터 삼월 삼십일 일까지예요.
+조지안 : 그럼 그 뒤에는 쫓아낼 수 있나요?
+나탈리 : 자동으로 그렇진 않아요. 아직 단계가 남아 있어요. 하지만 기한은 사월 일 일부터 세기 시작해요.
+메디 : 오늘이 삼월 이십육 일이에요. 닷새 남았어요.
+조지안 : 닷새! 세상에, 우리 아들은 아무것도 모르는데.
+나탈리 : 숨을 쉬세요, 부인. 제가 함께 전부 살펴볼게요.
+조지안 : 고마워요. 너무 부끄러워요.
+메디 : 부끄러울 거 없어요, 로슈 부인. 누구에게나 생길 수 있어요.
+나탈리 : 메디 씨 말이 맞아요. 먼저 어쩌다 이렇게 됐는지 이해하고 싶어요.
+조지안 : 일 년 전에 구내식당 일을 잃고 나서 밀리기 시작했어요.
+나탈리 : 이해해요. 같이 살펴봐요.
+(나탈리가 가방을 열고 서류철을 꺼낸다. 어조가 더 무거워진다.)
+나탈리 : 편지에 따르면 체납액은 사천이백 유로로 대략 열두 달치 연체예요.
+조지안 : 열두 달이요? 아니, 틀렸어요. 일부는 냈어요, 이체 내역도 있고 영수증도 있어요.
+메디 : 그 금액은 지금 바로 이의를 제기해야 해요. 이런 오류를 그냥 두면 뭐든 열어 주는 셈이에요.
+나탈리 : 이의 제기는 하지만 방법이 있어야 해요. 엉성한 이의 제기는 집주인을 자극하고 절차를 더 거칠게 만들 수 있어요.
+메디 : 거칠어진다고요? 이미 퇴거 직전이잖아요! 잃을 게 뭐가 있어요?
+나탈리 : 오히려 많아요. 법원은 선의를 중요하게 보고, 선의는 힘겨루기가 아니라 대화하려는 의지로 증명돼요.
+조지안 : 힘겨루기는 원하지 않아요. 그냥 내 집을 지키고 싶어요, 이십삼 년을 살았어요.
+메디 : 로슈 부인, 갈등을 부추기는 게 아니에요. 하지만 아무 말도 안 하면 집주인은 부인이 그의 주장을 받아들인다고 생각할 거예요.
+나탈리 : 제가 권하는 방식은 아니에요. 서면으로 답하고 증빙을 붙이고 현실적인 분할 상환안을 내는 걸 권해요.
+조지안 : 분할 상환안이 정확히 뭐예요?
+나탈리 : 상환 일정표예요, 부인. 현재 월세를 내면서 빚을 줄이기 위해 매달 얼마씩, 예를 들어 팔십 유로를 내겠다고 약속하는 거예요.
+조지안 : 한 달에 팔십 유로를 더요? 내 얼마 안 되는 연금으론 안 돼요.
+메디 : 그래서 금액 자체도 따져야 한다고 하는 거예요. 빚이 부풀려졌다면 상환안도 왜곡돼요.
+나탈리 : 두 방법은 서로 배제되지 않아요. 내역을 확인하면서 동시에 주거 연대 기금 지원 신청서를 낼 수 있어요.
+메디 : 그 지원은 약속인가요, 현실인가요? 여섯 달을 기다려 거절당한 사람들을 봤어요.
+나탈리 : 거짓말하지 않을게요. 기간은 길고 결과는 늘 보장되지 않아요. 하지만 문이고, 기다리는 것보다 두드리는 게 나아요.
+조지안 : 피곤해요. 사람들이 나를 서류 한 건처럼 말하는 것 같아요.
+나탈리 : 죄송해요, 부인. 그럴 의도는 아니에요. 모든 일의 중심은 부인이세요.
+메디 : 저도 죄송해요. 이 상황이 너무 화가 나서 흥분했어요.
+조지안 : 알아, 메디, 고마워. 그래도 부드럽게 말해 줬으면 해요.
+(조지안이 일어나 세 잔에 커피를 따른다. 분위기가 차츰 가라앉는다.)
+조지안 : 자, 커피예요. 불안하면 이것밖에 할 줄 몰라요.
+메디 : 좋아요. 고맙습니다, 로슈 부인.
+나탈리 : 고맙습니다. 괜찮으시면 직장을 잃은 뒤로 어떻게 지냈는지 말씀해 주세요.
+조지안 : 학교 급식소에서 십오 년간 요리사로 일했어요. 학교가 업체를 바꾸면서 해고됐어요.
+나탈리 : 실업 급여는 받으셨나요?
+조지안 : 열 달 동안은요, 하지만 월급보다 적었어요. 먼저 공과금을 내다 보니 월세가 밀렸어요.
+메디 : 저한테 밀가루를 두 번이나 빌려 주셨어요. 웃기지만 사실이에요.
+조지안 : 너 그거 케이크로 잘 갚았잖아, 메디. 하하.
+나탈리 : 알겠어요. 아드님은 어디 사세요?
+조지안 : 릴이요. 아무것도 몰라요, 걱정시키고 싶지 않아서요. 아이가 둘이라 이미 간신히 지내요.
+메디 : 로슈 부인, 알리는 게 좋을 수도 있어요. 도와줄 수도 있고 적어도 힘이 되어 줄 거예요.
+조지안 : 알아요, 하지만 실망시킬까 봐 겁나요. 아들은 늘 나를 단단한 사람으로 봤어요.
+나탈리 : 부모도 어려움을 겪을 권리가 있어요. 아드님도 아이가 있으니 분명 이해할 거예요.
+조지안 : 그럴지도 모르죠. 생각해 볼게요.
+나탈리 : 다른 점이에요. 동네에서 부인의 성실함을 증언해 줄 이웃이나 친구가 있나요?
+메디 : 건물 전체요. 로슈 부인은 오래전부터 지하실 열쇠를 맡고 택배를 지켜 주셨어요.
+조지안 : 이웃으로서 작은 역할이에요. 대가는 한 번도 바란 적 없어요.
+나탈리 : 그런 탄원서는 무게가 있어요. 몇 장 쓰시도록 도와 드릴게요.
+메디 : 제가 맡을게요, 이웃을 다 알아요. 금요일까지 열 장쯤 받을 수 있어요.
+조지안 : 정말 뭉클하네요. 내 뒤에 이렇게 많은 사람이 있는 줄 몰랐어요.
+(나탈리가 서류 하나를 살펴본다. 말을 신중하게 고른다.)
+나탈리 : 로슈 부인, 병행해서 권하고 싶은 절차가 하나 있어요. 재거주 신청이에요.
+조지안 : 재거주요? 하지만 나는 떠나고 싶지 않아요! 이 집이 내 삶이에요.
+나탈리 : 알아요, 아무도 떠나라고 하지 않아요. 다른 절차가 잘 안 될 경우를 대비한 안전장치예요.
+메디 : 그건 손 놓는 방식이에요. 재거주를 말하기 시작하면 집주인은 이미 포기했다고 생각할 거예요.
+나탈리 : 전혀 그런 뜻이 아니에요. 사회 주택 신청은 몇 달, 심지어 몇 년이 걸려서 일찍 내는 게 낫다는 거예요.
+조지안 : 몇 년이요? 그동안 나는 여기 있는 건가요?
+나탈리 : 그 지경까지 가면 판사의 결정에 달려 있어요. 모든 가능성에 대비하시게 하고 싶어요.
+메디 : 나탈리 씨는 로슈 부인을 지는 쪽으로 준비시키고 계세요. 저는 승리를 준비하고 싶어요.
+나탈리 : 저도 부인이 이기길 바라요, 메디 씨, 믿어 주세요. 하지만 제가 통제할 수 없는 걸 약속할 순 없어요.
+조지안 : 그만해요, 둘 다. 내 걱정해서 그러는 거 알아요. 하지만 숨 쉴 틈이 필요해요.
+메디 : 죄송해요, 부인. 제 어머니 생각이 나서 흥분했어요.
+나탈리 : 저도 제가 동행했던 가정들이 생각나요. 그분들은 진실을 더 일찍 알려 주길 바랐어요.
+조지안 : 진실은 내가 무섭다는 거예요. 거리가, 아들이, 아무것도 남지 않을 게 무서워요.
+나탈리 : 충분히 그럴 수 있어요. 제가 있고 메디 씨도 있고 동네도 있어요.
+메디 : 제가 한 말은 거둘게요. 두 가지 방법을 병행하죠. 그게 지혜예요.
+조지안 : 재거주는 마음을 놓으려고 신청하고, 할 수 있는 한 내 집은 지킬 거예요.
+나탈리 : 바로 그런 마음가짐이 필요해요. 내일부터 서류를 준비할게요.
+메디 : 저는 탄원서와 세입자 단체 연락처를 맡을게요.
+조지안 : 두 분 다 고마워요. 오늘 밤은 덜 외로워요.
+나탈리 : 외롭지 않으셨어요, 부인. 아마 덜 아셨을 뿐이에요.
+(나탈리가 수첩에 단계를 적는다. 어조가 더 실무적으로 바뀐다.)
+나탈리 : 이번 주에 할 일을 정리할게요. 하나, 금액에 이의를 제기하는 집주인 앞 편지.
+조지안 : 영수증을 붙여야 해요. 오늘 밤 찾아볼게요.
+나탈리 : 둘, 지원 신청 서류예요. 최근 석 달 치 거래 내역과 세금 고지서가 필요해요.
+조지안 : 서랍장 안 봉투에 있어요.
+메디 : 셋, 이웃들의 탄원서요. 내일 퇴근길에 시작할게요.
+나탈리 : 넷, 세입자 단체와의 면담이에요. 메디 씨, 번호 있으세요?
+메디 : 있어요. 이따 메시지로 보낼게요.
+조지안 : 그럼 아들은요? 언제 전화하죠?
+나탈리 : 정하시는 건 부인이에요. 하지만 빠를수록 좋아요.
+조지안 : 그럼 내일 저녁에요. 뭐라고 할지 준비할게요.
+메디 : 원하시면 통화하는 동안 옆에 있을 수 있어요.
+조지안 : 고마워, 메디. 하지만 혼자 하고 싶어. 어떻게 됐는지 말해 줄게.
+나탈리 : 충분히 이해해요. 마지막으로, 집행관이 오면 저에게 알리기 전에는 아무것도 서명하지 마세요.
+조지안 : 알겠어요. 내가 없으면요?
+메디 : 제가 있도록 하거나 다른 이웃에게 부탁할게요.
+나탈리 : 좋아요. 제 명함이에요, 직통 번호가 있어요. 필요하면 아무 시간에나 전화하세요.
+조지안 : 정말 고마워요, 나탈리. 오랜만에 덜 막막해요.
+나탈리 : 그게 목표예요. 하룻밤에 다 해결되진 않겠지만 계획은 생겼어요.
+메디 : 계획이 있는 것만으로도 큰 거예요.
+조지안 : 네. 그것만으로도 커요.
+(나탈리가 서류를 정리한다. 메디가 가려고 일어선다. 안뜰에 저녁이 내린다.)
+나탈리 : 이만 갈게요, 로슈 부인. 목요일에 편지를 보낼 준비를 해서 다시 올게요.
+조지안 : 기다릴게요. 케이크 한 조각 준비해 둘게요.
+메디 : 급식소 케이크면 좋겠네요. 최고예요.
+조지안 : 급식소 케이크 맞아. 솜씨 아직 안 녹슬었어.
+나탈리 : 가기 전에 한 가지만요. 솔직해야 해서 말씀드려요. 결과를 보장할 수는 없어요. 절차는 계속 거주, 추가 기한, 혹은 최악의 경우 이주로 끝날 수 있어요.
+조지안 : 알아요. 하지만 누군가 함께 싸워 준다는 말을 듣고 싶었어요.
+나탈리 : 법이 허락하는 한도에서 함께 싸울게요. 메디 씨는 더 열정적으로 자기 방식대로 싸우고요.
+메디 : 더 시끄럽다는 말씀이시죠. 하하.
+나탈리 : 시끄럽고 소중하죠. 이런 상황에는 둘 다 필요해요.
+조지안 : 무엇보다 용기가 필요하죠. 오늘 밤 조금 되찾은 것 같아요.
+메디 : 용기는 아무리 많아도 모자라지 않아요. 내일 봐요, 로슈 부인.
+조지안 : 내일 봐, 우리 청년. 편지가 우편함에 있는 걸 보고 내 문을 두드려 준 날 고마웠어.
+메디 : 당연한 일이었어요. 이웃끼리는 사람을 혼자 두지 않아요.
+나탈리 : 제가 늘 하는 말이에요. 가장 아름다운 연대 장치는 계단참이에요.
+조지안 : 계단참, 맞아요. 지하실 열쇠 어디 있는지 아는 사람들이 있는.
+메디 : 그리고 케이크도요. 잊지 말아요.
+나탈리 : 안녕히 계세요, 로슈 부인. 편히 주무시고, 조금이라도 주무세요.
+조지안 : 노력해 볼게요. 약속은 못 해요.
+메디 : 안녕히 주무세요, 부인. 그리고 내일부터 시작해요.
+조지안 : 그래요. 내일부터 시작해요. 둘 다 잘 가요.

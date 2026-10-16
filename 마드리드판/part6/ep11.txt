@@ -1,0 +1,285 @@
+# 6부 11화. La abuela y la residencia (할머니와 요양원)
+난이도: 주 C1 | 구간: C1→B2→B2→C1→B2→C1 | 형식: 2인 | 장소: 할머니의 아파트 부엌 | 시간: 일요일 오후 4시
+등장인물: Gabriela, Elvira
+이슈: 주 ● 노인 돌봄과 요양원 입소 결정, 가족의 부담과 존엄 | 곡선: 0-1-1-2-3-3 (후반폭발형, 상한 3) | 입장: A 가브리엘라(손녀, 할머니의 낙상 후 요양원을 권한다) / B 엘비라(여든여섯 살 할머니, 집을 떠나기 싫고 버려진다고 느낀다)
+상황 카드: 지난달 넘어져 골반을 다친 엘비라는 아직 혼자 지낸다. 손녀 가브리엘라가 일요일 오후 차를 마시며 가족이 의논한 요양원 입소 이야기를 조심스럽게 꺼낸다. 처음에는 차분하던 대화가 엘비라의 분노와 두려움으로 격해진다. 걸림돌은 존엄과 안전, 비용. 결말은 엘비라가 먼저 방문만 해 보겠다고 말하는 열린 결말.
+학습 포인트: 조심스러운 화법(Quería hablar contigo de una cosa delicada) · 감정 폭발과 진정(No me quitéis de en medio) · 설득과 존중(Lo decides tú) · 접속법(Aunque no quiera, Para que estés bien) · 가족 돌봄 어휘
+
+## 대화
+(Domingo, cuatro de la tarde. La cocina de Elvira, en un piso antiguo de Chamberí. Sobre la mesa hay dos tazas de té y un plato de galletas. Gabriela, sentada frente a su abuela, juega nerviosa con la cucharilla.)
+Elvira : ¿Quieres otra galleta, hija? Las ha traído tu tía.
+Gabriela : No, abuela, gracias. Estoy bien.
+Elvira : Pues no pareces. Estás muy callada.
+Gabriela : Es que quería hablar contigo de una cosa.
+Elvira : ¿De algo malo?
+Gabriela : No exactamente. De algo delicado.
+Elvira : Ay, Dios. Dime ya. Que a mi edad no hay paciencia para rodeos.
+Gabriela : Vale. Te lo digo con cariño y sin prisa.
+Gabriela : ¿Cómo te encuentras desde la caída?
+Elvira : Pues bien. Con el bastón y con ganas.
+Gabriela : Abuela, hace un mes te rompiste la cadera.
+Elvira : Y ya estoy andando. No exageres.
+Gabriela : No exagero. Lo que quiero decir es que tuviste mucha suerte.
+Elvira : No habrá próxima vez. Tendré cuidado.
+Gabriela : Abuela, no se trata de cuidado. A veces ocurre aunque uno tenga cuidado.
+Elvira : ¿Adónde quieres llegar?
+Gabriela : Mamá, tío Jaime, la tía Pilar y yo hemos hablado.
+Elvira : ¿Ah, sí? ¿Y de qué habéis hablado a mis espaldas?
+Gabriela : No a tus espaldas. De tu bienestar.
+Elvira : Mi bienestar lo decido yo.
+Gabriela : Claro. Por eso estoy aquí contándotelo.
+Elvira : Pues cuéntame.
+Gabriela : Hemos pensado que quizá estarías mejor en una residencia.
+(Pausa larga. Elvira deja la taza sobre la mesa.)
+Elvira : ¿Una residencia?
+Gabriela : Sí. Una residencia donde te cuiden las veinticuatro horas.
+Elvira : ¿Una residencia de ancianos?
+Gabriela : Sí, abuela. Una buena. Con médicos, con compañía.
+Elvira : Gabriela, ¿tú crees que yo soy una carga?
+Gabriela : No, abuela. De ninguna manera.
+Elvira : Entonces, ¿por qué quieres meterme en una residencia?
+Gabriela : Porque vives sola. Y si te caes otra vez, nadie te oye.
+Gabriela : Abuela, hay también medicación, comidas, la limpieza...
+Elvira : Todo lo hago yo. Con paciencia. Sin ayuda.
+Gabriela : Mamá y yo venimos todos los días, pero no podemos más.
+Elvira : ¿Cómo que no podéis más?
+Gabriela : Que trabajamos. Que tenemos hijos. Que estamos agotadas.
+Elvira : Ah. O sea, que soy un problema.
+Gabriela : No eres un problema. Es una situación difícil.
+Elvira : Pues me hieres. Me estás diciendo que me queréis quitar de en medio.
+Gabriela : No digas eso, por favor.
+Elvira : ¿Que no lo diga? Es lo que oigo. Os estorbo, así que a una residencia.
+Gabriela : ¡No es verdad! Nadie ha dicho eso.
+Elvira : No hace falta que lo digáis. Se nota en la cara.
+Gabriela : Abuela...
+Elvira : Yo crié a tu madre sola. Con una pensión de viuda. Trabajé en una tienda diez horas al día.
+Gabriela : Lo sé. Y te lo agradecemos mucho.
+Elvira : ¿Agradecerlo? Con una residencia.
+Gabriela : No es una forma de pagarte. Es una forma de cuidarte.
+Elvira : Cuidarme es estar a mi lado. No encerrarme.
+Gabriela : No es encerrarte. Es un lugar con actividades, con gente de tu edad.
+Elvira : No me vengas con teorías, hija. He visto la residencia de doña Remedios. Huele a desinfectante y a tristeza.
+Gabriela : No todas son iguales. He visitado dos. Una es muy buena.
+Elvira : Ay, qué cosas. ¿Y cuánto cuesta esa residencia «muy buena»?
+Gabriela : Dos mil quinientos euros al mes.
+Elvira : ¿Dos mil quinientos? Si mi pensión es de ochocientos.
+Gabriela : Lo sé. Pero entre todos podemos pagar la diferencia. Y se puede pedir ayuda.
+Elvira : ¿Ayuda de quién?
+Gabriela : De la Comunidad. Hay plazas públicas, con precio según los ingresos. Pero hay lista de espera.
+Elvira : Entonces el tema no es urgente.
+Gabriela : Sí lo es, abuela. Porque la privada tiene plaza ahora.
+Gabriela : No. Vendiendo tu piso podrías pagar muchos años de residencia.
+Elvira : ¿Vender mi piso? ¿Mi casa?
+Gabriela : Es una opción. No la única.
+Elvira : ¡Mi casa! ¡Donde crié a tu madre! ¿Y quieres que la venda?
+Gabriela : Abuela, calma. Nadie te obliga a nada.
+Elvira : ¿Calma? ¿Calma me pides? ¡Me quieres quitar mi casa y mis cosas, y mandarme a un cuarto con un desconocido!
+Gabriela : No es así...
+Elvira : ¡Sí es así! ¡Y lo sabes! Me habéis dado por perdida.
+Gabriela : No te hemos dado por perdida. Te queremos viva y sana.
+Elvira : ¡Viva y sana! ¡Y encerrada!
+(Gabriela se levanta. Se acerca a su abuela, pero Elvira se aparta, con los ojos húmedos.)
+Elvira : No me toques ahora. Déjame.
+Gabriela : No me voy a ir. Me quedo aquí, a tu lado.
+Elvira : Entonces calla. Que me pesa la cabeza.
+(Silencio. Elvira respira con dificultad. Gabriela se sienta, esta vez a su lado.)
+Elvira : ¿Sabes qué es lo peor?
+Gabriela : Dime.
+Elvira : Que tengo miedo. No de caerme. De irme y no volver.
+Gabriela : Ya lo sé, abuela.
+Elvira : Mi madre murió en una residencia. En Zamora. Nunca pude despedirme.
+Gabriela : No sabía eso.
+Elvira : Nadie lo sabe. Lo guardé para mí. Me prometí que yo nunca iría.
+Gabriela : Abuela, lo siento mucho.
+Elvira : Y ahora vienes tú, con tu cara de ángel, a decirme que me vaya.
+Gabriela : No es una orden. Es una propuesta.
+Elvira : Las propuestas de los hijos a los padres viejos son órdenes disfrazadas.
+Gabriela : Quizá a veces sí. Pero yo quiero que lo decidas tú.
+Elvira : ¿Que lo decida yo? ¿De verdad?
+Gabriela : De verdad. Lo hablamos en familia. Pero la última palabra es tuya.
+Elvira : Entonces mi respuesta es no.
+Gabriela : Vale. Entonces busquemos otra forma. Ayuda a domicilio, una cuidadora, un centro de día...
+Elvira : ¿Eso existe?
+Gabriela : Sí. Una mujer que viene por las mañanas. Y por las tardes puedes ir a un centro con actividades.
+Elvira : ¿Y eso cuánto cuesta?
+Gabriela : Mucho menos que la residencia. Unos novecientos al mes. Y hay ayudas.
+Elvira : Eso es otra cosa. Quedarme en mi casa.
+Gabriela : Con alguien que te ayude. Y con nosotras.
+Elvira : Hmm. Eso podría pensarlo.
+Gabriela : No hace falta que contestes hoy. Tómate tu tiempo.
+Elvira : Es que... si me caigo otra vez...
+Gabriela : Con una pulsera de alarma estarías conectada con emergencias.
+Elvira : Eso me gusta más. Me da independencia.
+Gabriela : Y a nosotras tranquilidad.
+Elvira : Pero no digo que no a la residencia del todo.
+Gabriela : ¿No?
+Elvira : Si llega el día en que no pueda más, quiero ver cómo es antes. Con mis propios ojos.
+Gabriela : Claro. Iremos juntas. Una tarde. Sin compromiso.
+Elvira : Sin compromiso. Y si no me gusta, me traes a casa.
+Gabriela : Te traigo a casa. Palabra.
+Elvira : Está bien. Pero solo a mirar. Y con merienda.
+Gabriela : Con merienda. Lo que quieras.
+Elvira : Ay, hija. Perdóname por lo que he dicho.
+Gabriela : No hay nada que perdonar, abuela.
+Elvira : Sí. Tenía miedo y lo pagué contigo.
+Gabriela : Lo entiendo. Yo también tengo miedo.
+Elvira : ¿Tú? ¿De qué?
+Gabriela : De perderte. De no hacerlo bien.
+Elvira : Lo estás haciendo mejor de lo que piensas.
+Gabriela : Gracias, abuela.
+Elvira : Anda, sírveme otra taza de té. Y cómete una galleta.
+Elvira : Y no vuelvas a hablar de residencias sin avisarme antes.
+Gabriela : Prometido.
+
+## 낭독 포인트
+- z/c: «residencia», «entonces», «hace», «paciencia» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «hija», «hijos», «mejor», «emergencias» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «galleta», «callada», «llegar», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
+- 억양: 초반은 다정하고 조심스럽게, 중반 엘비라의 반발은 점점 빠르고 높게, 후반 폭발(¡Viva y sana! ¡Y encerrada!)은 크게 끊어 읽는다. 고백(Mi madre murió en una residencia)은 갑자기 낮고 느리게, 마지막 화해는 부드럽게.
+- 접속법: «Para que estés bien», «Aunque uno tenga cuidado»를 또박또박.
+- 호칭: 할머니와 손녀는 tú.
+
+## 학습 포인트 정리
+- C1 구간(1~20, 61~80, 101~120턴): 조심스러운 화법과 화해
+  · 조심스러운 시작: «Quería hablar contigo de una cosa.», «De algo delicado.», «Te lo digo con cariño y sin prisa.»
+  · 존중: «Lo decides tú.», «La última palabra es tuya.», «No es una orden. Es una propuesta.»
+  · 화해: «Perdóname por lo que he dicho.», «Tenía miedo y lo pagué contigo.»
+- B2 구간(21~60, 81~100턴): 설득과 반발
+  · 설득: «Hemos pensado que quizá estarías mejor en una residencia.», «Si te caes otra vez, nadie te oye.»
+  · 반발: «Me queréis quitar de en medio.», «Me habéis dado por perdida.»
+  · 대안: «Ayuda a domicilio, una cuidadora, un centro de día…», «una pulsera de alarma»
+- 어휘: la residencia, la cadera, la caída, la cuidadora, el centro de día, la lista de espera, la pensión, encerrar.
+
+## 속어 노트
+- «A mis espaldas»: 내 등 뒤에서(몰래).
+- «Dar por perdido»: 포기하다.
+- «Con cara de ángel»: 천사 같은 얼굴로.
+- «Sin rodeos»: 돌려 말하지 않고.
+- 비용(이천오백 유로, 구백 유로), 대기, 정책은 이야기 속 설정이다. 실제 요양시설 입소와 지원 제도는 지역과 시기에 따라 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(일요일 오후 네 시. 차마르틴의 오래된 아파트에 있는 엘비라의 부엌. 탁자 위에 차 두 잔과 과자 접시가 있다. 가브리엘라가 할머니 맞은편에 앉아 초조하게 찻숟가락을 만지작거린다.)
+엘비라 : 과자 하나 더 먹을래, 아가? 네 이모가 사 왔단다.
+가브리엘라 : 아니에요, 할머니, 괜찮아요.
+엘비라 : 괜찮아 보이진 않는데. 말이 없구나.
+가브리엘라 : 할머니께 드릴 말씀이 있어서요.
+엘비라 : 나쁜 일이냐?
+가브리엘라 : 꼭 그렇진 않아요. 조심스러운 얘기예요.
+엘비라 : 아이고. 빨리 말해라. 이 나이엔 돌려 말할 인내가 없어.
+가브리엘라 : 알겠어요. 다정하게, 서두르지 않고 말씀드릴게요.
+가브리엘라 : 넘어지신 뒤로 몸은 어떠세요?
+엘비라 : 괜찮다. 지팡이 짚고 의욕도 있고.
+가브리엘라 : 할머니, 한 달 전에 고관절이 부러지셨어요.
+엘비라 : 지금은 걷고 있잖니. 과장 마라.
+가브리엘라 : 과장 아니에요. 운이 아주 좋으셨다는 거예요.
+엘비라 : 다음번은 없을 거다. 조심할 테니.
+가브리엘라 : 할머니, 조심의 문제가 아니에요. 조심해도 생길 수 있어요.
+엘비라 : 어디까지 말하려는 거냐?
+가브리엘라 : 엄마, 하이메 삼촌, 필라르 이모, 저까지 얘기를 했어요.
+엘비라 : 그래? 내 등 뒤에서 무슨 얘기를 했니?
+가브리엘라 : 등 뒤에서 아니에요. 할머니 안녕에 대해서요.
+엘비라 : 내 안녕은 내가 정한다.
+가브리엘라 : 물론이죠. 그래서 지금 말씀드리는 거예요.
+엘비라 : 그럼 말해 봐라.
+가브리엘라 : 요양원에 계시는 게 더 나을 수 있겠다고 생각했어요.
+(긴 침묵. 엘비라가 찻잔을 탁자에 내려놓는다.)
+엘비라 : 요양원?
+가브리엘라 : 네. 스물네 시간 돌봐 주는 곳이요.
+엘비라 : 노인 요양원 말이냐?
+가브리엘라 : 네, 할머니. 좋은 곳으로요. 의사도 있고 말벗도 있고요.
+엘비라 : 가브리엘라, 내가 짐이라고 생각하니?
+가브리엘라 : 아니요, 할머니. 절대 아니에요.
+엘비라 : 그런데 왜 나를 요양원에 보내려 하니?
+가브리엘라 : 혼자 사시니까요. 또 넘어지시면 아무도 못 들어요.
+가브리엘라 : 할머니, 약이랑 식사, 청소도 있어요...
+엘비라 : 다 내가 한다. 인내심으로. 도움 없이.
+가브리엘라 : 엄마와 저는 매일 오지만 더는 힘들어요.
+엘비라 : 힘들다니?
+가브리엘라 : 일도 하고 아이들도 있고 너무 지쳤어요.
+엘비라 : 아. 그러니까 내가 문제라는 거구나.
+가브리엘라 : 문제가 아니에요. 어려운 상황이에요.
+엘비라 : 상처 주는구나. 나를 치워 버리고 싶다는 말이잖니.
+가브리엘라 : 그런 말 마세요, 제발.
+엘비라 : 하지 말라고? 들리는 게 그렇다. 걸림돌이니까 요양원이라는 거지.
+가브리엘라 : 사실이 아니에요! 아무도 그렇게 말하지 않았어요.
+엘비라 : 말 안 해도 얼굴에 다 보인다.
+가브리엘라 : 할머니...
+엘비라 : 나는 네 엄마를 혼자 키웠다. 과부 연금으로. 가게에서 하루 열 시간씩 일했어.
+가브리엘라 : 알아요. 정말 감사해요.
+엘비라 : 감사? 요양원으로?
+가브리엘라 : 보답이 아니에요. 돌보는 방법이에요.
+엘비라 : 돌보는 건 곁에 있는 거야. 가두는 게 아니고.
+가브리엘라 : 가두는 게 아니에요. 활동도 있고 또래 분들도 계세요.
+엘비라 : 헛소리 마라, 얘야. 레메디오스 아주머니 요양원을 봤다. 소독약과 슬픔 냄새가 나.
+가브리엘라 : 다 같진 않아요. 두 곳을 가 봤는데 한 곳은 아주 좋았어요.
+엘비라 : 어이가 없구나. 그 '아주 좋은' 곳은 얼마니?
+가브리엘라 : 한 달에 이천오백 유로예요.
+엘비라 : 이천오백? 내 연금은 팔백인데.
+가브리엘라 : 알아요. 하지만 다 같이 차액을 낼 수 있어요. 지원도 신청할 수 있고요.
+엘비라 : 누구의 지원?
+가브리엘라 : 자치주에서요. 소득에 따라 값이 정해지는 공공 자리가 있어요. 그런데 대기가 있어요.
+엘비라 : 그럼 급한 일은 아니구나.
+가브리엘라 : 급해요, 할머니. 사설은 지금 자리가 있으니까요.
+가브리엘라 : 아니에요. 집을 파시면 요양원 비용을 여러 해 낼 수 있어요.
+엘비라 : 내 집을 팔라고? 내 집을?
+가브리엘라 : 하나의 선택지예요. 유일한 건 아니고요.
+엘비라 : 내 집! 네 엄마를 키운 집! 그런데 그걸 팔라고?
+가브리엘라 : 할머니, 진정하세요. 아무도 강요하지 않아요.
+엘비라 : 진정? 진정하라고? 내 집과 내 물건을 빼앗고 모르는 사람과 한방에 보내려는 거잖니!
+가브리엘라 : 그런 게 아니에요...
+엘비라 : 그렇다! 너도 알잖니! 날 포기한 거야.
+가브리엘라 : 포기한 게 아니에요. 건강하고 오래 사시길 바라는 거예요.
+엘비라 : 건강하고 오래! 갇힌 채로!
+(가브리엘라가 일어난다. 할머니에게 다가가지만 엘비라가 눈이 촉촉한 채 피한다.)
+엘비라 : 지금은 건드리지 마라. 가만히 둬.
+가브리엘라 : 안 갈 거예요. 여기 할머니 곁에 있을 거예요.
+엘비라 : 그럼 입 다물어라. 머리가 무겁다.
+(침묵. 엘비라가 힘겹게 숨을 쉰다. 가브리엘라가 이번에는 곁에 앉는다.)
+엘비라 : 제일 힘든 게 뭔지 아니?
+가브리엘라 : 말씀하세요.
+엘비라 : 무서운 거다. 넘어지는 게 아니라 떠나서 못 돌아올까 봐.
+가브리엘라 : 알아요, 할머니.
+엘비라 : 우리 어머니는 요양원에서 돌아가셨다. 사모라에서. 작별도 못 했어.
+가브리엘라 : 몰랐어요.
+엘비라 : 아무도 몰라. 내 안에 간직했다. 나는 절대 안 가겠다고 다짐했지.
+가브리엘라 : 할머니, 정말 죄송해요.
+엘비라 : 그런데 천사 같은 얼굴로 와서 가라고 하는구나.
+가브리엘라 : 명령이 아니에요. 제안이에요.
+엘비라 : 자식들이 늙은 부모에게 하는 제안은 변장한 명령이다.
+가브리엘라 : 가끔은 그럴 수 있어요. 하지만 저는 할머니가 정하시길 바라요.
+엘비라 : 내가 정해? 정말이냐?
+가브리엘라 : 정말이에요. 가족이 의논하지만 마지막 말은 할머니 거예요.
+엘비라 : 그럼 내 대답은 싫다.
+가브리엘라 : 알겠어요. 그럼 다른 방법을 찾아요. 방문 돌봄, 돌보미, 주간 센터...
+엘비라 : 그런 게 있니?
+가브리엘라 : 네. 아침마다 오시는 분이 있고 오후에는 활동이 있는 센터에 갈 수 있어요.
+엘비라 : 그건 얼마냐?
+가브리엘라 : 요양원보다 훨씬 적어요. 한 달에 구백쯤. 지원도 있고요.
+엘비라 : 그건 다르구나. 내 집에 머무는 거니까.
+가브리엘라 : 도와줄 분이 있고 저희도 있고요.
+엘비라 : 흠. 그건 생각해 볼 수 있겠다.
+가브리엘라 : 오늘 답하지 않으셔도 돼요. 천천히 생각하세요.
+엘비라 : 그런데... 내가 또 넘어지면...
+가브리엘라 : 경보 팔찌가 있으면 응급 센터와 연결돼요.
+엘비라 : 그건 마음에 든다. 독립성을 주니까.
+가브리엘라 : 그리고 저희에겐 안심을 주고요.
+엘비라 : 하지만 요양원을 아예 싫다는 건 아니다.
+가브리엘라 : 정말요?
+엘비라 : 더는 못 버티는 날이 오면 먼저 어떤 곳인지 내 눈으로 보고 싶다.
+가브리엘라 : 물론이죠. 같이 가요. 어느 오후에, 부담 없이.
+엘비라 : 부담 없이. 마음에 안 들면 집에 데려다 다오.
+가브리엘라 : 집에 모셔다드릴게요. 약속해요.
+엘비라 : 좋다. 하지만 구경만이야. 간식도 먹고.
+가브리엘라 : 간식도요. 원하시는 대로.
+엘비라 : 아이고, 얘야. 아까 한 말 미안하다.
+가브리엘라 : 용서할 게 없어요, 할머니.
+엘비라 : 있어. 무서워서 네게 화풀이를 했다.
+가브리엘라 : 이해해요. 저도 무서워요.
+엘비라 : 너? 뭐가?
+가브리엘라 : 할머니를 잃을까 봐요. 잘 못할까 봐요.
+엘비라 : 생각보다 훨씬 잘하고 있다.
+가브리엘라 : 고마워요, 할머니.
+엘비라 : 자, 차 한 잔 더 따라 주렴. 그리고 과자도 하나 먹어라.
+엘비라 : 그리고 말없이 요양원 얘기를 다시 꺼내지 마라.
+가브리엘라 : 약속할게요.

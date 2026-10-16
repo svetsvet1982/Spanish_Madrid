@@ -1,0 +1,295 @@
+# 1부 10화. Assembleia de condomínio (공동주택 총회)
+난이도: 주 B2 | 구간: B1→C1→B2→B2→B2→B2 | 형식: 다인 | 장소: 상파울루 이피 빌딩 1층 파티룸 | 시간: 목요일 밤 8시부터 10시 반까지
+등장인물: Henrique, Neusa, Felipe, Tatiane, Ademir
+이슈: 주 ○ 엘리베이터 교체 비용과 관리비 인상 | 곡선: 1-0-1-0-0-1 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 비용 부담과 안전 사이의 가벼운 의견 차이가 오가고, 결론은 나누어 정한다)
+상황 카드: 28년 된 엘리베이터가 최근 두 달 사이 세 번 멈추자, 이피 빌딩 주민들이 임시 총회를 연다. 관리 대표 엔히키가 정족수를 확인하고 안건을 소개하면 아데미르, 네우자, 펠리피, 타치아니가 교체 방식, 보증, 분납, 지분 비율에 따른 부담을 묻는다. 교체와 10회 분납은 표결로 통과되지만 마지막 안건인 관리비 인상은 상세 내역이 필요하다는 의견으로 다음 주 총회로 미뤄진다. 결말은 일정만 정해지고 인상률은 정해지지 않은 열린 마무리.
+학습 포인트: 총회 진행 어휘(quórum, pauta, ata, convocação) · 되묻기와 풀어쓰기(quer dizer…?, ou seja) · 의견 내고 제안하기(Eu proponho…, Minha sugestão:) · 표결 표현(Quem for a favor, levante a mão) · 숫자와 비율 읽기 · 완곡하게 이의 달기(Posso perguntar uma coisa meio chata?)
+
+## 대화
+(Quinta-feira, vinte horas, no salão de festas do Edifício Ipê. Chove lá fora. Os moradores chegam, puxam cadeiras e conversam antes da assembleia começar.)
+Neusa : Boa noite, seu Ademir. O senhor também veio? Achei que, com essa chuva, ninguém ia aparecer.
+Ademir : Boa noite, dona Neusa. Eu moro no térreo, não tem como faltar. Se o elevador parar de vez, o prédio inteiro sofre, e eu quero saber quanto isso vai custar.
+Neusa : Pois eu subi de escada. Quatro andares, com a minha perna, e olha que fiz isso por teimosia.
+Ademir : A senhora devia ter chamado o Felipe. Ele sobe tudo correndo.
+Felipe : Chamar o Felipe pra quê? Cheguei agora, e a senhora já está contando que subiu de escada. Boa noite, gente!
+Neusa : Boa noite, meu filho. Você acha que a assembleia vai demorar?
+Felipe : Depende. Se a pauta for só o elevador, duas horas. Se alguém lembrar do barulho da garagem, passa da meia-noite.
+Tatiane : Então ninguém lembra, por favor. Boa noite a todos. Trouxe a planilha impressa, pra quem quiser conferir os números.
+Ademir : Planilha impressa, que luxo. Na última assembleia só teve um papel rasgado.
+Tatiane : Aprendi com a última. Dona Neusa, a senhora quer uma cópia?
+Neusa : Quero, sim, minha filha. Mas só vou entender metade, então depois você me explica.
+Tatiane : Explico, claro. A gente senta junto.
+Henrique : Boa noite, pessoal. Podem se acomodar, que a gente já vai começar. Tem café e água ali no fundo.
+Felipe : Vai começar no horário? Isso é novidade neste prédio.
+Henrique : É promessa de síndico novo, Felipe. Dura uns três meses.
+Ademir : Então aproveitem. Daqui a pouco estamos todos atrasados de novo.
+Neusa : Ai, meu Deus, esqueci os óculos de leitura. Alguém me empresta?
+Tatiane : Tenho um de reserva na bolsa. Pode usar, dona Neusa.
+Neusa : Você é um anjo, Tatiane. Que Deus te abençoe.
+Henrique : Pessoal, vamos sentar? O quórum já está batendo, e eu prefiro abrir a sessão antes que o café acabe.
+(Henrique vai até a mesa na frente do salão. Tatiane, ao lado dele, anota a lista de presença num caderno.)
+Henrique : Boa noite a todos. Declaro aberta a assembleia geral extraordinária do Edifício Ipê, convocada por edital afixado na portaria há quinze dias, conforme a convenção.
+Tatiane : Registrando: início às vinte horas e doze minutos. Presentes, até agora, trinta e um apartamentos, de um total de quarenta e oito.
+Henrique : Trinta e um representa sessenta e quatro por cento das frações ideais. Portanto, há quórum para deliberar em primeira convocação.
+Ademir : Só um esclarecimento, síndico: «frações ideais» quer dizer o quê, exatamente? Eu nunca entendi isso direito.
+Henrique : Boa pergunta, seu Ademir. Cada apartamento tem uma parte do prédio, proporcional ao tamanho. A votação conta por essa parte, e não por cabeça.
+Ademir : Quer dizer que o apartamento maior vale mais voto?
+Henrique : Vale um pouco mais, sim. Mas, no caso de hoje, as diferenças são pequenas, porque quase todos os apartamentos têm o mesmo tamanho.
+Felipe : Posso sugerir uma questão de ordem? Antes de começar, acho prudente eleger quem preside e quem secretaria a assembleia, só pra constar em ata.
+Henrique : Procede. Alguém se candidata à secretaria?
+Tatiane : Eu me candidato. Já estou com o caderno aberto.
+Neusa : Eu apoio a Tatiane. Ela escreve bonito e com letra firme.
+Henrique : Sem objeção, então Tatiane secretaria e eu presido, por dever do cargo. Alguém contra?
+Ademir : Contra eu não sou. Só quero registrar que a voz do síndico, às vezes, é a única que a gente ouve.
+Henrique : Registro feito, seu Ademir, e anotado com carinho. Prometo ouvir mais do que falo.
+Tatiane : Anotado em ata: «o síndico prometeu ouvir mais do que falar». Valor jurídico duvidoso, mas valor moral inegável.
+Felipe : Ha! Vou gravar esse trecho pra usar contra ele daqui a seis meses.
+Henrique : Gravem à vontade. Passo agora à pauta, que tem três itens: primeiro, a substituição do elevador social; segundo, a forma de pagamento da obra; terceiro, o reajuste da taxa ordinária.
+Neusa : Três itens? Meu Deus, vai até meia-noite mesmo.
+Henrique : Vamos tentar terminar antes, dona Neusa. Cada item terá um tempo, e a Tatiane vai marcar.
+Tatiane : Marcando. Cinco minutos de apresentação por item e cinco de perguntas. Quem passar do tempo ouve um sino.
+(O síndico projeta na parede a primeira página do laudo técnico. Os moradores se ajeitam nas cadeiras.)
+Henrique : Primeiro item: substituição do elevador social. O elevador atual tem vinte e oito anos, e o laudo da empresa de inspeção mostra três paradas só nos últimos dois meses.
+Neusa : Três paradas? Eu só lembro de duas. A outra foi quando eu estava na casa da minha filha?
+Henrique : Foi na semana passada, dona Neusa. Ficou parado das duas às quatro da tarde, e uma moradora do sétimo andar ficou presa por vinte minutos.
+Felipe : Isso é sério. Mas antes de falar em trocar, não dá pra modernizar? Trocar só o painel e o motor, por exemplo?
+Henrique : Eu pedi justamente essa comparação aos fornecedores. O relatório diz que a modernização parcial adia o problema, mas não resolve.
+Tatiane : Então a gente gastaria parte do dinheiro agora e o resto depois, com o risco de pagar duas vezes.
+Ademir : Não é isso que acontece em casa? Conserta a torneira hoje, amanhã estoura o cano.
+Neusa : Pois eu confesso que tenho medo de ficar sem elevador. Moro no quarto andar, e minha perna não aguenta tanta escada.
+Felipe : Dona Neusa, eu entendo. Ninguém aqui quer a senhora subindo quatro lances. Minha dúvida é só sobre o jeito de pagar.
+Henrique : Esse é o segundo item, Felipe. Mas já adianto: existem três orçamentos, e a diferença entre o mais barato e o mais caro passa de trinta mil reais.
+Ademir : Trinta mil de diferença? Então o mais barato deve ter alguma pegadinha.
+Tatiane : Tem diferença de garantia e de prazo. O mais barato dá dois anos de garantia, e o mais caro dá cinco.
+Felipe : Cinco anos de garantia justifica um pouco mais. Em elevador, a gente não quer economizar no que sobe e desce com gente dentro.
+Neusa : Isso mesmo, filho. Com gente dentro, não se brinca.
+Henrique : Concordo. Eu proponho analisar o orçamento do meio, que combina cinco anos de garantia com prazo de instalação de sessenta dias.
+Tatiane : Sessenta dias sem elevador? Como as pessoas vão subir durante a obra?
+Henrique : Boa pergunta. A empresa deixa um elevador de serviço provisório funcionando, com limite de peso, só para pessoas com dificuldade de locomoção.
+Neusa : Dificuldade de locomoção sou eu, né? Então posso reservar o meu horário.
+Ademir : E eu levo o seu saco de compras pela escada, dona Neusa. Garanto que sou mais rápido que o motor velho.
+Neusa : Seu Ademir, o senhor é um cavalheiro. Aceito.
+(A apresentação passa para o item seguinte. Tatiane projeta a planilha e aponta os totais com a caneta.)
+Tatiane : Segundo item: como pagar. O orçamento escolhido soma cento e oitenta e seis mil reais. Dá pra cobrir noventa mil com o fundo de reserva.
+Henrique : Sobram noventa e seis mil. Dividido pelos quarenta e oito apartamentos, dá dois mil reais por unidade.
+Felipe : Dois mil reais de uma vez é pesado pra muita gente. Tem que parcelar.
+Tatiane : Eu simulei dez parcelas de duzentos reais, cobradas junto com a taxa mensal, a partir do mês que vem.
+Ademir : Dez meses de duzentos... dá pra encarar. Pra mim, o problema é o mês seguinte, quando vem o reajuste da taxa ordinária.
+Henrique : Esse é o terceiro item, seu Ademir. A gente chega lá. Antes, vamos ver se alguém tem dúvida sobre a divisão da obra.
+Neusa : Eu tenho. A parcela é igual pra todo mundo, ou muda de acordo com o tamanho do apartamento?
+Tatiane : Muda proporcionalmente à fração ideal. A diferença é pequena: quem tem apartamento maior paga uns dez reais a mais por mês.
+Neusa : Então o meu, que é um dos menores, paga menos. Muito bem. É justo.
+Felipe : Posso perguntar uma coisa meio chata? O fundo de reserva ficaria quase zerado, né?
+Henrique : Ficaria com pouco, sim. Por isso eu proponho uma contribuição para recompor o fundo, mas isso fica para o terceiro item.
+Tatiane : Eu fiz uma projeção. Se a gente recompuser em vinte e quatro meses, sobra uma reserva de emergência razoável antes de qualquer outra obra grande.
+Ademir : Vinte e quatro meses é bastante tempo. Eu não gosto de dívida que dura mais do que a validade do leite.
+Felipe : Ha, ha. Boa comparação, seu Ademir. Mas, no fundo, a lógica é a mesma: pagar aos poucos pra não apertar ninguém.
+Henrique : Alguém mais quer comentar sobre o parcelamento antes de a gente votar o segundo item?
+Neusa : Só queria dizer que prefiro dez parcelas. Com a aposentadoria que eu tenho, dois mil de uma vez seria um susto.
+Tatiane : Anotado, dona Neusa. Registro: moradora do 41 prefere dez parcelas.
+Henrique : Ótimo. Mais algum comentário? Ninguém? Então vou conduzir a votação.
+Felipe : Um segundo, só uma dúvida de procedimento: voto por aclamação ou nominal?
+Henrique : Nominal, com mão levantada, e a Tatiane conta e registra os apartamentos. Assim fica tudo em ata.
+(Os moradores levantam as mãos, um a um. Tatiane conta, apontando com a caneta.)
+Henrique : Primeiro, votação do item um: substituição do elevador social pelo orçamento intermediário, com cinco anos de garantia. Quem for a favor, levante a mão.
+Tatiane : Vinte e sete a favor. Três contra. Uma abstenção.
+Henrique : Aprovada a substituição, então, com vinte e sete votos favoráveis. Alguém contra gostaria de justificar o voto?
+Ademir : Eu sou um dos contra, mas já aceito o resultado. Só queria mais um orçamento, de outra cidade, pra conferir preço.
+Henrique : Entendo, seu Ademir. A proposta de um quarto orçamento é razoável, mas atrasaria a obra em pelo menos um mês.
+Felipe : Eu votei a favor, porém concordo com o seu Ademir numa coisa: precisamos de alguém acompanhando a obra, pra conferir se o que foi contratado é o que está sendo feito.
+Henrique : Boa sugestão. Eu proponho uma comissão de acompanhamento, com um membro do conselho e um morador voluntário.
+Tatiane : Posso ser a do conselho. E o voluntário?
+Neusa : O Felipe se oferece, já que ele sobe tudo correndo e vai gostar de ver as escadas vazias.
+Felipe : Dona Neusa me elegeu sem consultar. Tá bom, eu aceito. Mas quero relatório quinzenal e um café por semana.
+Ademir : O café eu pago. O relatório quinzenal é com a Tatiane.
+Tatiane : Ha, ha. Fechado: comissão de acompanhamento, com a Tatiane do conselho e o Felipe como voluntário.
+Henrique : Então registro: comissão aprovada, sem objeção. Passamos à votação do item dois, forma de pagamento: dez parcelas de duzentos reais por apartamento, proporcionais à fração ideal. Quem for a favor, levante a mão.
+Tatiane : Vinte e nove a favor. Um contra, duas abstenções.
+Henrique : Aprovado o parcelamento em dez vezes. Alguém quer justificar o voto?
+Ademir : Dessa vez, estou a favor. Obrigado por ter me escutado, síndico.
+Henrique : Obrigado a você, seu Ademir. Era isso que eu tinha prometido.
+Neusa : Posso ir pra casa? Estou com vontade de dormir, e minha perna já aprovou o item um.
+Tatiane : Falta só o item três, dona Neusa. É rápido, prometo.
+Neusa : Rápido do tipo «vinte minutos», ou rápido do tipo «assembleia»?
+(Já são dez e dez da noite. O síndico passa ao terceiro e último item. Lá fora, a chuva diminuiu.)
+Henrique : Terceiro item: reajuste da taxa ordinária. A proposta do conselho é seis por cento, que cobre a inflação do último ano e um pouco da conta de água.
+Tatiane : Seis por cento significa, para um apartamento médio, uns trinta e oito reais a mais por mês. Trouxe o detalhamento aqui, linha por linha.
+Felipe : Trinta e oito reais, somados aos duzentos da obra, são duzentos e trinta e oito por mês. Em dez meses, a conta pesa.
+Neusa : Pesa pra quem vive de aposentadoria. Eu gostaria de entender o que está dentro desses seis por cento.
+Tatiane : Tem a água, que subiu, a limpeza, a portaria noturna e o seguro predial. O seguro, sozinho, aumentou onze por cento.
+Ademir : O seguro aumentou onze? Então o problema não é o síndico, é o mercado.
+Henrique : Em parte, sim. Mas aceito ouvir sugestões. Ninguém aqui quer aprovar um aumento no escuro.
+Felipe : Minha sugestão: a gente não vota o reajuste hoje. Faz uma planilha detalhada, entrega pra todos por e-mail, e vota na semana que vem.
+Tatiane : Posso fazer isso até domingo. Só preciso que a administradora me mande as contas do último trimestre.
+Henrique : Eu peço pra ela amanhã de manhã. Mas, se a gente adiar, o reajuste só vale a partir de dois meses depois.
+Neusa : Dois meses de diferença não é uma tragédia. Pelo menos eu consigo entender o que estou votando.
+Ademir : Concordo com a dona Neusa. Prefiro um aumento bem explicado a um aumento rápido.
+Henrique : Então a proposta é adiar o item três para uma segunda assembleia, na quinta-feira da semana que vem, no mesmo horário. Quem concorda?
+Tatiane : Vinte e oito a favor do adiamento. Três contra. Aprovado.
+Henrique : Aprovado. Vou registrar tudo: elevador substituído, pagamento em dez parcelas, comissão de acompanhamento, e reajuste da taxa para a próxima assembleia.
+Tatiane : Registro finalizado. Encerro a ata às vinte e duas e trinta e cinco. Vou ler em voz alta, pra quem quiser conferir.
+Neusa : Leia só o essencial, minha filha. Meu café esfriou.
+Felipe : Eu proponho que o café esfrie em paz. A ata a gente confere na segunda.
+Henrique : Combinado. Boa noite a todos, e obrigado pela paciência. Quinta que vem, às oito, no mesmo salão.
+Ademir : Boa noite a todos. Se Deus quiser, o elevador velho aguenta firme até a obra.
+
+## 낭독 포인트
+- 비음 모음: «não», «então», «bem», «mão» — ão, em은 코로 울리고, 끝의 m은 따로 발음하지 않는다.
+- t·d 뒤 i: «noite», «de», «vinte», «cidade» — 상파울루에서는 [tʃi]·[dʒi]처럼 구개음화된다. «boa noite», «vinte e oito»를 이어서 읽는다.
+- r: «reajuste», «rápido», «aposentadoria» — 어두 r은 [h]에 가까운 소리, 모음 사이 r은 혀를 한 번 튕긴다.
+- lh·nh: «filha», «senhora», «velho» — lh는 [ʎ]([ly]에 가까움), nh는 [ɲ](ny).
+- 숫자와 비율: «vinte e oito», «cento e oitenta e seis mil», «dois mil reais», «sessenta e quatro por cento» — 금액과 비율을 또박또박 읽는다.
+- 억양·호칭: 엔히키는 회의 진행자답게 또렷하고 차분하게, 네우자는 느리고 따뜻하게, 아데미르는 농담하듯 무심하게 읽는다. «dona Neusa», «seu Ademir», «síndico»를 구분한다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 총회 전 가벼운 대화
+  · 인사와 근황: «Boa noite, seu Ademir.», «Eu moro no térreo, não tem como faltar.», «Você acha que a assembleia vai demorar?»
+- C1 구간(21~40턴): 총회 개회와 절차 용어
+  · 개회 문장: «Declaro aberta a assembleia geral extraordinária», «há quórum para deliberar em primeira convocação»
+  · 되묻기: ««frações ideais» quer dizer o quê, exatamente?», «Quer dizer que o apartamento maior vale mais voto?»
+  · 절차 제안: «Posso sugerir uma questão de ordem?», «Procede.», «Sem objeção»
+- B2 구간(41~100턴): 비용과 방식에 의견 내고 표결하기
+  · 의견과 반론: «não dá pra modernizar?», «Eu proponho analisar o orçamento do meio», «Em elevador, a gente não quer economizar no que sobe e desce com gente dentro.»
+  · 질문과 배려: «Posso perguntar uma coisa meio chata?», «A parcela é igual pra todo mundo, ou muda de acordo com o tamanho do apartamento?»
+  · 표결: «Quem for a favor, levante a mão.», «Aprovado o parcelamento em dez vezes.», «Eu proponho uma comissão de acompanhamento»
+- B2 구간(101~120턴): 결정을 미루고 마무리하기
+  · 제안: «Minha sugestão: a gente não vota o reajuste hoje.», «Prefiro um aumento bem explicado a um aumento rápido.»
+  · 요약과 폐회: «adiar o item três para uma segunda assembleia», «Encerro a ata às vinte e duas e trinta e cinco.»
+- 어휘: a assembleia, o síndico, o quórum, a pauta, a ata, a fração ideal, o orçamento, o fundo de reserva, a taxa ordinária, a parcela.
+
+## 속어 노트
+- «pegadinha»: 함정, 숨은 조건.
+- «Tá bom»: 좋아요(tudo bem의 구어형).
+- «Fechado.»: 좋아요, 그렇게 합시다.
+- «Se Deus quiser»: 신의 뜻이라면, 잘되길 바란다는 관용 표현.
+- «o quórum já está batendo»: 정족수가 거의 찼다.
+- 안건, 표결 수치, 금액, 분납, 보증 기간, 관리비 인상률, 지분 비율에 따른 투표는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 어른에게는 «o senhor»·«a senhora»·«dona»·«seu»를 쓰고, 회의 진행 문장은 격식 있는 말투다.
+
+## 한글 해석
+(목요일 저녁 8시, 이피 빌딩 파티룸. 밖에는 비가 온다. 주민들이 도착해 의자를 끌어당기고 총회가 시작되기 전에 이야기를 나눈다.)
+네우자 : 네우자 : 안녕하세요, 아데미르 씨. 아저씨도 오셨네요? 이 비에 아무도 안 올 줄 알았는데.
+아데미르 : 아데미르 : 안녕하세요, 네우자 여사님. 저는 1층에 살아서 빠질 수가 없어요. 엘리베이터가 아예 서면 건물 전체가 고생하고, 저는 비용이 얼마인지 알고 싶어요.
+네우자 : 네우자 : 저는 계단으로 올라왔어요. 4층을 제 다리로요, 그것도 고집 때문에요.
+아데미르 : 아데미르 : 펠리피를 부르셨어야죠. 그 친구는 뭐든 뛰어서 올라가니까요.
+펠리피 : 펠리피 : 펠리피는 왜 부르세요? 방금 왔는데 벌써 계단으로 올라왔다는 얘기를 하고 계시네요. 안녕하세요, 여러분!
+네우자 : 네우자 : 안녕, 젊은이. 총회가 오래 걸릴 것 같아요?
+펠리피 : 펠리피 : 달라요. 안건이 엘리베이터뿐이면 두 시간이고, 누가 주차장 소음을 기억해 내면 자정을 넘겨요.
+타치아니 : 타치아니 : 그럼 아무도 기억하지 마세요, 제발. 모두 안녕하세요. 숫자를 확인하고 싶은 분들을 위해 표를 인쇄해 왔어요.
+아데미르 : 아데미르 : 인쇄한 표라니 호사네요. 지난 총회엔 찢어진 종이 한 장뿐이었는데.
+타치아니 : 타치아니 : 지난번에 배웠어요. 네우자 여사님, 사본 드릴까요?
+네우자 : 네우자 : 주세요, 아가씨. 하지만 반쯤만 이해할 테니 나중에 설명해 줘요.
+타치아니 : 타치아니 : 물론 설명해 드려요. 같이 앉아요.
+엔히키 : 엔히키 : 안녕하세요, 여러분. 자리에 앉으세요, 곧 시작합니다. 저 뒤에 커피와 물이 있어요.
+펠리피 : 펠리피 : 제시간에 시작해요? 이 건물에선 새로운 일이네요.
+엔히키 : 엔히키 : 새 관리 대표의 약속이죠, 펠리피. 석 달쯤 가요.
+아데미르 : 아데미르 : 그럼 즐기세요. 곧 다시 다들 늦을 테니까요.
+네우자 : 네우자 : 어머, 돋보기를 깜빡했네. 누가 빌려 줄래요?
+타치아니 : 타치아니 : 가방에 여분이 하나 있어요. 쓰세요, 네우자 여사님.
+네우자 : 네우자 : 천사네, 타치아니. 하느님이 축복하시길.
+엔히키 : 엔히키 : 여러분, 앉을까요? 정족수가 거의 찼고, 커피가 떨어지기 전에 개회하고 싶어요.
+(엔히키가 파티룸 앞쪽 탁자로 간다. 옆에 앉은 타치아니가 공책에 출석부를 적는다.)
+엔히키 : 엔히키 : 모두 안녕하십니까. 규약에 따라 15일 전 경비실에 게시한 공고로 소집된 이피 빌딩 임시 총회를 개회합니다.
+타치아니 : 타치아니 : 기록합니다. 개회는 20시 12분. 현재 참석 세대는 총 48세대 중 31세대입니다.
+엔히키 : 엔히키 : 31세대는 지분 비율로 64퍼센트입니다. 따라서 1차 소집에서 의결할 정족수가 됩니다.
+아데미르 : 아데미르 : 하나만 설명해 주세요, 관리 대표님. 「지분 비율」이 정확히 무슨 뜻인가요? 전 한 번도 제대로 이해한 적이 없어요.
+엔히키 : 엔히키 : 좋은 질문이에요, 아데미르 씨. 각 세대는 크기에 비례해 건물의 일정 부분을 갖고, 표결은 사람 수가 아니라 그 비율로 셉니다.
+아데미르 : 아데미르 : 그러니까 더 큰 집이 표를 더 많이 갖는다는 말인가요?
+엔히키 : 엔히키 : 조금 더 가져요. 그래도 오늘은 거의 모든 집이 크기가 같아서 차이가 작아요.
+펠리피 : 펠리피 : 절차 문제를 하나 제안해도 될까요? 시작하기 전에 의장과 서기를 정해 회의록에 남겨 두는 게 좋다고 봐요.
+엔히키 : 엔히키 : 맞습니다. 서기를 맡을 분 계신가요?
+타치아니 : 타치아니 : 제가 할게요. 이미 공책을 펴 놨어요.
+네우자 : 네우자 : 나는 타치아니를 지지해요. 글씨가 예쁘고 또박또박하거든요.
+엔히키 : 엔히키 : 이의가 없으니 타치아니가 서기, 제가 직책상 의장을 맡겠습니다. 반대하는 분 있나요?
+아데미르 : 아데미르 : 반대는 아니에요. 다만 관리 대표님의 목소리가 때로는 우리가 듣는 유일한 목소리라는 걸 기록하고 싶어요.
+엔히키 : 엔히키 : 기록하겠습니다, 아데미르 씨. 정성껏 적어 두죠. 말하는 것보다 더 많이 듣겠다고 약속합니다.
+타치아니 : 타치아니 : 회의록에 적었습니다. 「관리 대표는 말하는 것보다 듣겠다고 약속했다」. 법적 가치는 의심스럽지만 도덕적 가치는 부인할 수 없네요.
+펠리피 : 펠리피 : 하! 6개월 뒤에 써먹으려고 그 부분을 녹음해 둘래요.
+엔히키 : 엔히키 : 마음껏 녹음하세요. 이제 안건으로 넘어갑니다. 첫째, 주 엘리베이터 교체. 둘째, 공사비 지불 방식. 셋째, 일반 관리비 조정입니다.
+네우자 : 네우자 : 안건이 셋이나요? 세상에, 정말 자정까지 가겠네요.
+엔히키 : 엔히키 : 그 전에 끝내 보죠, 네우자 여사님. 안건마다 시간을 정하고 타치아니가 재 줄 겁니다.
+타치아니 : 타치아니 : 재겠습니다. 안건당 발표 5분, 질문 5분입니다. 시간을 넘기면 종소리를 듣게 돼요.
+(관리 대표가 벽에 기술 소견서 첫 페이지를 띄운다. 주민들이 의자에서 자세를 고쳐 앉는다.)
+엔히키 : 엔히키 : 첫째 안건은 주 엘리베이터 교체입니다. 지금 엘리베이터는 28년 됐고, 점검 업체 소견서에 따르면 최근 두 달에만 세 번 멈췄습니다.
+네우자 : 네우자 : 세 번이요? 나는 두 번만 기억나는데. 나머지는 내가 딸네 집에 있을 때였나요?
+엔히키 : 엔히키 : 지난주였어요, 네우자 여사님. 오후 2시부터 4시까지 멈췄고 7층 주민 한 분이 20분 동안 갇혀 있었습니다.
+펠리피 : 펠리피 : 심각하네요. 하지만 교체를 말하기 전에 현대화할 수는 없나요? 예를 들어 패널과 모터만 바꾸는 식으로요.
+엔히키 : 엔히키 : 업체들에 바로 그 비교를 요청했어요. 보고서에 따르면 부분 현대화는 문제를 미루기만 하고 해결하진 못합니다.
+타치아니 : 타치아니 : 그러면 지금 돈 일부를 쓰고 나머지는 나중에 쓰면서 두 번 낼 위험이 있겠네요.
+아데미르 : 아데미르 : 집에서도 그렇잖아요? 오늘 수도꼭지를 고치면 내일 배관이 터지고요.
+네우자 : 네우자 : 사실 엘리베이터가 없어질까 봐 무서워요. 4층에 사는데 다리가 그 많은 계단을 못 견뎌요.
+펠리피 : 펠리피 : 네우자 여사님, 이해해요. 여기 누구도 여사님이 4층을 걸어 오르길 바라지 않아요. 제 의문은 지불 방식뿐이에요.
+엔히키 : 엔히키 : 그건 둘째 안건이에요, 펠리피. 미리 말씀드리면 견적이 세 개 있고 가장 싼 것과 가장 비싼 것의 차이가 3만 헤알이 넘습니다.
+아데미르 : 아데미르 : 3만이나 차이가 나요? 그럼 제일 싼 건 뭔가 함정이 있겠네요.
+타치아니 : 타치아니 : 보증과 기간이 달라요. 제일 싼 건 보증 2년이고 제일 비싼 건 5년이에요.
+펠리피 : 펠리피 : 보증 5년이면 조금 더 낼 만하죠. 엘리베이터는 사람이 타고 오르내리는 건데 거기서 아끼고 싶지는 않아요.
+네우자 : 네우자 : 그래요, 젊은이. 사람이 타는 건 장난으로 하면 안 돼요.
+엔히키 : 엔히키 : 동의합니다. 보증 5년과 설치 기간 60일을 함께 갖춘 중간 견적을 검토하자고 제안합니다.
+타치아니 : 타치아니 : 60일 동안 엘리베이터가 없다고요? 공사하는 동안 사람들은 어떻게 올라가죠?
+엔히키 : 엔히키 : 좋은 질문이에요. 업체가 하중 제한이 있는 임시 화물 엘리베이터를 운행하고, 이동이 불편한 분만 쓰게 합니다.
+네우자 : 네우자 : 이동이 불편한 사람이 나로군요, 그렇죠? 그럼 내 시간을 예약할 수 있겠네요.
+아데미르 : 아데미르 : 그리고 제가 장바구니는 계단으로 들어 드릴게요, 네우자 여사님. 낡은 모터보다 제가 더 빠르다고 장담해요.
+네우자 : 네우자 : 아데미르 씨, 신사시네요. 받아들일게요.
+(발표가 다음 안건으로 넘어간다. 타치아니가 표를 띄우고 펜으로 합계를 가리킨다.)
+타치아니 : 타치아니 : 둘째 안건은 지불 방식입니다. 선택된 견적은 총 18만 6천 헤알입니다. 예비비로 9만을 충당할 수 있어요.
+엔히키 : 엔히키 : 9만 6천이 남습니다. 48세대로 나누면 한 세대당 2천 헤알입니다.
+펠리피 : 펠리피 : 2천 헤알을 한 번에 내기는 많은 사람에게 부담이에요. 나눠 내야 해요.
+타치아니 : 타치아니 : 월 관리비와 함께 내는 200헤알씩 10회 분납을 계산해 봤어요, 다음 달부터요.
+아데미르 : 아데미르 : 열 달 동안 200이라… 감당은 돼요. 저한텐 그다음 달이 문제예요, 일반 관리비가 조정되는 때요.
+엔히키 : 엔히키 : 그건 셋째 안건이에요, 아데미르 씨. 거기로 갈 겁니다. 먼저 공사비 분담에 의문 있는 분이 있는지 보죠.
+네우자 : 네우자 : 저요. 분납금은 모두 같나요, 아니면 집 크기에 따라 달라지나요?
+타치아니 : 타치아니 : 지분 비율에 비례해서 달라요. 차이는 작아요. 큰 집은 한 달에 10헤알쯤 더 내요.
+네우자 : 네우자 : 그럼 가장 작은 축에 드는 내 집은 덜 내는군요. 좋아요. 공평해요.
+펠리피 : 펠리피 : 좀 귀찮은 질문을 해도 될까요? 예비비가 거의 바닥나는 거죠?
+엔히키 : 엔히키 : 조금만 남겠죠. 그래서 예비비를 다시 채울 분담금을 제안하는데, 그건 셋째 안건에서 다룹니다.
+타치아니 : 타치아니 : 제가 추정해 봤어요. 24개월에 걸쳐 채우면 다른 큰 공사가 오기 전에 괜찮은 비상 예비비가 남아요.
+아데미르 : 아데미르 : 24개월은 꽤 길어요. 저는 우유 유통기한보다 오래가는 빚은 싫어요.
+펠리피 : 펠리피 : 하하. 좋은 비유네요, 아데미르 씨. 그래도 결국 논리는 같아요. 아무도 쪼들리지 않게 조금씩 내는 거죠.
+엔히키 : 엔히키 : 둘째 안건을 표결하기 전에 분납에 관해 더 말씀하실 분 있나요?
+네우자 : 네우자 : 저는 열 번 분납이 좋다고만 말하고 싶어요. 제 연금으로는 2천을 한 번에 내면 깜짝 놀랄 거예요.
+타치아니 : 타치아니 : 적어 두었어요, 네우자 여사님. 기록합니다. 41호 주민은 10회 분납 선호.
+엔히키 : 엔히키 : 좋습니다. 다른 의견 있나요? 없네요. 그럼 표결을 진행하겠습니다.
+펠리피 : 펠리피 : 잠깐만요, 절차 질문이에요. 박수로 하나요, 기명으로 하나요?
+엔히키 : 엔히키 : 손을 들어 하는 기명 표결이고, 타치아니가 세어서 세대를 기록합니다. 그러면 모두 회의록에 남아요.
+(주민들이 한 명씩 손을 든다. 타치아니가 펜으로 가리키며 센다.)
+엔히키 : 엔히키 : 먼저 첫째 안건 표결입니다. 주 엘리베이터를 보증 5년짜리 중간 견적으로 교체하는 안입니다. 찬성하시는 분은 손을 드세요.
+타치아니 : 타치아니 : 찬성 27, 반대 3, 기권 1입니다.
+엔히키 : 엔히키 : 그럼 찬성 27표로 교체안이 가결되었습니다. 반대하신 분 중 이유를 말씀하실 분 있나요?
+아데미르 : 아데미르 : 저는 반대한 사람 중 하나인데 결과는 받아들여요. 가격을 비교해 보려고 다른 도시 견적을 하나 더 받고 싶었을 뿐이에요.
+엔히키 : 엔히키 : 이해합니다, 아데미르 씨. 네 번째 견적을 받자는 제안은 합리적이지만 공사가 최소 한 달은 늦어져요.
+펠리피 : 펠리피 : 저는 찬성했지만 아데미르 씨 말에 하나는 동의해요. 공사를 지켜보며 계약한 대로 하고 있는지 확인할 사람이 필요해요.
+엔히키 : 엔히키 : 좋은 제안입니다. 감사 위원 한 명과 자원봉사 주민 한 명으로 공사 확인 위원회를 만들자고 제안합니다.
+타치아니 : 타치아니 : 위원은 제가 할 수 있어요. 자원봉사자는요?
+네우자 : 네우자 : 펠리피가 하겠대요. 뭐든 뛰어 올라가니 빈 계단을 보면 좋아할 거예요.
+펠리피 : 펠리피 : 네우자 여사님이 저한테 묻지도 않고 뽑으셨네요. 좋아요, 받아들일게요. 대신 2주마다 보고서와 매주 커피 한 잔을 원해요.
+아데미르 : 아데미르 : 커피는 제가 낼게요. 격주 보고서는 타치아니 몫이고요.
+타치아니 : 타치아니 : 하하. 좋아요. 확인 위원회는 감사 위원 타치아니와 자원봉사 펠리피로 하죠.
+엔히키 : 엔히키 : 그럼 기록합니다. 위원회는 이의 없이 승인되었습니다. 둘째 안건인 지불 방식 표결로 넘어갑니다. 세대당 200헤알씩 10회, 지분 비율에 비례하는 안입니다. 찬성하시는 분은 손을 드세요.
+타치아니 : 타치아니 : 찬성 29, 반대 1, 기권 2입니다.
+엔히키 : 엔히키 : 10회 분납이 가결되었습니다. 이유를 말씀하실 분 있나요?
+아데미르 : 아데미르 : 이번엔 찬성이에요. 제 말을 들어 주셔서 감사합니다, 관리 대표님.
+엔히키 : 엔히키 : 제가 감사합니다, 아데미르 씨. 그게 제가 약속한 거였으니까요.
+네우자 : 네우자 : 집에 가도 될까요? 졸리고, 내 다리는 이미 첫째 안건을 승인했어요.
+타치아니 : 타치아니 : 셋째 안건만 남았어요, 네우자 여사님. 금방 끝나요, 약속해요.
+네우자 : 네우자 : 「20분」짜리 금방이에요, 아니면 「총회」짜리 금방이에요?
+(벌써 밤 10시 10분이다. 관리 대표가 셋째이자 마지막 안건으로 넘어간다. 바깥에서는 비가 잦아들었다.)
+엔히키 : 엔히키 : 셋째 안건은 일반 관리비 조정입니다. 감사 위원회 안은 6퍼센트로, 작년 물가 상승분과 수도 요금 일부를 반영합니다.
+타치아니 : 타치아니 : 6퍼센트면 보통 크기 집은 한 달에 38헤알쯤 더 내는 셈이에요. 여기 항목별 내역을 가져왔어요.
+펠리피 : 펠리피 : 38헤알에 공사비 200을 더하면 한 달 238이에요. 열 달 동안은 부담이 되죠.
+네우자 : 네우자 : 연금으로 사는 사람한테는 무겁죠. 그 6퍼센트 안에 뭐가 있는지 알고 싶어요.
+타치아니 : 타치아니 : 오른 수도 요금, 청소, 야간 경비, 건물 보험이 들어 있어요. 보험료만 11퍼센트 올랐어요.
+아데미르 : 아데미르 : 보험이 11퍼센트요? 그럼 문제는 관리 대표님이 아니라 시장이군요.
+엔히키 : 엔히키 : 일부는 그렇죠. 하지만 제안은 기꺼이 듣겠습니다. 여기 누구도 깜깜한 채로 인상을 승인하고 싶진 않을 거예요.
+펠리피 : 펠리피 : 제 제안은 오늘 조정안을 표결하지 말자는 거예요. 상세한 표를 만들어 모두에게 이메일로 보내고 다음 주에 표결해요.
+타치아니 : 타치아니 : 일요일까지 만들 수 있어요. 관리업체가 지난 분기 장부만 보내 주면 돼요.
+엔히키 : 엔히키 : 내일 아침에 요청할게요. 다만 미루면 조정은 두 달 뒤부터 적용됩니다.
+네우자 : 네우자 : 두 달 차이는 비극이 아니에요. 적어도 내가 뭘 표결하는지는 이해할 수 있잖아요.
+아데미르 : 아데미르 : 네우자 여사님 말씀에 동의해요. 저는 빠른 인상보다 잘 설명된 인상이 좋아요.
+엔히키 : 엔히키 : 그럼 셋째 안건을 다음 주 목요일 같은 시간 2차 총회로 미루자는 제안입니다. 동의하시는 분은요?
+타치아니 : 타치아니 : 연기 찬성 28, 반대 3입니다. 가결입니다.
+엔히키 : 엔히키 : 가결되었습니다. 모두 기록하겠습니다. 엘리베이터 교체, 10회 분납, 확인 위원회, 관리비 조정은 다음 총회로요.
+타치아니 : 타치아니 : 기록을 마쳤습니다. 회의록은 22시 35분에 마감합니다. 확인하고 싶은 분들을 위해 소리 내어 읽을게요.
+네우자 : 네우자 : 핵심만 읽어요, 아가씨. 내 커피가 식었어요.
+펠리피 : 펠리피 : 커피는 평화롭게 식게 두자고 제안합니다. 회의록은 월요일에 확인해요.
+엔히키 : 엔히키 : 그렇게 하죠. 모두 안녕히 가세요, 인내심 감사합니다. 다음 주 목요일 8시, 같은 파티룸에서 뵙겠습니다.
+아데미르 : 아데미르 : 안녕히 가세요. 신의 뜻이라면 낡은 엘리베이터가 공사 때까지 잘 버텨 줄 거예요.

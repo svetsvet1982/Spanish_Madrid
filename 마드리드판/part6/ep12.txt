@@ -1,0 +1,284 @@
+# 6부 12화. Llamar para pedir ayuda (도움을 청하는 전화)
+난이도: 주 B2 | 구간: B2→B2→B2→B2→B1→B1 | 형식: 전화 | 장소: 전화 통화(리디아는 계단참, 테레사는 구청 사회서비스 상담실) | 시간: 화요일 오전 10시
+등장인물: Lidia, Teresa, Señora, Policía, Anselmo
+이슈: 주 ◐ 독거노인의 고립과 이웃의 신고 | 곡선: 1-2-2-2-1-0 (정점형, 상한 2) | 입장: A 리디아(이웃 안셀모 할아버지가 사흘째 보이지 않아 걱정한다) / B 테레사(상담원, 절차를 설명하고 방문 점검을 요청받는다)
+상황 카드: 리디아는 옆집 여든여덟 살 안셀모 할아버지가 사흘째 문을 열지 않아 구청 사회서비스에 전화한다. 상담원 테레사는 침착하게 상황을 묻고 응급 번호와 방문 절차를 안내한다. 걸림돌은 개인정보와 긴급 판단. 결말은 방문 점검이 오후에 잡히고 리디아가 문 앞에서 기다리기로 하는 것.
+학습 포인트: 도움 요청 전화(Quería avisar de una situación) · 상황 설명(Hace tres días que no lo veo) · 응급과 비응급 구분 · 정보 제공과 개인정보 · 안심시키는 표현
+
+## 대화
+(Martes, diez de la mañana. Lidia, en el rellano de un edificio antiguo de Lavapiés, mira una puerta cerrada con el móvil en la mano. Teresa contesta en la oficina de servicios sociales del distrito.)
+Teresa : Servicios Sociales, buenos días. Le atiende Teresa.
+Lidia : Buenos días. Quería avisar de una situación. No sé si estoy llamando al sitio correcto.
+Teresa : Cuénteme, y yo le oriento. ¿De qué se trata?
+Lidia : Es un vecino. Un hombre mayor que vive solo, en mi mismo rellano.
+Teresa : Entiendo. ¿Qué le preocupa?
+Lidia : Hace tres días que no lo veo. Y su puerta está cerrada con la persiana bajada.
+Teresa : ¿Suele salir a diario?
+Lidia : Todas las mañanas. Baja a por el pan y el periódico, siempre a las nueve.
+Teresa : Y estos tres días no lo ha hecho.
+Lidia : No. Ni el pan, ni el periódico. Y la luz de su cocina está apagada.
+Teresa : ¿Ha llamado a su puerta?
+Lidia : Sí, ayer dos veces y hoy otra. No contesta.
+Teresa : ¿Ha oído algún ruido dentro?
+Lidia : Nada. Un silencio total. Eso es lo que me asusta.
+Teresa : Comprendo. ¿Cómo se llama su vecino?
+Lidia : Anselmo Cortés. Tiene ochenta y ocho años.
+Teresa : Muy bien. ¿Y usted cómo se llama?
+Lidia : Lidia Mora. Vivo en el tercero B. Él, en el tercero A.
+Teresa : Gracias, Lidia. ¿Sabe si tiene familia cerca?
+Lidia : Una hija, creo. Vive en Valencia. Viene un par de veces al año.
+Teresa : ¿Tiene su teléfono?
+Lidia : No. Una vez me dijo su nombre, Marta, pero nada más.
+Teresa : Entiendo. ¿Hay alguien más que tenga llaves?
+Lidia : La portera lo tenía, pero se jubiló hace un mes.
+Teresa : ¿Y el presidente de la comunidad?
+Lidia : Es un señor del primero. Le he llamado, pero no contesta.
+Teresa : De acuerdo. Lidia, ahora quiero preguntarle una cosa importante.
+Lidia : Dígame.
+Teresa : ¿Huele algo extraño en el rellano? ¿Algo fuerte?
+Lidia : No. Nada. Solo el olor de siempre.
+Teresa : Bien. ¿Oye la tele, la radio, algo?
+Lidia : No. Normalmente se oye la radio muy bajita. Estos días, nada.
+Teresa : Entiendo. Es importante que valoremos si es una urgencia.
+Lidia : ¿Debería llamar al 112?
+Teresa : Si sospecha que está dentro y puede estar en peligro, sí. Es la vía más rápida.
+Lidia : Pero no sé si está dentro. Tal vez se ha ido de viaje.
+Teresa : Es posible. Pero a su edad, y sin avisar a nadie...
+Lidia : Tiene razón. Me da miedo llamar y que no sea nada.
+Teresa : No se preocupe por eso. Mejor una falsa alarma que una tragedia.
+Lidia : ¿Entonces llamo al 112 ahora?
+Teresa : Tengo una propuesta. Yo aviso a la policía municipal y a una unidad de atención. Usted se queda donde está.
+Lidia : ¿Pueden hacerlo ellos?
+Teresa : Sí. Los agentes pueden entrar si hay una sospecha de riesgo, con el procedimiento correcto.
+Lidia : ¿Y cuánto tardan?
+Teresa : Depende de cómo esté el servicio. Normalmente entre veinte y cuarenta minutos.
+Lidia : Es bastante.
+Teresa : Lo sé. Pero la prioridad es ver al señor Cortés sano y salvo.
+Lidia : Esperemos que lo esté.
+Teresa : Esperemos. Mientras tanto, ¿puede quedarse en el rellano?
+Lidia : Sí. Estoy aquí mismo. No me muevo.
+Teresa : Perfecto. Cuando lleguen los agentes, usted les cuenta lo que me ha dicho.
+Lidia : Se lo repito todo. Y les digo que su hija se llama Marta.
+Teresa : Muy bien. Eso ayuda. Anote su teléfono.
+Lidia : Mi móvil es el seis, uno, uno, dos, tres, cuatro, cinco, seis, siete.
+Teresa : Seis, uno, uno, dos, tres, cuatro, cinco, seis, siete. Lo tengo.
+Lidia : ¿Hay algo más que pueda hacer?
+Teresa : Sí. Si le parece, pregunte por la escalera si alguien lo ha visto en estos días.
+Lidia : ¿A los vecinos?
+Teresa : Sí. A veces alguien sabe algo que usted no sabe.
+Lidia : Buena idea. Voy ahora mismo al segundo.
+Teresa : No cuelgue todavía. Tengo otra cosa que decirle.
+Lidia : Dígame.
+Teresa : Aunque no sea nada grave, el señor Cortés vive solo y quizá necesite apoyo.
+Lidia : Es verdad. Hace meses que se le ve más delgado.
+Teresa : En estos casos, nosotros podemos ofrecerle ayuda a domicilio. Comida, compañía, teleasistencia.
+Lidia : ¿Teleasistencia?
+Teresa : Un aparato que se lleva al cuello. Con un botón, se conecta con alguien las veinticuatro horas.
+Lidia : Qué buena idea. Seguro que le vendría bien.
+Teresa : Cuando se aclare esto, yo me pondré en contacto con él. Si quiere, claro.
+Lidia : Es un hombre muy orgulloso. Le costará aceptar.
+Teresa : Lo comprendo. Lo haremos con respeto y a su ritmo.
+Lidia : Gracias, Teresa.
+Teresa : No hay de qué. Gracias a usted por avisar. Mucha gente se queda callada.
+Lidia : A veces da corte. Parece que uno se mete en vidas ajenas.
+Teresa : No es meterse. Es cuidar. Y eso hace una buena vecina.
+Lidia : Gracias. Me quita un peso.
+Teresa : Ahora vaya al segundo. Y luego vuelva a su puerta, por si llegan antes.
+Lidia : Vale. Voy.
+Teresa : Hasta ahora, Lidia. Ánimo.
+Lidia : Hasta ahora.
+(Lidia baja al segundo piso. Llama a una puerta. Abre una señora con bata.)
+Lidia : Perdone, buenos días. ¿Ha visto usted a don Anselmo estos días?
+Señora : ¿A don Anselmo? Pues no. ¿Por qué lo pregunta?
+Lidia : Hace tres días que no sale. Estoy preocupada.
+Señora : Ay, madre mía. Ahora que lo dice, el domingo oí un golpe fuerte arriba.
+Lidia : ¿Un golpe? ¿Qué hora era?
+Señora : Por la tarde. Sobre las seis. Pensé que se le había caído algo.
+Lidia : Gracias, señora. Esto es importante. Los agentes vienen en camino.
+Señora : ¿Los agentes? ¡Dios mío! Voy con usted.
+Lidia : Sí, por favor. Suba conmigo.
+(Suben las dos. En el rellano, ya hay dos policías municipales hablando por radio. Lidia se acerca.)
+Policía : Buenos días. ¿Es usted la persona que ha avisado?
+Lidia : Sí, soy yo. Lidia Mora, del tercero B.
+Policía : Gracias. Nos han informado. ¿Hace tres días que no lo ven?
+Lidia : Exacto. Y una vecina oyó un golpe el domingo por la tarde.
+Policía : Muy bien. Vamos a abrir la puerta con el cerrajero. Aléjense un poco.
+Lidia : Vale. Espero que esté bien.
+Policía : Lo estamos todos. Con calma, por favor.
+(El cerrajero abre. Entran los policías. Pasan unos segundos de silencio. Se oye una voz débil desde dentro.)
+Policía : ¡Don Anselmo! ¿Se encuentra bien?
+Anselmo : (voz débil) Estoy aquí... en la cocina... Me caí...
+Policía : ¡Está vivo! Llamen a una ambulancia.
+Lidia : Gracias a Dios. ¡Está vivo!
+Señora : Menos mal que avisaste, hija. Menos mal.
+Lidia : Sí. Menos mal.
+Policía : Señora Mora, ¿puede acompañarnos un momento? Necesitamos algunos datos.
+Lidia : Claro. ¿Qué necesitan?
+Policía : Su nombre completo y el de la hija, si lo sabe.
+Lidia : Marta. Vive en Valencia. No sé el apellido.
+Policía : Lo buscaremos en sus papeles. ¿Algo más que quiera añadir?
+Lidia : Que se cayó el domingo y llevaba tres días ahí.
+Policía : Probablemente. Lo ha salvado usted.
+Lidia : No, no. Lo ha salvado la vecina que oyó el golpe.
+Señora : Yo solo oí. Tú actuaste.
+Lidia : Entre las dos, entonces.
+Policía : Entre las dos y entre los de la ambulancia. Ya llegan.
+Anselmo : (voz débil) Lidia... gracias...
+Lidia : Don Anselmo, tranquilo. Ahora le cuidan.
+Anselmo : Tenía sed... y no podía levantarme...
+Lidia : Ya pasó. Voy con usted al hospital si quiere.
+Anselmo : No quiero molestar...
+Lidia : No molesta. Para eso están los vecinos.
+Policía : Muy bien, señora. Puede acompañarlo en la ambulancia.
+
+## 낭독 포인트
+- z/c: «gracias», «hace», «veces», «ambulancia» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «agentes», «hija», «cerrajero», «aléjense» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «rellano», «llama», «llegan», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
+- 억양: 리디아의 불안은 빠르게 시작해 점점 차분해지고, 테레사의 질문은 침착하고 또렷하게. 안셀모 할아버지의 힘없는 목소리는 작고 느리게. 구조 장면은 숨을 죽였다가 안도로 풀린다.
+- 숫자·번호: 112, seis uno uno dos tres cuatro cinco seis siete, ochenta y ocho años를 또박또박.
+- 호칭: 상담원과 신고자는 usted, 이웃끼리는 tú와 usted가 섞인다.
+
+## 학습 포인트 정리
+- B2 구간(1~80턴): 신고 전화와 상황 설명
+  · 신고: «Quería avisar de una situación.», «Hace tres días que no lo veo.», «No contesta.»
+  · 판단: «Mejor una falsa alarma que una tragedia.», «¿Debería llamar al 112?», «Los agentes pueden entrar si hay una sospecha de riesgo.»
+  · 안내: «Usted se queda donde está.», «Pregunte a los vecinos.», «Teleasistencia: un botón, veinticuatro horas.»
+- B1 구간(81~120턴): 현장과 안도
+  · 현장: «¿Se encuentra bien?», «Llamen a una ambulancia.», «Menos mal que avisaste.»
+  · 이웃: «Para eso están los vecinos.», «No es meterse. Es cuidar.»
+- 어휘: el rellano, la persiana, la teleasistencia, la ayuda a domicilio, el cerrajero, la ambulancia, la falsa alarma, la urgencia.
+
+## 속어 노트
+- «Menos mal»: 다행이다.
+- «Da corte»: 어색하다, 낯 뜨겁다.
+- «Me quita un peso»: 짐을 덜어 준다.
+- «Ánimo»: 힘내세요.
+- 구청 사회서비스의 절차와 경찰의 출동 방식은 이야기 속 설정이다. 위급하면 지체 없이 112에 전화해야 한다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(화요일 오전 열 시. 라바피에스의 오래된 건물 계단참에서 리디아가 휴대폰을 든 채 닫힌 문을 본다. 테레사는 구 사회서비스 사무소에서 받는다.)
+테레사 : 사회서비스입니다, 안녕하세요. 테레사예요.
+리디아 : 안녕하세요. 어떤 상황을 알리고 싶어서요. 제대로 전화한 건지 모르겠어요.
+테레사 : 말씀해 주시면 안내해 드릴게요. 무슨 일이죠?
+리디아 : 이웃이에요. 같은 층에 혼자 사시는 어르신이요.
+테레사 : 알겠어요. 뭐가 걱정되세요?
+리디아 : 사흘째 못 봤어요. 문은 닫혀 있고 블라인드도 내려가 있어요.
+테레사 : 평소엔 매일 나오세요?
+리디아 : 아침마다요. 빵과 신문을 사러 늘 아홉 시에 내려가세요.
+테레사 : 그런데 사흘간 안 하셨고요.
+리디아 : 네. 빵도 신문도요. 부엌 불도 꺼져 있고요.
+테레사 : 문은 두드려 보셨어요?
+리디아 : 네, 어제 두 번, 오늘 한 번요. 대답이 없어요.
+테레사 : 안에서 소리는 들렸나요?
+리디아 : 전혀요. 완전한 고요예요. 그게 무서워요.
+테레사 : 이해해요. 이웃분 성함이 어떻게 되죠?
+리디아 : 안셀모 코르테스예요. 여든여덟 살이세요.
+테레사 : 좋아요. 그리고 성함은요?
+리디아 : 리디아 모라예요. 삼 층 비에 살아요. 그분은 삼 층 에이고요.
+테레사 : 고맙습니다, 리디아. 가까이 사는 가족이 있나요?
+리디아 : 딸이 있는 것 같아요. 발렌시아에 살고, 일 년에 두어 번 와요.
+테레사 : 연락처는 있으세요?
+리디아 : 아니요. 한 번 이름이 마르타라고만 말했어요.
+테레사 : 알겠어요. 열쇠를 가진 사람은 또 있나요?
+리디아 : 관리인이 가지고 있었는데 한 달 전에 은퇴했어요.
+테레사 : 입주민 대표는요?
+리디아 : 일 층 분인데 전화해도 안 받아요.
+테레사 : 알겠어요. 리디아, 이제 중요한 걸 하나 물을게요.
+리디아 : 말씀하세요.
+테레사 : 계단참에서 이상한 냄새가 나나요? 강한 냄새요.
+리디아 : 아니요. 전혀요. 늘 나던 냄새뿐이에요.
+테레사 : 좋아요. 텔레비전이나 라디오 소리는요?
+리디아 : 아니요. 평소엔 라디오 소리가 아주 작게 나는데 요 며칠은 아무것도 없어요.
+테레사 : 알겠어요. 긴급 상황인지 판단하는 게 중요해요.
+리디아 : 112에 전화해야 할까요?
+테레사 : 안에 계시고 위험할 수 있다고 의심되면 네. 가장 빠른 방법이에요.
+리디아 : 하지만 안에 계신지 몰라요. 여행 가셨을 수도 있고요.
+테레사 : 그럴 수 있죠. 하지만 연세에 아무에게도 말 없이...
+리디아 : 맞아요. 아무 일도 아닌데 전화할까 봐 겁나요.
+테레사 : 그건 걱정 마세요. 헛걸음이 비극보다 나아요.
+리디아 : 그럼 지금 112에 걸까요?
+테레사 : 제안이 있어요. 제가 시 경찰과 돌봄팀에 알릴게요. 선생님은 지금 계신 곳에 계세요.
+리디아 : 그분들이 할 수 있나요?
+테레사 : 네. 위험이 의심되면 정해진 절차에 따라 경찰이 들어갈 수 있어요.
+리디아 : 얼마나 걸려요?
+테레사 : 상황에 따라 달라요. 보통 이십 분에서 사십 분이에요.
+리디아 : 꽤 걸리네요.
+테레사 : 알아요. 하지만 우선은 코르테스 씨가 무사하신 게 먼저예요.
+리디아 : 무사하시길 바라요.
+테레사 : 바라요. 그동안 계단참에 계실 수 있죠?
+리디아 : 네. 바로 여기 있어요. 안 움직일게요.
+테레사 : 좋아요. 경찰이 오면 저한테 하신 말씀을 그대로 전해 주세요.
+리디아 : 다 말할게요. 따님 이름이 마르타라는 것도요.
+테레사 : 좋아요. 도움이 돼요. 전화번호를 적을게요.
+리디아 : 제 휴대폰은 육, 일, 일, 이, 삼, 사, 오, 육, 칠이에요.
+테레사 : 육, 일, 일, 이, 삼, 사, 오, 육, 칠. 적었어요.
+리디아 : 제가 더 할 수 있는 게 있나요?
+테레사 : 네. 괜찮다면 계단에서 최근에 그분을 본 사람이 있는지 물어봐 주세요.
+리디아 : 이웃들에게요?
+테레사 : 네. 가끔 모르시는 걸 누군가 알고 있어요.
+리디아 : 좋은 생각이에요. 지금 이 층으로 갈게요.
+테레사 : 아직 끊지 마세요. 하나 더 드릴 말씀이 있어요.
+리디아 : 말씀하세요.
+테레사 : 심각하지 않더라도 코르테스 씨는 혼자 사시니 도움이 필요할 수 있어요.
+리디아 : 맞아요. 몇 달째 더 마르셨어요.
+테레사 : 이런 경우 저희가 방문 돌봄을 제안할 수 있어요. 식사, 말벗, 원격 돌봄이요.
+리디아 : 원격 돌봄이요?
+테레사 : 목에 거는 기기예요. 버튼을 누르면 이십사 시간 누군가와 연결돼요.
+리디아 : 정말 좋은 생각이에요. 분명 도움이 되겠어요.
+테레사 : 이번 일이 정리되면 제가 연락해 볼게요. 원하시면요.
+리디아 : 아주 자존심이 강한 분이라 받아들이기 어려워하실 거예요.
+테레사 : 이해해요. 존중하면서 그분의 속도에 맞출게요.
+리디아 : 고마워요, 테레사.
+테레사 : 별말씀을요. 알려 주셔서 제가 감사해요. 많은 사람이 입을 닫아요.
+리디아 : 가끔 쑥스러워요. 남의 삶에 끼어드는 것 같아서요.
+테레사 : 끼어드는 게 아니라 돌보는 거예요. 좋은 이웃이 하는 일이죠.
+리디아 : 고마워요. 마음의 짐이 덜어져요.
+테레사 : 이제 이 층으로 가세요. 그리고 경찰이 일찍 올 수 있으니 문 앞으로 돌아오세요.
+리디아 : 알겠어요. 갈게요.
+테레사 : 이따 봬요, 리디아. 힘내세요.
+리디아 : 이따 봬요.
+(리디아가 이 층으로 내려가 문을 두드린다. 가운 차림의 부인이 연다.)
+리디아 : 실례합니다, 안녕하세요. 요 며칠 안셀모 어르신 보셨어요?
+부인 : 안셀모 어르신요? 아니요. 왜요?
+리디아 : 사흘째 안 나오세요. 걱정돼서요.
+부인 : 아이고. 그러고 보니 일요일에 위에서 쿵 소리가 났어요.
+리디아 : 쿵 소리요? 몇 시였어요?
+부인 : 오후에요. 여섯 시쯤. 뭐가 떨어졌나 했어요.
+리디아 : 고마워요, 부인. 중요한 얘기예요. 경찰이 오고 있어요.
+부인 : 경찰요? 맙소사! 같이 올라갈게요.
+리디아 : 네, 그래 주세요. 같이 올라가요.
+(두 사람이 올라간다. 계단참에는 이미 시 경찰 둘이 무전을 하고 있다. 리디아가 다가간다.)
+경찰 : 안녕하세요. 신고하신 분이세요?
+리디아 : 네, 저예요. 삼 층 비의 리디아 모라예요.
+경찰 : 감사합니다. 연락받았습니다. 사흘째 못 보셨다고요?
+리디아 : 맞아요. 그리고 이 층 이웃이 일요일 오후에 쿵 소리를 들었어요.
+경찰 : 좋습니다. 열쇠공과 함께 문을 열겠습니다. 조금 물러나 주세요.
+리디아 : 알겠어요. 무사하시길 바라요.
+경찰 : 우리 모두 그렇습니다. 침착하게 계세요.
+(열쇠공이 문을 연다. 경찰이 들어간다. 몇 초 동안 정적이 흐른다. 안에서 힘없는 목소리가 들린다.)
+경찰 : 안셀모 어르신! 괜찮으세요?
+안셀모 : (힘없는 목소리) 여기... 부엌에... 넘어졌어요...
+경찰 : 살아 계십니다! 구급차 불러요.
+리디아 : 하느님 감사합니다. 살아 계세요!
+부인 : 알려 줘서 다행이야, 아가. 정말 다행이야.
+리디아 : 네. 다행이에요.
+경찰 : 모라 씨, 잠깐 같이 가 주시겠어요? 정보가 필요합니다.
+리디아 : 물론이죠. 뭐가 필요하세요?
+경찰 : 성함 전체와 따님 성함을 아시면요.
+리디아 : 마르타요. 발렌시아에 살아요. 성은 몰라요.
+경찰 : 서류에서 찾아보겠습니다. 더 덧붙일 게 있으세요?
+리디아 : 일요일에 넘어지셨고 사흘을 거기 계셨다는 것이요.
+경찰 : 아마 그렇겠죠. 모라 씨가 구하셨어요.
+리디아 : 아니에요. 쿵 소리를 들은 이웃이 구한 거예요.
+부인 : 나는 듣기만 했지. 행동은 네가 했어.
+리디아 : 그럼 두 사람이 함께한 거네요.
+경찰 : 두 분과 구급대가 함께죠. 곧 도착합니다.
+안셀모 : (힘없는 목소리) 리디아... 고마워요...
+리디아 : 안셀모 어르신, 괜찮아요. 이제 돌봐 드릴 거예요.
+안셀모 : 목이 말랐는데... 일어날 수가 없었어요...
+리디아 : 이제 끝났어요. 원하시면 병원까지 같이 갈게요.
+안셀모 : 폐 끼치고 싶지 않아요...
+리디아 : 폐 아니에요. 이웃이 그러라고 있는 거죠.
+경찰 : 좋습니다, 부인. 구급차에 같이 타셔도 됩니다.

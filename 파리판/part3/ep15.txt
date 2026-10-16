@@ -131,8 +131,6 @@ Théo : Vous aussi. Et n'oubliez pas, c'est toujours un noisette pour demain, si
 Emma : Je m'en souviendrai.
 Théo : Ou peut-être un nuage de lait.
 Emma : On verra bien.
-Théo : Bonne journée !
-Emma : Merci !
 
 ## 낭독 포인트
 - 비음 모음: «bonjour», «comptoir», «croissant», «un expresso» — on, an, un에서 n은 따로 발음하지 않고 코로 울린다.
@@ -291,5 +289,3 @@ Emma : Merci !
 엠마 : 기억할게요.
 테오 : 아니면 우유 구름일지도요.
 엠마 : 두고 봐야죠.
-테오 : 좋은 하루 보내세요!
-엠마 : 고마워요!

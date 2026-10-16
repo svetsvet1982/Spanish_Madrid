@@ -130,7 +130,7 @@ Antoine : J'attends, alors. Je ne raccroche pas.
 Valérie : Je reviens très vite, monsieur Delmas. Ne bougez pas.
 
 ## 낭독 포인트
-- 비음 모음: «remboursement», «confirmation», «patienter», «dossier» 대신 대화에 나온 «remboursement»처럼 on, an, en은 코로 울리는 모음이며 n은 따로 발음하지 않는다.
+- 비음 모음: «remboursement», «confirmation», «patienter», «dossier» — on, an, en은 코로 울리는 모음이며 n은 따로 발음하지 않는다.
 - 연음: «vingt et une heures», «cent quatre-vingts euros», «deux euros» — 어말 자음이 다음 모음으로 넘어간다.
 - 프랑스어 r: «réservation», «rappeler», «remboursement» — 목젖 근처에서 내는 마찰음.
 - u / ou: «vous», «pour» vs «plus», «une» — ou는 [u], u는 입술을 모아 [y].

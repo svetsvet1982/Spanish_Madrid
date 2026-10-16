@@ -1,0 +1,294 @@
+# 1부 9화. A máquina de lavar quebrou (세탁기가 고장 났어요)
+난이도: 주 B1 | 구간: B1→A2→B1→B1→B1→A2 | 형식: 전화 | 장소: 클라우디아의 아파트 세탁실(통화), 제조사 고객센터 | 시간: 금요일 저녁
+등장인물: Cláudia, Rodrigo
+이슈: 주 ○ 보증 적용 여부와 수리 일정 | 곡선: 0-1-1-0-1-0 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 보증 범위와 하중 문제에서 가볍게 확인하는 말만 오간다)
+상황 카드: 클라우디아의 세탁기가 빨래 도중 멈추고 물이 찬 채 문이 안 열린다. 제조사 고객센터 직원 호드리구와 통화하며 오류 코드를 확인하고 배수 호스를 점검하지만 문은 열리지 않는다. 보증 기간 안이라 출장 수리를 예약하되 과적재 여부를 두고 확인 질문이 오가고, 비상 손잡이로 문을 여는 방법을 배운다. 결말은 접수 번호를 받고 목요일 오후 방문을 확정하지만 고장 원인은 기술자가 와 봐야 아는 열린 마무리.
+학습 포인트: 전화로 신원과 문제 말하기(Estou ligando porque…) · 고장 증상 설명(parou no meio da lavagem) · 보증과 조건 말하기(Se for…, a garantia pode não cobrir) · 일정 잡기(Tem vaga na terça-feira…) · 숫자 받아 적기와 확인(número de série, protocolo) · 통화 마무리
+
+## 대화
+(Sexta-feira, começo da noite. Cláudia está na lavanderia do apartamento, diante da máquina parada com água dentro. Ela liga para o SAC da fabricante, e depois da gravação atende Rodrigo.)
+Rodrigo : Eletro Brisa, boa noite, meu nome é Rodrigo. Com quem eu falo?
+Cláudia : Boa noite, Rodrigo. Eu sou a Cláudia Moreira. Estou ligando porque a minha máquina de lavar quebrou.
+Rodrigo : Poxa, sinto muito, dona Cláudia. A senhora pode confirmar o nome completo e o bairro?
+Cláudia : Claro. Cláudia Moreira Duarte, bairro Vila Mariana.
+Rodrigo : Obrigado. Agora me conta: o que aconteceu com a máquina?
+Cláudia : Ela parou no meio da lavagem. A água ficou lá dentro e a porta não abre.
+Rodrigo : Entendi. E ela mostra alguma mensagem no visor?
+Cláudia : Mostra, sim. Aparece «E três» piscando, e depois um barulho de bipe.
+Rodrigo : Código E3... normalmente é problema na drenagem, quer dizer, na saída da água.
+Cláudia : Hum, então a água não está saindo?
+Rodrigo : Provavelmente. Mas vamos confirmar antes de agendar qualquer visita.
+Cláudia : Tá bom. Eu estou na frente dela agora.
+Rodrigo : Ótimo. Quanto tempo de uso a máquina tem?
+Cláudia : Comprei em setembro do ano passado. Faz uns oito meses.
+Rodrigo : Então ainda está na garantia, porque a garantia é de doze meses. A senhora tem a nota fiscal?
+Cláudia : Tenho, sim. Está no e-mail, e também guardei uma foto no celular.
+Rodrigo : Perfeito. Mais tarde eu peço o número da nota. Antes, só uma coisa: a máquina está ligada na tomada?
+Cláudia : Está. Eu já desliguei e liguei de novo, e não adiantou.
+Rodrigo : Certo. Ótimo que a senhora já tentou. Vamos fazer um teste rápido, pode ser?
+Cláudia : Pode, sim. Estou com o celular no viva-voz.
+(Rodrigo digita enquanto fala. Cláudia se agacha atrás da máquina com o celular na mão.)
+Rodrigo : Primeiro, desligue a máquina da tomada. Pode puxar o fio?
+Cláudia : Pronto, puxei.
+Rodrigo : Agora olhe atrás da máquina. Tem uma mangueira grossa, cinza?
+Cláudia : Tem. Ela vai pro ralo da parede.
+Rodrigo : Ela está dobrada ou amassada?
+Cláudia : Um pouquinho dobrada, sim. Perto do ralo.
+Rodrigo : Isso pode ser o problema. A água não passa quando a mangueira dobra.
+Cláudia : Mas eu não mexi nela. A máquina fica no mesmo lugar desde que eu comprei.
+Rodrigo : Calma, não estou dizendo que foi a senhora. A mangueira pode dobrar com a vibração, ao longo dos meses.
+Cláudia : Entendi. Posso esticar a mangueira agora?
+Rodrigo : Pode. Mas cuidado: ainda tem água dentro, e ela pode sair pelo chão.
+Cláudia : Tenho um balde aqui. Vou colocar embaixo da ponta.
+Rodrigo : Muito bem. Agora ajeite a mangueira devagar.
+Cláudia : Pronto. Saiu um pouco de água, mas parou.
+Rodrigo : Hum. E a porta? Tente abrir.
+Cláudia : Continua trancada.
+Rodrigo : Então é outro problema. Pode ser a trava da porta ou a bomba de água.
+Cláudia : A bomba? É uma peça cara?
+Rodrigo : Depende. Mas não precisa se preocupar agora. Se estiver na garantia, a peça é nossa.
+Cláudia : Ah, que alívio. Obrigada, Rodrigo.
+(Cláudia puxa uma cadeira e se senta. Rodrigo abre outra tela no computador.)
+Rodrigo : Dona Cláudia, antes de agendar o técnico, preciso fazer algumas perguntas. É o procedimento.
+Cláudia : Tudo bem. Pode perguntar.
+Rodrigo : A máquina estava com muita roupa quando parou?
+Cláudia : Estava com a carga normal. Eram toalhas e lençóis, mais ou menos sete quilos.
+Rodrigo : Sete quilos... A sua máquina é de oito quilos, né?
+Cláudia : É, de oito. Então eu não passei do limite.
+Rodrigo : Certo. Eu pergunto porque, se o técnico achar que foi excesso de carga, a garantia pode não cobrir.
+Cláudia : Mas eu usei do jeito que o manual manda. Eu até li o manual quando comprei.
+Rodrigo : Eu acredito, só preciso registrar a sua resposta. Quem decide é o técnico, depois de olhar a máquina.
+Cláudia : E se ele disser uma coisa e eu discordar?
+Rodrigo : A senhora pode pedir um laudo por escrito. Com o laudo, a gente analisa de novo.
+Cláudia : Ótimo. Isso me deixa mais tranquila.
+Rodrigo : Outra pergunta: a máquina já teve algum conserto antes?
+Cláudia : Nunca. Ela sempre funcionou bem, até hoje.
+Rodrigo : Certo. Agora preciso do número de série. Fica numa etiqueta, na lateral da porta.
+Cláudia : Um minuto, vou olhar. Aqui está: é uma etiqueta branca, com um código de barras.
+Rodrigo : Isso. Pode ler o número que está embaixo do código de barras?
+Cláudia : É três, sete, nove, zero, dois, um, quatro, oito, cinco.
+Rodrigo : Obrigado. Três, sete, nove, zero, dois, um, quatro, oito, cinco. É isso?
+Cláudia : Isso mesmo.
+(Rodrigo confere a agenda dos técnicos na tela. Do outro lado da linha, ouve-se o barulho do teclado.)
+Rodrigo : Agora vamos agendar o técnico. A senhora prefere de manhã ou à tarde?
+Cláudia : Eu prefiro de manhã, mas trabalho em casa, então qualquer horário serve.
+Rodrigo : Tem vaga na terça-feira, das oito ao meio-dia. E na quinta, das duas às seis.
+Cláudia : Na terça o técnico chega a que horas? Eu tenho uma reunião às nove.
+Rodrigo : Na terça ele chega entre oito e meio-dia. Não dá pra saber o horário exato.
+Cláudia : Entendi. Então pode ser quinta à tarde. Na terça eu teria que ficar esperando a manhã inteira.
+Rodrigo : Sem problema. Quinta, das quatorze às dezoito horas. Alguém vai estar em casa?
+Cláudia : Eu mesma. E se o técnico precisar de uma peça que ele não tenha?
+Rodrigo : Nesse caso ele pede a peça e volta em até dez dias úteis.
+Cláudia : Dez dias úteis... entendi. E o técnico costuma levar as peças mais comuns?
+Rodrigo : Costuma, sim. A bomba, por exemplo, ele já leva na van.
+Cláudia : Que bom. Então vou ficar torcendo pra ser a bomba.
+Rodrigo : Ha, ha. Vamos torcer juntos. Posso confirmar o endereço?
+Cláudia : Claro. Rua das Acácias, número cento e quarenta, apartamento sessenta e dois.
+Rodrigo : Rua das Acácias, cento e quarenta, apartamento sessenta e dois. A senhora mora em prédio?
+Cláudia : Moro, sim. O porteiro vai ter que liberar a entrada do técnico.
+Rodrigo : Então é bom avisar a portaria com antecedência. Eu coloco no chamado que o técnico vai chegar entre duas e seis.
+Cláudia : Perfeito. Já aviso o porteiro hoje à noite.
+Rodrigo : Ótimo. Mais alguma coisa que eu possa ajudar nesse agendamento?
+Cláudia : Só uma dúvida: o técnico cobra alguma taxa de visita?
+Rodrigo : Na garantia, a visita é gratuita. Se o defeito não for coberto, a taxa é de cento e vinte reais.
+Cláudia : Entendi. E se o técnico disser que não está coberto, ele me avisa antes de começar o conserto?
+Rodrigo : Avisa, sim. Ele apresenta o orçamento, e a senhora decide se aceita ou não.
+Cláudia : Ótimo. E a roupa que está dentro da máquina? Vai ficar lá até quinta?
+Rodrigo : Se a porta não abrir, sim. Mas existe um puxador de emergência, na parte de baixo, atrás de uma tampinha.
+Cláudia : Puxador de emergência? Eu nunca vi isso.
+Rodrigo : Fica no canto inferior direito, atrás de uma tampa pequena. Dá pra abrir com uma chave de fenda.
+Cláudia : Um minuto... achei a tampinha. Pronto, aqui tem uma cordinha laranja.
+Rodrigo : É essa. Puxe a cordinha devagar pra baixo, mas só depois de tirar a água, tá?
+Cláudia : A água já saiu quase toda, só ficou um pouco no fundo. Vou puxar.
+Rodrigo : Pode puxar.
+Cláudia : A porta abriu! Que alívio. Mas as toalhas estão encharcadas, de tão pesadas.
+Rodrigo : Normal. Dá pra torcer à mão e lavar de novo depois do conserto. Ou levar numa lavanderia.
+Cláudia : Posso pedir reembolso se eu levar numa lavanderia?
+Rodrigo : Infelizmente não. A garantia cobre o conserto da máquina, não o gasto com lavanderia.
+Cláudia : Poxa, mas tudo bem. Vou lavar as toalhas na banheira mesmo.
+Rodrigo : Sinto muito pelo transtorno. Vou registrar a sua sugestão: seria bom o manual explicar melhor sobre o puxador.
+Cláudia : Obrigada. Isso ajuda outras pessoas também.
+Rodrigo : Com certeza. Agora vou gerar o protocolo do atendimento. Tem caneta aí?
+Cláudia : Tenho, sim. Pode falar.
+(A ligação já está no fim. Rodrigo fala devagar para Cláudia anotar tudo.)
+Rodrigo : O protocolo é: dois, zero, dois, seis, um, zero, quatro, sete, oito.
+Cláudia : Dois, zero, dois, seis, um, zero, quatro, sete, oito. Anotei.
+Rodrigo : Isso mesmo. Também vou mandar uma mensagem de texto com os dados da visita.
+Cláudia : Ótimo. Vou guardar a mensagem junto com a nota fiscal.
+Rodrigo : Boa ideia. No dia, o técnico liga trinta minutos antes de chegar.
+Cláudia : Perfeito. Meu celular fica ligado o tempo todo.
+Rodrigo : Mais alguma dúvida, dona Cláudia?
+Cláudia : Não, acho que é só isso. Você foi muito atencioso.
+Rodrigo : Obrigado. Eu só faço o meu trabalho. Posso pedir uma coisa?
+Cláudia : Pode, sim. Pode pedir.
+Rodrigo : Vai chegar uma pesquisa de satisfação por mensagem. A senhora pode responder se quiser.
+Cláudia : Pode deixar. Eu respondo com nota dez.
+Rodrigo : Fico muito agradecido. E a senhora pode chamar a gente de novo, se precisar.
+Cláudia : Chamo, sim. Mas espero que a máquina não precise de nada.
+Rodrigo : Ha, ha. Também espero. Tenha uma boa noite e um bom final de semana.
+Cláudia : Obrigada, Rodrigo. Pra você também.
+Rodrigo : A Eletro Brisa agradece o seu contato. Até logo!
+Cláudia : Até logo!
+Rodrigo : Ah, só um aviso: não use a máquina até o técnico chegar.
+Cláudia : Pode deixar. Vou lavar as toalhas na banheira, mesmo.
+
+## 낭독 포인트
+- 비음 모음: «não», «então», «mão», «bem» — ão, em은 코로 울리고, 끝의 m은 따로 발음하지 않는다.
+- t·d 뒤 i: «noite», «de», «dia», «tarde» — 상파울루에서는 [tʃi]·[dʒi]처럼 구개음화된다. «boa noite», «no dia»를 이어서 읽는다.
+- r: «Rua», «ralo», «porta», «garantia» — 어두 r은 [h]에 가까운 소리, 어말 r과 모음 사이 r은 약하게 낸다.
+- lh·nh: «minha», «senhora», «toalhas», «trabalho» — lh는 [ʎ]([ly]에 가까움), nh는 [ɲ](ny).
+- 숫자 읽기: «três», «sete», «nove», «quatorze», «cento e quarenta» — 일련번호와 접수 번호는 한 자리씩 또박또박 읽고 상대가 복창한다.
+- 호칭: 호드리구는 «a senhora»와 «dona Cláudia»로, 클라우디아는 você로 말한다. 호드리구는 정중하고 차분하게, 클라우디아는 처음엔 조급하다가 점점 안심하는 톤으로 읽는다.
+
+## 학습 포인트 정리
+- B1 구간(1~20턴): 전화로 문제 설명하기
+  · 신원과 용건: «Com quem eu falo?», «Estou ligando porque a minha máquina de lavar quebrou.»
+  · 증상과 기간: «Ela parou no meio da lavagem.», «Faz uns oito meses.», «ainda está na garantia»
+- A2 구간(21~40턴): 점검 지시 따르기
+  · 지시와 확인: «Pode puxar o fio?», «Ela está dobrada ou amassada?», «Continua trancada.»
+- B1 구간(41~60턴): 보증 조건과 서류
+  · 조건 문장: «Eu pergunto porque, se o técnico achar que foi excesso de carga, a garantia pode não cobrir.»
+  · 서면 요청: «A senhora pode pedir um laudo por escrito.», «Quem decide é o técnico, depois de olhar a máquina.»
+- B1 구간(61~100턴): 일정 잡기, 비용, 비상 해결
+  · 일정: «Tem vaga na terça-feira, das oito ao meio-dia.», «Quinta, das quatorze às dezoito horas.»
+  · 비용과 확인: «Na garantia, a visita é gratuita.», «Eu coloco no chamado que o técnico vai chegar entre duas e seis.»
+- A2 구간(101~120턴): 접수 번호와 통화 마무리
+  · 번호 받아 적기: «O protocolo é: dois, zero, dois, seis, um, zero, quatro, sete, oito.», «Anotei.»
+  · 마무리: «Pode deixar.», «Até logo!»
+- 어휘: a máquina de lavar, a mangueira, o ralo, a bomba, o número de série, a nota fiscal, o laudo, o protocolo, o técnico.
+
+## 속어 노트
+- «Poxa»: 저런, 아이고(안타까움이나 가벼운 실망).
+- «Que alívio»: 다행이다, 한시름 놓았다.
+- «Tá bom»: 좋아요, 알겠어요(tudo bem의 구어형).
+- «Vamos torcer juntos»: 같이 빌어 봐요, 잘되길 바라요.
+- «Pode deixar.»: 맡겨 두세요, 제가 할게요.
+- 보증 12개월, 방문비 120헤알, 부품 대기 영업일 10일, 비상 손잡이 위치는 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 고객센터 직원은 «a senhora»·«dona Cláudia»로 높이고, 고객은 você로 말한다.
+
+## 한글 해석
+(금요일 초저녁. 클라우디아가 아파트 세탁실에서 물이 찬 채 멈춘 세탁기 앞에 서 있다. 제조사 고객센터에 전화하자 안내 녹음이 끝나고 호드리구가 받는다.)
+호드리구 : 호드리구 : 엘레트로 브리자, 안녕하세요, 호드리구입니다. 어느 분이신가요?
+클라우디아 : 클라우디아 : 안녕하세요, 호드리구 씨. 저는 클라우디아 모레이라예요. 세탁기가 고장 나서 전화했어요.
+호드리구 : 호드리구 : 저런, 안타깝네요, 클라우디아 님. 성함 전체와 동네를 확인해 주시겠어요?
+클라우디아 : 클라우디아 : 그럼요. 클라우디아 모레이라 두아르트, 빌라 마리아나 동네예요.
+호드리구 : 호드리구 : 감사합니다. 이제 말씀해 주세요, 세탁기에 무슨 일이 있었나요?
+클라우디아 : 클라우디아 : 세탁 도중에 멈췄어요. 물이 안에 남아 있고 문이 안 열려요.
+호드리구 : 호드리구 : 알겠습니다. 화면에 메시지가 뜨나요?
+클라우디아 : 클라우디아 : 떠요. 「E3」가 깜빡거리고 그다음에 삐 소리가 나요.
+호드리구 : 호드리구 : E3 코드라… 보통은 배수 문제예요, 그러니까 물이 빠지는 쪽이죠.
+클라우디아 : 클라우디아 : 음, 그럼 물이 안 빠지고 있다는 건가요?
+호드리구 : 호드리구 : 아마도요. 하지만 방문을 예약하기 전에 먼저 확인해 보죠.
+클라우디아 : 클라우디아 : 좋아요. 지금 세탁기 바로 앞에 있어요.
+호드리구 : 호드리구 : 좋습니다. 세탁기를 쓴 지 얼마나 됐나요?
+클라우디아 : 클라우디아 : 작년 9월에 샀어요. 8개월쯤 됐어요.
+호드리구 : 호드리구 : 그럼 아직 보증 기간이에요, 보증이 12개월이거든요. 영수증은 있으세요?
+클라우디아 : 클라우디아 : 있어요. 이메일에 있고, 휴대폰에 사진도 저장해 뒀어요.
+호드리구 : 호드리구 : 좋습니다. 영수증 번호는 나중에 여쭐게요. 먼저 한 가지, 세탁기 플러그가 꽂혀 있나요?
+클라우디아 : 클라우디아 : 네. 이미 껐다가 다시 켜 봤는데 소용없었어요.
+호드리구 : 호드리구 : 알겠습니다. 이미 해 보셨다니 잘하셨어요. 간단히 테스트해 볼까요?
+클라우디아 : 클라우디아 : 좋아요. 휴대폰은 스피커폰으로 해 뒀어요.
+(호드리구가 말하면서 입력한다. 클라우디아는 휴대폰을 든 채 세탁기 뒤에 쪼그려 앉는다.)
+호드리구 : 호드리구 : 먼저 세탁기 플러그를 뽑으세요. 선을 당겨 주시겠어요?
+클라우디아 : 클라우디아 : 됐어요, 뽑았어요.
+호드리구 : 호드리구 : 이제 세탁기 뒤를 보세요. 굵은 회색 호스가 있나요?
+클라우디아 : 클라우디아 : 있어요. 벽에 있는 배수구로 가요.
+호드리구 : 호드리구 : 접히거나 눌려 있나요?
+클라우디아 : 클라우디아 : 조금 접혀 있어요. 배수구 가까이에요.
+호드리구 : 호드리구 : 그게 문제일 수 있어요. 호스가 접히면 물이 안 지나가요.
+클라우디아 : 클라우디아 : 그런데 저는 건드린 적 없어요. 산 뒤로 세탁기는 계속 같은 자리에 있었어요.
+호드리구 : 호드리구 : 진정하세요, 고객님이 그러셨다는 말은 아니에요. 호스는 몇 달 동안 진동 때문에 접힐 수 있어요.
+클라우디아 : 클라우디아 : 알겠어요. 지금 호스를 펴도 될까요?
+호드리구 : 호드리구 : 네. 그런데 조심하세요, 안에 아직 물이 있어서 바닥으로 나올 수 있어요.
+클라우디아 : 클라우디아 : 여기 양동이가 있어요. 호스 끝 아래에 놓을게요.
+호드리구 : 호드리구 : 아주 좋아요. 이제 호스를 천천히 바로잡으세요.
+클라우디아 : 클라우디아 : 됐어요. 물이 조금 나오다가 멈췄어요.
+호드리구 : 호드리구 : 음. 문은요? 열어 보세요.
+클라우디아 : 클라우디아 : 여전히 잠겨 있어요.
+호드리구 : 호드리구 : 그럼 다른 문제예요. 문 잠금 장치나 물 펌프일 수 있어요.
+클라우디아 : 클라우디아 : 펌프요? 비싼 부품인가요?
+호드리구 : 호드리구 : 경우에 따라 달라요. 하지만 지금은 걱정하지 않으셔도 돼요. 보증 기간이면 부품은 저희가 부담해요.
+클라우디아 : 클라우디아 : 아, 다행이네요. 고마워요, 호드리구 씨.
+(클라우디아가 의자를 끌어 앉는다. 호드리구가 컴퓨터에서 다른 화면을 연다.)
+호드리구 : 호드리구 : 클라우디아 님, 기술자를 예약하기 전에 몇 가지 질문을 드려야 해요. 절차예요.
+클라우디아 : 클라우디아 : 괜찮아요. 물어보세요.
+호드리구 : 호드리구 : 세탁기가 멈췄을 때 빨래가 많이 들어 있었나요?
+클라우디아 : 클라우디아 : 보통 양이었어요. 수건과 시트 한 7킬로쯤이요.
+호드리구 : 호드리구 : 7킬로요… 고객님 세탁기는 8킬로짜리죠?
+클라우디아 : 클라우디아 : 네, 8킬로요. 그러니까 한도를 넘기지 않았어요.
+호드리구 : 호드리구 : 알겠습니다. 이렇게 묻는 건 기술자가 과적재라고 판단하면 보증이 적용되지 않을 수 있어서예요.
+클라우디아 : 클라우디아 : 하지만 설명서에 나온 대로 썼어요. 살 때 설명서도 읽었는걸요.
+호드리구 : 호드리구 : 믿어요, 답변을 기록해야 해서 그래요. 판단은 기술자가 세탁기를 본 뒤에 합니다.
+클라우디아 : 클라우디아 : 기술자가 뭔가를 말했는데 제가 동의하지 않으면요?
+호드리구 : 호드리구 : 서면 소견서를 요청하실 수 있어요. 소견서가 있으면 저희가 다시 검토합니다.
+클라우디아 : 클라우디아 : 좋네요. 그러면 마음이 한결 놓여요.
+호드리구 : 호드리구 : 다른 질문입니다. 세탁기를 전에 수리한 적이 있나요?
+클라우디아 : 클라우디아 : 한 번도 없어요. 오늘까지는 늘 잘 작동했어요.
+호드리구 : 호드리구 : 알겠습니다. 이제 일련번호가 필요해요. 문 옆쪽 라벨에 있어요.
+클라우디아 : 클라우디아 : 잠시만요, 볼게요. 여기 있어요. 바코드가 있는 흰 라벨이에요.
+호드리구 : 호드리구 : 맞아요. 바코드 아래 번호를 읽어 주시겠어요?
+클라우디아 : 클라우디아 : 3, 7, 9, 0, 2, 1, 4, 8, 5예요.
+호드리구 : 호드리구 : 감사합니다. 3, 7, 9, 0, 2, 1, 4, 8, 5. 맞나요?
+클라우디아 : 클라우디아 : 맞아요.
+(호드리구가 화면에서 기술자 일정을 확인한다. 수화기 너머로 키보드 소리가 들린다.)
+호드리구 : 호드리구 : 이제 기술자를 예약할게요. 오전이 좋으세요, 오후가 좋으세요?
+클라우디아 : 클라우디아 : 오전이 좋지만 집에서 일해서 아무 시간이나 괜찮아요.
+호드리구 : 호드리구 : 화요일 8시부터 정오까지 자리가 있어요. 목요일은 2시부터 6시까지고요.
+클라우디아 : 클라우디아 : 화요일엔 기술자가 몇 시에 오나요? 저는 9시에 회의가 있어요.
+호드리구 : 호드리구 : 화요일엔 8시에서 정오 사이에 와요. 정확한 시간은 알 수 없어요.
+클라우디아 : 클라우디아 : 알겠어요. 그럼 목요일 오후로 해 주세요. 화요일은 오전 내내 기다려야 하니까요.
+호드리구 : 호드리구 : 문제없어요. 목요일 14시부터 18시까지로요. 집에 계실 분이 있나요?
+클라우디아 : 클라우디아 : 제가 있을 거예요. 기술자한테 필요한 부품이 없으면요?
+호드리구 : 호드리구 : 그럴 땐 부품을 주문하고 영업일 10일 안에 다시 와요.
+클라우디아 : 클라우디아 : 영업일 10일이라… 알겠어요. 기술자는 보통 흔한 부품은 가져오나요?
+호드리구 : 호드리구 : 보통 그래요. 예를 들어 펌프는 차에 이미 싣고 와요.
+클라우디아 : 클라우디아 : 다행이네요. 그럼 펌프이길 빌고 있을게요.
+호드리구 : 호드리구 : 하하. 같이 빌어 봐요. 주소를 확인해도 될까요?
+클라우디아 : 클라우디아 : 그럼요. 아카시아 거리 140번지, 62호예요.
+호드리구 : 호드리구 : 아카시아 거리 140번지, 62호. 건물에 사세요?
+클라우디아 : 클라우디아 : 네. 경비원이 기술자 출입을 허용해야 해요.
+호드리구 : 호드리구 : 그럼 경비실에 미리 알리는 게 좋아요. 접수 내용에 기술자가 2시에서 6시 사이에 간다고 적어 둘게요.
+클라우디아 : 클라우디아 : 좋아요. 오늘 밤에 경비원에게 미리 말해 둘게요.
+호드리구 : 호드리구 : 좋습니다. 이 예약과 관련해서 더 도와드릴 일이 있나요?
+클라우디아 : 클라우디아 : 질문 하나만요. 기술자가 방문비를 받나요?
+호드리구 : 호드리구 : 보증 기간이면 방문은 무료예요. 결함이 보증 대상이 아니면 방문비는 120헤알이에요.
+클라우디아 : 클라우디아 : 알겠어요. 보증 대상이 아니라고 하면 수리를 시작하기 전에 알려 주나요?
+호드리구 : 호드리구 : 알려 줘요. 견적서를 보여 주고 수락할지는 고객님이 결정하세요.
+클라우디아 : 클라우디아 : 좋아요. 그럼 세탁기 안에 있는 빨래는요? 목요일까지 거기 있어야 하나요?
+호드리구 : 호드리구 : 문이 안 열리면 그렇죠. 하지만 아래쪽 작은 덮개 뒤에 비상 손잡이가 있어요.
+클라우디아 : 클라우디아 : 비상 손잡이요? 본 적이 없어요.
+호드리구 : 호드리구 : 오른쪽 아래 구석, 작은 덮개 뒤에 있어요. 드라이버로 열 수 있어요.
+클라우디아 : 클라우디아 : 잠시만요… 덮개를 찾았어요. 됐어요, 주황색 줄이 있어요.
+호드리구 : 호드리구 : 그거예요. 줄을 천천히 아래로 당기세요, 물을 뺀 다음에만요, 아시겠죠?
+클라우디아 : 클라우디아 : 물은 거의 다 빠졌고 바닥에 조금 남았어요. 당길게요.
+호드리구 : 호드리구 : 당기세요.
+클라우디아 : 클라우디아 : 문이 열렸어요! 다행이다. 그런데 수건이 흠뻑 젖어서 너무 무거워요.
+호드리구 : 호드리구 : 당연해요. 손으로 짜고 수리 뒤에 다시 빨 수 있어요. 아니면 세탁소에 맡기셔도 되고요.
+클라우디아 : 클라우디아 : 세탁소에 맡기면 환불을 요청할 수 있나요?
+호드리구 : 호드리구 : 아쉽지만 안 돼요. 보증은 세탁기 수리를 포함하고 세탁소 비용은 포함하지 않아요.
+클라우디아 : 클라우디아 : 저런, 하지만 괜찮아요. 수건은 욕조에서 빨게요.
+호드리구 : 호드리구 : 불편 드려 죄송해요. 말씀하신 의견을 기록해 둘게요. 설명서에 비상 손잡이를 더 잘 설명하면 좋겠다고요.
+클라우디아 : 클라우디아 : 고마워요. 다른 사람들에게도 도움이 되겠죠.
+호드리구 : 호드리구 : 물론이죠. 이제 상담 접수 번호를 만들게요. 거기 펜 있으세요?
+클라우디아 : 클라우디아 : 있어요. 말씀하세요.
+(통화가 끝나 간다. 호드리구가 클라우디아가 받아 적을 수 있게 천천히 말한다.)
+호드리구 : 호드리구 : 접수 번호는 2, 0, 2, 6, 1, 0, 4, 7, 8입니다.
+클라우디아 : 클라우디아 : 2, 0, 2, 6, 1, 0, 4, 7, 8. 적었어요.
+호드리구 : 호드리구 : 맞아요. 방문 정보가 담긴 문자 메시지도 보내 드릴게요.
+클라우디아 : 클라우디아 : 좋아요. 문자는 영수증이랑 같이 보관할게요.
+호드리구 : 호드리구 : 좋은 생각이에요. 당일에 기술자가 도착 30분 전에 전화해요.
+클라우디아 : 클라우디아 : 좋아요. 제 휴대폰은 항상 켜져 있어요.
+호드리구 : 호드리구 : 다른 궁금한 점 있으세요, 클라우디아 님?
+클라우디아 : 클라우디아 : 아니요, 이게 다인 것 같아요. 정말 친절하셨어요.
+호드리구 : 호드리구 : 감사합니다. 제 일을 할 뿐이에요. 부탁 하나 드려도 될까요?
+클라우디아 : 클라우디아 : 그럼요. 말씀하세요.
+호드리구 : 호드리구 : 문자로 만족도 조사가 갈 거예요. 원하시면 답해 주세요.
+클라우디아 : 클라우디아 : 맡겨 두세요. 10점으로 답할게요.
+호드리구 : 호드리구 : 정말 감사합니다. 필요하시면 언제든 다시 연락 주세요.
+클라우디아 : 클라우디아 : 그럴게요. 하지만 세탁기가 아무것도 필요하지 않길 바라요.
+호드리구 : 호드리구 : 하하. 저도요. 좋은 밤과 즐거운 주말 보내세요.
+클라우디아 : 클라우디아 : 고마워요, 호드리구 씨. 호드리구 씨도요.
+호드리구 : 호드리구 : 엘레트로 브리자는 연락 주셔서 감사드립니다. 안녕히 계세요!
+클라우디아 : 클라우디아 : 안녕히 계세요!
+호드리구 : 호드리구 : 아, 한 가지만 알려 드릴게요. 기술자가 올 때까지 세탁기를 쓰지 마세요.
+클라우디아 : 클라우디아 : 걱정 마세요. 수건은 그냥 욕조에서 빨게요.

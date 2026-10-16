@@ -1,0 +1,287 @@
+# 1부 15화. Mudança no domingo (일요일의 이삿짐)
+난이도: 주 C1 | 구간: C1→C1→C1→B2→C1→C1 | 형식: 다인 | 장소: 파크 인근 아파트 단지 로비와 엘리베이터 앞 | 시간: 일요일 오전 8시
+등장인물: Marcelo, Ricardo, Dirceu, Heloísa
+이슈: 주 ◐ 일요일 이사를 허용할지를 둘러싼 규칙의 문구와 취지 | 곡선: 2-0-2-0-2-1 (파도형, 상한 2) | 입장: A 히카르두(이사 당일 세입자, 계약과 이사 업체 비용 때문에 오늘 옮겨야 한다) / B 엘루이자(부관리인 직을 맡은 노인 주민, 규칙은 문구보다 취지가 중요하다고 본다) / C 지르세우(이삿짐 업체 팀장, 시간당 비용이 마음에 걸린다) / D 마르셀루(경비원, 양쪽을 다 아는 중재 역할)
+상황 카드: 이사 당일 일요일 아침, 관리 규약이 평일 이사만 정했는지, 일요일은 해석의 문제인지를 두고 입주민들이 맞선다. 엘리베이터 파손의 기억, 이메일 승인, 시간당 비용, 규약 개정 약속이 오가며 아침 아홉 시 반 시작이라는 임시 합의에 이른다. 누가 옳았는지는 정리되지 않고 규약 개정은 총회로 넘어가는 열린 결말이다.
+학습 포인트: 격식과 구어 전환(Com todo respeito / bora) · 규칙 해석 말하기(mesmo que não esteja escrito) · 양보와 조건(por exceção, mediante) · 완곡한 반박과 반어 · 비용·책임 협상 표현
+
+
+## 대화
+(Domingo, oito da manhã. Um caminhão de mudança está parado na frente do prédio. Marcelo, o porteiro, espera no portão com uma prancheta.)
+Marcelo : Bom dia, seu Ricardo. Antes de o caminhão entrar, preciso avisar que a dona Heloísa, do 52, já ligou duas vezes pra portaria.
+Ricardo : Ligou por quê? São oito da manhã, a mudança está marcada há três semanas, e o síndico autorizou por e-mail.
+Marcelo : Autorizou dia útil, de segunda a sábado. Domingo o regimento não prevê mudança, pelo menos é assim que ela interpreta.
+Ricardo : Interpreta? O e-mail dizia a partir do dia vinte, e dia vinte caiu num domingo. Ninguém me avisou que isso era problema.
+Dirceu : Bom dia, doutor Ricardo. Posso descarregar ou a gente espera? Eu tenho quatro rapazes parados e o relógio do caminhão já está correndo.
+Ricardo : Seu Dirceu, só um minuto. Estou tentando entender se a gente vai poder subir com os móveis.
+Heloísa : Bom dia. Vou ser objetiva, porque não tenho nenhuma intenção de ser grosseira: não é possível fazer mudança num domingo de manhã neste prédio.
+Ricardo : Dona Heloísa, muito prazer, eu sou o Ricardo, do 31. Eu sinto muito pelo transtorno, mas não fui informado de nenhuma restrição.
+Heloísa : O regimento está afixado no elevador desde dois mil e doze. Eu mesma ajudei a redigir aquele artigo.
+Marcelo : Dona Heloísa, o artigo fala em obras e mudanças no horário de segunda a sábado, das oito às dezoito.
+Heloísa : Exatamente, Marcelo. E domingo é dia de descanso. É isso que o texto quer dizer, mesmo que não tenha sido escrito com todas as letras.
+Dirceu : Com todo respeito, dona, nós já fizemos mudança em domingo neste mesmo bairro e ninguém reclamou.
+Heloísa : Eu não estou falando de ninguém do bairro. Estou falando deste prédio, onde moram idosos e crianças pequenas.
+Ricardo : Entendo, e eu respeito. Só que o contrato do meu apartamento antigo termina hoje, e eu não tenho onde deixar as caixas depois das dezoito.
+Heloísa : Isso é um problema entre o senhor e o seu locador, não do condomínio.
+Ricardo : Perdão, mas não é uma questão de quem é o culpado. O que eu quero saber é como resolver sem prejuízo pra ninguém.
+Marcelo : Se me permitem, eu posso ligar pro síndico. Talvez ele atenda o celular.
+Heloísa : Não vai adiantar. O síndico viajou e deixou o subsíndico no lugar, que sou eu.
+Ricardo : A senhora é a subsíndica? Então a decisão está nas suas mãos.
+Heloísa : Está, e é justamente por isso que preciso ser coerente. Se eu abro exceção hoje, amanhã todo mundo quer.
+Marcelo : Enquanto a gente pensa, aceitam um café? Eu faço fresquinho toda manhã, é a única regalia do plantão de domingo.
+Dirceu : Aceito com prazer. Café de portaria é o melhor do mundo, porque ninguém tem pressa de beber.
+Ricardo : Ha, ha. Eu aceito também, sem açúcar, por favor.
+Heloísa : Pra mim um pouco só, Marcelo. E com adoçante, que o médico me proibiu o açúcar.
+Marcelo : Já está anotado na memória, dona Heloísa. Faz doze anos que eu sirvo a senhora assim.
+Heloísa : Doze, treze, já perdi a conta. Eu moro aqui desde que isto era só um terreno com tapume.
+Ricardo : Sério? Então a senhora viu o prédio ser construído?
+Heloísa : Vi cada andaime. Meu marido, que Deus o tenha, achava que a obra nunca ia terminar.
+Dirceu : É que obra e mudança têm isso em comum: ninguém acredita no prazo até a hora em que acaba.
+Marcelo : Ha, ha, e quando acaba ninguém quer ir embora, né?
+Ricardo : Eu cheguei a pensar em desistir deste apartamento, porque a imobiliária demorou meses. Mas quando vi a janela com vista pro parque, mudei de ideia.
+Heloísa : A vista é o que mais vale aqui. Eu regava as plantas da varanda olhando exatamente pro parque.
+Ricardo : Também pretendo ter plantas. Minha mãe me deu uma jiboia, que já tem mais de dois metros.
+Heloísa : Jiboia dá muito trabalho, dizem. Eu prefiro samambaia, que perdoa os esquecimentos.
+Dirceu : Minha esposa também prefere samambaia. Pra mim, planta boa é a de plástico, ha, ha.
+Marcelo : O seu Dirceu não tem paciência com nada que precise de água.
+Dirceu : Nem com mudança que atrasa, ha, ha. Mas hoje eu estou de bom humor, olha o café aí.
+Ricardo : A gente chega a um acordo, tenho certeza. Esse café já me deixou mais otimista.
+Heloísa : Calma, rapaz. O café é bom, mas o regimento continua no elevador.
+Marcelo : Ha, ha. Pelo menos agora a briga tem cheiro de café.
+(Eles continuam no saguão, de pé, com as xícaras na mão. O assunto volta à mudança.)
+Ricardo : Dona Heloísa, posso perguntar qual é exatamente o seu receio? Se for barulho, a gente pode combinar como reduzir.
+Heloísa : É o barulho, sim, mas não só. Faz dois anos que uma mudança estragou o elevador por três semanas, e o condomínio pagou o reparo.
+Marcelo : É verdade. Foram dois mil e oitocentos reais na época, e ninguém assumiu o prejuízo.
+Dirceu : Doutora, o meu pessoal forra o elevador com manta de feltro antes de começar. A gente nunca arranhou um espelho.
+Heloísa : É o que todo mundo diz até o dia em que arranha.
+Ricardo : Então eu posso assinar um termo de responsabilidade, assumindo qualquer dano ao elevador, com data e número de documento.
+Heloísa : Um termo não substitui uma assembleia. O regimento só pode ser alterado por votação, e eu não posso decidir sozinha.
+Ricardo : Mas a senhora não acabou de dizer que a decisão está nas suas mãos?
+Heloísa : Disse que a execução está. A norma não. Distinção sutil, mas existe.
+Marcelo : Se me permite, dona Heloísa, o artigo quinze fala em exceção, mediante autorização expressa do síndico ou de quem o substitua.
+Heloísa : Marcelo, você anda lendo o regimento escondido?
+Marcelo : Ha, ha. Eu leio quando a senhora liga na portaria, pra saber o que eu devo responder.
+Dirceu : Então, se a senhora é a substituta, pelo regimento ela mesma pode autorizar, é isso?
+Heloísa : Posso, mas não vou, por uma questão de princípio. Seria premiar quem não se informou.
+Ricardo : Eu me informei, dona Heloísa. Pedi autorização por escrito e recebi. O problema é que ninguém conferiu o calendário.
+Heloísa : Então o problema é do síndico, que foi impreciso, e não meu.
+Ricardo : Pode ser, mas quem paga o caminhão parado sou eu. São quinhentos reais por hora de atraso, segundo o contrato.
+Dirceu : É isso mesmo, doutor, a gente tem que cobrar. Não é por mal, é a tabela.
+Heloísa : Eu entendo o seu prejuízo, de verdade. Mas não posso resolvê-lo com o meu silêncio de domingo.
+Ricardo : A senhora fala em silêncio, mas o que eu vi até agora foi muita conversa e nenhuma decisão.
+(Há um silêncio. Lá fora, a equipe do Dirceu espera sentada na calçada, e um gato atravessa o saguão devagar.)
+Marcelo : Olha só, o Mingau voltou. Esse gato sempre aparece quando tem confusão.
+Heloísa : O Mingau é da vizinha do 51, que viajou, e eu fiquei de olhar por ele. Ele não anda com saudade, só com fome.
+Ricardo : Posso fazer uma pergunta que não tem nada a ver? Ele manca da pata traseira, não?
+Heloísa : Manca, sim. Faz uma semana. O senhor repara em tudo.
+Ricardo : É profissão. Sou veterinário, por isso o Dirceu me chama de doutor, mesmo eu tendo avisado que não precisa.
+Dirceu : Doutor é doutor, ora. E pra mim quem cuida de bicho merece o título.
+Heloísa : Veterinário! Que coincidência feliz. Será que o senhor poderia dar uma olhadinha no Mingau?
+Ricardo : Claro, agora mesmo. Posso pegá-lo, Marcelo?
+Marcelo : Pode, ele é manso. Só não gosta de ser levantado pelo rabo.
+Ricardo : Ninguém gosta, ha, ha. Vem cá, rapaz. Hum, está inchado aqui, parece um espinho.
+Heloísa : Um espinho? Eu pensei que fosse reumatismo, como o do meu falecido marido.
+Ricardo : Não é reumatismo, é coisa de dois minutos. Tem uma pinça no meu carro, eu pego.
+Dirceu : Eu pego, doutor. A caixa de ferramentas está comigo e tem pinça de eletricista.
+Ricardo : Pinça de eletricista serve. Segura ele firme, dona Heloísa, só um instante.
+Heloísa : Estou segurando. Pobrezinho, nem reclamou.
+Ricardo : Pronto. Saiu inteiro. Se continuar mancando amanhã, me chama que eu passo no meu consultório.
+Heloísa : Muito obrigada, doutor. O senhor não imagina o peso que tirou dos meus ombros.
+Marcelo : Esse gato vai ser o melhor advogado da mudança, ha, ha.
+Dirceu : Então a gente está empatado, né? O gato curado e o caminhão parado.
+Ricardo : Empatado nada. O caminhão parado ainda custa quinhentos reais por hora.
+Heloísa : Doutor, eu vou fazer uma proposta, mas não é uma rendição, é um acordo temporário.
+Ricardo : Estou ouvindo, dona Heloísa, e sinceramente agradeço por me ouvir também.
+Heloísa : A mudança começa às onze, não às oito. Os rapazes forram o elevador, usam as rodinhas e nada de arrastar móvel no corredor.
+Dirceu : Rodinhas a gente tem, e manta também. Isso eu garanto.
+Ricardo : Onze da manhã num domingo significa perder três horas, ou seja, mil e quinhentos reais de caminhão parado. É um preço alto pra uma exceção.
+Heloísa : Eu não decido o preço do seu caminhão, doutor. Eu decido o sossego dos meus vizinhos.
+Marcelo : Talvez uma saída seja o seu Dirceu subir só as caixas pequenas agora, no horário da dona Heloísa, e deixar os móveis pro fim da tarde, às dezessete.
+Dirceu : Dá pra fazer assim. Mas aí o dia fica maior e eu preciso pagar hora extra pros rapazes.
+Ricardo : E quem paga é de novo o inquilino. Parece que todo mundo concorda, só que o prejuízo escorre pra mim.
+Heloísa : Se isso o consola, eu proponho que o condomínio participe do custo, como compensação pelo aviso mal feito.
+Ricardo : O condomínio paga? A senhora pode decidir isso também?
+Heloísa : Não. Mas posso registrar em ata e levar pra próxima assembleia. É o que está ao meu alcance.
+Ricardo : Ata não paga caminhão. Eu agradeço o gesto, mas preciso de algo concreto hoje.
+Heloísa : Então diga o que o senhor considera concreto, sem rodeios.
+Ricardo : Começar às nove, com as mantas e as rodinhas, e eu mesmo carrego as caixas pela escada de serviço, pra não encher o elevador.
+Heloísa : Às nove ainda é cedo pra quem dorme até tarde no domingo, como o seu Anselmo do 41.
+Marcelo : O seu Anselmo viajou pra Campos do Jordão desde sexta, dona Heloísa. Eu avisei.
+Heloísa : Ah, é verdade. Esqueci. Então só falta eu.
+Dirceu : A senhora é o último obstáculo, no bom sentido, claro.
+Heloísa : Ha, ha, no bom sentido. Seu Dirceu, o senhor tem um jeito de dizer coisa difícil com simpatia.
+(Heloísa olha o relógio do saguão e respira fundo. Marcelo abre o portão pro caminhão.)
+Heloísa : Muito bem. Nove e meia, com manta, rodinhas e sem arrastar nada. Fica registrado que eu autorizei por exceção, e que isso não vira precedente.
+Ricardo : Combinado, dona Heloísa. E eu assino o termo de responsabilidade antes de subir o primeiro móvel.
+Heloísa : Assina na portaria, o Marcelo guarda a cópia. E a data de hoje fica anotada no livro.
+Marcelo : Já estou pegando o livro. Pelo menos agora o domingo vai ter registro oficial.
+Dirceu : Rapazes, bora! Vocês ouviram: manta no elevador, sem barulho, e quem derrubar caixa vai dar explicação à dona Heloísa.
+Heloísa : Seu Dirceu, o senhor é exagerado, mas gostei da regra.
+Ricardo : Posso dizer uma coisa antes de subir? Eu não vim aqui pra enfrentar ninguém. Eu só queria dormir hoje no meu apartamento novo.
+Heloísa : Eu sei, doutor. Eu também não acordei hoje pensando em brigar. Mas não gosto de ver regra virar sugestão.
+Ricardo : Vou propor uma emenda ao regimento na assembleia, pra que o texto diga com todas as letras o que vale no domingo.
+Heloísa : Aí o senhor vai ver como é difícil fazer vinte e seis condôminos concordarem.
+Ricardo : Se consegui convencer a senhora em duas horas de café, tenho esperança.
+Heloísa : Não me convenceu totalmente, e isso fica claro. Eu só deixei a regra respirar.
+Marcelo : Bonito isso, dona Heloísa: deixar a regra respirar.
+Heloísa : É o que se faz com vinho e com leis, Marcelo.
+Dirceu : Então a gente pode descarregar, doutor?
+Ricardo : Pode, seu Dirceu. Obrigado a todos, de verdade, até aos que discordaram.
+Heloísa : Eu discordo com muito prazer. Faça uma boa mudança e depois me conte se a jiboia chegou bem.
+Ricardo : Eu trago a jiboia pra senhora me ensinar a regar.
+Marcelo : Domingo e jiboia, o prédio nunca mais vai ser o mesmo.
+Heloísa : Nem o regimento, se esse rapaz tiver sorte.
+## 낭독 포인트
+- 비음 모음: «não», «então», «mãe», «mudança» — ão, ãe, an은 코로 울리는 모음이고 끝의 m·n은 따로 발음하지 않는다.
+- t·d 뒤 i: «prédio», «tarde», «de», «verdade» — 상파울루에서는 [tʃi]·[dʒi]처럼 구개음화된다.
+- lh·nh: «olhar», «minha», «vizinhos», «trabalho» — lh는 [ʎ], nh는 [ɲ]로 소리 낸다.
+- r: «regimento», «reais», «porta», «senhora» — 어두 r은 [h]에 가깝고 어말 r은 약하게 낸다.
+- 억양: 엘루이자는 또박또박 격식 있게, 히카르두는 정중하되 조급하게, 지르세우는 구어로 빠르게, 마르셀루는 낮고 중재하듯 읽는다. 지문 뒤의 짧은 침묵을 살린다.
+- 호칭: 연장자에게는 «dona Heloísa», «a senhora», 전문직에게는 «doutor»를 쓴다. 한 문장 안에서 격식(«Com todo respeito»)과 구어(«bora»)를 오가는 것에 주의한다.
+
+## 학습 포인트 정리
+- C1 구간(1~60턴): 규칙의 문구와 취지, 이의 제기
+  · 완곡한 반박: «Com todo respeito, dona», «Perdão, mas não é uma questão de quem é o culpado.», «Distinção sutil, mas existe.»
+  · 해석과 양보: «mesmo que não tenha sido escrito com todas as letras», «Posso, mas não vou, por uma questão de princípio.»
+  · 일상 대화(21~40턴): «Café de portaria é o melhor do mundo, porque ninguém tem pressa de beber.»
+- B2 구간(61~80턴): 가벼운 장면
+  · «O senhor repara em tudo.», «Será que o senhor poderia dar uma olhadinha no Mingau?», «Empatado nada.»
+- C1 구간(81~120턴): 협상과 임시 합의
+  · «Não é uma rendição, é um acordo temporário.», «Ata não paga caminhão.», «Eu só deixei a regra respirar.»
+  · 마무리: «Eu discordo com muito prazer.», «Rapazes, bora!»
+- 어휘: o regimento, o síndico, o subsíndico, a assembleia, o termo de responsabilidade, a mudança, o condômino.
+
+## 속어 노트
+- «Bora»: 가자(vamos embora의 구어 축약).
+- «Pelo menos»: 적어도.
+- «Olha só»: 이것 봐, 보세요(주의를 끌 때).
+- «Doutor»: 전문직이나 존중하는 상대를 부르는 호칭(의사만 뜻하지 않는다).
+- «Que Deus o tenha»: 고인을 언급할 때 쓰는 말.
+- 이야기 속 설정이며 실제 적용은 확인 필요: 규약 조항, 수리비, 이사 업체 요금, 총회 절차는 모두 가공이다.
+- 레지스터 주의: 욕설은 없다. 연장자에게는 o senhor / a senhora를 쓰고 가까운 사이에서는 você를 쓴다.
+
+## 한글 해석
+(일요일 아침 여덟 시. 이삿짐 트럭이 건물 앞에 서 있다. 경비원 마르셀루가 서류판을 들고 정문에서 기다린다.))
+마르셀루 : 안녕하세요, 히카르두 씨. 트럭이 들어오기 전에 말씀드릴 게 있어요. 52호 엘루이자 할머니가 벌써 두 번 경비실로 전화하셨어요.
+히카르두 : 왜요? 아침 여덟 시이고 이사는 삼 주 전에 정했고 관리인이 이메일로 승인했는데요.
+마르셀루 : 평일, 월요일부터 토요일까지로 승인했죠. 일요일 이사는 규약에 없고 적어도 할머니 해석은 그래요.
+히카르두 : 해석이요? 이메일에는 이십 일부터라고 적혀 있었고 이십 일이 일요일이에요. 그게 문제라고 아무도 말해 주지 않았어요.
+지르세우 : 안녕하세요, 히카르두 선생님. 내려도 됩니까, 기다릴까요? 직원 넷이 서 있고 트럭 시간은 벌써 가고 있어요.
+히카르두 : 지르세우 씨, 잠깐만요. 가구를 올릴 수 있는지 알아보는 중이에요.
+엘루이자 : 안녕하세요. 무례하려는 뜻은 전혀 없으니 분명히 말할게요. 이 건물에서는 일요일 아침에 이사를 할 수 없어요.
+히카르두 : 엘루이자 할머니, 처음 뵙겠습니다. 저는 31호 히카르두예요. 불편을 드려 죄송하지만 제한이 있다는 걸 전달받지 못했어요.
+엘루이자 : 규약은 이천십이 년부터 엘리베이터에 붙어 있어요. 그 조항은 저도 같이 썼고요.
+마르셀루 : 할머니, 그 조항에는 공사와 이사가 월요일부터 토요일 여덟 시에서 여섯 시까지라고 되어 있어요.
+엘루이자 : 그렇죠, 마르셀루. 그리고 일요일은 쉬는 날이에요. 글자로 다 적히지 않았어도 문구가 뜻하는 건 그거예요.
+지르세우 : 실례지만 할머니, 우리는 이 동네에서 일요일에도 이사했는데 아무도 불평 안 했습니다.
+엘루이자 : 동네 사람들 얘기를 하는 게 아니에요. 노인과 어린아이가 사는 이 건물 얘기예요.
+히카르두 : 이해하고 존중합니다. 다만 예전 집 계약이 오늘 끝나서 저녁 여섯 시 이후에는 상자를 둘 곳이 없어요.
+엘루이자 : 그건 선생님과 집주인 사이의 문제지 공동주택의 문제가 아니에요.
+히카르두 : 죄송하지만 누구 잘못인지의 문제가 아니에요. 제가 알고 싶은 건 아무도 손해 보지 않고 푸는 방법이에요.
+마르셀루 : 괜찮으시면 제가 관리인에게 전화해 볼게요. 휴대폰을 받을지도 몰라요.
+엘루이자 : 소용없어요. 관리인은 여행 가서 부관리인을 맡겼는데 그게 저예요.
+히카르두 : 할머니가 부관리인이세요? 그럼 결정이 할머니 손에 달려 있네요.
+엘루이자 : 그래요, 그래서 일관되어야 해요. 오늘 예외를 두면 내일은 모두가 원할 거예요.
+마르셀루 : 생각하는 동안 커피 드실래요? 아침마다 갓 내리는데 일요일 근무의 유일한 특권이죠.
+지르세우 : 기꺼이요. 경비실 커피가 세상에서 제일 맛있죠, 마시는 데 서두를 사람이 없으니까요.
+히카르두 : 하하. 저도 주세요, 설탕은 빼고요.
+엘루이자 : 저는 조금만, 마르셀루. 감미료로요, 의사가 설탕을 금지했어요.
+마르셀루 : 벌써 기억에 적어 뒀어요, 할머니. 십이 년째 그렇게 드렸죠.
+엘루이자 : 십이, 십삼, 셈이 안 돼요. 여기가 울타리 둘린 빈 땅이었을 때부터 살았어요.
+히카르두 : 정말요? 그럼 건물이 지어지는 걸 보셨어요?
+엘루이자 : 비계 하나하나를 봤죠. 돌아가신 남편은 공사가 영영 안 끝날 거라고 했어요.
+지르세우 : 공사랑 이사가 닮은 점이 그거죠. 끝나는 순간까지 아무도 기한을 안 믿어요.
+마르셀루 : 하하, 끝나면 아무도 가고 싶어 하지 않고요, 맞죠?
+히카르두 : 이 집은 부동산이 몇 달이나 끌어서 포기할 뻔했어요. 그런데 공원이 보이는 창을 보고 마음을 바꿨죠.
+엘루이자 : 여기선 전망이 제일 값져요. 저도 정확히 공원을 보며 베란다 화분에 물을 줬어요.
+히카르두 : 저도 식물을 키울 생각이에요. 어머니가 스킨답서스를 주셨는데 벌써 이 미터가 넘어요.
+엘루이자 : 스킨답서스는 손이 많이 간다더군요. 저는 잊어도 용서해 주는 고사리가 좋아요.
+지르세우 : 제 아내도 고사리를 좋아해요. 저한테 좋은 식물은 플라스틱이죠, 하하.
+마르셀루 : 지르세우 씨는 물이 필요한 건 뭐든 참을성이 없어요.
+지르세우 : 늦어지는 이사도요, 하하. 하지만 오늘은 기분이 좋아요, 커피 보세요.
+히카르두 : 우리는 합의에 이를 거예요, 확실해요. 이 커피 덕분에 벌써 더 낙관적이에요.
+엘루이자 : 진정해요, 젊은이. 커피는 맛있지만 규약은 여전히 엘리베이터에 붙어 있어요.
+마르셀루 : 하하. 적어도 이제 싸움에서 커피 냄새가 나네요.
+(그들은 커피잔을 든 채 로비에 서 있다. 이야기는 다시 이사로 돌아온다.))
+히카르두 : 엘루이자 할머니, 정확히 어떤 점이 걱정되시는지 물어봐도 될까요? 소음이라면 줄일 방법을 정할 수 있어요.
+엘루이자 : 소음도 맞지만 그것만은 아니에요. 이 년 전에 이사가 엘리베이터를 망가뜨려서 삼 주를 못 썼고 수리비는 공동주택이 냈어요.
+마르셀루 : 맞아요. 그때 이천팔백 헤알이었고 아무도 손해를 책임지지 않았어요.
+지르세우 : 할머니, 우리 직원들은 시작 전에 엘리베이터에 펠트 담요를 둘러요. 거울 하나 긁은 적 없어요.
+엘루이자 : 긁는 날까지는 다들 그렇게 말하죠.
+히카르두 : 그럼 제가 엘리베이터 손상은 무엇이든 책임진다는 확인서에 날짜와 신분증 번호를 적어 서명할 수 있어요.
+엘루이자 : 확인서는 총회를 대신할 수 없어요. 규약은 투표로만 바꿀 수 있고 저 혼자 정할 수 없어요.
+히카르두 : 하지만 방금 결정이 할머니 손에 있다고 하셨잖아요?
+엘루이자 : 집행은 제 손에 있다고 했어요. 규범은 아니고요. 미묘한 차이지만 있어요.
+마르셀루 : 할머니, 허락해 주시면 말씀드릴게요. 십오 조는 관리인이나 대행자의 명시적 승인이 있으면 예외를 둘 수 있다고 해요.
+엘루이자 : 마르셀루, 규약을 몰래 읽고 있었어요?
+마르셀루 : 하하. 할머니가 경비실에 전화하시면 뭐라고 답할지 알려고 읽어요.
+지르세우 : 그럼 대행자이시니 규약상 직접 승인하실 수 있는 거네요?
+엘루이자 : 할 수는 있지만 원칙 문제로 안 하겠어요. 알아보지 않은 사람에게 상을 주는 셈이니까요.
+히카르두 : 저는 알아봤어요, 할머니. 서면 승인을 요청해서 받았고요. 문제는 아무도 달력을 확인하지 않았다는 거예요.
+엘루이자 : 그럼 문제는 모호하게 쓴 관리인에게 있지 제게 있지 않네요.
+히카르두 : 그럴 수 있지만 서 있는 트럭 비용은 제가 내요. 계약상 지연 한 시간에 오백 헤알이에요.
+지르세우 : 맞습니다, 선생님, 받아야 해요. 나쁜 뜻이 아니라 요금표예요.
+엘루이자 : 손해는 진심으로 이해해요. 하지만 제 일요일의 침묵으로 그걸 해결할 수는 없어요.
+히카르두 : 할머니는 침묵을 말씀하시지만 제가 지금까지 본 건 말이 많고 결정은 없다는 거예요.
+(침묵이 흐른다. 밖에서는 지르세우 팀이 인도에 앉아 기다리고, 고양이 한 마리가 로비를 천천히 가로지른다.))
+마르셀루 : 어머, 밍가우가 돌아왔네요. 이 고양이는 소동이 있으면 늘 나타나요.
+엘루이자 : 밍가우는 여행 간 51호 이웃 고양이인데 제가 돌보기로 했어요. 그리워서 다니는 게 아니라 배고파서 다녀요.
+히카르두 : 전혀 상관없는 질문을 해도 될까요? 뒷발을 저는 것 같지 않아요?
+엘루이자 : 저는 게 맞아요. 일주일 됐어요. 선생님은 다 알아채시네요.
+히카르두 : 직업이에요. 수의사라서 지르세우 씨가 저를 선생님이라 부르죠, 안 그래도 된다고 했는데도요.
+지르세우 : 선생님은 선생님이죠. 저는 동물 돌보는 사람이 그 칭호를 받을 자격이 있다고 봐요.
+엘루이자 : 수의사라고요! 반가운 우연이네요. 밍가우를 좀 봐 주실 수 있을까요?
+히카르두 : 물론이죠, 지금 바로. 안아도 될까요, 마르셀루?
+마르셀루 : 그럼요, 순해요. 꼬리를 잡아 들어 올리는 것만 싫어해요.
+히카르두 : 아무도 안 좋아하죠, 하하. 이리 와. 흠, 여기가 부었네요, 가시 같아요.
+엘루이자 : 가시요? 돌아가신 남편처럼 류머티즘인 줄 알았어요.
+히카르두 : 류머티즘이 아니에요, 이 분이면 돼요. 차에 핀셋이 있으니 가져올게요.
+지르세우 : 제가 가져올게요, 선생님. 공구함이 저한테 있고 전기 기사용 핀셋이 있어요.
+히카르두 : 전기 기사용 핀셋이면 돼요. 꽉 잡아 주세요, 할머니, 잠깐이면 돼요.
+엘루이자 : 잡고 있어요. 불쌍해라, 울지도 않네요.
+히카르두 : 됐어요. 통째로 빠졌어요. 내일도 절면 불러 주세요, 제 병원에 들를게요.
+엘루이자 : 정말 고마워요, 선생님. 제 어깨에서 얼마나 큰 짐을 덜어 주셨는지 모르실 거예요.
+마르셀루 : 이 고양이가 이사의 최고 변호사가 되겠네요, 하하.
+지르세우 : 그럼 비긴 거네요? 고양이는 나았고 트럭은 서 있고.
+히카르두 : 비기긴요. 서 있는 트럭은 아직도 한 시간에 오백 헤알이에요.
+엘루이자 : 선생님, 제안을 하나 할게요. 항복이 아니라 임시 합의예요.
+히카르두 : 듣고 있어요, 할머니. 저도 들어 주셔서 진심으로 감사해요.
+엘루이자 : 이사는 여덟 시가 아니라 열한 시에 시작해요. 직원들은 엘리베이터를 덮고 바퀴를 쓰고 복도에서 가구를 끌지 않아요.
+지르세우 : 바퀴는 있고 담요도 있어요. 그건 보장합니다.
+히카르두 : 일요일 열한 시면 세 시간을 잃고, 그러니까 서 있는 트럭 천오백 헤알이에요. 예외치곤 비싼 값이네요.
+엘루이자 : 선생님 트럭 값은 제가 정하지 않아요. 저는 이웃들의 평온을 정해요.
+마르셀루 : 어쩌면 지르세우 씨가 지금은 작은 상자만 올리고 가구는 오후 다섯 시로 미루는 방법도 있어요.
+지르세우 : 그렇게 할 수 있어요. 하지만 하루가 길어지면 직원들 초과 수당을 줘야 해요.
+히카르두 : 그럼 또 세입자가 내네요. 다들 동의하는 것 같은데 손해는 저한테 흘러와요.
+엘루이자 : 위로가 된다면 잘못된 안내에 대한 보상으로 공동주택이 비용 일부를 부담하자고 제안할게요.
+히카르두 : 공동주택이 낸다고요? 그것도 할머니가 결정하실 수 있어요?
+엘루이자 : 아뇨. 하지만 기록에 남기고 다음 총회에 올릴 수는 있어요. 제 손이 닿는 건 거기까지예요.
+히카르두 : 기록으로 트럭 값은 못 내요. 마음은 고맙지만 오늘은 구체적인 게 필요해요.
+엘루이자 : 그럼 선생님이 구체적이라고 보는 걸 돌려 말하지 말고 말해 보세요.
+히카르두 : 아홉 시에 시작하고 담요와 바퀴를 쓰고 엘리베이터가 붐비지 않게 제가 직접 상자를 비상계단으로 나를게요.
+엘루이자 : 아홉 시는 일요일에 늦게까지 자는 41호 안셀무 씨 같은 분에게는 여전히 이른 시간이에요.
+마르셀루 : 안셀무 씨는 금요일부터 캄푸스두조르덩에 가 있어요, 할머니. 제가 말씀드렸는데요.
+엘루이자 : 아, 맞아요. 잊었네요. 그럼 남은 건 저뿐이군요.
+지르세우 : 할머니가 마지막 장애물이세요, 좋은 뜻으로요, 당연히.
+엘루이자 : 하하, 좋은 뜻으로요. 지르세우 씨는 어려운 말을 상냥하게 하는 재주가 있네요.
+(엘루이자가 로비 시계를 보고 숨을 깊게 쉰다. 마르셀루가 트럭을 위해 정문을 연다.))
+엘루이자 : 좋아요. 아홉 시 반, 담요와 바퀴를 쓰고 끌지는 말고요. 제가 예외로 승인했고 이게 선례가 되지 않는다는 점을 기록해 둬요.
+히카르두 : 그렇게 할게요, 엘루이자 할머니. 첫 가구를 올리기 전에 확인서에 서명하겠습니다.
+엘루이자 : 경비실에서 서명하면 마르셀루가 사본을 보관해요. 오늘 날짜도 장부에 적어 두고요.
+마르셀루 : 벌써 장부를 가져와요. 적어도 이제 일요일에는 공식 기록이 남네요.
+지르세우 : 얘들아, 가자! 들었지. 엘리베이터에 담요 깔고 조용히 하고, 상자 떨어뜨린 사람은 엘루이자 할머니께 설명드려야 해.
+엘루이자 : 지르세우 씨는 과장이 심하지만 규칙은 마음에 들어요.
+히카르두 : 올라가기 전에 한마디 해도 될까요? 저는 누구와 맞서러 온 게 아니에요. 오늘 새 아파트에서 자고 싶었을 뿐이에요.
+엘루이자 : 알아요, 선생님. 저도 오늘 싸울 생각으로 일어나진 않았어요. 다만 규칙이 제안으로 변하는 건 싫어요.
+히카르두 : 총회에서 규약 개정안을 내서 일요일에 뭐가 적용되는지 글자로 분명히 쓰게 할게요.
+엘루이자 : 그럼 입주민 스물여섯 명이 의견을 모으는 게 얼마나 어려운지 보게 될 거예요.
+히카르두 : 두 시간 커피로 할머니를 설득했으니 희망이 있어요.
+엘루이자 : 완전히 설득된 건 아니고 그건 분명히 해요. 저는 규칙이 숨 쉴 틈을 줬을 뿐이에요.
+마르셀루 : 멋지네요, 할머니. 규칙이 숨 쉬게 하다니.
+엘루이자 : 포도주와 법에 하는 일이죠, 마르셀루.
+지르세우 : 그럼 짐을 내려도 되죠, 선생님?
+히카르두 : 그러세요, 지르세우 씨. 모두에게 진심으로 고맙습니다, 반대한 분들께도요.
+엘루이자 : 기쁘게 반대하죠. 이사 잘하시고, 스킨답서스가 잘 도착했는지 나중에 알려 줘요.
+히카르두 : 스킨답서스를 가져올 테니 물 주는 법을 가르쳐 주세요.
+마르셀루 : 일요일과 스킨답서스라니, 이 건물은 이제 예전 같지 않겠어요.
+엘루이자 : 그 청년이 운이 좋으면 규약도 그렇겠죠.

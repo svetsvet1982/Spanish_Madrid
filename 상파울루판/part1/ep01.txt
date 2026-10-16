@@ -1,0 +1,292 @@
+# 1부 1화. Reajuste do aluguel (월세 조정)
+난이도: 주 B2 | 구간: B2→B2→B2→B1→B2→B2 | 형식: 3인 | 장소: 빌라 마리아나 동네 아파트 거실 | 시간: 토요일 오전 10시
+등장인물: Diego, Seu Valter, Renata
+이슈: 주 ● 월세 인상률과 지수 연동 | 곡선: 0-2-0-3-1-3 (파도형, 상한 3) | 입장: A 헤나타(세입자, 계약서의 지수대로만 내고 싶다) / B 세우 발테르(집주인, 이 년 동안 올리지 않은 만큼 보상받고 싶다) / C 지에구(중개인, 양쪽이 불공평하다고 느끼지 않을 숫자를 찾으려 한다)
+상황 카드: 계약 갱신일 아침, 세입자 헤나타와 집주인 발테르 씨, 중개인 지에구가 거실에 모인다. 지수는 6.2%인데 집주인의 제안은 9%다. 세 사람은 케이크와 옛이야기로 분위기를 풀다가 다시 숫자 앞에서 부딪치고, 상한과 하한을 두자는 안이 나오지만 하한에서 갈린다. 결말은 일주일 말미를 두고 각자 생각해 보는 열린 결말.
+학습 포인트: 계약·지수 어휘(reajuste, índice, cláusula) · 조건법 제안(E se eu aceitasse…?) · 양보와 반박(Só que…, Desde que…) · 간접 요약(Ou seja…) · 부드러운 압박 표현
+
+## 대화
+(Sábado de manhã, sala de um apartamento na Vila Mariana. Diego chega com uma pasta; Seu Valter e Renata já estão sentados.)
+Diego : Bom dia, pessoal! Espero que não tenham esperado muito, o trânsito estava impossível.
+Seu Valter : Que nada, Diego, a gente acabou de chegar. Entra, senta, fica à vontade.
+Renata : Quer um cafezinho? Acabei de passar, ainda tá quentinho.
+Diego : Aceito, sim. Aliás, só o cheiro desse café já me deixou mais calmo.
+Seu Valter : Eu também aceito, mas sem açúcar, que o médico me proibiu.
+Renata : Sem açúcar, então. Seu Valter, o senhor continua caminhando no Ibirapuera?
+Seu Valter : Continuo, três vezes por semana, quando a chuva deixa. Se não fosse isso, minha pressão já tinha ido pro espaço.
+Diego : Faz bem, seu Valter. Minha mãe fala a mesma coisa, que caminhar é o melhor remédio.
+Renata : O prédio também tá mais tranquilo desde que fizeram a reforma da portaria.
+Seu Valter : Foi o síndico novo que resolveu. Gente séria, essa turma.
+Diego : Bom, enquanto o café não esfria, deixa eu abrir a pasta. Trouxe o contrato antigo e a minuta da renovação.
+Renata : Eu também separei os comprovantes desses doze meses, pra gente não ficar com dúvida de nada.
+Seu Valter : Boa ideia, Renata. Nunca tive reclamação de você, pelo contrário, sempre paga em dia.
+Renata : Obrigada. Eu gosto muito daqui, a gente se mudou pra cá justamente pela vizinhança.
+Diego : E é por isso que eu quero que essa renovação saia sem estresse pra todo mundo.
+Seu Valter : Concordo. Quarenta anos de aluguel, e as melhores relações sempre foram as de conversa franca.
+Renata : Então vamos conversar com calma. Só preciso entender como o senhor chegou ao número da proposta.
+Diego : Vamos por partes. Primeiro eu explico como funciona a cláusula, depois a gente olha os números.
+Seu Valter : Pode ser. Mas antes deixa eu pegar meus óculos, que sem eles eu não leio nem bula de remédio.
+Renata : Tá aqui, seu Valter, o senhor deixou em cima do sofá.
+(Diego espalha as folhas sobre a mesa de centro e aponta uma cláusula sublinhada.)
+Diego : Então, a cláusula oitava diz que o aluguel é reajustado a cada doze meses pela variação do índice combinado.
+Renata : Até aí tudo bem. O problema é que a proposta que chegou pra mim fala em nove por cento.
+Seu Valter : É, nove. Pensei bastante nesse número antes de mandar.
+Diego : Só que o índice dos últimos doze meses fechou em seis vírgula dois, pelos dados que eu tenho aqui.
+Renata : Seis vírgula dois. Então a diferença é de quase três pontos, né?
+Seu Valter : Eu sei fazer conta, Renata. Mas esse índice não mostra o que eu gastei com o prédio este ano.
+Renata : Entendo que o senhor teve despesa. Só que o contrato não prevê repasse de reforma, prevê o índice.
+Diego : Pelo que está escrito, ela tem razão, seu Valter. Mas a gente pode conversar sobre um meio-termo.
+Seu Valter : Meio-termo é bom, desde que não saia perdendo só quem tem o imóvel.
+Renata : E se a gente olhasse as duas pontas? Eu também não queria que o aluguel pesasse mais do que o salário.
+Diego : Justo. Vamos fazer assim: eu mostro a tabela que o escritório usa, e vocês comparam.
+Seu Valter : Pode mostrar. Só aviso que eu não sou de abrir mão fácil.
+Renata : E eu aviso que também não vou assinar sem entender cada linha.
+Diego : Ótimo, então estamos todos de acordo em discordar com educação.
+Seu Valter : Ha, essa foi boa, rapaz.
+Renata : Diego, essa tabela mostra a variação mês a mês ou só o acumulado?
+Diego : Os dois. Olha, a coluna da direita é o acumulado, que é o que vale pro contrato.
+Seu Valter : E essa coluna tem o mês de maio inteiro? Porque maio foi mês de pico.
+Diego : Tem. E, se o senhor reparar, o pico já está incluído nos seis vírgula dois.
+Renata : Ou seja, não tem mistério. O número é esse, e a gente só precisa decidir o que fazer com ele.
+(Renata se levanta, enche as xícaras de novo e a conversa muda de rumo.)
+Seu Valter : Antes que esfrie de novo, me conta, como vão as crianças?
+Renata : Estão bem. O Caio entrou no time da escola e agora só fala em campeonato.
+Seu Valter : Esse menino puxou ao avô. Eu jogava no time da fábrica, sabia?
+Diego : Seu Valter, o senhor nunca me contou isso! Jogava de quê?
+Seu Valter : Zagueiro. Dava carrinho em tudo que se mexia. Hoje, se eu fizesse isso, quebrava a bacia.
+Renata : Ai, não fala assim! A Bia vive dizendo que quer aprender a jogar bola também.
+Seu Valter : Pois traz ela aqui no quintal, que eu ensino. Se a mãe deixar, claro.
+Renata : Eu deixo, com certeza. Ela ia adorar.
+Diego : Gente, vou aproveitar e pegar um pedaço desse bolo, que eu saí sem tomar café da manhã.
+Renata : Pode pegar! É de fubá, da padaria da esquina.
+Seu Valter : Aquela padaria é a melhor do bairro. O dono me conhece desde que era garoto.
+Diego : Moro lá perto também e confesso que vou toda sexta, nem preciso pedir.
+Renata : É assim que a gente vira freguês, né? Já sabem o que a gente vai pedir.
+Seu Valter : Quando eu me mudei pro bairro, nada disso existia. Era tudo terreno baldio.
+Diego : Imagino. Hoje tem metrô, mercado, academia...
+Renata : E tem as árvores da rua, que eu acho o mais bonito daqui.
+Seu Valter : Plantei duas delas, vocês acreditam? Faz uns trinta anos.
+Diego : Sério? Então o senhor é meio dono da rua!
+Seu Valter : Ha, ha, só se me pagassem o IPTU por isso.
+Renata : Ai, seu Valter, o senhor não perde uma.
+(Diego volta à pasta e pega a calculadora. O clima na sala esquenta.)
+Diego : Bom, agora a parte difícil. Seu Valter, o senhor mantém os nove por cento?
+Seu Valter : Mantenho. Faz dois anos que eu não reajusto nada, então é uma compensação.
+Renata : Mas o contrato não fala em compensação, fala em índice. Eu só pago o que está escrito.
+Seu Valter : Escrito é escrito, mas o mundo mudou desde que eu assinei.
+Renata : O mundo mudou pra mim também. O salário não subiu nove por cento, nem de longe.
+Diego : Calma, vocês dois. Ninguém aqui quer prejudicar ninguém.
+Seu Valter : Eu só não quero ficar no prejuízo. Tenho conta pra pagar, igual a qualquer um.
+Renata : E eu não quero ter que procurar outro apartamento com duas crianças na escola daqui.
+Seu Valter : Então temos o mesmo problema, só que em lados opostos da mesa.
+Diego : Bem resumido. Seu Valter, e se a gente propusesse sete por cento?
+Seu Valter : Sete é pouco. Não fecha a minha conta, não.
+Renata : Sete já é mais do que o índice. Nisso eu já estou cedendo.
+Diego : Verdade, é quase um ponto acima. Dá pra defender os dois lados.
+Seu Valter : Se é pra defender os dois lados, por que você tá aqui?
+Diego : Pra ajudar a achar um número que ninguém ache injusto, seu Valter. É o meu trabalho.
+Renata : E o senhor, seu Valter, aceitaria olhar o índice de novo, se eu trouxesse outras fontes?
+Seu Valter : Olho, mas não prometo mudar de ideia.
+Renata : Só isso já me ajuda. Obrigada por não fechar a porta.
+Seu Valter : Fechar a porta eu não fecho. Só não deixo ela aberta de graça.
+Diego : Anotado. Então nenhum acordo ainda, mas uma conversa em andamento.
+(Renata respira fundo e puxa outro assunto para aliviar o clima.)
+Renata : Posso perguntar uma coisa, seu Valter? O senhor pensa em ficar com o imóvel por muito tempo?
+Seu Valter : Penso. É o que vai ficar pra minha filha, ela mora em Curitiba.
+Renata : Que bom. Imóvel bem cuidado dá tranquilidade pra família toda.
+Seu Valter : Dá, mas também dá trabalho. Telhado, cano, pintura... nunca acaba.
+Diego : É o lado que muita gente não vê. Quem aluga acha que o dono só recebe.
+Renata : Confesso que eu pensava assim no começo, sim. Hoje enxergo diferente.
+Seu Valter : E eu confesso que já fui rígido demais com inquilino. Aprendi a duras penas.
+Diego : Isso é bonito de ouvir. Ajuda bastante na hora de negociar.
+Renata : Por falar nisso, o senhor se importa se eu tirar uma foto do contrato pra mostrar ao meu marido?
+Seu Valter : Pode tirar, não tem segredo. Só não manda pro grupo de vizinho.
+Renata : Prometo. Nem sei mexer direito no grupo do prédio.
+Diego : Eu mesmo já saí desse grupo duas vezes. Só tem aviso de obra e gente brigando por vaga.
+Seu Valter : Vaga de garagem é a maior causa de briga em prédio, pode escrever.
+Renata : Aqui a gente tem sorte, cada apê tem a sua.
+Diego : Isso valoriza o imóvel, aliás. Vale citar na conversa do reajuste.
+Seu Valter : Olha, o rapaz entende do riscado.
+Renata : Entende mesmo. Por isso a gente confiou nele desde o início.
+Diego : Obrigado. Mas, voltando à pauta, ainda falta fecharmos o número.
+Seu Valter : Já ia dizer. A gente se distraiu com o bolo e com o time da fábrica.
+Renata : E com as árvores. Mas foi bom, ajudou a baixar a tensão.
+(Diego espalha as folhas de novo. Ninguém sorri mais.)
+Diego : Vou ser direto. Se ninguém ceder um pouco, vamos terminar sem renovar, e isso é ruim pros dois.
+Seu Valter : Eu sei. Só que ceder em dinheiro dói mais do que ceder em palavra.
+Renata : Eu entendo. Mas, se eu pagasse nove, teria que cortar outras coisas da casa.
+Seu Valter : E se eu aceitasse sete e meio, você toparia?
+Renata : Sete e meio ainda fica muito acima do índice. Eu toparia seis e meio, no máximo.
+Seu Valter : Seis e meio é quase o índice. Isso não é negociação, é rendição.
+Diego : Calma. Dá pra pensar numa solução em duas etapas: uma parte agora e outra daqui a seis meses.
+Renata : Isso eu consideraria, desde que o valor final já ficasse escrito no contrato.
+Seu Valter : Escrever o valor final já é prender a minha mão. Se o índice subir mais, eu perco.
+Renata : E se o índice cair, eu perco do mesmo jeito. Os riscos são dos dois lados.
+Diego : Verdade. Talvez fosse melhor um teto e um piso, pra ninguém ser pego de surpresa.
+Seu Valter : Teto e piso... isso eu nunca fiz, mas não sou contra ouvir.
+Renata : Posso propor um piso de seis e um teto de oito? Aí todo mundo tem um limite.
+Seu Valter : Oito me atende. Seis, não. Piso de seis e meio.
+Renata : Piso de seis e meio eu não consigo garantir sem falar com o meu marido.
+Diego : Faz sentido. Sugiro dar até a semana que vem, pra cada um pensar e conversar em casa.
+Seu Valter : Uma semana eu dou. Mais que isso, já começo a chamar outro interessado.
+Renata : Entendi. É justo ter um prazo, só não gosto da pressão.
+Diego : Sem pressão, só prazo. Vou mandar um resumo por escrito pros dois ainda hoje.
+Seu Valter : Manda. E faz esse bolo de novo na próxima, Renata, que tava bom demais.
+
+## 낭독 포인트
+- 비음 모음: «não», «então», «bem», «tranquilidade» — ão, em은 코로 울리는 모음이고 끝의 m·n은 따로 발음하지 않는다.
+- t·d 뒤 i: «dia», «verdade», «de» — 상파울루에서는 [tʃi]·[dʒi]처럼 구개음화된다.
+- 어말 o·e: «prédio», «contrato», «índice», «quintal» — 강세 없는 어말 o는 [u], e는 [i]로 약해진다.
+- lh·nh: «trabalho», «filha», «senhor», «vizinhança» — lh는 [ʎ]([ly]에 가까움), nh는 [ɲ](ny).
+- 숫자 읽기: «seis vírgula dois», «sete e meio» — 소수점은 vírgula(쉼표)라고 읽는다.
+- 호칭: 세입자는 집주인에게 «o senhor», 집주인은 «você» — 나이와 관계에 따른 호칭 차이를 살린다.
+
+## 학습 포인트 정리
+- B2 구간(1~40턴): 인사와 조항 설명, 첫 의견 충돌
+  · «Vamos por partes.», «Só que o índice dos últimos doze meses fechou em seis vírgula dois.», «desde que não saia perdendo só quem tem o imóvel.»
+- B2 구간(41~60턴): 동네 이야기
+  · «Quando eu me mudei pro bairro, nada disso existia.», «Plantei duas delas, vocês acreditam?»
+- B1 구간(61~80턴): 숫자를 둘러싼 맞섬
+  · «Eu só pago o que está escrito.», «E se a gente propusesse sete por cento?», «Só não deixo ela aberta de graça.»
+- B2 구간(81~100턴): 집 관리와 가벼운 한담
+  · «Confesso que eu pensava assim no começo.», «Aprendi a duras penas.»
+- B2 구간(101~120턴): 상한·하한 제안과 말미
+  · «E se eu aceitasse sete e meio, você toparia?», «Posso propor um piso de seis e um teto de oito?», «Sem pressão, só prazo.»
+- 어휘: o reajuste, o índice, a cláusula, o piso, o teto, o inquilino, o imóvel, a minuta.
+
+## 속어 노트
+- «Que nada»: 아니에요, 천만에.
+- «Gente»: 여러분(호칭으로 쓰는 구어).
+- «topar»: 받아들이다, 흔쾌히 하겠다.
+- «entender do riscado»: 그 분야를 잘 안다.
+- «não perder uma»: 한마디도 안 지다, 눈치가 빠르다.
+- 지수와 인상률, 상한과 하한, 계약 조항 등은 모두 이야기 속 설정이며 실제 적용은 확인 필요.
+- 레지스터 주의: 욕설은 없다. 세입자는 연장자에게 «o senhor», 집주인은 «você»를 쓴다.
+
+## 한글 해석
+(토요일 아침, 빌라 마리아나의 한 아파트 거실. 지에구가 서류철을 들고 도착하고, 발테르 씨와 헤나타는 이미 앉아 있다.)
+지에구 : 좋은 아침입니다, 여러분! 오래 기다리지 않으셨기를요, 길이 도저히 말이 안 되게 막혔어요.
+세우 발테르 : 아니에요, 지에구, 우리도 방금 왔어. 들어와서 앉아, 편하게 있어.
+헤나타 : 커피 드실래요? 방금 내려서 아직 따끈해요.
+지에구 : 마시죠. 그러고 보니 이 커피 냄새만으로도 마음이 좀 놓이네요.
+세우 발테르 : 나도 마실게, 근데 설탕은 빼고. 의사가 못 먹게 했거든.
+헤나타 : 그럼 설탕 없이요. 발테르 씨, 아직도 이비라푸에라에서 걸으세요?
+세우 발테르 : 계속하지, 일주일에 세 번, 비가 허락할 때. 그거 아니었으면 내 혈압은 벌써 하늘로 갔을 거야.
+지에구 : 잘하시는 거예요, 발테르 씨. 우리 어머니도 걷는 게 최고의 약이라고 하세요.
+헤나타 : 건물도 현관 공사를 한 뒤로 훨씬 조용해졌어요.
+세우 발테르 : 새로 온 관리 대표가 해결했지. 진지한 사람들이야.
+지에구 : 자, 커피 식기 전에 서류철을 열게요. 이전 계약서랑 갱신 초안을 가져왔습니다.
+헤나타 : 저도 지난 열두 달 영수증을 챙겨 놨어요, 아무 의문도 남지 않게요.
+세우 발테르 : 좋은 생각이야, 헤나타. 당신한테 불만은 한 번도 없었어, 오히려 늘 제때 내지.
+헤나타 : 감사해요. 여기가 정말 좋아요, 우리가 이사 온 것도 바로 이웃들 때문이었거든요.
+지에구 : 그래서 이번 갱신이 모두에게 스트레스 없이 끝나면 좋겠습니다.
+세우 발테르 : 동감이야. 임대업 사십 년인데, 제일 좋은 관계는 늘 솔직하게 대화하는 쪽이었어.
+헤나타 : 그럼 차분히 얘기해요. 제안하신 숫자가 어떻게 나왔는지만 이해하면 돼요.
+지에구 : 차근차근 가죠. 먼저 제가 조항이 어떻게 작동하는지 설명하고, 그다음에 숫자를 볼게요.
+세우 발테르 : 그러자. 그 전에 안경 좀 챙길게, 그게 없으면 약 설명서도 못 읽거든.
+헤나타 : 여기 있어요, 발테르 씨, 소파 위에 두셨어요.
+(지에구가 서류를 탁자 위에 펼치고 밑줄 친 조항을 가리킨다.)
+지에구 : 그러니까 제8조는 월세를 열두 달마다 합의된 지수의 변동분만큼 조정한다고 되어 있어요.
+헤나타 : 거기까진 괜찮아요. 문제는 저한테 온 제안이 구 퍼센트라는 거예요.
+세우 발테르 : 그래, 구. 보내기 전에 그 숫자를 많이 생각했어.
+지에구 : 그런데 제가 가진 자료로는 최근 열두 달 지수가 육 점 이로 마감됐어요.
+헤나타 : 육 점 이요. 그럼 차이가 거의 삼 포인트네요, 맞죠?
+세우 발테르 : 나도 계산할 줄 알아, 헤나타. 그런데 그 지수는 올해 내가 건물에 쓴 돈을 보여 주지 않아.
+헤나타 : 비용이 드신 건 이해해요. 근데 계약서에는 보수 비용 전가가 아니라 지수가 적혀 있어요.
+지에구 : 적힌 내용으로는 헤나타 씨 말이 맞아요, 발테르 씨. 하지만 절충점은 얘기해 볼 수 있죠.
+세우 발테르 : 절충은 좋지, 집을 가진 쪽만 손해를 보지 않는다면.
+헤나타 : 양쪽을 다 보면 어떨까요? 저도 월세가 월급보다 더 무거워지는 건 원치 않거든요.
+지에구 : 맞는 말이에요. 이렇게 해요, 제가 사무실에서 쓰는 표를 보여 드릴 테니 비교해 보세요.
+세우 발테르 : 보여 줘. 다만 내가 쉽게 양보하는 사람은 아니라는 건 알려 두지.
+헤나타 : 저도 한 줄 한 줄 이해하지 않고는 서명하지 않을 거라고 알려 드려요.
+지에구 : 좋네요, 그럼 다들 예의 바르게 의견이 갈린다는 데 합의한 거네요.
+세우 발테르 : 하, 그거 괜찮네, 젊은이.
+헤나타 : 지에구, 이 표는 월별 변동을 보여 주나요, 아니면 누적만 보여 주나요?
+지에구 : 둘 다요. 보세요, 오른쪽 열이 누적인데, 계약에 적용되는 건 이거예요.
+세우 발테르 : 그 열에 오월 전체가 들어 있나? 오월이 정점이었잖아.
+지에구 : 있어요. 그리고 보시면 정점도 이미 육 점 이에 포함돼 있어요.
+헤나타 : 그러니까 수수께끼는 없네요. 숫자는 이거고, 우린 그걸로 뭘 할지만 정하면 돼요.
+(헤나타가 일어나 잔을 다시 채우고, 대화는 다른 쪽으로 흐른다.)
+세우 발테르 : 다시 식기 전에 말해 봐, 아이들은 어떻게 지내?
+헤나타 : 잘 지내요. 카이우가 학교 팀에 들어가서 이제 대회 얘기밖에 안 해요.
+세우 발테르 : 그 애는 할아버지를 닮았구먼. 나도 공장 팀에서 뛰었어, 알아?
+지에구 : 발테르 씨, 그런 얘기는 한 번도 안 하셨잖아요! 포지션이 뭐였어요?
+세우 발테르 : 수비수. 움직이는 건 다 태클을 걸었지. 지금 그러면 골반이 부러질 거야.
+헤나타 : 아유, 그런 말씀 마세요! 비아도 공 차는 법을 배우고 싶다고 맨날 그래요.
+세우 발테르 : 그럼 마당에 데려와, 내가 가르쳐 줄게. 엄마가 허락하면 말이지.
+헤나타 : 허락하죠, 당연히. 정말 좋아할 거예요.
+지에구 : 여러분, 이참에 이 케이크 한 조각 먹을게요, 아침도 못 먹고 나왔거든요.
+헤나타 : 드세요! 옥수수가루 케이크예요, 모퉁이 빵집 거예요.
+세우 발테르 : 그 빵집이 동네 최고야. 주인이 어릴 때부터 날 알았지.
+지에구 : 저도 근처에 사는데, 고백하자면 매주 금요일마다 가서 말 안 해도 알아서 줘요.
+헤나타 : 그렇게 단골이 되는 거죠. 우리가 뭘 시킬지 이미 알고 있으니까요.
+세우 발테르 : 내가 이 동네로 이사 왔을 땐 이런 게 하나도 없었어. 전부 공터였지.
+지에구 : 상상이 가요. 지금은 지하철, 마트, 헬스장까지 있는데.
+헤나타 : 길가의 나무도 있어요, 여기서 제일 예쁜 게 그거라고 생각해요.
+세우 발테르 : 그중 두 그루는 내가 심었어, 믿겨? 한 삼십 년 됐지.
+지에구 : 정말요? 그럼 어르신은 거리의 반쯤 주인이네요!
+세우 발테르 : 하하, 그것 때문에 재산세를 대신 내 주면 모를까.
+헤나타 : 아이고, 발테르 씨는 한마디도 안 지시네요.
+(지에구가 다시 서류철로 돌아가 계산기를 집어 든다. 거실 분위기가 달아오른다.)
+지에구 : 자, 이제 어려운 부분입니다. 발테르 씨, 구 퍼센트를 유지하시나요?
+세우 발테르 : 유지해. 이 년 동안 하나도 안 올렸으니 보상이야.
+헤나타 : 하지만 계약서에는 보상이 아니라 지수라고 돼 있어요. 저는 적혀 있는 것만 낼 거예요.
+세우 발테르 : 적힌 건 적힌 거지만, 내가 서명한 뒤로 세상이 변했어.
+헤나타 : 저한테도 세상이 변했어요. 월급은 구 퍼센트는커녕 근처도 못 올랐어요.
+지에구 : 진정하세요, 두 분. 여기 누구도 누굴 해치려는 게 아니에요.
+세우 발테르 : 난 손해 보고 싶지 않을 뿐이야. 나도 남들처럼 낼 청구서가 있어.
+헤나타 : 저도 아이 둘이 여기 학교에 다니는데 다른 집을 찾아야 하는 건 싫어요.
+세우 발테르 : 그러니 우린 같은 문제를 탁자 반대편에서 안고 있는 셈이군.
+지에구 : 잘 요약하셨네요. 발테르 씨, 칠 퍼센트를 제안하면 어떨까요?
+세우 발테르 : 칠은 적어. 내 계산이 안 맞아.
+헤나타 : 칠은 이미 지수보다 높아요. 그 정도면 제가 이미 양보하는 거예요.
+지에구 : 맞아요, 거의 일 포인트 위죠. 양쪽 다 옹호할 수 있어요.
+세우 발테르 : 양쪽을 다 옹호할 거면 자네는 여기 왜 있는 건가?
+지에구 : 아무도 불공평하다고 생각하지 않을 숫자를 찾도록 돕기 위해서요, 발테르 씨. 제 일이거든요.
+헤나타 : 그럼 발테르 씨는, 제가 다른 자료를 가져오면 지수를 다시 봐 주실 수 있나요?
+세우 발테르 : 보긴 하지, 하지만 생각을 바꾼다고 약속은 못 해.
+헤나타 : 그것만으로도 도움이 돼요. 문을 닫지 않아 주셔서 감사해요.
+세우 발테르 : 문을 닫진 않아. 다만 공짜로 열어 두지도 않지.
+지에구 : 알겠습니다. 합의는 아직 없지만 대화는 진행 중이네요.
+(헤나타가 숨을 깊이 들이쉬고 분위기를 풀려고 다른 화제를 꺼낸다.)
+헤나타 : 하나 여쭤도 될까요, 발테르 씨? 이 집을 오래 가지고 계실 생각이세요?
+세우 발테르 : 그렇지. 딸에게 남겨 줄 거야, 딸은 쿠리치바에 살지.
+헤나타 : 좋네요. 잘 관리된 집은 온 가족에게 안심을 주죠.
+세우 발테르 : 주지, 하지만 일도 많아. 지붕, 배관, 도색... 끝이 없어.
+지에구 : 많은 사람들이 못 보는 면이죠. 세 든 사람은 주인이 받기만 한다고 생각하니까요.
+헤나타 : 솔직히 처음엔 저도 그렇게 생각했어요. 지금은 다르게 봐요.
+세우 발테르 : 나도 고백하자면 세입자한테 너무 깐깐했던 적이 있어. 혹독하게 배웠지.
+지에구 : 듣기 좋은 말씀이네요. 협상할 때 큰 도움이 돼요.
+헤나타 : 말이 나온 김에, 계약서를 남편에게 보여 주려고 사진 찍어도 될까요?
+세우 발테르 : 찍어, 비밀 아니야. 다만 이웃 단톡방에는 보내지 마.
+헤나타 : 약속해요. 건물 단톡방은 쓸 줄도 몰라요.
+지에구 : 저는 그 단톡방에서 두 번이나 나왔어요. 공사 공지랑 주차 자리 싸우는 얘기뿐이에요.
+세우 발테르 : 주차 자리가 건물에서 제일 큰 싸움 원인이야, 적어 둬.
+헤나타 : 여기는 운이 좋죠, 집마다 자기 자리가 있으니까요.
+지에구 : 그건 집 가치를 올려 주기도 해요. 조정 얘기할 때 언급할 만하죠.
+세우 발테르 : 이봐, 이 젊은이 제법 아는군.
+헤나타 : 정말 알아요. 그래서 처음부터 믿었던 거고요.
+지에구 : 감사합니다. 그래도 안건으로 돌아가면, 숫자를 아직 못 정했어요.
+세우 발테르 : 내가 막 말하려던 참이야. 케이크랑 공장 팀 얘기에 정신이 팔렸어.
+헤나타 : 나무 얘기도요. 그래도 좋았어요, 긴장이 풀렸으니까요.
+(지에구가 서류를 다시 펼친다. 이제 아무도 웃지 않는다.)
+지에구 : 직설적으로 말씀드릴게요. 아무도 조금씩 양보하지 않으면 갱신 없이 끝날 텐데, 그건 두 분 모두에게 나빠요.
+세우 발테르 : 알아. 다만 돈에서 양보하는 건 말로 양보하는 것보다 더 아파.
+헤나타 : 이해해요. 하지만 구를 내면 집의 다른 걸 줄여야 해요.
+세우 발테르 : 내가 칠 점 오를 받아들이면 당신은 받아들이겠어?
+헤나타 : 칠 점 오도 지수보다 한참 위예요. 저는 육 점 오까지가 최대예요.
+세우 발테르 : 육 점 오면 거의 지수야. 그건 협상이 아니라 항복이지.
+지에구 : 진정하세요. 두 단계 해법을 생각해 볼 수 있어요, 일부는 지금 하고 나머지는 육 개월 뒤에요.
+헤나타 : 그건 고려해 볼게요, 최종 금액을 처음부터 계약서에 적어 둔다는 조건으로요.
+세우 발테르 : 최종 금액을 미리 적으면 내 손을 묶는 거야. 지수가 더 오르면 내가 손해야.
+헤나타 : 지수가 내리면 저도 똑같이 손해예요. 위험은 양쪽에 있어요.
+지에구 : 맞아요. 아마 상한과 하한을 두는 게 낫겠어요, 아무도 갑작스러운 일을 당하지 않게요.
+세우 발테르 : 상한과 하한이라... 해 본 적은 없지만 들어 보는 건 반대 안 해.
+헤나타 : 하한 육, 상한 팔을 제안해도 될까요? 그러면 모두에게 한계선이 생겨요.
+세우 발테르 : 팔은 괜찮아. 육은 안 돼. 하한은 육 점 오로 하지.
+헤나타 : 하한 육 점 오는 남편과 얘기하지 않고는 보장 못 해요.
+지에구 : 말이 되네요. 다음 주까지 시간을 드려서 각자 생각하고 집에서 얘기하시길 제안해요.
+세우 발테르 : 일주일은 주지. 그 이상은 다른 관심자를 부르기 시작할 거야.
+헤나타 : 알겠어요. 기한을 두는 건 공정하지만 압박은 싫네요.
+지에구 : 압박은 없고 기한만 있어요. 오늘 안에 두 분께 서면 요약을 보내 드릴게요.
+세우 발테르 : 보내. 그리고 다음에도 이 케이크 만들어 와, 헤나타, 너무 맛있었어.

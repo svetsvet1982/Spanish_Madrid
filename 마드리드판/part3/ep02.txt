@@ -129,9 +129,9 @@ Hassan : Sí, qué suerte. Adiós, Ana.
 Ana : Adiós.
 
 ## 낭독 포인트
-- z/c: zumo, dulce, cincuenta, gracias, Murcia — [θ]. «Zumo»는 [θú-mo].
-- j/g: naranja, jugosa, mejor — 강한 [x]. «Naranja»는 [na-ráŋ-xa].
-- ll/y: llevo, ya, yo — [ʝ]. «Pruebe»의 b는 부드러운 [β].
+- z/c: «entonces», «cincuenta», «manzanas», «gracias» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «naranjas», «mejor», «rojas», «ojalá» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «llevo», «bolsillo», «billete», «ya» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 숫자 읽기: tres con cincuenta, uno con veinte, catorce con veinte, cinco con ochenta — 금액을 또박또박.
 - 억양: 주문(Póngame medio kilo)은 부드럽게, 가격 질문(¿Cuánto es todo?)은 올린다. 덤을 주는 장면은 따뜻하게.
 - 호칭: 손님과 주인은 usted. 마지막에 이름을 주고받고 친근해진다.

@@ -134,9 +134,9 @@ Aurora : A usted por la sinceridad. Buenas tardes.
 Nicanor : Buenas tardes.
 
 ## 낭독 포인트
-- z/c: «gracias», «cotiza», «hace», «cinco» — [θ]. «Cotiza»는 [ko-tí-θa], «gracias»는 [ɡɾá-θjas].
-- j/g: «jefe», «jubile», «gente», «inspección» — j와 g+e/i는 강한 [x]. «Jefe»는 [xé-fe], «jubile»는 [xu-βí-le].
-- ll/y: «llevo», «ya», «yo», «mayor» — [ʝ]. «Lleva tres años»는 [ʝé-βa].
+- z/c: «entonces», «regularizar», «setecientos», «hace» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «trabajo», «jefe», «trabaja», «trabajadores» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «lleva», «plantilla», «llevo», «ya» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 아우로라의 공적 어조(Soy inspectora de Trabajo)는 또렷하고 평평하게, 카르멘의 망설임은 짧게 끊고, 이드리스의 대답은 낮고 느리게. 후반 니카노르의 호소(No gano casi nada)는 한숨 섞어 피곤하게.
 - 숫자: ochocientos, setecientos, mil quinientos, treinta mil을 구별해서 읽는다.
 - 호칭: 점검관과 사업주·직원은 usted. 이드리스와 카르멘 사이에는 tú가 아닌 간접 화법.

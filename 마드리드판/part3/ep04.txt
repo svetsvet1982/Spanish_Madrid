@@ -129,9 +129,9 @@ Lucía : Igualmente. Adiós.
 Rubén : Adiós, adiós.
 
 ## 낭독 포인트
-- z/c: «cinco», «cochinillo», «gracias», «croquetas» — z·c는 [θ]. «Cinco»는 [θíŋ-ko].
-- j/g: «juntar», «ligera», «Segovia», «generoso» — 강한 [x]. 「Juntar」는 [xun-tár].
-- ll/y: «llamar», «llenos», «calle», «ya» — [ʝ].
+- z/c: «entonces», «cinco», «gracias», «lucía» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «tarjeta», «genial», «juntar», «cojín» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «cochinillo», «calle», «natillas», «ya» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 숫자 읽기: 전화번호는 한 자리씩, 쉬지 말고 또박또박 읽는다(seis, uno, cinco...).
 - 억양: 예약 확인(Sábado, a las dos y media)은 리듬 있게 반복한다. 농담(Mis camareros son una tumba)은 가볍게 던진다.
 - 호칭: 전화에서는 usted. 끝에서 이름을 서로 알게 되며 부드러워진다.

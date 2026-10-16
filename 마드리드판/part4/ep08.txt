@@ -130,9 +130,9 @@ Camila : Gracias. Hasta pronto.
 Héctor : Hasta pronto.
 
 ## 낭독 포인트
-- z/c: «cincuenta», «gracias», «cinco», «certificado» — [θ]. «Gracias»는 [ɡɾá-θjas], «certificado»는 [θer-ti-fi-ká-ðo].
-- j/g: «jefa», «regularidad», «gente», «seguro» — j와 g+e/i는 강한 [x]; «seguro»의 g는 부드러운 [ɣ]. «Jefa»는 [xé-fa].
-- ll/y: «llegué», «ya», «yo», «Medellín» — [ʝ]. «Medellín»은 [me-ðe-ʝín].
+- z/c: «gracias», «transferencias», «entonces», «quince» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «tarjeta», «cajeros», «trabajo», «mejor» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «fallecimiento», «medellín», «sencillo», «ya» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 엑토르의 설명은 친절하게 평평하게, 권유(Le recomiendo pensárselo)는 부드럽게 올린다. 카밀라의 거절(De momento no)은 정중하지만 분명하게 내린다.
 - 숫자: tres con cincuenta(3,50), quince(15), noventa y seis(96)를 또박또박.
 - 호칭: 은행원과 고객은 usted. 후반에는 이름(Héctor, Camila)을 부른다.

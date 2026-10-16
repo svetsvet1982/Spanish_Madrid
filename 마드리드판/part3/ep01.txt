@@ -129,9 +129,9 @@ Sofi : No empieces.
 Íñigo : (ríe) Vale. Vamos a casa.
 
 ## 낭독 포인트
-- z/c: cenar, cena, gracias, veinte, treinta, cincuenta, noche — [θ]. «Cuenta»는 [kwén-ta].
-- j/g: Íñigo(g는 [g]), jugar 아님 — «ajustar»(a-xus-tár), «gente», «mejor» 계열의 강한 [x].
-- ll/y: calle 아님 — «llevo», «ya», «ensalada»(s는 [s]) — [ʝ]는 ll, y.
+- z/c: «cincuenta», «gracias», «cena», «entonces» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «mejor», «justo», «sugiriendo», «dejo» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «solomillo», «callarnos», «llama», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 숫자 읽기: noventa y seis con cuarenta, treinta y dos, veinte, cincuenta y cuatro con treinta — 금액을 또박또박.
 - 억양: 어색한 순간(Eh… un momento)은 끊어 읽고, 폭로(Me despidieron en septiembre)는 낮고 느리게. 농담(Lo he leído en un posavasos)은 가볍게.
 - 호칭: 친구 사이는 tú, 종업원에게는 usted(Si puede ser).

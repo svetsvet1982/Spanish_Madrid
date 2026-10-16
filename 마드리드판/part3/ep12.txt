@@ -131,9 +131,9 @@ Isa : A las siete. Con tu caña de siempre.
 Gonzalo : Con mi caña de siempre.
 
 ## 낭독 포인트
-- z/c: «veinte», «cervezas», «cincuenta», «gracias», «cariño» — [θ]. «Veinte»는 [béin-te].
-- j/g: «Gonzalo», «jubilación», «gente», «jefa» — 강한 [x]. «Jubilación»은 [xu-βi-la-θjón].
-- ll/y: «llevo», «ya», «calle», «yo» — [ʝ].
+- z/c: «hace», «jubilación», «dice», «cincuenta» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «mejor», «jubilación», «prejubilación», «joven» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «llevas», «lleváis», «llegas», «ya» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 이사의 건조한 농담(Qué fino te pones cuando bebes)은 무표정하게, 곤살로의 진심(Quiero aceptar)은 낮고 느리게.
 - 접속법: «Ojalá fuera más lento.», «Que no cambie nada.»는 소망을 담아 끝을 내린다.
 - 호칭: 오랜 친구라 tú. «jefa»는 농담조로 가볍게.

@@ -129,9 +129,9 @@ Bilal : Buen finde a todos.
 Marisa : Buen finde. Hasta el lunes.
 
 ## 낭독 포인트
-- z/c: «cincuenta», «gracias», «conclusiones», «necesidad»의 c — [θ]. «Conclusiones»는 [kon-klu-sjó-nes].
-- j/g: «jefe», «gráficos», «mensajes», «jornada» — g+a/o/u와 l, r 앞은 부드러운 [ɣ], j와 g+e/i는 강한 [x]. «Mensajes»는 [men-sá-xes].
-- ll/y: «llamada», «ya», «yo», «calle» — [ʝ]. «Videollamada»는 [bi-ðe-o-ʝa-má-ða].
+- z/c: «gracias», «entonces», «razón», «emergencia» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «mejor», «márgenes», «emergencia», «urgencias» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «ellos», «pantalla», «llamada», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 화상 회의 특유의 어긋남(Se oye mal, ¿me oís?)은 크게 또렷하게, 아이타나의 불만은 낮고 담담하게, 마리사의 방어는 빠르게 시작해 점점 누그러진다.
 - 동사: «oís», «habléis», «silenciad», «hacedlo» 같은 vosotros 활용을 정확히 읽는다.
 - 호칭: 동료끼리 tú와 vosotros. 마드리드 사무실의 편한 말투.

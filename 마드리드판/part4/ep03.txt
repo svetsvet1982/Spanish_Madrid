@@ -133,9 +133,9 @@ Ibrahima : Aquí espero.
 Ibrahima : Un poco más, hijo. Ya casi.
 
 ## 낭독 포인트
-- z/c: «cita», «certificado», «gracias», «cinco», «hacer» — [θ]. «Certificado»는 [θer-ti-fi-ká-ðo].
-- j/g: «viernes», «jefa», «gente», «mejor» — 강한 [x]. «Jefa»는 [xé-fa].
-- ll/y: «calle», «llamar», «ya», «hoy» — [ʝ]. «Calle»는 [ká-ʝe].
+- z/c: «cita», «gracias», «certificado», «asociación» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «hijo», «colegio», «déjeme», «jueves» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «llamar», «llamando», «llegaría», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 이브라히마의 부탁(Por favor, señora. Es muy importante)은 천천히 간절하게, 필라의 안내(Es la norma)는 평평하되 미안함을 담는다.
 - 숫자 읽기: veintiocho(28), cero cinco uno(전화 접두), quince tercero B(주소)를 또박또박.
 - 호칭: 직원과 시민은 usted. 이브라히마는 'señora'를 반복해 예의를 지킨다.

@@ -129,9 +129,9 @@ Lucía : Buen día, señor Ortega.
 Ortega : Buen día.
 
 ## 낭독 포인트
-- z/c: «gracias», «cinco», «ciento», «decisión», «continuidad»의 c — [θ]. «Decisión»은 [de-θi-sjón].
-- j/g: «jornada», «ejemplo», «contrato indefinido»의 g, «Gómez» — j와 g+e/i는 강한 [x]. «Jornada»는 [xor-ná-ða].
-- ll/y: «llamar», «ya», «yo», «ella» — [ʝ].
+- z/c: «gracias», «agradezco», «cinco», «veces» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «trabajo», «agencia», «hijos», «gestionaría» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «orgullosa», «llevamos», «llámeme», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 초반 질문(Cuénteme sobre usted)은 공손하게 올리고, 중반 이후 루시아의 항의(¿Para qué es esa pregunta?)는 또렷하게 속도를 늦춘다. 오르테가의 변명은 평평하고 건조하게.
 - 후반 A2 구간은 짧은 문장으로 단호하게 끊는다.
 - 호칭: 면접관과 지원자는 usted. 끝까지 격식을 유지한다.

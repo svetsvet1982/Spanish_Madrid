@@ -133,9 +133,9 @@ Nuria : Tú traes las sillas. El vermut lo pongo yo.
 Nuria : Soy tu tía. Es mi obligación.
 
 ## 낭독 포인트
-- z/c: «cinco», «cifra», «actualización», «gracias», «alquiler» — [θ]. «Actualización»은 [ak-twa-li-θa-θjón].
-- j/g: «gestoría», «jubilación», «ajena», «Álvaro» — 강한 [x]. «Jubilación»은 [xu-βi-la-θjón].
-- ll/y: «llamo», «llorar», «ya», «yo» — [ʝ].
+- z/c: «doscientos», «cien», «entonces», «traición» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «mensaje», «jubilación», «trabajando», «imaginaba» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «llaman», «llorar», «paella», «ya» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 숫자를 말하는 대목(Cuatro mil doscientos)은 한 박자 쉬고 무겁게 내린다. 누리아의 체념(Qué fácil es decir «mercado»…)은 낮고 건조하게.
 - 메시지: 단체방 메시지(Pilar, Toño)는 가볍고 빠르게 읽어 대화 톤과 구분한다.
 - 호칭: 조카와 숙모 사이라 tú. 이웃 필라와도 tú. 변호사와는 간접적으로만 등장.

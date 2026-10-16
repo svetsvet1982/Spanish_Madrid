@@ -130,9 +130,9 @@ Chema : Dígame.
 Valeria : ¿Me pone otra caña? Y esta vez, un poquito de ese vermut que no mira el reloj.
 
 ## 낭독 포인트
-- z/c: «cerveza», «hacen», «cincuenta», «diez», «gracias» — [θ]. «Diez»는 [djéθ].
-- j/g: cojea(co-xé-a), jefe, mejores, hijo — 강한 [x]. «Jefe»는 [xé-fe].
-- ll/y: calle, llevo, ya, yo — [ʝ]. «Cañamón»의 ñ은 [ɲ].
+- z/c: «entonces», «gracias», «precios», «cierra» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «lentejas», «trabajo», «mejores», «margen» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «orgulloso», «llama», «llamo», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
 - 억양: 웨이터의 농담(Es ciencia. Las lentejas reposan.)은 진지한 얼굴로 건조하게, 진심(Orgulloso y preocupado)은 낮고 느리게.
 - 호칭: 처음에는 usted, 후반에 이름을 주고받으며 가까워진다.
 - 강세: «economistas»는 -mis-에, «hostelería»는 -rí-에 강세.

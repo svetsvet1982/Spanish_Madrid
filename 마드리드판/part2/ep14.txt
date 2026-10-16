@@ -1,0 +1,286 @@
+# 2부 14화. Carril bici o aparcamiento (자전거 도로냐 주차냐)
+난이도: 주 B2 | 구간: C1→B2→B2→B2→B2→B2 | 형식: 다인 대면 (5명) | 장소: 동네 문화센터 회의실 | 시간: 목요일 저녁 7시~8시 40분
+등장인물: Irene, Arturo, Paula, Servando, Marga
+이슈: 주 ● 도로 공간 배분(자전거 도로, 주차, 하역, 장애인 주차) | 곡선: 2-2-1-0-0-3 (반전형) | 입장: A 가구점 주인 아르투로(하역과 손님 주차가 필요함) / B 자전거로 딸을 데리고 다니는 파울라(차도 위 안전) / C 고령·거동 불편 세르반도(집 앞 주차가 필요함) / D 엘리베이터 없는 건물 이웃 마르가 / E 구청 기술자 이레네(설명과 중재)
+상황 카드: 구청이 엠바하도레스 거리의 주차 줄을 없애고 자전거 도로와 넓은 인도를 만들겠다는 계획안을 설명하는 주민 설명회다. 아르투로, 파울라, 세르반도의 이해가 부딪히지만 휴식 시간에 서로의 사정을 듣고 협의체를 제안한다. 반전은 이레네가 문자로 공사 입찰이 어제 이미 공고되었다는 걸 알게 되는 순간. 결말은 열려 있다. 이레네가 입찰 중단을 요청하기로 하고 다음 주 협의체를 열기로 한다.
+학습 포인트: 공공 정책 어휘(el proyecto, la consulta, la licitación, la mesa de trabajo) · 입장을 말하고 중재하기(Lo apunto, Es razonable) · 접속법(Que se avise con tiempo, Aunque no sean las que queremos) · 조건과 가정(Si quitan los aparcamientos…) · 격식체와 구어체의 오가기 · 신뢰와 약속("por escrito")
+
+## 대화
+(Jueves por la tarde, siete. Sala del centro cultural del barrio. Hay unas cincuenta sillas y veinte personas. Irene, técnica del distrito, proyecta un plano en la pared.)
+Irene : Buenas tardes a todos. Gracias por venir. Soy Irene Ortega, técnica de movilidad del distrito. Esta sesión informativa tiene por objeto presentarles el proyecto de reordenación de la calle de Embajadores.
+Arturo : (en voz alta) Dígalo claro: ¿van a quitar los aparcamientos?
+Irene : Si me permite, antes de entrar en detalles, quisiera explicar el contexto.
+Arturo : El contexto ya lo conocemos. Lo que queremos saber es dónde vamos a aparcar.
+Paula : Perdón, ¿podemos dejar que termine de explicar?
+Arturo : Es que luego nos dicen que hay un plan y que ya está aprobado.
+Irene : Señor, este es un proyecto en fase de consulta. No está aprobado.
+Arturo : Todos los proyectos están «en fase de consulta» hasta que llegan las obras.
+Irene : Entiendo su desconfianza. Pero el proceso es abierto.
+Marga : Yo quiero saber qué ganamos los vecinos.
+Irene : Con gusto. Voy a proyectar la propuesta. Consiste en sustituir la línea de aparcamiento del lado izquierdo por un carril bici bidireccional y ampliar las aceras.
+Arturo : Ahí está. Quitan las plazas.
+Irene : Se eliminarían treinta y dos plazas de aparcamiento en superficie.
+Arturo : ¡Treinta y dos! ¿Y mi tienda de muebles?
+Irene : Habrá una zona de carga y descarga.
+Arturo : Una. En una calle de ochocientos metros.
+Irene : Se estudiará ampliar el número.
+Arturo : «Se estudiará.» Esa es la frase favorita del Ayuntamiento.
+Paula : Y a mí me da miedo llevar a mi hija en bici por la calzada, entre coches.
+Arturo : Pues llévala en coche.
+Paula : No tengo coche. No quiero tener coche. Reparto la compra con una bici de carga y llevo a mi hija al colegio todos los días.
+Arturo : Es una decisión suya. A mí nadie me pregunta por la mía.
+Paula : A usted le preguntan ahora, en esta sala. Igual que a mí.
+Arturo : Con un plano ya hecho.
+Irene : El plano es un borrador. Está para discutirse.
+Servando : (levanta la mano) Perdonen. ¿Puedo decir algo?
+Irene : Por supuesto, adelante.
+Servando : Me llamo Servando. Tengo setenta y dos años y una prótesis de cadera. No puedo caminar más de cincuenta metros sin parar.
+Irene : Lo entiendo, caballero.
+Servando : Mi coche lo dejo en la puerta del portal. Si quitan los aparcamientos, ¿dónde lo dejo?
+Irene : Hay plazas de movilidad reducida. Se reservarían.
+Servando : ¿Cuántas?
+Irene : En el plano… déjeme ver. Dos.
+Servando : Dos para un barrio entero.
+Irene : Son un punto de partida.
+Marga : Yo vivo en un tercero sin ascensor. Y no tengo coche. No me van a obligar a tener uno.
+Arturo : Nadie obliga a nadie. Lo que pasa es que el barrio es para todos, no solo para los que van en bici.
+Paula : Y yo digo que el barrio es para todos, no solo para los que van en coche.
+Servando : Yo digo que a mi edad ya no me puedo adaptar a todo.
+Irene : Tiene razón. Por eso la consulta.
+Marga : Una pregunta técnica: ¿el carril bici tiene que ir en esta calle?
+Irene : Es parte de una red. Esta calle conecta dos tramos ya existentes.
+Paula : Es verdad. Ahora hay un trozo aquí y otro allá, y en medio hay un peligro.
+Arturo : Entonces pónganlo en la calle paralela, que es más ancha.
+Irene : Lo hemos considerado. Pero esa calle tiene un trazado con muchas curvas y es menos directa.
+Arturo : Menos directa para las bicis. Más fácil para los coches.
+Irene : Es una forma de verlo.
+Servando : Yo propongo algo: que las plazas de movilidad reducida sean más y estén más cerca de los portales.
+Irene : Es razonable. Lo apunto.
+Paula : Y yo propongo que las de carga y descarga sean por horas. Mañanas para los comercios y el resto del día, libres.
+Irene : También es una buena idea. Lo recojo.
+Arturo : (a regañadientes) Eso… eso no suena mal.
+Marga : Y que haya sitio para dejar bicis con seguridad. Mi vecino perdió la suya dos veces.
+Irene : Sí, hay un apartado para aparcabicis en el proyecto.
+Arturo : Aparcabicis, pero no coches.
+Irene : Aparcabicis, plazas reservadas y zona de carga. Todo en el mismo espacio. Hay que repartir bien.
+Paula : Repartir bien. Esa es la clave.
+Arturo : Repartir bien suena a repartir mal con otras palabras.
+Servando : Tampoco es para tanto, hombre.
+Arturo : Tienes razón, Servando. A veces me pongo pesado.
+(Irene propone un descanso de diez minutos. Hay café y galletas en una mesa al fondo.)
+Paula : (a Servando) ¿Puedo ofrecerle un café?
+Servando : Gracias, señorita. Con leche, por favor.
+Paula : Tome. ¿Y azúcar?
+Servando : Una cucharadita. Solo una. El médico es estricto.
+Paula : Mi abuelo también tomaba una. Y decía que «una es medicina; dos, vicio».
+Servando : Qué sabio, tu abuelo.
+Paula : Lo era.
+Servando : ¿Y la niña? ¿Cuántos años tiene?
+Paula : Cinco. Se llama Lola. Le encantan los carriles.
+Servando : A mí, de pequeño, me gustaban los coches. Mi padre tenía un Seat seiscientos.
+Paula : ¿El «seiscientos»? Mi abuelo también.
+Servando : Cabíamos seis personas. Siete, con el perro.
+Paula : Qué bueno.
+Arturo : (acercándose con una taza) Ejem. Perdonad si me meto.
+Servando : Pasa, Arturo.
+Arturo : Mi padre también tenía un seiscientos. Y yo aprendí a conducir en él, en el patio de la fábrica.
+Paula : Entonces todos tenemos un abuelo con un seiscientos.
+Servando : Es verdad. Qué casualidad.
+Arturo : Es que el seiscientos era el coche de todos. Ahora cada uno quiere un modelo distinto.
+Servando : Y cada uno, un carril distinto.
+Marga : (acercándose) Os estáis llevando bien.
+Paula : Hablamos de abuelos y de coches antiguos.
+Marga : Eso siempre une.
+Irene : (retomando la sesión) ¿Seguimos? Veo que el ambiente se ha relajado.
+Arturo : Sí, sí. Pero antes tengo una propuesta.
+Irene : Adelante.
+Arturo : Que nos dejen revisar el plano nosotros, los vecinos, con un técnico. Pieza por pieza.
+Irene : Es posible organizar una mesa de trabajo con representantes de todos los grupos.
+Paula : A mí me parece bien. Una mesa con comerciantes, vecinos, ciclistas y personas con movilidad reducida.
+Servando : Y que se invite a alguien del colegio, que los niños también cruzan.
+Irene : Anotado. Cuatro grupos más el colegio.
+Marga : Y que se avise con tiempo. Que no se entere uno por el buzón.
+Irene : Compromiso: tres semanas de aviso por escrito y por el tablón del centro cultural.
+Arturo : Eso ya es otra cosa.
+Servando : Hasta ahora siempre nos enteramos tarde.
+Irene : Les pido disculpas por eso. Es un fallo de comunicación del distrito.
+Arturo : Gracias. Es la primera vez que oigo a un técnico pedir perdón.
+Irene : Y espero que no sea la última.
+Paula : Entonces, ¿cuándo es la primera reunión de la mesa?
+Irene : Dentro de dos semanas. El jueves, a las siete, aquí mismo.
+(Irene mira su móvil. Su cara cambia.)
+Irene : Un momento. Perdonen. Me ha llegado un mensaje del servicio de contratación.
+Arturo : ¿Qué dice?
+Irene : Dice que… que la licitación de las obras se publicó ayer.
+Arturo : ¿Cómo que se publicó ayer? ¡Si esto era una consulta!
+Irene : No lo sabía. Se lo juro. Esto me lo han hecho llegar ahora mismo.
+Paula : Entonces nos han hecho venir a una reunión para nada.
+Irene : No. La reunión es real. Pero el proceso administrativo va por otra vía y yo no lo controlo.
+Servando : Qué vergüenza. Setenta y dos años y todavía me toman el pelo.
+Irene : Nadie les está tomando el pelo. Voy a pedir hoy mismo la suspensión de la licitación hasta que la mesa de trabajo termine.
+Arturo : ¿Y si se niegan?
+Irene : Entonces lo diré públicamente, aquí y en el distrito. Se lo prometo.
+Marga : Prometer es fácil.
+Irene : Lo sé. Por eso lo pondré por escrito y les enviaré copia.
+Paula : Y con firma.
+Irene : Con mi firma. Y la de mi jefe, si lo consigo.
+Arturo : Yo no me creo nada hasta que lo vea escrito.
+Servando : Yo me lo creo un poco. Los honestos también existen.
+Paula : Y yo creo que hace falta que la mesa se reúna, pase lo que pase.
+Irene : De acuerdo. Entonces nos vemos el jueves y yo traigo las respuestas.
+Arturo : O las explicaciones. Aunque no sean las que queremos.
+
+## 낭독 포인트
+- z/c: gracias, hacer, zona, plaza, servicio, cincuenta — [θ]. «Zona»는 [θó-na].
+- j/g: Embajadores, trabajo, mujer, gente — 강한 [x]. «Embajadores»는 [em-ba-xa-dó-res].
+- ll/y: calle, ya, yo — [ʝ]. «Calle»는 [ká-ʝe].
+- 억양: 항의(¡Treinta y dos!)는 높게 올리고, 공식 설명(Esta sesión informativa tiene por objeto…)은 평탄하고 또렷하게. 반전 장면(Dice que… que la licitación se publicó ayer)은 말을 끊으며 낮추고 느리게.
+- 호칭: 이레네와 주민들은 usted로 시작해 휴식 후 서로 tú로 편해진다. 세르반도와 파울라의 대화(¿Puedo ofrecerle un café?)는 공손하게.
+- 강세: «licitación»은 -ción에, «movilidad»는 -dad에, «reducida»는 -ci-에 강세.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 공식 설명회와 반박
+  · 공식 어조: «Esta sesión informativa tiene por objeto presentarles el proyecto de…», «Si me permite, antes de entrar en detalles…»
+  · 불신 표현: «Todos los proyectos están “en fase de consulta” hasta que llegan las obras.», «“Se estudiará”: la frase favorita del Ayuntamiento.»
+  · 수치와 설명: «Se eliminarían treinta y dos plazas de aparcamiento en superficie.»
+- B2 구간(21~120턴): 입장 설명과 중재
+  · 입장 설명: «No tengo coche. No quiero tener coche.», «Tengo setenta y dos años y una prótesis de cadera.»
+  · 제안: «Yo propongo algo: que las plazas de movilidad reducida sean más.», «Que se avise con tiempo.», «Que se invite a alguien del colegio.»
+  · 조건: «Si quitan los aparcamientos, ¿dónde lo dejo?», «Entonces lo diré públicamente.»
+  · 양보·대조: «Aunque no sean las que queremos.», «Repartir bien suena a repartir mal con otras palabras.»
+  · 신뢰 표현: «Lo apunto.», «Es razonable.», «Lo pondré por escrito.», «Con mi firma.»
+  · 어휘: el carril bici, la acera, la calzada, la carga y descarga, el aparcabicis, la mesa de trabajo, la licitación, el borrador, la movilidad reducida, el distrito, el tablón.
+
+## 속어 노트
+- «A regañadientes»: 마지못해.
+- «Tomar el pelo»: 놀리다, 속이다.
+- «Ponerse pesado»: 집요하게 굴다.
+- «Tampoco es para tanto, hombre»: 그 정도까진 아니야.
+- «Seat seiscientos»: 스페인의 국민 소형차(1960~70년대)로 노인 세대의 추억.
+- 구체 수치(주차면 32개, 장애인 주차 2면)와 절차(입찰 공고)는 이야기 속 설정이다. 실제 도시 계획과 주민 참여 절차는 작성 전에 확인한다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(목요일 저녁, 일곱 시. 동네 문화센터 회의실. 의자 오십 개쯤에 사람 스무 명이 앉아 있다. 구청 기술자 이레네가 벽에 도면을 비춘다.)
+이레네 : 안녕하세요, 여러분. 와 주셔서 감사합니다. 구청 이동 담당 기술자 이레네 오르테가입니다. 이번 설명회는 엠바하도레스 거리 재정비 계획안을 여러분께 소개하기 위한 자리입니다.
+아르투로 : (큰 소리로) 분명히 말해요. 주차 공간을 없애는 겁니까?
+이레네 : 괜찮으시다면 세부 사항에 들어가기 전에 배경부터 설명드리고 싶습니다.
+아르투로 : 배경은 이미 압니다. 우리가 알고 싶은 건 어디에 주차하느냐예요.
+파울라 : 죄송하지만 끝까지 설명하게 해 주시면 안 될까요?
+아르투로 : 나중에 가서 계획이 있다고, 이미 승인됐다고 하니까요.
+이레네 : 선생님, 이건 의견 수렴 단계의 계획이에요. 승인되지 않았어요.
+아르투로 : 모든 계획이 공사가 올 때까지 "의견 수렴 단계"예요.
+이레네 : 불신은 이해합니다. 하지만 과정은 열려 있어요.
+마르가 : 저는 우리 주민이 얻는 게 뭔지 알고 싶어요.
+이레네 : 기꺼이요. 안을 보여 드리겠습니다. 왼쪽 주차 줄을 양방향 자전거 도로로 바꾸고 인도를 넓히는 계획이에요.
+아르투로 : 거기 있네요. 주차 칸을 없애는 거예요.
+이레네 : 지상 주차 32면이 없어집니다.
+아르투로 : 32면이요! 우리 가구점은요?
+이레네 : 하역 구역이 생길 겁니다.
+아르투로 : 하나요. 800미터 거리에.
+이레네 : 숫자를 늘리는 걸 검토할 겁니다.
+아르투로 : "검토할 겁니다." 시청이 제일 좋아하는 말이죠.
+파울라 : 저는 딸을 자전거로 차들 사이 차도에서 데리고 다니는 게 무서워요.
+아르투로 : 그럼 차로 태워 가요.
+파울라 : 저는 차가 없어요. 갖고 싶지 않아요. 화물 자전거로 장을 배달하고 딸을 매일 학교에 데려다줘요.
+아르투로 : 그건 당신 선택이죠. 나한테는 아무도 내 선택을 묻지 않아요.
+파울라 : 지금 이 방에서 선생님께도 묻고 있어요. 저와 똑같이요.
+아르투로 : 이미 만들어진 도면으로요.
+이레네 : 도면은 초안이에요. 논의하라고 있는 거예요.
+세르반도 : (손을 든다) 실례합니다. 한마디 해도 될까요?
+이레네 : 물론이죠, 하세요.
+세르반도 : 세르반도입니다. 일흔두 살이고 고관절 인공관절을 했어요. 쉬지 않고 50미터 넘게 못 걸어요.
+이레네 : 이해합니다, 어르신.
+세르반도 : 차는 현관 앞에 세워요. 주차 공간을 없애면 어디에 세웁니까?
+이레네 : 이동 약자용 주차 공간이 있어요. 따로 확보할 겁니다.
+세르반도 : 몇 개요?
+이레네 : 도면에는… 잠깐만요. 두 개요.
+세르반도 : 동네 전체에 두 개라니.
+이레네 : 출발점이에요.
+마르가 : 저는 엘리베이터 없는 3층에 살아요. 차도 없고요. 저를 차를 가지라고 강요할 순 없잖아요.
+아르투로 : 아무도 강요 안 해요. 다만 동네는 자전거 타는 사람만의 것이 아니라 모두의 것이라는 거예요.
+파울라 : 그리고 저는 동네가 차 타는 사람만의 것이 아니라 모두의 것이라고 말해요.
+세르반도 : 저는 이 나이에 모든 걸 바꿔 적응할 순 없다고 말해요.
+이레네 : 맞는 말씀이에요. 그래서 의견 수렴을 하는 거예요.
+마르가 : 기술적인 질문이에요. 자전거 도로가 꼭 이 길에 있어야 해요?
+이레네 : 망의 일부예요. 이 길이 이미 있는 두 구간을 이어요.
+파울라 : 맞아요. 지금은 여기 한 토막, 저기 한 토막 있고 가운데는 위험해요.
+아르투로 : 그럼 더 넓은 나란한 길에 내요.
+이레네 : 검토해 봤어요. 하지만 그 길은 굽이가 많고 덜 직선적이에요.
+아르투로 : 자전거에는 덜 직선적이고 차에는 더 쉽겠죠.
+이레네 : 그렇게 볼 수도 있어요.
+세르반도 : 제안이 있어요. 이동 약자 주차 공간을 더 늘리고 현관 가까이에 두는 거요.
+이레네 : 합리적이에요. 적어 둘게요.
+파울라 : 그리고 하역 구역은 시간제로 하자는 제안이에요. 오전은 상점용, 나머지 시간은 누구나 쓰게요.
+이레네 : 그것도 좋은 생각이에요. 반영하겠습니다.
+아르투로 : (마지못해) 그건… 나쁘지 않네요.
+마르가 : 그리고 자전거를 안전하게 둘 곳도 있어야 해요. 우리 이웃은 자전거를 두 번 잃어버렸어요.
+이레네 : 네, 계획안에 자전거 거치대 항목이 있어요.
+아르투로 : 자전거 거치대는 되고 차는 안 되고.
+이레네 : 자전거 거치대, 지정 주차, 하역 구역이 같은 공간에 있어요. 잘 나눠야 해요.
+파울라 : 잘 나누기. 그게 핵심이에요.
+아르투로 : 잘 나눈다는 건 다른 말로 못 나눈다는 소리처럼 들려요.
+세르반도 : 그렇게까지는 아니지, 이 사람아.
+아르투로 : 맞아요, 세르반도. 가끔 내가 집요해져요.
+(이레네가 10분 휴식을 제안한다. 안쪽 탁자에 커피와 과자가 있다.)
+파울라 : (세르반도에게) 커피 한 잔 드릴까요?
+세르반도 : 고마워요, 아가씨. 우유 넣어서요.
+파울라 : 여기요. 설탕은요?
+세르반도 : 한 티스푼. 딱 하나. 의사가 엄격해서.
+파울라 : 우리 할아버지도 하나만 드셨어요. "하나는 약, 둘은 악습"이라고 하셨어요.
+세르반도 : 할아버지가 현명하셨네.
+파울라 : 그러셨어요.
+세르반도 : 아이는요? 몇 살이에요?
+파울라 : 다섯 살이에요. 이름은 롤라고요. 자전거 도로를 정말 좋아해요.
+세르반도 : 나는 어릴 때 차를 좋아했어. 아버지가 세아트 600을 갖고 있었지.
+파울라 : "세이센토스"요? 저희 할아버지도요.
+세르반도 : 여섯 명이 탔어. 개까지 일곱.
+파울라 : 정말 좋네요.
+아르투로 : (찻잔을 들고 다가오며) 어험. 끼어들어서 미안합니다.
+세르반도 : 와, 아르투로.
+아르투로 : 우리 아버지도 세이센토스를 갖고 계셨어요. 저는 공장 마당에서 거기서 운전을 배웠어요.
+파울라 : 그럼 우리 모두 세이센토스 가진 할아버지가 있었네요.
+세르반도 : 맞네. 우연이야.
+아르투로 : 세이센토스는 모두의 차였어요. 지금은 각자 다른 모델을 원하죠.
+세르반도 : 그리고 각자 다른 도로를.
+마르가 : (다가오며) 잘 어울리시네요.
+파울라 : 할아버지와 옛날 차 이야기를 했어요.
+마르가 : 그건 늘 사람을 이어 주죠.
+이레네 : (회의를 다시 시작하며) 계속할까요? 분위기가 풀린 걸 알겠어요.
+아르투로 : 네, 네. 하지만 그 전에 제안이 있어요.
+이레네 : 말씀하세요.
+아르투로 : 주민인 우리가 기술자와 함께 도면을 조각별로 검토하게 해 주세요.
+이레네 : 모든 집단 대표가 참여하는 실무 협의체를 만들 수 있어요.
+파울라 : 저는 좋아요. 상인, 주민, 자전거 이용자, 이동 약자가 함께하는 협의체요.
+세르반도 : 학교 쪽 사람도 불러 주세요, 아이들도 건너니까.
+이레네 : 적었어요. 네 집단에 학교를 더해서요.
+마르가 : 그리고 미리 알려 주세요. 우편함으로 나중에 알게 되지 않게.
+이레네 : 약속드립니다. 3주 전에 서면으로 알리고 문화센터 게시판에도 붙이겠습니다.
+아르투로 : 그건 다른 이야기네요.
+세르반도 : 지금까지는 늘 늦게 알았어.
+이레네 : 그 점은 사과드립니다. 구청의 소통 실수예요.
+아르투로 : 고맙습니다. 기술자가 사과하는 건 처음 들어요.
+이레네 : 마지막이 아니길 바라요.
+파울라 : 그럼 협의체 첫 회의는 언제예요?
+이레네 : 2주 뒤요. 목요일 일곱 시, 바로 여기서요.
+(이레네가 휴대폰을 본다. 표정이 바뀐다.)
+이레네 : 잠깐만요. 실례합니다. 계약 부서에서 메시지가 왔어요.
+아르투로 : 뭐라는데요?
+이레네 : 이렇게 쓰여 있어요… 공사 입찰이 어제 공고되었다고요.
+아르투로 : 어제 공고됐다고요? 이건 의견 수렴이었잖아요!
+이레네 : 몰랐어요. 맹세해요. 지금 막 받았어요.
+파울라 : 그럼 우리를 아무 소용 없는 회의에 오게 한 거네요.
+이레네 : 아니에요. 이 회의는 실제예요. 하지만 행정 절차는 다른 경로로 가고 제가 통제하지 못해요.
+세르반도 : 부끄러운 일이야. 일흔두 살인데 아직도 놀림을 당하다니.
+이레네 : 아무도 여러분을 놀리지 않아요. 오늘 안으로 협의체가 끝날 때까지 입찰을 중단해 달라고 요청하겠습니다.
+아르투로 : 거부하면요?
+이레네 : 그럼 공개적으로 말하겠습니다, 여기서도 구청에서도요. 약속드립니다.
+마르가 : 약속은 쉽죠.
+이레네 : 알아요. 그래서 서면으로 쓰고 사본을 보내 드리겠습니다.
+파울라 : 서명도 해서요.
+이레네 : 제 서명으로요. 제 상사 서명까지 받을 수 있다면요.
+아르투로 : 서면으로 볼 때까지는 아무것도 안 믿어요.
+세르반도 : 나는 조금 믿어요. 정직한 사람도 있으니까.
+파울라 : 그리고 저는 어떤 일이 있어도 협의체가 모여야 한다고 생각해요.
+이레네 : 좋습니다. 그럼 목요일에 만나요, 답을 가지고 올게요.
+아르투로 : 아니면 설명을요. 우리가 원하는 답이 아니더라도요.

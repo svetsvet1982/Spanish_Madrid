@@ -23,6 +23,28 @@
 | part1/ep14.txt | 1-14 | Ruido a las once | 밤 열한 시의 소음 | B1 | B1→A2→A2→B1→B1→B1 | ◐ | 1-2-1-2-1-2 |
 | part1/ep15.txt | 1-15 | Mudanza en domingo | 일요일의 이사 | C1 | C1→C1→C1→B2→C1→C1 | ◐ | 2-0-2-0-2-1 |
 
+## 2부 Moverse por Madrid 이동 (완료: 15/15화)
+
+| 파일 | 화 | Título | 한글 | 주 난이도 | 구간별 난이도 | 이슈 | 곡선 |
+|---|---|---|---|---|---|---|---|
+| part2/ep01.txt | 2-1 | Obras en la línea 1 | 1호선 공사 중 | B1 | B1→B1→B1→B2→B1→B2 | ● | 2-3-3-1-0-0 |
+| part2/ep02.txt | 2-2 | Un billete sencillo | 편도 표 한 장 | A2 | B1→A2→A2→A2→A2→A2 | ○ | 0-0-1-1-1-0 |
+| part2/ep03.txt | 2-3 | Huelga de taxis | 택시 파업 | B2 | B2→B2→B1→B1→B2→B2 | ● | 2-3-3-1-0-0 |
+| part2/ep04.txt | 2-4 | La bici de alquiler | 빌린 자전거 | B1 | B1→B1→B2→A2→B1→A2 | ○ | 1-0-1-0-0-1 |
+| part2/ep05.txt | 2-5 | El revisor y el abono | 검표원과 정기권 | B2 | C1→B2→B2→B2→B2→B1 | ● | 3-2-1-1-0-0 |
+| part2/ep06.txt | 2-6 | Perdí el último tren | 막차를 놓쳤어요 | B1 | B1→B2→A2→B1→B1→B2 | ○ | 0-1-1-0-1-0 |
+| part2/ep07.txt | 2-7 | Hoy no me hace falta mapa | 이젠 지도가 필요 없어 | C1 | C1→C1→C1→B2→B2→C1 | ◐ | 0-0-1-1-1-0 |
+| part2/ep08.txt | 2-8 | Atasco en la M-30 | M-30 정체 | B2 | B2→B2→B2→B2→C1→B2 | ◐ | 2-0-2-0-2-1 |
+| part2/ep09.txt | 2-9 | Un coche de empresa | 회사 차 | C1 | B2→C1→C1→C1→B2→C1 | ● | 0-0-1-2-3-3 |
+| part2/ep10.txt | 2-10 | Cercanías con retraso | 지연된 통근열차 | B1 | B1→B1→B1→B2→B1→A2 | ◐ | 1-2-1-2-1-2 |
+| part2/ep11.txt | 2-11 | ¿Cómo llego a Atocha? | 아토차까지 어떻게 가요? | A2 | A2→A2→B1→B1→A2→B1 | ○ | 0-1-1-0-1-0 |
+| part2/ep12.txt | 2-12 | Turistas perdidos | 길 잃은 관광객들 | C1 | C1→C1→C1→C1→B2→C1 | ○ | 1-0-1-0-0-1 |
+| part2/ep13.txt | 2-13 | Línea 6, dirección Circular | 6호선, 순환 방향 | A2 | A2→B1→A2→A2→A2→A2 | ◐ | 0-0-1-1-1-0 |
+| part2/ep14.txt | 2-14 | Carril bici o aparcamiento | 자전거 도로냐 주차냐 | B2 | C1→B2→B2→B2→B2→B2 | ● | 2-2-1-0-0-3 |
+| part2/ep15.txt | 2-15 | Mi primer viaje solo en metro | 처음 혼자 탄 지하철 | A2 | A2→B1→A2→A2→A2→B1 | ○ | 1-1-1-0-0-1 |
+
+2부 점검: 15화 모두 대화 120턴 = 한글 해석 120턴, 지문 줄 수 일치, 다섯 섹션 존재, 화자 순서 일치(스크립트로 검증). 노선·요금·규정·수치는 모두 가공이며 실제 적용은 작성 전 확인이 필요하다.
+
 ## 화 파일 형식
 
 ```

@@ -1,0 +1,293 @@
+# 2부 13화. Línea 6, dirección Circular (6호선, 순환 방향)
+난이도: 주 A2 | 구간: A2→B1→A2→A2→A2→A2 | 형식: 안내방송 + 2인 대면 | 장소: 지하철 6호선 몽클로아 승강장, 열차 안, 프린시페 피오 역 | 시간: 화요일 오후 4시 30분~5시 20분
+등장인물: Luisa, Samuel, Megafonía(안내방송)
+이슈: 주 ◐ 지하철 접근성(엘리베이터 고장) | 곡선: 0-0-1-1-1-0 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 노인과 유모차를 끄는 가족에게 불편한 엘리베이터 고장이 한마디 스침)
+상황 카드: 시력이 약한 노부인 루이사가 몽클로아 승강장에서 어느 열차를 타야 할지 몰라 청년 사무엘에게 묻는다. 6호선은 순환선이라 방향을 잘 골라야 한다. 사무엘은 방향 표시와 정차역을 설명하고 열차 안에서 도와준다. 걸림돌은 목적지 역의 엘리베이터가 또 고장 나 있다는 점. 둘은 계단을 함께 오르며 친구가 된다.
+학습 포인트: 노선과 방향 읽기(línea circular, sentido, correspondencia) · 안내방송 이해 · 숫자와 시간 · 기본 대화(Perdona, ¿sabes…?) · 도움 요청과 감사 · 접속법 맛보기(Ojalá fuera normal para todos)
+
+## 대화
+(Martes por la tarde, cuatro y media. Andén de la línea 6 en Moncloa. Luisa, con bastón y un bolso grande, mira los carteles. Samuel, con una mochila de instituto, espera con los auriculares puestos.)
+Luisa : Perdona, joven. ¿Sabes qué tren es este?
+Samuel : (se quita un auricular) ¿Cómo dice?
+Luisa : Que si sabes qué tren es este. No veo bien los carteles.
+Samuel : Es la línea seis, la gris. ¿Adónde va usted?
+Luisa : A Príncipe Pío. A casa de mi hija.
+Samuel : Ah, pues está muy cerca. Solo hay que cogerlo en la dirección buena.
+Luisa : ¿Hay dos direcciones?
+Samuel : Sí. La línea seis es circular. Va en círculo. Se puede coger en un sentido o en otro.
+Luisa : ¿Y cuál es el mío?
+Samuel : Mire el cartel de arriba. Dice «Circular, sentido Argüelles». Ese va a Príncipe Pío.
+Luisa : Argüelles… ah, ya lo veo. Está en grande, en blanco.
+Samuel : Sí. Y el otro dice «Circular, sentido Cuatro Caminos».
+Luisa : Entonces yo cojo el de Argüelles.
+Samuel : Exacto. Tiene que esperar a ese.
+Luisa : ¿Y cuánto tarda?
+Samuel : Dos o tres minutos.
+Luisa : Gracias, hijo. Eres muy amable.
+Samuel : No es nada. Me llamo Samuel.
+Luisa : Y yo, Luisa. Encantada.
+Samuel : Encantado, Luisa.
+Megafonía : Atención, señores viajeros. El próximo tren con destino Circular, sentido Argüelles, entra en la vía uno.
+Samuel : Ese es el suyo.
+Luisa : Ya lo oigo. Gracias a Dios que sé escuchar, aunque no vea bien.
+Samuel : Venga, déjeme ayudarle.
+Luisa : No hace falta, de verdad.
+Samuel : Sí que hace falta. Hay mucha gente.
+(El tren entra con un ruido fuerte. Se abren las puertas. Salen varias personas.)
+Samuel : Primero salen y luego entramos. Es la regla.
+Luisa : Lo sé. En mi época la gente entraba antes de que salieran los demás.
+Samuel : Qué barbaridad.
+Luisa : Eran otros tiempos.
+(Entran. Samuel le da el brazo. Hay un asiento reservado libre.)
+Samuel : Mire, ahí hay un asiento. Es reservado.
+Luisa : Para mí, entonces.
+Samuel : Para usted. Siéntese.
+Luisa : (se sienta) Qué alivio. Me duelen las rodillas.
+Samuel : ¿Desde hace mucho?
+Luisa : Desde hace diez años. Pero con el bastón me arreglo.
+Samuel : Qué bien.
+Luisa : ¿Y tú? ¿Vas al instituto?
+Samuel : Vengo del instituto. Tengo diecisiete años.
+Luisa : Diecisiete. Qué edad tan bonita.
+Luisa : ¿Cuántas paradas hay hasta Príncipe Pío?
+Samuel : Son dos. Primero Argüelles y luego Príncipe Pío. Está en el plano, mire.
+Luisa : Dos paradas. Qué bien.
+Megafonía : Próxima estación: Argüelles. Correspondencia con líneas 3 y 4.
+Samuel : Esa es la primera. Luego, Príncipe Pío.
+Luisa : Aunque en Príncipe Pío siempre hay problema.
+Samuel : ¿Qué problema?
+Luisa : El ascensor. Casi nunca funciona.
+Samuel : ¿No funciona? ¿Y cómo sube usted?
+Luisa : Por las escaleras mecánicas. Pero cuando también están rotas, subo muy despacio.
+Samuel : Qué mal. Mi abuela tiene el mismo problema.
+Luisa : Es un problema de todos los mayores. Y de las madres con carritos.
+Samuel : Eso es verdad. Mi madre sube el carrito de mi hermana pequeña por las escaleras.
+Luisa : Pobrecita. Cuántas escaleras hay en el mundo.
+Samuel : Yo la ayudo a veces. Es mi trabajo de fin de semana.
+Luisa : Eres un buen chico.
+Samuel : No es nada especial. Es normal.
+Luisa : Ojalá fuera normal para todos.
+Samuel : Ojalá.
+Luisa : Mira, ya llegamos a Argüelles. La gente se levanta.
+(El tren pasa por Argüelles y llega a Príncipe Pío. Se levantan. Luisa se apoya en el bastón.)
+Megafonía : Estación de Príncipe Pío. Correspondencia con línea 10 y Ramal.
+Samuel : Aquí es. Le ayudo con el bolso.
+Luisa : Gracias. Pesa mucho.
+Samuel : ¿Qué lleva?
+Luisa : Dos kilos de naranjas. Y un tupper para mi nieto.
+Samuel : Qué rico.
+Luisa : Es un cocido. Mi nieto lo adora.
+Samuel : Yo también.
+Luisa : Pues otro día te preparo uno.
+Samuel : (ríe) Acepto.
+(Salen al andén. Un cartel dice: «Ascensor fuera de servicio».)
+Luisa : Ya lo ves. Fuera de servicio.
+Samuel : Otra vez.
+Luisa : Siempre. Lleva roto tres semanas.
+Samuel : ¿Quién arregla eso?
+Luisa : Quien tenga que arreglarlo. Yo ya llamé dos veces al teléfono de atención.
+Samuel : ¿Y qué le dijeron?
+Luisa : Que lo iban a comunicar. Eso me dijeron las dos veces.
+Samuel : Qué rabia.
+Luisa : A mí también. Pero ya me he acostumbrado.
+Samuel : Es que no debería uno acostumbrarse.
+Luisa : Tienes razón. Pero hoy no vamos a pelear. Vamos a subir.
+Samuel : Yo le llevo el bolso y usted me da el brazo.
+Luisa : Trato hecho.
+(Suben despacio, escalón a escalón.)
+Samuel : ¿Está bien?
+Luisa : Sí, sí. Un escalón más.
+Samuel : Uno, dos, tres…
+Luisa : Cuenta en voz alta, que así subo mejor.
+Samuel : Cuatro, cinco, seis…
+Luisa : Qué buen cuentacuentos.
+Samuel : Siete, ocho, nueve… diez.
+Luisa : Descansemos un momento.
+Samuel : Claro. (se sientan en un banco) ¿Quiere agua?
+Luisa : No, gracias. Tengo una botella en el bolso.
+Samuel : Yo quiero un poco. Estoy sudando.
+Luisa : Toma. Es agua de la fuente de mi barrio.
+Samuel : (bebe) Está muy fría. Gracias.
+Luisa : ¿Y tu madre, de qué trabaja?
+Samuel : Limpia casas. Mi padre conduce un autobús.
+Luisa : Qué trabajos tan duros.
+Samuel : Sí, pero mis padres dicen que yo voy a estudiar y a tener algo mejor.
+Luisa : Seguro que sí. ¿Qué quieres estudiar?
+Samuel : Quiero ser ingeniero de telecomunicaciones.
+Luisa : Qué bien. Entonces arreglarás los ascensores.
+Samuel : (ríe) Quizá los inventaré para que no se rompan.
+Luisa : Ojalá. Venga, sigamos. Faltan cuarenta escalones.
+Samuel : Cuarenta. Vamos.
+(Suben el resto del camino. Salen a la calle. Hay sol.)
+Luisa : Ya está. Hemos llegado.
+Samuel : Ya está. Ha subido muy bien.
+Luisa : Gracias a ti. Mi hija vive allí, en el tercer piso.
+Samuel : ¿Hay ascensor en su casa?
+Luisa : Sí, y funciona. Es el único que funciona en toda la zona.
+Samuel : Entonces mejor para usted.
+Luisa : Mira, Samuel. Este es mi número. (le da una nota) Llámame un día. Te preparo el cocido.
+Samuel : Gracias, Luisa. Lo guardo.
+Luisa : Y la próxima vez, si el ascensor está roto, tú me ayudas a subir.
+Samuel : Y usted me enseña a cocinar.
+Luisa : Trato hecho. Adiós, hijo.
+Samuel : Adiós, Luisa. Que tenga una buena tarde.
+Luisa : Y tú, que estudies mucho.
+Samuel : Lo haré. Y arreglaré el ascensor.
+
+## 낭독 포인트
+- z/c: gracias, cinco, cuarenta, hace — [θ]. «Circular»의 첫 c는 [θ], 둘째 c는 [k]: [θir-ku-lár].
+- j/g: joven, gente, mujer — 강한 [x]. «Argüelles»는 g+ü로 [gw]: [ar-gwé-ʝes].
+- ll/y: Argüelles, calle, ya, llega — [ʝ].
+- 안내방송: 평탄하고 일정한 억양(Próxima estación: Argüelles. Correspondencia con líneas 3 y 4.). 숫자는 또렷하게.
+- 억양: 길을 묻는 질문(¿Sabes qué tren es este?)은 끝을 올리고, 계단 오르는 장면의 숫자 세기는 일정한 박자로 읽는다.
+- 강세: «circular»는 -lar에, «correspondencia»는 -den-에 강세.
+
+## 학습 포인트 정리
+- A2 구간(1~20, 41~120턴): 노선과 도움
+  · 노선 읽기: «La línea seis es circular.», «sentido Argüelles», «Correspondencia con líneas 3 y 4.», «Entra en la vía uno.»
+  · 질문과 대답: «¿Qué tren es este?», «¿Cuántas paradas hay?», «¿Cuánto tarda?» / «Son dos.», «Dos o tres minutos.»
+  · 도움 요청·수락: «Déjeme ayudarle.», «No hace falta.», «Sí que hace falta.», «Trato hecho.»
+  · 숫자: uno, dos, tres… diez / cuarenta escalones.
+  · 어휘: el andén, el asiento reservado, el ascensor, las escaleras mecánicas, el bastón, el bolso, el escalón.
+  · 소망: «Ojalá fuera normal para todos.»
+- B1 구간(21~40턴): 설명과 안내
+  · 규칙 설명: «Primero salen y luego entramos. Es la regla.»
+  · 회상: «En mi época la gente entraba antes de que salieran los demás.»
+  · 이유와 불편: «Me duelen las rodillas.», «Desde hace diez años.»
+
+## 속어 노트
+- «Qué barbaridad»: 말도 안 돼, 세상에.
+- «Qué rabia»: 화가 난다, 짜증 난다.
+- «Cuentacuentos»: 이야기꾼(농담).
+- «Ojalá»: 제발, 그러길 바라(소망 표현).
+- 노선과 정차역, 엘리베이터 상태는 이야기 속 설정이다. 실제 운행 정보는 운영사 공지를 확인한다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(화요일 오후, 네 시 반. 몽클로아의 6호선 승강장. 루이사가 지팡이와 큰 가방을 들고 안내판을 본다. 사무엘이 학교 가방을 메고 이어폰을 낀 채 기다린다.)
+루이사 : 실례해요, 젊은이. 이 열차가 어느 거인지 알아요?
+사무엘 : (이어폰을 뺀다) 네? 뭐라고 하셨어요?
+루이사 : 이게 어느 열차인지 아냐고. 안내판이 잘 안 보여서요.
+사무엘 : 6호선이에요, 회색이요. 어디 가세요?
+루이사 : 프린시페 피오요. 딸네 집에요.
+사무엘 : 아, 아주 가까워요. 방향만 잘 타시면 돼요.
+루이사 : 방향이 둘이에요?
+사무엘 : 네. 6호선은 순환선이에요. 원을 그리며 가요. 한쪽 방향으로도 반대로도 탈 수 있어요.
+루이사 : 내 방향은 어느 쪽이에요?
+사무엘 : 위쪽 안내판을 보세요. "순환, 아르궤예스 방향"이라고 써 있어요. 그게 프린시페 피오로 가요.
+루이사 : 아르궤예스… 아, 보여요. 크게 하얀 글씨로 있네요.
+사무엘 : 네. 그리고 다른 쪽은 "순환, 쿠아트로 카미노스 방향"이에요.
+루이사 : 그럼 나는 아르궤예스 쪽을 타요.
+사무엘 : 맞아요. 그 열차를 기다리셔야 해요.
+루이사 : 얼마나 걸려요?
+사무엘 : 2~3분이요.
+루이사 : 고마워요, 얘야. 정말 친절하구나.
+사무엘 : 별거 아니에요. 제 이름은 사무엘이에요.
+루이사 : 나는 루이사예요. 반가워요.
+사무엘 : 반갑습니다, 루이사 할머니.
+안내방송 : 승객 여러분께 알립니다. 순환, 아르궤예스 방향 다음 열차가 1번 선로로 들어옵니다.
+사무엘 : 저게 할머니 열차예요.
+루이사 : 들려요. 눈은 잘 안 보여도 들을 줄은 아니 다행이에요.
+사무엘 : 자, 도와 드릴게요.
+루이사 : 안 그래도 돼요, 정말.
+사무엘 : 아니에요, 필요해요. 사람이 많아요.
+(열차가 큰 소리를 내며 들어온다. 문이 열린다. 몇 사람이 내린다.)
+사무엘 : 먼저 내리고 나서 우리가 타요. 규칙이에요.
+루이사 : 알아요. 내 시절엔 사람들이 다른 사람이 내리기 전에 탔어요.
+사무엘 : 말도 안 돼요.
+루이사 : 다른 시대였지.
+(탄다. 사무엘이 팔을 내준다. 우선 좌석이 하나 비어 있다.)
+사무엘 : 보세요, 저기 자리가 있어요. 우선 좌석이에요.
+루이사 : 그럼 내 자리네.
+사무엘 : 할머니 자리요. 앉으세요.
+루이사 : (앉는다) 휴, 살겠다. 무릎이 아파요.
+사무엘 : 오래되셨어요?
+루이사 : 10년 됐어요. 하지만 지팡이로 그럭저럭 지내요.
+사무엘 : 다행이네요.
+루이사 : 너는? 학교 가니?
+사무엘 : 학교에서 오는 길이에요. 열일곱 살이에요.
+루이사 : 열일곱. 참 예쁜 나이구나.
+루이사 : 프린시페 피오까지 몇 정거장이에요?
+사무엘 : 두 정거장이에요. 먼저 아르궤예스, 그다음에 프린시페 피오요. 노선도에 있어요, 보세요.
+루이사 : 두 정거장. 좋네요.
+안내방송 : 다음 역은 아르궤예스입니다. 3호선, 4호선으로 환승하실 수 있습니다.
+사무엘 : 저게 첫 번째예요. 그다음이 프린시페 피오예요.
+루이사 : 그런데 프린시페 피오는 늘 문제가 있어요.
+사무엘 : 무슨 문제요?
+루이사 : 엘리베이터요. 거의 작동을 안 해요.
+사무엘 : 작동을 안 해요? 그럼 어떻게 올라가세요?
+루이사 : 에스컬레이터로요. 하지만 그것도 고장 나면 아주 천천히 올라가요.
+사무엘 : 안됐네요. 우리 할머니도 같은 문제예요.
+루이사 : 모든 어르신의 문제야. 그리고 유모차 끄는 엄마들 문제이기도 하고.
+사무엘 : 맞아요. 우리 엄마가 여동생 유모차를 계단으로 들고 올라가요.
+루이사 : 가엾어라. 세상에 계단이 얼마나 많은지.
+사무엘 : 저도 가끔 도와요. 주말 알바예요.
+루이사 : 착한 아이구나.
+사무엘 : 특별한 건 아니에요. 평범한 일이에요.
+루이사 : 모두에게 평범한 일이면 좋겠구나.
+사무엘 : 그러길 바라요.
+루이사 : 봐요, 아르궤예스에 도착하네. 사람들이 일어나요.
+(열차가 아르궤예스를 지나 프린시페 피오에 도착한다. 일어난다. 루이사가 지팡이에 기댄다.)
+안내방송 : 프린시페 피오 역입니다. 10호선, 라말 노선으로 환승하실 수 있습니다.
+사무엘 : 여기예요. 가방 들어 드릴게요.
+루이사 : 고마워요. 무거워요.
+사무엘 : 뭐가 들었어요?
+루이사 : 오렌지 2킬로, 그리고 손자 줄 도시락.
+사무엘 : 맛있겠다.
+루이사 : 코시도야. 손자가 아주 좋아해요.
+사무엘 : 저도요.
+루이사 : 그럼 다음에 한 번 해 줄게요.
+사무엘 : (웃는다) 받을게요.
+(승강장으로 나온다. 안내판에 "엘리베이터 운행 중지"라고 쓰여 있다.)
+루이사 : 보이죠. 운행 중지예요.
+사무엘 : 또요.
+루이사 : 늘. 석 주째 고장이에요.
+사무엘 : 누가 고쳐요?
+루이사 : 고쳐야 할 사람이요. 나는 안내 전화에 두 번 전화했어요.
+사무엘 : 뭐라고 하던가요?
+루이사 : 전달하겠대요. 두 번 다 그렇게 말했어요.
+사무엘 : 화가 나네요.
+루이사 : 나도. 하지만 이제 익숙해졌어요.
+사무엘 : 익숙해지면 안 돼요.
+루이사 : 네 말이 맞다. 하지만 오늘은 싸우지 말고 올라가요.
+사무엘 : 제가 가방을 들게요, 할머니는 제 팔을 잡으세요.
+루이사 : 좋아요.
+(천천히 한 계단씩 올라간다.)
+사무엘 : 괜찮으세요?
+루이사 : 응, 응. 한 계단 더.
+사무엘 : 하나, 둘, 셋…
+루이사 : 소리 내서 세 줘, 그러면 더 잘 올라가.
+사무엘 : 넷, 다섯, 여섯…
+루이사 : 이야기꾼이네.
+사무엘 : 일곱, 여덟, 아홉… 열.
+루이사 : 잠깐 쉬자.
+사무엘 : 그럼요. (벤치에 앉는다) 물 드실래요?
+루이사 : 아니, 괜찮아요. 가방에 병이 있어요.
+사무엘 : 저는 조금 마실게요. 땀이 나요.
+루이사 : 받아요. 우리 동네 샘물이에요.
+사무엘 : (마신다) 아주 차가워요. 고맙습니다.
+루이사 : 어머니는 무슨 일을 하니?
+사무엘 : 집 청소를 해요. 아버지는 버스를 몰아요.
+루이사 : 힘든 일이구나.
+사무엘 : 네, 하지만 부모님은 제가 공부해서 더 나은 걸 가지길 바라세요.
+루이사 : 분명 그렇게 될 거야. 뭘 공부하고 싶니?
+사무엘 : 통신 공학자가 되고 싶어요.
+루이사 : 좋구나. 그럼 엘리베이터를 고치겠네.
+사무엘 : (웃는다) 어쩌면 고장 나지 않게 발명할지도 몰라요.
+루이사 : 제발 그러렴. 자, 계속 가자. 계단이 마흔 개 남았어.
+사무엘 : 마흔 개. 가요.
+(나머지를 올라간다. 거리로 나온다. 햇빛이 비친다.)
+루이사 : 다 왔네. 도착했어.
+사무엘 : 다 왔어요. 아주 잘 올라오셨어요.
+루이사 : 네 덕분이야. 딸이 저기 3층에 살아.
+사무엘 : 집에는 엘리베이터가 있어요?
+루이사 : 있고 작동해. 이 동네에서 유일하게 작동하는 거야.
+사무엘 : 그럼 할머니한테 잘됐네요.
+루이사 : 있잖아, 사무엘. 이게 내 번호야. (쪽지를 준다) 언제 전화해. 코시도 해 줄게.
+사무엘 : 고맙습니다, 루이사 할머니. 보관할게요.
+루이사 : 그리고 다음에 엘리베이터가 고장이면 네가 올라가는 걸 도와 줘.
+사무엘 : 그럼 할머니는 요리를 가르쳐 주세요.
+루이사 : 약속이다. 잘 가, 얘야.
+사무엘 : 안녕히 가세요, 루이사 할머니. 좋은 오후 보내세요.
+루이사 : 너도. 공부 열심히 하고.
+사무엘 : 그럴게요. 그리고 엘리베이터도 고칠게요.

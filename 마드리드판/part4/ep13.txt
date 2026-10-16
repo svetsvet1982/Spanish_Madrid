@@ -1,0 +1,282 @@
+# 4부 13화. Volver mañana (내일 다시 오세요)
+난이도: 주 B1 | 구간: A2→B2→B1→B1→B1→B1 | 형식: 2인 대면 | 장소: 사회서비스 사무소 창구 | 시간: 금요일 오후 2시 50분(마감 10분 전)
+등장인물: Marisol, Ramiro
+이슈: 주 ● 장기 요양(의존성) 지원 신청 절차와 창구의 "내일 다시 오세요" | 곡선: 3-3-2-1-1-0 (초반충격형, 상한 3) | 입장: A 마리솔(치매 초기인 아버지의 요양 지원을 이미 세 번째 신청하러 왔다) / B 라미로(창구 직원, 서류가 부족하고 마감이 임박했다며 내일 다시 오라고 하지만 마감 후 방법을 찾아 준다)
+상황 카드: 마감 십 분 전, 마리솔이 급히 창구에 도착한다. 라미로는 서류에 의사 소견서가 빠졌다며 접수를 거절하고 "내일 다시 오세요"라고 말한다. 마리솔은 이미 두 번 왔다고 호소하고, 라미로는 규정과 마감을 앞세운다. 걸림돌은 시간과 서류. 결말은 라미로가 임시 접수와 보완 기한을 제안하지만 결과는 불확실한 열린 결말.
+학습 포인트: 항의와 호소(Es la tercera vez que vengo) · 서류와 절차(la solicitud, el informe médico, la subsanación) · 완곡한 거절과 대안 제시 · 시간 표현(a punto de cerrar, antes de las tres) · 감정을 가라앉히는 대화
+
+## 대화
+(Viernes, tres menos diez de la tarde. La oficina de servicios sociales del distrito está a punto de cerrar. Marisol llega corriendo con una carpeta y una bolsa. Ramiro recoge papeles en su ventanilla.)
+Marisol : Perdone, ¿todavía puedo entregar una solicitud?
+Ramiro : Estamos a punto de cerrar. Cerramos a las tres.
+Marisol : Son menos diez. Solo necesito diez minutos.
+Ramiro : Veamos. ¿Qué trámite es?
+Marisol : La solicitud de valoración de dependencia. Para mi padre.
+Ramiro : Ah. Eso lleva mucha documentación. A ver los papeles.
+Marisol : Aquí están. Es la tercera vez que vengo.
+Ramiro : Déjeme ver. Hay solicitud, DNI de su padre, empadronamiento...
+Marisol : Y mi DNI, y el libro de familia. Todo lo que me pidieron.
+Ramiro : Falta el informe médico. El del médico de cabecera.
+Marisol : Lo tiene la doctora. Me dijo que lo enviaba por correo.
+Ramiro : Sin el informe médico no puedo registrar la solicitud.
+Marisol : Pero la doctora dijo que lo enviaba directamente aquí.
+Ramiro : Aquí no consta nada. Vuelva mañana con el informe.
+Marisol : Mañana es sábado. Esta oficina no abre.
+Ramiro : Entonces el lunes.
+Marisol : El lunes ya habrá pasado otro fin de semana. Mi padre empeora.
+Ramiro : Lo siento, señora. Es el procedimiento.
+Marisol : Llevo dos meses de papeles. Me han mandado a tres ventanillas.
+Ramiro : Entiendo, pero no puedo saltarme los requisitos.
+Marisol : Mire, mi padre tiene setenta y nueve años. Ayer se perdió en la calle.
+Ramiro : Vaya. ¿Está bien?
+Marisol : Lo trajo la policía a casa. No sabía dónde vivía.
+Ramiro : Lamento mucho oír eso.
+Marisol : No me lamente. Quiero que me registren la solicitud.
+Ramiro : No puedo. Sin informe no hay registro válido.
+Marisol : ¿Y si le dejo todo lo demás? ¿Y mañana traigo el informe?
+Ramiro : No existe la entrega parcial. Tiene que ser todo junto.
+Marisol : Pero eso es absurdo. Es la misma solicitud.
+Ramiro : Es la norma. No la hago yo.
+Marisol : Entonces dígame quién la hace. Quiero hablar con esa persona.
+Ramiro : Tendría que hablar con la jefa de servicio. Hoy no está.
+Marisol : Nunca está nadie. Siempre me contestan lo mismo.
+Ramiro : Siento que se lo parezca. Pero es lo que hay.
+Marisol : «Es lo que hay». Menuda frase.
+Ramiro : Escuche, señora. Voy a intentar algo.
+Marisol : Dígame.
+Ramiro : Voy a mirar si el informe médico está en el sistema. A veces lo mandan electrónico.
+Marisol : Mire, por favor.
+Ramiro : Un momento. (teclea) Nombre de su padre, por favor.
+Marisol : Eusebio Cano Prieto.
+Ramiro : Eusebio Cano... no sale nada.
+Marisol : ¿Nada? Pero la doctora me aseguró que...
+Ramiro : Aquí no hay registro. Quizá lo mandó a otra dirección.
+Marisol : ¿A otra dirección? Qué desastre.
+Ramiro : Puede llamar a su centro de salud y preguntar.
+Marisol : A esta hora no contesta nadie.
+Ramiro : Es verdad. Entonces tendrá que ir el lunes.
+Marisol : Pues el lunes iré. Pero mi padre ya estará peor.
+Ramiro : ¿Su padre vive con usted?
+Marisol : Vive solo. Lo visito dos veces al día. No puedo más.
+Ramiro : ¿Tiene hermanos?
+Marisol : Un hermano en Alemania. Ayuda con dinero, pero no con tiempo.
+Ramiro : Lo entiendo. Muchos cuidadores están solos.
+Marisol : Yo trabajo mañana y tarde. Y duermo poco.
+Ramiro : Debería preguntar por el servicio de ayuda a domicilio.
+Marisol : Eso también me lo dijeron. Y también me mandaron a otra ventanilla.
+Ramiro : Mire. Si me da un segundo, hago una cosa.
+Marisol : ¿Qué cosa?
+Ramiro : Le puedo hacer un registro provisional. Sin el informe, pero con una nota.
+Marisol : ¿Un registro provisional? ¿Eso qué significa?
+Ramiro : Que la solicitud queda anotada hoy, con fecha de hoy, y usted tiene diez días para completarla.
+Marisol : ¿Diez días? ¿Eso se puede?
+Ramiro : Se llama subsanación. Está previsto para casos así.
+Marisol : ¿Por qué no me lo dijeron las otras veces?
+Ramiro : No sé. A veces no se explica.
+Marisol : Pues es muy importante. Me han hecho perder dos meses.
+Ramiro : Lo siento. Pero hoy le puedo ayudar.
+Marisol : Se lo agradezco. De verdad.
+Ramiro : Déjeme preparar los papeles. Necesito su firma aquí.
+Marisol : ¿Aquí?
+Ramiro : Y aquí. Son dos copias.
+Marisol : (firma) Ya está.
+Ramiro : Muy bien. Ahora le sello su copia y la fecha de hoy.
+Marisol : ¿Hoy es el catorce?
+Ramiro : Sí, catorce de noviembre. Tiene hasta el veinticuatro para traer el informe.
+Marisol : Veinticuatro. Lo apunto.
+Ramiro : Le recomiendo que llame mañana a su médica.
+Marisol : Mañana es sábado. No hay consulta.
+Ramiro : El lunes entonces, a primera hora.
+Marisol : Eso haré. Y el informe, ¿lo traigo yo directamente?
+Ramiro : Sí, con el sello de registro en el papel. Si viene sin él, empezamos de nuevo.
+Marisol : Entiendo. Con el sello. Muy bien.
+Ramiro : Y si puede, venga con cita.
+Marisol : ¿Con cita? Pensaba que esta oficina no tenía.
+Ramiro : Desde hace poco, sí. Se pide por teléfono. El número está en el papel.
+Marisol : Gracias. Lo guardo con cuidado.
+Ramiro : Hay otra cosa importante. La valoración tarda.
+Marisol : ¿Cuánto?
+Ramiro : Los plazos oficiales son de seis meses. En la práctica, a veces más.
+Marisol : ¿Más de seis meses? Mi padre no puede esperar tanto.
+Ramiro : Lo sé. Hay una valoración urgente, si hay un informe médico claro.
+Marisol : ¿Y cómo se pide?
+Ramiro : En el mismo informe, la doctora debe indicar que es urgente.
+Marisol : Entonces el lunes se lo digo claramente.
+Ramiro : Hágalo. Y pídale que escriba «urgente» y explique por qué.
+Marisol : Que escriba «urgente». Perfecto.
+Ramiro : También le recomiendo guardar los informes de la policía de ayer, si hay.
+Marisol : Tengo el parte que dieron los agentes. Está en la bolsa.
+Ramiro : Perfecto. Eso también ayuda. Llévelo el lunes.
+Marisol : Gracias. Es usted muy amable.
+Ramiro : Gracias por su paciencia. No es la que merece, pero es la que hay.
+Marisol : Ja, ja. «Es lo que hay» otra vez.
+Ramiro : Lo siento. Es un tic.
+Marisol : No pasa nada. Se lo perdono, porque me ha ayudado.
+Ramiro : Fíjese en la hora. Las tres y cinco.
+Marisol : Perdone, le he hecho llegar tarde.
+Ramiro : No se preocupe. Llegar tarde a casa no es lo peor de la jornada.
+Marisol : ¿Tiene hijos?
+Ramiro : Dos. Y una madre mayor en casa. Entiendo mejor de lo que cree.
+Marisol : Entonces sabe lo que es.
+Ramiro : Sé lo que es. Y por eso no quería dejarla en la puerta.
+Marisol : Gracias, Ramiro.
+Ramiro : ¿Cómo sabe mi nombre?
+Marisol : Lo pone en su placa.
+Ramiro : Ja, ja. Es verdad.
+Marisol : Que tenga buen fin de semana.
+Ramiro : Y usted. Descanse, si puede.
+Marisol : Lo intentaré. Hasta el lunes.
+Ramiro : Hasta el lunes, señora. Y mucha suerte con su padre.
+
+## 낭독 포인트
+- z/c: «cierran», «cita», «gracias», «hacer», «necesito» — [θ]. «Cita»는 [θí-ta], «cerramos»는 [θe-rrá-mos].
+- j/g: «urgente», «jefa», «mejor», «abogado» — j와 g+e/i는 강한 [x]. «Urgente»는 [uɾ-xén-te].
+- ll/y: «llevo», «ya», «yo», «calle» — [ʝ]. «Llevo dos meses»는 [ʝé-βo].
+- 억양: 마리솔의 호소(Es la tercera vez que vengo)는 빠르게 시작해 점차 낮추고, 라미로의 규정 설명은 평평하게. 임시 접수를 제안하는 대목(Voy a intentar algo)은 목소리를 부드럽게 바꾼다.
+- 날짜·숫자: catorce de noviembre, veinticuatro, tres menos diez를 또박또박.
+- 호칭: 창구 직원과 시민은 usted. 후반 이름(Ramiro)을 서로 부르며 거리가 줄어든다.
+
+## 학습 포인트 정리
+- A2 구간(1~20턴): 짧은 신청
+  · 질문: «¿Todavía puedo entregar una solicitud?», «¿Qué trámite es?»
+  · 시간: «Estamos a punto de cerrar.», «Cerramos a las tres.»
+- B2 구간(21~40턴): 항의와 호소
+  · 호소: «Es la tercera vez que vengo.», «Mi padre empeora.», «Llevo dos meses de papeles.»
+  · 거절: «Sin informe no hay registro válido.», «No existe la entrega parcial.», «Es la norma. No la hago yo.»
+- B1 구간(41~120턴): 대안 찾기
+  · 확인: «Voy a mirar si el informe está en el sistema.», «No sale nada.»
+  · 대안: «Le puedo hacer un registro provisional.», «Tiene diez días para completarla.», «Se llama subsanación.»
+  · 안내: «Venga con cita.», «Pídale que escriba “urgente”.», «Lleve el parte de la policía.»
+  · 감정: «Lamento mucho oír eso.», «Entiendo mejor de lo que cree.»
+- 어휘: la solicitud, el informe médico, la valoración de dependencia, el registro provisional, la subsanación, el plazo, el cuidador, la ayuda a domicilio.
+
+## 속어 노트
+- «Es lo que hay»: 어쩔 수 없다.
+- «Menuda frase»: 대단한 말이네(비꼼).
+- «Es un tic»: 버릇이에요.
+- «Estar a punto de»: 막 ~하려던 참이다.
+- 신청 서류, 처리 기간(여섯 달), 임시 접수와 보완 기한은 이야기 속 설정이다. 실제 의존성 지원 절차는 자치주마다 다르므로 확인이 필요하다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(금요일 오후 세 시 십 분 전. 구 사회서비스 사무소가 곧 문을 닫는다. 마리솔이 서류철과 가방을 들고 뛰어온다. 라미로는 창구에서 서류를 정리하고 있다.)
+마리솔 : 실례합니다, 아직 신청서를 낼 수 있나요?
+라미로 : 곧 닫아요. 세 시에 닫습니다.
+마리솔 : 십 분 전이잖아요. 십 분만 있으면 돼요.
+라미로 : 어디 봅시다. 무슨 업무죠?
+마리솔 : 의존성 판정 신청이에요. 아버지 거예요.
+라미로 : 아. 그건 서류가 많이 필요해요. 서류를 봅시다.
+마리솔 : 여기 있어요. 오는 게 세 번째예요.
+라미로 : 어디 봅시다. 신청서, 아버님 신분증, 주민 등록...
+마리솔 : 제 신분증, 가족 관계 증명서도요. 요구하신 건 다 있어요.
+라미로 : 의사 소견서가 빠졌어요. 주치의 소견서요.
+마리솔 : 의사 선생님이 갖고 계세요. 우편으로 보낸다고 하셨어요.
+라미로 : 소견서 없이는 신청을 등록할 수 없어요.
+마리솔 : 하지만 의사 선생님이 여기로 직접 보낸다고 하셨어요.
+라미로 : 여기엔 기록이 없어요. 내일 소견서 가지고 다시 오세요.
+마리솔 : 내일은 토요일이에요. 이 사무소는 안 열어요.
+라미로 : 그럼 월요일에요.
+마리솔 : 월요일이면 주말이 또 지나요. 아버지는 나빠지고 있어요.
+라미로 : 죄송합니다. 절차예요.
+마리솔 : 두 달 동안 서류만 오갔어요. 창구를 세 군데 돌았어요.
+라미로 : 이해하지만 요건을 건너뛸 수는 없어요.
+마리솔 : 보세요, 아버지는 일흔아홉이에요. 어제 길을 잃으셨어요.
+라미로 : 저런. 괜찮으세요?
+마리솔 : 경찰이 집까지 모셔다줬어요. 어디 사는지 모르셨어요.
+라미로 : 그 얘기를 들으니 마음이 아프네요.
+마리솔 : 안타까워하지 마시고 신청서를 등록해 주세요.
+라미로 : 못 해요. 소견서 없으면 유효한 등록이 아니에요.
+마리솔 : 나머지를 다 드리고 내일 소견서를 가져오면요?
+라미로 : 부분 제출은 없어요. 모두 한꺼번에 내야 해요.
+마리솔 : 그건 말이 안 돼요. 같은 신청서잖아요.
+라미로 : 규정이에요. 제가 만든 게 아니에요.
+마리솔 : 그럼 누가 만드는지 말해 주세요. 그 사람과 얘기하고 싶어요.
+라미로 : 서비스 과장님과 얘기해야 해요. 오늘은 안 계세요.
+마리솔 : 아무도 안 계세요. 늘 같은 대답이에요.
+라미로 : 그렇게 느끼시는 건 유감이에요. 그래도 어쩔 수 없어요.
+마리솔 : '어쩔 수 없어요.' 대단한 말이네요.
+라미로 : 들어 보세요, 부인. 제가 뭘 해 볼게요.
+마리솔 : 말씀하세요.
+라미로 : 소견서가 시스템에 있는지 볼게요. 가끔 전자로 보내요.
+마리솔 : 봐 주세요, 제발.
+라미로 : 잠시만요. (입력한다) 아버님 성함을 말씀해 주세요.
+마리솔 : 에우세비오 카노 프리에토예요.
+라미로 : 에우세비오 카노... 아무것도 안 나오네요.
+마리솔 : 아무것도요? 하지만 의사 선생님이 분명히...
+라미로 : 여긴 기록이 없어요. 다른 주소로 보냈을 수도 있어요.
+마리솔 : 다른 주소요? 엉망이네요.
+라미로 : 보건소에 전화해서 물어보실 수 있어요.
+마리솔 : 지금 시간엔 아무도 안 받아요.
+라미로 : 맞아요. 그럼 월요일에 가셔야겠네요.
+마리솔 : 월요일에 갈게요. 하지만 아버지는 더 나빠져 있을 거예요.
+라미로 : 아버님은 같이 사세요?
+마리솔 : 혼자 사세요. 하루에 두 번 찾아가요. 더는 못 하겠어요.
+라미로 : 형제분은 계세요?
+마리솔 : 독일에 오빠가 있어요. 돈은 도와주지만 시간은 못 내요.
+라미로 : 이해해요. 돌봄 가족은 많이 외로워요.
+마리솔 : 저는 오전과 오후에 일해요. 잠도 조금 자고요.
+라미로 : 재가 서비스에 대해 알아보셔야 해요.
+마리솔 : 그것도 들었어요. 그것도 다른 창구로 가라고 했어요.
+라미로 : 들어 보세요. 잠깐만 시간을 주시면 하나 해 볼게요.
+마리솔 : 뭘요?
+라미로 : 임시 접수를 해 드릴 수 있어요. 소견서 없이, 대신 메모를 붙여서요.
+마리솔 : 임시 접수요? 그게 무슨 뜻이에요?
+라미로 : 신청서가 오늘 날짜로 기록되고, 열흘 안에 보완하면 돼요.
+마리솔 : 열흘이요? 그런 게 되나요?
+라미로 : 보완이라고 해요. 이런 경우를 위해 마련된 거예요.
+마리솔 : 왜 다른 때는 안 알려 줬을까요?
+라미로 : 모르겠어요. 가끔 설명을 안 해요.
+마리솔 : 아주 중요한 건데요. 저는 두 달을 허비했어요.
+라미로 : 죄송합니다. 오늘은 도와드릴 수 있어요.
+마리솔 : 정말 고마워요.
+라미로 : 서류를 준비할게요. 여기에 서명이 필요해요.
+마리솔 : 여기요?
+라미로 : 그리고 여기요. 두 부예요.
+마리솔 : (서명한다) 됐어요.
+라미로 : 좋아요. 이제 사본에 도장과 오늘 날짜를 찍어 드릴게요.
+마리솔 : 오늘이 십사 일이죠?
+라미로 : 네, 십일월 십사 일이에요. 이십사 일까지 소견서를 가져오세요.
+마리솔 : 이십사 일. 적어 둘게요.
+라미로 : 내일 주치의에게 전화해 보시길 권해요.
+마리솔 : 내일은 토요일이에요. 진료가 없어요.
+라미로 : 그럼 월요일 아침 일찍요.
+마리솔 : 그렇게 할게요. 소견서는 제가 직접 가져오면 되나요?
+라미로 : 네, 등록 도장이 찍힌 종이와 함께요. 그게 없으면 처음부터 다시 해야 해요.
+마리솔 : 알겠어요. 도장과 함께요. 좋아요.
+라미로 : 가능하면 예약하고 오세요.
+마리솔 : 예약이요? 이 사무소엔 없다고 생각했는데.
+라미로 : 얼마 전부터 있어요. 전화로 해요. 번호는 종이에 있어요.
+마리솔 : 고마워요. 소중히 간직할게요.
+라미로 : 중요한 게 하나 더 있어요. 판정이 오래 걸려요.
+마리솔 : 얼마나요?
+라미로 : 공식 기한은 여섯 달이에요. 실제로는 더 걸릴 때도 있어요.
+마리솔 : 여섯 달이 넘는다고요? 아버지는 그렇게 못 기다려요.
+라미로 : 알아요. 명확한 소견서가 있으면 긴급 판정이 있어요.
+마리솔 : 어떻게 신청하죠?
+라미로 : 같은 소견서에 의사가 긴급이라고 표시해야 해요.
+마리솔 : 그럼 월요일에 분명히 말할게요.
+라미로 : 그러세요. '긴급'이라고 쓰고 이유를 설명해 달라고 하세요.
+마리솔 : '긴급'이라고 써 달라고요. 알겠어요.
+라미로 : 어제 경찰 보고서도 있으면 보관하세요.
+마리솔 : 경찰이 준 확인서가 있어요. 가방에 있어요.
+라미로 : 좋아요. 그것도 도움이 돼요. 월요일에 가져오세요.
+마리솔 : 고마워요. 정말 친절하시네요.
+라미로 : 참아 주셔서 고맙습니다. 마땅히 받을 인내는 아니었지만요.
+마리솔 : 하하. '어쩔 수 없어요'가 또 나왔네요.
+라미로 : 죄송해요. 버릇이에요.
+마리솔 : 괜찮아요. 도와주셨으니 용서해 드릴게요.
+라미로 : 시간 보세요. 세 시 오 분이에요.
+마리솔 : 미안해요, 퇴근을 늦췄네요.
+라미로 : 걱정 마세요. 집에 늦게 가는 건 하루 중 가장 힘든 일이 아니에요.
+마리솔 : 자녀가 있으세요?
+라미로 : 둘이요. 그리고 집에 연로하신 어머니도 계세요. 생각보다 더 잘 이해해요.
+마리솔 : 그럼 어떤 건지 아시겠네요.
+라미로 : 알아요. 그래서 문 앞에 그냥 세워 둘 수 없었어요.
+마리솔 : 고마워요, 라미로.
+라미로 : 제 이름을 어떻게 아세요?
+마리솔 : 명패에 있어요.
+라미로 : 하하. 맞네요.
+마리솔 : 주말 잘 보내세요.
+라미로 : 부인도요. 가능하면 쉬세요.
+마리솔 : 노력할게요. 월요일에 봬요.
+라미로 : 월요일에 봬요, 부인. 아버님 일 잘되길 빕니다.

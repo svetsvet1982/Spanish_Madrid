@@ -1,0 +1,295 @@
+# 6부 13화. Lo que no te dije (못 했던 말)
+난이도: 주 C1 | 구간: C1→B2→C1→C1→C1→C1 | 형식: 2인 | 장소: 아버지 집 발코니와 거실 | 시간: 토요일 오후 6시
+등장인물: Noa, Ricardo
+이슈: 주 ● 알코올 의존을 겪은 아버지와 딸의 오랜 상처, 회복과 용서 | 곡선: 2-0-3-0-3-1 (파도형, 상한 3) | 입장: A 노아(사 년 만에 아버지를 찾아와 어릴 적 상처를 말하러 왔다) / B 리카르도(이 년째 금주 중인 아버지, 변명하지 않고 들으려 한다)
+상황 카드: 서른한 살 노아가 오랜 침묵 끝에 아버지 리카르도의 집을 찾아온다. 처음엔 안부와 차 한 잔, 이어 노아가 어린 시절 학예회 날 아버지가 취해 나타난 일, 어머니가 떠난 뒤의 시간을 꺼낸다. 리카르도는 변명하지 않고 듣다가 자신의 두려움과 현재의 노력을 말한다. 걸림돌은 분노와 용서의 거리. 결말은 둘이 발코니에서 말없이 해 지는 것을 보는 열린 결말.
+학습 포인트: 오래 묵은 감정의 표현(Nunca te lo dije, Me dolió mucho) · 변명 없이 인정하기(No tengo excusa) · 접속법 과거(Ojalá hubiera…) · 용서에 대한 표현(No puedo prometerte que olvide) · 침묵과 여운
+
+## 대화
+(Sábado, seis de la tarde. Un piso modesto en Carabanchel. Noa llama al timbre con una carpeta bajo el brazo. Ricardo abre. Está más delgado que hace cuatro años y lleva una camisa limpia, planchada con cuidado.)
+Ricardo : Noa. No esperaba... Pasa, por favor.
+Noa : Hola, papá. Gracias. ¿Puedo pasar?
+Ricardo : Claro. Es tu casa. Bueno, era. Es tu casa.
+Noa : Estás distinto.
+Ricardo : Más viejo, querrás decir.
+Noa : No. Más tranquilo. Más limpio. Y la casa huele a café.
+Ricardo : Llevo dos años sin beber. Y me ha dado por el café y la limpieza.
+Noa : Lo sé. Me lo dijo la tía Pilar.
+Ricardo : Siéntate. Te hago un café.
+Noa : Un té, si tienes.
+Ricardo : Tengo té. Lo compré el otro día. Por si acaso.
+Noa : ¿Por si acaso qué?
+Ricardo : Por si venías. Es una tontería.
+(Ricardo va a la cocina. Noa se queda en el salón mirando las fotos de la estantería. Hay una suya de niña, con un diploma. Ricardo vuelve con dos tazas.)
+Ricardo : Aquí tienes. Con una cucharadita de azúcar, como antes.
+Noa : Gracias. Aún te acuerdas.
+Ricardo : De eso y de más cosas.
+Noa : Papá, no he venido para tomar el té.
+Ricardo : Ya lo sé. Dime.
+Noa : He venido a decirte lo que no te dije.
+Ricardo : Te escucho. No te interrumpo.
+(Noa deja la taza. Respira hondo. Mira por la ventana.)
+Noa : Tenía nueve años. Era el festival de fin de curso. Yo bailaba una jota.
+Ricardo : Lo recuerdo.
+Noa : Llevé a toda la clase a mirar hacia la puerta. Tú dijiste que vendrías.
+Ricardo : Sí.
+Noa : Llegaste en el segundo número. Tambaleándote. Dijiste mi nombre muy alto, desde el fondo.
+Ricardo : Noa...
+Noa : Te lo pido: no me interrumpas. Todos se volvieron a mirarte. Yo me quedé quieta en el escenario.
+Ricardo : Lo sé. No puedo...
+Noa : Mi profesora tuvo que acompañarte a la puerta. Delante de todos. Esa noche, no quise bailar nunca más.
+Ricardo : Hija, lo siento...
+Noa : Y no es lo peor. Lo peor es que al día siguiente actuaste como si no hubiera pasado nada.
+Ricardo : Tenía vergüenza.
+Noa : Y yo tenía nueve años. Y mamá lloraba en la cocina, y tú dormías en el sofá.
+Ricardo : Es verdad.
+Noa : Y cuando mamá se fue, tú dijiste: «Se ha ido por tu culpa».
+Ricardo : No. Eso no lo dije.
+Noa : Lo dijiste. Una noche. Con un vaso en la mano.
+Ricardo : No lo recuerdo. Pero si lo dije, fue una canallada.
+Noa : Fue una canallada. Y me lo creí durante veinte años.
+(Silencio largo. Ricardo mira el suelo. Se frota los ojos con la manga.)
+Ricardo : Noa, yo no tengo excusa.
+Noa : Lo sé.
+Ricardo : Pero quiero decirte una cosa.
+Noa : Dime.
+Ricardo : Esa noche en el festival, yo había bebido porque tenía miedo.
+Noa : ¿Miedo de qué?
+Ricardo : De no ser un buen padre. De decepcionarte. Y me tomé unas copas para valor.
+Noa : Y fue peor.
+Ricardo : Fue mucho peor. Lo sé. Lo supe en cuanto entré por la puerta.
+Noa : ¿Y qué hiciste?
+Ricardo : Nada. Seguí bebiendo. Quince años más.
+Noa : Quince años. Los mejores de mi vida.
+Ricardo : Los peores de la mía. Los peores.
+Noa : No son lo mismo. Tú elegiste beber. Yo no elegí estar ahí.
+Ricardo : Tienes razón. Absoluta razón.
+Noa : Cuando tenía catorce años, te encontré en el baño. Tirado. Yo no sabía si estabas vivo.
+Ricardo : Hija...
+Noa : Te arrastré hasta la cama. Y llamé a la tía Pilar, a las tres de la mañana, sin que lo supiera mamá.
+Ricardo : Dios mío. No sabía que fuiste tú.
+Noa : Siempre fui yo. Y nadie me dijo gracias.
+Ricardo : Gracias. Aunque llegue veinte años tarde.
+Noa : No quiero gracias, papá. Quiero que sepas lo que fue.
+Ricardo : Ya lo sé. Y me avergüenzo cada día.
+Noa : ¿Cada día?
+Ricardo : Cada día. Pero con esa vergüenza me levanto y no bebo.
+Noa : Eso es algo.
+Ricardo : Es lo único que tengo. Y no te lo pido como pago.
+Noa : Entonces, ¿qué pides?
+Ricardo : Nada. Solo que me dejes escucharte hasta el final.
+(Noa abre la carpeta. Saca una hoja arrugada y la deja sobre la mesa.)
+Noa : Esto lo escribí con quince años. Nunca te lo di.
+Ricardo : ¿Qué es?
+Noa : Una carta. Me pareció demasiado cruel para enviarla.
+Ricardo : ¿Puedo leerla?
+Noa : Léela cuando me vaya.
+Ricardo : Vale. Gracias por traérmela.
+Noa : Papá, ojalá hubieras estado.
+Ricardo : Ojalá hubiera estado. Cada día de tu vida.
+Noa : No soy la misma niña. Ya no necesito que estés.
+Ricardo : Lo sé.
+Noa : Pero quiero que sepas que me hubiera gustado.
+Ricardo : A mí también. Con toda el alma.
+Noa : Y no sé si puedo perdonarte.
+Ricardo : No te lo pido. No tienes que perdonarme.
+Noa : Pero tampoco quiero odiarte. Estoy cansada de odiar.
+Ricardo : Entonces no me odies. Aunque yo lo merezca.
+Noa : Nadie lo merece. Ni yo, por haber callado tanto.
+Ricardo : Tú no tienes culpa de nada. De nada.
+Noa : Ya lo sé. Pero me cuesta creerlo.
+Ricardo : Con el tiempo se aprende. A mí me lo dice mi grupo todos los martes.
+Noa : ¿Vas a un grupo?
+Ricardo : Sí. De alcohólicos anónimos. Y a una psicóloga los jueves.
+Noa : Me alegro. De verdad.
+Ricardo : Gracias. No sabes cuánto me importa que lo digas.
+Noa : No lo digo por ti. Lo digo porque lo necesitabas.
+(Pausa. Ricardo se levanta, abre la puerta del balcón. Entra una brisa fresca.)
+Ricardo : ¿Salimos un momento? El sol se va. Siempre fue mi hora favorita.
+Noa : Vale. Pero no digas nada más.
+Ricardo : No diré nada. Si quieres, ni te miro.
+Noa : Mírame, papá. Pero sin hablar.
+(Salen al balcón. Se apoyan en la barandilla. El cielo se pone naranja. Pasan un par de minutos en silencio.)
+Noa : Es bonito.
+Ricardo : Sí. Ahora lo veo mejor que antes.
+Noa : ¿Qué quieres decir?
+Ricardo : Que antes no veía nada. Estaba borracho por las tardes.
+Noa : Ya.
+Ricardo : Noa, ¿puedo hacerte una pregunta?
+Noa : Dime.
+Ricardo : ¿Volverás?
+Noa : No lo sé.
+Ricardo : Está bien. Lo entiendo.
+Noa : Pero hoy he podido venir. Eso ya es mucho.
+Ricardo : Es muchísimo. Gracias.
+Noa : No me des las gracias. Aún no he terminado.
+Ricardo : Lo sé. Pero lo agradezco.
+Noa : Voy a leerte algo antes de irme.
+Ricardo : ¿La carta?
+Noa : No. Un poema que escribí la semana pasada.
+Ricardo : Te escucho.
+Noa : «Hay padres que se van y padres que se quedan. / Los hay que se quedan y están ausentes. / Y los hay, algunos, que vuelven de lejos / con las manos vacías y los ojos abiertos.»
+Ricardo : (tras un silencio) Es precioso.
+Noa : No sé si va por ti. Va por todos los que vuelven.
+Ricardo : Entonces espero ser uno de ellos.
+Noa : Veremos, papá. Veremos.
+
+
+## 낭독 포인트
+- z/c: «gracias», «entonces», «quince», «vergüenza» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «dijiste», «dije», «ojalá», «dijo» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «canallada», «llegaste», «callado», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
+- 억양: 노아는 처음엔 낮고 단단하게, 상처를 말할 때는 느리고 또렷하게. 리카르도는 끼어들지 않으려 애쓰며 목소리가 낮고 갈라진다. 마지막 발코니 장면은 말 사이의 침묵까지 대사로 읽는다.
+- 접속법 과거: «Ojalá hubieras estado», «Ojalá hubiera estado» — 이룰 수 없는 소망, 천천히 무겁게.
+- 호칭: 부녀는 tú, 노아는 «papá»라고 부른다.
+
+## 학습 포인트 정리
+- C1 구간(1~20턴): 어색한 재회
+  · 안부: «Estás distinto.», «Más tranquilo. Más limpio.», «Por si acaso.»
+- B2 구간(21~40턴): 용건을 꺼내기
+  · «He venido a decirte lo que no te dije.», «Te escucho. No te interrumpo.»
+- C1 구간(41~60턴): 상처의 기억
+  · «Me quedé quieta en el escenario.», «Fue una canallada.», «Me lo creí durante veinte años.»
+- C1 구간(61~80턴): 변명 없는 인정
+  · «Yo no tengo excusa.», «Tienes razón. Absoluta razón.», «Siempre fui yo.»
+- C1 구간(81~100턴): 용서의 거리
+  · «Ojalá hubieras estado.», «No sé si puedo perdonarte.», «Estoy cansada de odiar.»
+- C1 구간(101~120턴): 침묵과 여운
+  · «No sé si va por ti. Va por todos los que vuelven.», «Veremos.»
+- 어휘: el festival de fin de curso, tambalearse, la canallada, la vergüenza, el grupo de alcohólicos anónimos, la barandilla, perdonar, odiar.
+
+## 속어 노트
+- «Bocazas» 계열의 말과 «Qué + 명사» 감탄, «canallada»(비열한 짓)는 구어에서 흔하다.
+- «Por si acaso»: 혹시나 해서.
+- «Tía Pilar»: 친척 호칭에 «tía/tío»를 붙인다.
+- 알코올 의존과 회복 모임에 관한 묘사는 이야기 속 설정이며, 실제 도움이 필요하면 전문 기관이나 가까운 사람에게 연락하는 것이 좋다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(토요일 여섯 시. 카라반첼의 소박한 집. 노아가 서류철을 옆구리에 끼고 초인종을 누른다. 리카르도가 문을 연다. 사 년 전보다 야위었고, 정성껏 다림질한 깨끗한 셔츠를 입고 있다.)
+리카르도 : 노아. 올 줄은... 들어와, 어서.
+노아 : 안녕, 아빠. 고마워요. 들어가도 돼요?
+리카르도 : 물론이지. 네 집이야. 아니, 였지. 네 집이다.
+노아 : 달라 보이네요.
+리카르도 : 늙어 보인다는 거겠지.
+노아 : 아뇨. 더 차분해 보여요. 더 깔끔하고요. 집에서 커피 냄새가 나네요.
+리카르도 : 이 년째 술을 안 마시고 있다. 그러다 보니 커피와 청소에 빠졌어.
+노아 : 알아요. 필라르 이모가 얘기해 줬어요.
+리카르도 : 앉아라. 커피 내올게.
+노아 : 차 있으면 차로요.
+리카르도 : 차 있다. 며칠 전에 샀어. 혹시나 해서.
+노아 : 혹시나 뭐요?
+리카르도 : 네가 올까 봐서. 바보 같은 짓이지.
+(리카르도가 부엌으로 간다. 노아는 거실에 남아 선반 위 사진들을 본다. 졸업장을 든 어린 시절의 노아 사진도 있다. 리카르도가 잔 두 개를 들고 돌아온다.)
+리카르도 : 자, 여기. 예전처럼 설탕 한 티스푼 넣었다.
+노아 : 고마워요. 아직 기억하시네요.
+리카르도 : 그것도, 다른 것도.
+노아 : 아빠, 차 마시러 온 거 아니에요.
+리카르도 : 안다. 말해 보렴.
+노아 : 하지 못했던 말을 하러 왔어요.
+리카르도 : 듣고 있다. 끼어들지 않으마.
+(노아가 잔을 내려놓는다. 숨을 깊이 들이쉬고 창밖을 본다.)
+노아 : 아홉 살이었어요. 학년말 발표회였고, 저는 호타를 췄어요.
+리카르도 : 기억난다.
+노아 : 반 아이들이 다 문 쪽만 봤어요. 아빠가 온다고 하셨으니까요.
+리카르도 : 그래.
+노아 : 두 번째 순서 때 오셨죠. 비틀거리면서요. 맨 뒤에서 제 이름을 아주 크게 불렀어요.
+리카르도 : 노아...
+노아 : 부탁이에요, 끼어들지 마세요. 모두가 아빠를 돌아봤어요. 저는 무대 위에 얼어붙어 있었고요.
+리카르도 : 안다. 나는 도저히...
+노아 : 선생님이 아빠를 문까지 모셔 갔어요. 모두가 보는 앞에서요. 그날 밤 이후로 다시는 춤을 추고 싶지 않았어요.
+리카르도 : 얘야, 미안하다...
+노아 : 그게 가장 나쁜 건 아니에요. 가장 나쁜 건, 다음 날 아빠가 아무 일도 없었던 것처럼 행동했다는 거예요.
+리카르도 : 부끄러웠다.
+노아 : 저는 아홉 살이었고요. 엄마는 부엌에서 울고 있었고, 아빠는 소파에서 자고 있었죠.
+리카르도 : 맞는 말이다.
+노아 : 그리고 엄마가 떠나자 아빠가 말했어요. "네 탓에 나간 거야."
+리카르도 : 아니. 그런 말은 안 했다.
+노아 : 했어요. 어느 날 밤에. 손에 잔을 든 채로요.
+리카르도 : 기억은 안 난다. 하지만 그랬다면 비열한 짓이었다.
+노아 : 비열한 짓이었어요. 저는 그 말을 이십 년 동안 믿었고요.
+(긴 침묵. 리카르도가 바닥을 본다. 소매로 눈을 비빈다.)
+리카르도 : 노아, 나는 변명할 말이 없다.
+노아 : 알아요.
+리카르도 : 하지만 한 가지는 말하고 싶구나.
+노아 : 해 보세요.
+리카르도 : 그날 발표회에서 내가 취해 있었던 건 무서웠기 때문이다.
+노아 : 뭐가 무서웠는데요?
+리카르도 : 좋은 아버지가 못 될까 봐. 너를 실망시킬까 봐. 용기를 내려고 몇 잔 마셨지.
+노아 : 그리고 더 나빠졌죠.
+리카르도 : 훨씬 더 나빠졌다. 안다. 문을 들어서는 순간 알았어.
+노아 : 그래서 뭘 하셨어요?
+리카르도 : 아무것도. 계속 마셨다. 십오 년을 더.
+노아 : 십오 년이요. 제 인생에서 제일 좋았어야 할 시간이요.
+리카르도 : 내 인생에서는 제일 나빴던 시간이다. 가장 나빴지.
+노아 : 같은 게 아니에요. 아빠는 마시기를 선택했어요. 저는 거기 있기를 선택한 게 아니고요.
+리카르도 : 네 말이 옳다. 전적으로 옳아.
+노아 : 열네 살 때 욕실에서 아빠를 발견했어요. 쓰러져 계셨죠. 살아 계신지도 몰랐어요.
+리카르도 : 얘야...
+노아 : 아빠를 침대까지 끌고 갔어요. 그리고 새벽 세 시에 엄마 몰래 필라르 이모한테 전화했고요.
+리카르도 : 세상에. 네가 그랬는지 몰랐다.
+노아 : 늘 저였어요. 그런데 아무도 고맙다고 안 했죠.
+리카르도 : 고맙다. 이십 년이나 늦었지만.
+노아 : 고맙다는 말을 바라는 게 아니에요, 아빠. 그게 어땠는지 아셨으면 해서예요.
+리카르도 : 이제 안다. 그래서 매일 부끄럽다.
+노아 : 매일이요?
+리카르도 : 매일. 하지만 그 부끄러움을 안고 일어나서 술을 마시지 않는다.
+노아 : 그건 의미가 있네요.
+리카르도 : 그게 내가 가진 전부다. 대가로 달라는 것도 아니고.
+노아 : 그럼 뭘 바라시는데요?
+리카르도 : 아무것도. 네 말을 끝까지 듣게만 해 주렴.
+(노아가 서류철을 열어 구겨진 종이 한 장을 꺼내 탁자 위에 놓는다.)
+노아 : 이건 열다섯 살 때 쓴 거예요. 한 번도 드린 적 없어요.
+리카르도 : 뭐냐?
+노아 : 편지요. 부치기엔 너무 잔인한 것 같았어요.
+리카르도 : 읽어 봐도 되겠니?
+노아 : 제가 가고 나서 읽으세요.
+리카르도 : 그래. 가져와 줘서 고맙다.
+노아 : 아빠, 곁에 있어 주셨으면 좋았을 텐데요.
+리카르도 : 곁에 있었어야 했는데. 네 인생의 모든 날에.
+노아 : 저는 예전의 그 아이가 아니에요. 이제 아빠가 곁에 계실 필요는 없어요.
+리카르도 : 안다.
+노아 : 하지만 그랬으면 좋았겠다고 생각했다는 건 알아 두세요.
+리카르도 : 나도 그렇다. 온 마음으로.
+노아 : 그리고 아빠를 용서할 수 있을지는 모르겠어요.
+리카르도 : 부탁하지 않으마. 용서할 필요 없다.
+노아 : 하지만 미워하고 싶지도 않아요. 미워하는 데 지쳤어요.
+리카르도 : 그럼 미워하지 마라. 내가 그럴 만하더라도.
+노아 : 그럴 만한 사람은 없어요. 너무 오래 입을 다문 저도요.
+리카르도 : 너는 아무 잘못도 없다. 아무 잘못도.
+노아 : 알아요. 하지만 믿기가 어려워요.
+리카르도 : 시간이 지나면 배우게 된단다. 내 모임에서 화요일마다 그렇게 말해 주지.
+노아 : 모임에 다니세요?
+리카르도 : 그래. 익명의 알코올 중독자 모임. 목요일엔 심리상담사도 만나고.
+노아 : 다행이네요. 진심으로요.
+리카르도 : 고맙다. 네가 그렇게 말해 주는 게 얼마나 큰지 모를 거다.
+노아 : 아빠 때문에 하는 말이 아니에요. 아빠에게 필요했으니까 하는 말이에요.
+(사이. 리카르도가 일어나 발코니 문을 연다. 서늘한 바람이 들어온다.)
+리카르도 : 잠깐 나가 볼까? 해가 지는구나. 늘 내가 제일 좋아하던 시간이다.
+노아 : 좋아요. 하지만 아무 말도 더 하지 마세요.
+리카르도 : 아무 말 안 하마. 원하면 쳐다보지도 않으마.
+노아 : 쳐다보세요, 아빠. 말은 하지 말고요.
+(둘이 발코니로 나가 난간에 기댄다. 하늘이 주황빛으로 물든다. 몇 분이 말없이 흐른다.)
+노아 : 예쁘네요.
+리카르도 : 그래. 지금은 전보다 더 잘 보이는구나.
+노아 : 무슨 뜻이에요?
+리카르도 : 예전엔 아무것도 안 보였다는 뜻이다. 오후마다 취해 있었으니.
+노아 : 그렇죠.
+리카르도 : 노아, 하나 물어봐도 되겠니?
+노아 : 하세요.
+리카르도 : 다시 올 거니?
+노아 : 모르겠어요.
+리카르도 : 괜찮다. 이해한다.
+노아 : 하지만 오늘은 올 수 있었어요. 그것만으로도 많은 거예요.
+리카르도 : 아주 많은 거지. 고맙다.
+노아 : 고맙다고 하지 마세요. 아직 안 끝났어요.
+리카르도 : 안다. 그래도 고맙구나.
+노아 : 가기 전에 하나 읽어 드릴게요.
+리카르도 : 그 편지?
+노아 : 아뇨. 지난주에 쓴 시요.
+리카르도 : 듣고 있다.
+노아 : «떠나는 아버지도 있고 남는 아버지도 있다. / 남아 있어도 없는 이들이 있다. / 그리고 어떤 이들은 먼 곳에서 돌아온다 / 빈손으로, 그러나 눈은 뜬 채.»
+리카르도 : (침묵 뒤에) 아름답구나.
+노아 : 아빠 얘기인지는 모르겠어요. 돌아오는 모든 사람에 대한 시예요.
+리카르도 : 그럼 나도 그중 하나이길 바라마.
+노아 : 두고 봐요, 아빠. 두고 봐요.

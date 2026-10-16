@@ -1,0 +1,285 @@
+# 4부 12화. Ya sé a qué ventanilla ir (이제 어느 창구인지 알아)
+난이도: 주 C1 | 구간: C1→C1→C1→B2→B2→C1 | 형식: 2인 대면 | 장소: 구청 민원실 대기석 | 시간: 목요일 오전 10시 30분
+등장인물: Ibrahima, Gloria
+이슈: 주 ◐ 행정 절차의 디지털화와 서로 돕는 이웃 | 곡선: 0-0-1-1-1-0 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 절차가 복잡하고 디지털이 낯선 사람들의 어려움이 가볍게 스침)
+상황 카드: 일 년 전 민원실에서 헤맸던 이브라히마가 이제는 요령을 안다. 대기석에서 앞 번호표를 들고 두리번거리는 글로리아 할머니를 만난다. 그가 창구를 알려 주고 서류를 같이 확인하며, 둘은 행정 절차의 어려움과 이웃끼리 돕는 일을 이야기한다. 걸림돌은 번호표와 서류의 혼란. 결말은 글로리아가 올바른 창구에 가서 그에게 고마워하며 커피를 사겠다고 하는 것.
+학습 포인트: 경험 이야기와 조언(Cuando yo llegué…, Lo que te recomiendo es…) · 완곡한 안내 · 유머와 자조 · 절차 어휘(ventanilla, número de turno, volante, gestor) · 감사와 호의
+
+## 대화
+(Jueves, diez y media de la mañana. La sala de espera de una oficina municipal en Carabanchel. Una pantalla anuncia números. Ibrahima, de traje oscuro, espera con una carpeta. Gloria, con un bolso grande, mira su papelito de turno con gesto de duda.)
+Gloria : Perdone, joven. ¿Usted sabe qué significa esta «A, ciento doce»?
+Ibrahima : Es su número de turno, señora. La «A» es el tipo de trámite.
+Gloria : ¿Y la pantalla de ahí qué dice?
+Ibrahima : Ahora mismo va por la «A, ochenta y siete». Usted tiene todavía unos veinte antes.
+Gloria : Veinte. Madre mía. Voy a morir esperando.
+Ibrahima : Tranquila. Estos veinte van rápido. La mayoría son trámites sencillos.
+Gloria : Eso espero. Me han dicho en el banco que tenía que venir aquí.
+Ibrahima : ¿Qué necesita hacer, si no es indiscreción?
+Gloria : Un papel del padrón. Para una cosa del seguro de mi marido.
+Ibrahima : Ah, un certificado de empadronamiento. Eso es la ventanilla siete.
+Gloria : ¿La siete? A mí me dijeron que preguntara en información.
+Ibrahima : Información le dirá lo mismo. Pero así se ahorra la cola.
+Gloria : Es usted muy amable. ¿Trabaja aquí?
+Ibrahima : No, qué va. Hace un año yo estuve en su misma situación.
+Gloria : ¿De verdad?
+Ibrahima : Sí. Vine a pedir ese mismo papel y estuve casi un mes de idas y venidas.
+Gloria : Un mes. Qué barbaridad.
+Ibrahima : Me mandaron a tres ventanillas distintas. Hasta que una funcionaria muy buena se compadeció.
+Gloria : Siempre hay alguna persona buena. Eso es lo bueno de este país.
+Ibrahima : Eso pienso yo también. Aunque cuesta encontrarla a veces.
+Gloria : ¿De dónde es usted, si no le importa?
+Ibrahima : De Senegal. Llevo cuatro años en Madrid.
+Gloria : Pues habla mejor que mi nieto, que dice «pa» en vez de «para».
+Ibrahima : Ja, ja. Eso lo aprendí sobre todo en las colas.
+Gloria : Las colas enseñan mucho. Yo he aprendido más español en la cola del médico.
+Ibrahima : Y yo aprendí a decir «no se preocupe» en tres tonos distintos.
+Gloria : Ja, ja. El del funcionario cansado, el del vecino y el del médico.
+Ibrahima : Exactamente. Pero déjeme ver su papel.
+Gloria : Aquí tiene, hijo.
+Ibrahima : Perfecto. «Servicios Generales». Mire, esta pestaña dice que primero tiene que pasar por la mesa de entrada.
+Gloria : ¿Por la mesa de entrada? ¿Y eso qué es?
+Ibrahima : Es la primera mesa que ve al entrar. Le sellan la solicitud y luego pasa a la ventanilla siete.
+Gloria : Nadie me lo había explicado.
+Ibrahima : Nadie lo explica. Esto se aprende a golpes. Yo le ahorro los golpes.
+Gloria : Es usted un ángel. ¿Cómo se llama?
+Ibrahima : Ibrahima. Pero mis vecinos me llaman Ibra.
+Gloria : Yo soy Gloria. Gloria Medina. Qué nombre más grande para una persona tan pequeña.
+Ibrahima : Un nombre perfecto. Seguro que tiene una historia.
+Gloria : Mi madre quería una hija artista. Y aquí me ve, con el papelito de la «A, ciento doce».
+Ibrahima : Eso es una obra de arte moderna.
+Gloria : Ja, ja. Me gusta usted, Ibra.
+Ibrahima : Y usted a mí, doña Gloria.
+Gloria : Dígame solo Gloria. Que «doña» me hace sentir antigua.
+Ibrahima : Vale, Gloria. Entonces el siguiente paso es la mesa de entrada.
+Gloria : Voy ahora mismo. ¿Me acompaña?
+Ibrahima : Le acompaño hasta la mesa y le espero aquí.
+Gloria : Gracias. Hay que tener paciencia en esta casa.
+Ibrahima : Y buen humor. Vamos.
+(Ibrahima y Gloria van a la mesa de entrada. Hablan con un funcionario joven. Vuelven a sus asientos.)
+Gloria : Ya está sellado. ¿Y ahora?
+Ibrahima : Ahora esperamos que la pantalla llegue a su número.
+Ibrahima : Si no es indiscreción, ¿qué seguro es el de su marido?
+Gloria : El de decesos, hijo. Mi marido murió hace un año.
+Ibrahima : Lo siento mucho, Gloria.
+Gloria : Gracias. Hay que cerrar papeles. Dicen que es lo más difícil.
+Ibrahima : A mí me pasó con mi padre, en Senegal. Cuatro meses de papeles.
+Gloria : Los papeles nunca terminan. Ni para vivir ni para morir.
+Ibrahima : Es verdad. Pero entre los papeles también hay gente buena.
+Gloria : Como usted. Y como la funcionaria que le ayudó.
+Ibrahima : Se llamaba Pilar. Cuando la veo, la saludo.
+Ibrahima : Siempre lo hago. Es la forma de que el sistema recuerde que somos personas.
+Gloria : Y usted, ¿qué hace aquí?
+Ibrahima : Vengo a renovar mi tarjeta de residencia.
+Gloria : ¿Es complicado?
+Ibrahima : Un poco. Pero ahora ya sé qué papeles llevar. Y tengo cita.
+Gloria : ¿La pidió por internet?
+Ibrahima : Sí. Me ayudó la asociación del barrio, la de Doctor Esquerdo.
+Gloria : Esa también la conozco. Mi hija va a veces de voluntaria.
+Ibrahima : ¿De verdad? Qué pequeño es Madrid.
+Gloria : Un pueblo con tráfico. Siempre lo digo.
+Ibrahima : Ja, ja. Esa frase se la quedo.
+Gloria : Quédesela. Es gratis.
+Ibrahima : Para mí, vale oro. Mi hijo está en el colegio, ¿sabe?
+Gloria : ¿Está contento?
+Ibrahima : Muchísimo. Ya habla con acento madrileño. Me corrige a mí.
+Gloria : Los niños son esponjas. Todo lo pillan.
+Ibrahima : Y todo lo dicen delante de la maestra.
+Gloria : Ja, ja. Eso no cambia nunca.
+Ibrahima : Ahora estudia lo del Siglo de Oro. Me pide que le cuente historias de Senegal.
+Gloria : Pues cuénteselas. Los niños necesitan escuchar de dónde vienen sus padres.
+Ibrahima : Eso intento. Pero yo no sé tantas historias como mi abuela.
+Gloria : Invente alguna. A los niños no les importa que sea verdad.
+Ibrahima : Eso hago. Con mucho éxito.
+Gloria : ¿Lo ve? Ya es un experto.
+Ibrahima : Un experto en colas y en cuentos.
+Gloria : Hay profesiones peores.
+Ibrahima : Muchísimas peores.
+Gloria : Oiga, Ibra, una cosa que me quita el sueño: las aplicaciones.
+Ibrahima : ¿Las del móvil?
+Gloria : Esas. Para todo piden una aplicación. Y yo apenas sé mandar mensajes.
+Ibrahima : Yo al principio tampoco. Me enseñó mi hijo, con seis años.
+Gloria : ¿Su hijo le enseñó? Qué humillación tan dulce.
+Ibrahima : Muy dulce. Me dijo: «Papá, es como un cuaderno, pero que brilla».
+Gloria : Qué sabio. Un cuaderno que brilla.
+Ibrahima : Desde entonces no me da miedo. Lo trato como a un cuaderno.
+Gloria : Yo le tengo miedo a tocar algo y borrarlo todo.
+Ibrahima : Es casi imposible. Y para eso están los hijos.
+(La pantalla anuncia: «A, ciento ocho».)
+Gloria : Ya van por el ciento ocho. Se acerca.
+Ibrahima : Cuatro más y le toca. Prepare su carpeta.
+Gloria : La tengo lista. DNI, libro de familia, el papel del banco.
+Ibrahima : Perfecto. Con eso le basta.
+Gloria : ¿Y si me piden algo más?
+Ibrahima : Dígales que viene del banco y que es para un seguro. Ya sabrán.
+Gloria : Vale. Y si me trabo, ¿me echa una mano?
+Ibrahima : Estaré justo detrás. Hágame una seña.
+Gloria : Una seña. Como en el bingo.
+Ibrahima : Eso. «Bingo» y me acerco.
+Gloria : Ja, ja. Qué bien me lo estoy pasando en una oficina del Ayuntamiento.
+Ibrahima : Es una rareza, sí.
+(La pantalla anuncia: «A, ciento doce». Suena un pitido.)
+Gloria : ¡Mi turno! ¡Es mi turno!
+Ibrahima : Vaya, vaya. A la ventanilla siete, Gloria.
+Gloria : Voy, voy. Gracias, Ibra.
+Ibrahima : A usted. Y recuerde: DNI, libro de familia y el papel del banco.
+Gloria : Los tengo. Si todo sale bien, le invito a un café.
+Ibrahima : Acepto. Pero invito yo.
+Gloria : Ni hablar. Invita la señora.
+Ibrahima : Si insiste, no discuto.
+Gloria : No me gusta discutir con quien me ha salvado la mañana.
+Ibrahima : Pues entonces, trato hecho. En la cafetería de la esquina.
+Gloria : Trato hecho. Espéreme, no tardo.
+Ibrahima : Aquí estaré. Con mi carpeta y mi paciencia.
+
+## 낭독 포인트
+- z/c: «cien», «ciento doce», «gracias», «certificado» — [θ]. «Ciento»는 [θjén-to], «certificado»는 [θeɾ-ti-fi-ká-ðo].
+- j/g: «joven», «hijo», «gente», «Gloria»의 g는 [ɡ] — j와 g+e/i는 강한 [x]. «Joven»은 [xó-βen].
+- ll/y: «llevo», «ya», «yo», «calle» — [ʝ]. «Llevo cuatro años»는 [ʝé-βo].
+- 억양: 글로리아의 농담(Un pueblo con tráfico)은 가볍게 올리고, 이브라히마의 담담한 회고(Estuve casi un mes de idas y venidas)는 느리고 따뜻하게. 번호표 안내는 숫자를 또박또박.
+- 호칭: 처음엔 usted, 후반에 Gloria·Ibra로 이름을 부른다.
+
+## 학습 포인트 정리
+- C1 구간(1~60, 101~120턴): 경험 공유와 유머
+  · 경험: «Hace un año yo estuve en su misma situación.», «Esto se aprende a golpes. Yo le ahorro los golpes.»
+  · 조언: «Eso es la ventanilla siete.», «Prepare su carpeta.», «Dígales que viene del banco.»
+  · 유머: «Un pueblo con tráfico.», «Un cuaderno que brilla.», «Una seña, como en el bingo.»
+  · 자조: «Me enseñó mi hijo, con seis años. Qué humillación tan dulce.»
+- B2 구간(61~100턴): 일상과 감정
+  · 가족: «Mi hijo ya habla con acento madrileño. Me corrige a mí.»
+  · 애도: «Mi marido murió hace un año.», «Lo siento mucho.»
+  · 사회: «Los papeles nunca terminan. Ni para vivir ni para morir.», «Es la forma de que el sistema recuerde que somos personas.»
+- 어휘: el turno, la ventanilla, el padrón, la mesa de entrada, el volante, el libro de familia, el seguro de decesos, la renovación.
+
+## 속어 노트
+- «No, qué va»: 아니에요, 전혀요.
+- «Madre mía»: 세상에.
+- «Se aprende a golpes»: 부딪히며 배운다.
+- «Invita la señora»: 이번엔 제가 낼게요(손위가 사겠다는 정중한 고집).
+- 창구 번호, 번호표 체계, 협회 이름은 이야기 속 설정이다. 이 화는 4부 3화의 이브라히마와 필라를 이어 받아 쓴 후속 장면이다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(목요일 오전 열 시 반. 카라반첼 구청 대기실. 화면에 번호가 나온다. 이브라히마는 짙은 양복을 입고 서류철을 든 채 앉아 있다. 글로리아는 큰 가방을 메고 번호표를 보며 고개를 갸웃한다.)
+글로리아 : 실례해요, 젊은이. 이 'A 백열둘'이 무슨 뜻인지 아시우?
+이브라히마 : 대기 번호예요, 부인. 'A'는 업무 종류고요.
+글로리아 : 저기 화면에는 뭐라고 나와요?
+이브라히마 : 지금 'A 팔십칠'이에요. 부인은 아직 스무 번쯤 남았어요.
+글로리아 : 스무 번이라니. 세상에. 기다리다 죽겠네.
+이브라히마 : 걱정 마세요. 이 스무 번은 빨리 가요. 대부분 간단한 업무예요.
+글로리아 : 그러길 바라우. 은행에서 여기로 오라고 하더군.
+이브라히마 : 무슨 업무인지 여쭤 봐도 될까요?
+글로리아 : 주민 등록 서류야. 남편 보험 때문에.
+이브라히마 : 아, 주민 등록 증명서요. 그건 칠 번 창구예요.
+글로리아 : 칠 번? 안내에 물어보라고 했는데.
+이브라히마 : 안내도 같은 말을 할 거예요. 하지만 이러면 줄을 아끼죠.
+글로리아 : 참 친절하네. 여기서 일하우?
+이브라히마 : 아니요, 전혀요. 일 년 전에 저도 같은 처지였어요.
+글로리아 : 정말?
+이브라히마 : 네. 똑같은 서류를 떼러 왔다가 거의 한 달을 오갔어요.
+글로리아 : 한 달이라니. 말도 안 돼.
+이브라히마 : 서로 다른 창구 세 군데를 돌았어요. 마음씨 좋은 직원이 도와줄 때까지요.
+글로리아 : 좋은 사람은 늘 있지. 이 나라의 좋은 점이야.
+이브라히마 : 저도 그렇게 생각해요. 가끔 찾기 어렵지만요.
+글로리아 : 실례지만 어디서 왔수?
+이브라히마 : 세네갈이요. 마드리드에 온 지 사 년 됐어요.
+글로리아 : 우리 손자보다 말을 잘하네. 걔는 'para' 대신 'pa'라고 한다우.
+이브라히마 : 하하. 줄 서면서 많이 배웠어요.
+글로리아 : 줄이 많이 가르치지. 나도 병원 대기실에서 스페인어를 제일 많이 늘렸어.
+이브라히마 : 저는 '걱정 마세요'를 세 가지 어조로 말하게 됐어요.
+글로리아 : 하하. 지친 공무원 어조, 이웃 어조, 의사 어조.
+이브라히마 : 정확해요. 그런데 서류 좀 볼게요.
+글로리아 : 여기, 젊은이.
+이브라히마 : 좋아요. '일반 업무'네요. 보세요, 먼저 접수대를 거쳐야 한대요.
+글로리아 : 접수대? 그게 뭐유?
+이브라히마 : 들어오면 처음 보이는 탁자예요. 신청서에 도장을 찍고 칠 번 창구로 가요.
+글로리아 : 아무도 설명을 안 해 줬어.
+이브라히마 : 아무도 설명 안 해요. 부딪히며 배우는 거예요. 제가 그 부딪힘을 덜어 드릴게요.
+글로리아 : 천사가 따로 없네. 이름이 뭐요?
+이브라히마 : 이브라히마예요. 이웃들은 이브라라고 불러요.
+글로리아 : 나는 글로리아. 글로리아 메디나. 이렇게 작은 사람한테 이름이 너무 크지.
+이브라히마 : 완벽한 이름이에요. 분명 사연이 있을 거예요.
+글로리아 : 엄마는 예술가 딸을 원하셨지. 그런데 보다시피 'A 백열둘' 종이나 들고 있네.
+이브라히마 : 현대 미술 작품이네요.
+글로리아 : 하하. 마음에 들어, 이브라.
+이브라히마 : 저도 부인이 좋아요, 글로리아 부인.
+글로리아 : 그냥 글로리아라고 해요. '부인'은 늙은 느낌이 나서.
+이브라히마 : 알겠어요, 글로리아. 그럼 다음은 접수대예요.
+글로리아 : 지금 가야지. 같이 가 주겠수?
+이브라히마 : 탁자까지 모셔다 드리고 여기서 기다릴게요.
+글로리아 : 고마워. 이 건물에선 참을성이 필요해.
+이브라히마 : 그리고 유머도요. 가시죠.
+(이브라히마와 글로리아가 접수대로 간다. 젊은 직원과 얘기한다. 자리로 돌아온다.)
+글로리아 : 도장 찍었어. 이제는?
+이브라히마 : 이제 화면이 부인 번호에 올 때까지 기다리면 돼요.
+이브라히마 : 실례가 아니라면, 남편분 보험이 어떤 보험인가요?
+글로리아 : 장례 보험이야. 남편이 일 년 전에 세상을 떠났다우.
+이브라히마 : 마음이 아프네요, 글로리아.
+글로리아 : 고마워. 서류를 정리해야 해. 그게 제일 힘들다더니.
+이브라히마 : 저도 아버지 때 세네갈에서 그랬어요. 서류에 넉 달 걸렸어요.
+글로리아 : 서류는 끝이 없어. 살 때도 죽을 때도.
+이브라히마 : 맞아요. 하지만 서류 사이에도 좋은 사람이 있어요.
+글로리아 : 당신처럼. 그리고 도와준 그 직원처럼.
+이브라히마 : 필라라는 분이었어요. 보면 인사해요.
+이브라히마 : 늘 그래요. 그래야 시스템이 우리가 사람이라는 걸 기억하니까요.
+글로리아 : 당신은 여기서 뭘 하우?
+이브라히마 : 거주 카드를 갱신하러 왔어요.
+글로리아 : 복잡해?
+이브라히마 : 조금요. 하지만 이제 어떤 서류를 가져와야 하는지 알아요. 예약도 했고요.
+글로리아 : 인터넷으로 예약했수?
+이브라히마 : 네. 동네 협회, 도크토르 에스케르도에서 도와줬어요.
+글로리아 : 거기도 알아. 우리 딸이 가끔 자원봉사를 가거든.
+이브라히마 : 정말요? 마드리드가 참 좁네요.
+글로리아 : 교통 체증 있는 시골이지. 늘 하는 말이야.
+이브라히마 : 하하. 그 말은 제가 가져갈게요.
+글로리아 : 가져가요. 공짜니까.
+이브라히마 : 저한테는 금값이에요. 우리 아들이 학교에 다니거든요.
+글로리아 : 즐거워하우?
+이브라히마 : 아주요. 벌써 마드리드 억양으로 말해요. 저를 고쳐 줘요.
+글로리아 : 애들은 스펀지야. 다 흡수하지.
+이브라히마 : 그리고 선생님 앞에서 다 말해 버리죠.
+글로리아 : 하하. 그건 안 변해.
+이브라히마 : 요즘 황금 세기를 배워요. 세네갈 얘기를 들려 달라고 해요.
+글로리아 : 그럼 들려줘요. 아이들은 부모가 어디서 왔는지 들어야 해.
+이브라히마 : 노력해요. 하지만 저는 할머니만큼 얘기를 많이 몰라요.
+글로리아 : 하나 지어내요. 애들은 사실인지 신경 안 써.
+이브라히마 : 그렇게 해요. 인기가 아주 좋아요.
+글로리아 : 봤지? 벌써 전문가네.
+이브라히마 : 줄서기와 이야기 전문가요.
+글로리아 : 더 나쁜 직업도 있어.
+이브라히마 : 훨씬 더 나쁜 직업이 많죠.
+글로리아 : 있잖아, 이브라, 잠 못 자게 하는 게 있어. 앱이야.
+이브라히마 : 휴대폰 앱이요?
+글로리아 : 그래. 뭐든 앱을 요구해. 나는 메시지 보내는 것도 겨우 해.
+이브라히마 : 저도 처음엔 그랬어요. 여섯 살 아들이 가르쳐 줬어요.
+글로리아 : 아들이 가르쳐 줬다고? 달콤한 굴욕이네.
+이브라히마 : 아주 달콤해요. 이렇게 말했어요. '아빠, 반짝이는 공책이에요.'
+글로리아 : 참 지혜롭네. 반짝이는 공책이라니.
+이브라히마 : 그 뒤로 무섭지 않아요. 공책처럼 다뤄요.
+글로리아 : 나는 뭘 잘못 눌러서 다 지울까 봐 무서워.
+이브라히마 : 거의 불가능해요. 그리고 그러라고 자식들이 있는 거예요.
+(화면에 'A 백팔'이 나온다.)
+글로리아 : 벌써 백팔이야. 다가오네.
+이브라히마 : 네 번 더 지나면 부인 차례예요. 서류철을 준비하세요.
+글로리아 : 준비했지. 신분증, 가족 관계 증명서, 은행 서류.
+이브라히마 : 좋아요. 그거면 충분해요.
+글로리아 : 더 달라고 하면?
+이브라히마 : 은행에서 왔고 보험 때문이라고 말하세요. 알아들을 거예요.
+글로리아 : 알았어. 막히면 도와주겠수?
+이브라히마 : 바로 뒤에 있을게요. 신호를 주세요.
+글로리아 : 신호라. 빙고처럼.
+이브라히마 : 그거요. '빙고' 하면 다가갈게요.
+글로리아 : 하하. 구청에서 이렇게 재밌을 줄이야.
+이브라히마 : 드문 일이죠.
+(화면에 'A 백열둘'이 나오고 신호음이 울린다.)
+글로리아 : 내 차례야! 내 차례!
+이브라히마 : 그래요, 그래요. 칠 번 창구로 가세요, 글로리아.
+글로리아 : 간다, 가. 고마워, 이브라.
+이브라히마 : 제가 고맙죠. 그리고 기억하세요, 신분증, 가족 관계 증명서, 은행 서류.
+글로리아 : 가지고 있어. 다 잘되면 커피 한잔 살게.
+이브라히마 : 받을게요. 하지만 제가 살게요.
+글로리아 : 말도 마. 부인이 사는 거야.
+이브라히마 : 고집하시면 다투지 않을게요.
+글로리아 : 아침을 구해 준 사람과는 안 다투고 싶어.
+이브라히마 : 그럼 약속한 거예요. 모퉁이 카페에서요.
+글로리아 : 약속. 기다려요, 금방 올게.
+이브라히마 : 여기 있을게요. 서류철과 인내심을 들고요.

@@ -1,0 +1,285 @@
+# 4부 11화. Cambio de médico (주치의 변경)
+난이도: 주 B2 | 구간: B2→C1→B1→B1→B2→B1 | 형식: 전화 | 장소: 전화 통화(발렌틴은 집 거실, 콘차는 보건소 행정실) | 시간: 금요일 오전 9시
+등장인물: Valentín, Concha
+이슈: 주 ● 공공 의료의 주치의 교체와 연속성, 진단 지연 | 곡선: 3-1-0-1-0-3 (반전형, 상한 3) | 입장: A 발렌틴(주치의가 자주 바뀌고 증상을 가볍게 넘겨 진단이 늦어졌다고 느낀다) / B 콘차(행정 직원, 의사 배정은 규정이 있고 교체 대기도 길다고 설명하며 공감한다)
+상황 카드: 발렌틴이 보건소 행정실에 전화해 주치의를 바꾸고 싶다고 말한다. 석 달마다 의사가 바뀌었고 마지막 의사가 증상을 가볍게 보아 진단이 늦어졌다. 콘차는 변경 절차와 대기 기간을 설명한다. 걸림돌은 규정과 신뢰 문제. 결말은 변경 신청이 접수되지만 기간은 여섯 주이고, 발렌틴이 정식 불만 접수도 하겠다고 말하는 것.
+학습 포인트: 의료 서비스 항의(No me siento atendido, He esperado meses) · 절차 문의(¿Qué trámite hay que hacer?, ¿Cuánto tarda?) · 완곡한 요구 · 가정법(Si fuera posible) · 감정 조절
+
+## 대화
+(Viernes, nueve de la mañana. Valentín llama desde el salón de su casa. Concha atiende en la oficina administrativa de un centro de salud de Carabanchel.)
+Concha : Centro de Salud Oporto. Buenos días.
+Valentín : Buenos días. Quería hacer una consulta sobre el cambio de médico.
+Concha : Claro. ¿Su nombre y su tarjeta sanitaria, por favor?
+Valentín : Valentín Ibáñez. La tarjeta es la CAN, cero cinco, cuatro, siete, dos, uno.
+Concha : Un momento. Valentín Ibáñez... Aquí está. Tiene asignada la doctora Peña.
+Valentín : Esa es la tercera médica en un año.
+Concha : Lo veo en el sistema. Hay cambios por bajas y sustituciones.
+Valentín : Sí, ya sé. Pero no es la primera vez que me pasa.
+Concha : ¿Qué quiere hacer exactamente?
+Valentín : Quiero cambiar de médico. Y no solo de doctora: quiero un médico fijo.
+Concha : Entiendo. ¿Hay algún motivo concreto?
+Valentín : Sí. Y es un motivo serio. Prefiero explicarlo.
+Concha : Adelante, le escucho.
+Valentín : Hace seis meses fui a consulta con un dolor persistente en la espalda.
+Concha : Ya.
+Valentín : El doctor de entonces me dijo que era estrés, que descansara y tomara ibuprofeno.
+Concha : Es una recomendación común.
+Valentín : Lo sé. Pero seguía con dolor, volví dos veces y me dieron lo mismo.
+Concha : ¿Y qué pasó?
+Valentín : Pasó que en septiembre, por otro motivo, me hicieron unos análisis. Salió algo alterado.
+Concha : Vaya. ¿Qué era?
+Valentín : Azúcar alto. Tengo diabetes. Llevaba al menos un año sin saberlo.
+Concha : Lo siento mucho. No sabía que era eso.
+Valentín : Es un diagnóstico que se podía haber hecho antes. Con unos análisis básicos.
+Concha : Entiendo su enfado.
+Valentín : No es enfado. Es que me siento desatendido.
+Concha : Lo comprendo. Pero déjeme explicarle cómo funciona.
+Valentín : Explíquemelo, por favor.
+Concha : Cada paciente tiene un médico asignado según su zona y la disponibilidad.
+Valentín : Pero si ese médico cambia cada tres meses, no hay seguimiento.
+Concha : Tiene razón. Es un problema de la sanidad pública, no solo de este centro.
+Valentín : Y mientras tanto, los pacientes pagamos las consecuencias.
+Concha : A veces sí. No lo voy a negar.
+Valentín : Gracias por decirlo con claridad.
+Concha : Voy a ser sincera. A mí también me ha pasado con mi madre.
+Valentín : ¿De verdad?
+Concha : Sí. Estuvo meses con un diagnóstico erróneo.
+Valentín : Lo lamento.
+Concha : Gracias. Por eso entiendo lo que me cuenta.
+Valentín : Entonces, ¿puedo cambiar de médico?
+Concha : Se puede solicitar el cambio. Hay un formulario.
+Valentín : ¿Dónde está?
+Concha : Se lo puedo mandar por correo electrónico o puede recogerlo aquí.
+Valentín : Por correo está bien. Mi correo es valentin punto ibanez arroba correo punto es.
+Concha : Lo apunto. ¿Seguro que es «ibanez» sin eñe?
+Valentín : Sin eñe, sí. Por el sistema de correo.
+Concha : Vale. Se lo mando hoy mismo.
+Valentín : Gracias. ¿Cuánto tarda el cambio?
+Concha : Depende de las plazas libres. Puede ser de cuatro a seis semanas.
+Valentín : ¿Seis semanas? Es mucho tiempo.
+Concha : Lo sé. Pero hay mucha demanda y pocos médicos.
+Valentín : ¿Y mientras tanto, quién me atiende?
+Concha : La doctora Peña. O un sustituto, si ella no está.
+Valentín : Es decir, otro sustituto.
+Concha : Posiblemente. Es lo que hay.
+Valentín : Es lo que hay. Qué frase más triste.
+Concha : Tiene razón. A veces la digo y me da vergüenza.
+Valentín : No es su culpa. Usted hace lo que puede.
+Concha : Gracias por entenderlo. No siempre lo hacen.
+Valentín : A veces hay que hablar claro. Pero sin gritar.
+Concha : Se agradece. Eso ayuda mucho.
+Valentín : ¿Puedo pedir algún médico en concreto?
+Concha : Puede indicar su preferencia en el formulario. Pero no podemos garantizarlo.
+Valentín : ¿Hay alguno que lleve varios años en el centro?
+Concha : El doctor Ramos lleva seis años. Es muy bueno, pero su cupo suele estar completo.
+Valentín : Quizá pueda entrar si hay alguna baja.
+Concha : Quizá. Se lo anoto como primera opción.
+Valentín : Gracias. Es lo que quiero: continuidad.
+Concha : Es una petición razonable.
+Valentín : ¿Puedo ver mi historial en alguna aplicación?
+Concha : Sí, en la aplicación de salud de la Comunidad.
+Valentín : Nunca la he usado. ¿Es difícil?
+Concha : No. Se entra con el certificado digital o con una clave.
+Valentín : Tengo la clave del banco. ¿Sirve?
+Concha : No. Hay que registrarse. Es un trámite de diez minutos.
+Valentín : Lo haré esta tarde. Mi hija me ayuda.
+Concha : Perfecto. Allí verá sus análisis y sus citas.
+Valentín : Eso me tranquiliza. Saber qué dicen los papeles.
+Concha : Y puede pedir cita con su médico desde la aplicación.
+Valentín : Otra cosa. ¿Hay manera de ver al endocrino pronto?
+Concha : Esa es una derivación. Tiene que pedirla su médico de cabecera.
+Valentín : La doctora Peña ya me la pidió. Me dieron cita para dentro de siete meses.
+Concha : Siete meses... Qué barbaridad.
+Valentín : En una enfermedad crónica, eso es una eternidad.
+Concha : Lo comprendo. ¿Le han dado algún tratamiento mientras tanto?
+Valentín : Sí. Metformina y una dieta. Pero necesito a un especialista.
+Concha : Voy a mirar si hay una cancelación.
+Valentín : ¿Usted puede ver eso?
+Concha : Veo la agenda del servicio. A veces hay huecos de última hora.
+Valentín : Se lo agradecería muchísimo.
+Concha : Un momento, voy a mirar. No cuelgue.
+(Música de espera. Treinta segundos. Concha vuelve.)
+Concha : Señor Ibáñez, sigo aquí. Hay un hueco el veintiocho de noviembre.
+Valentín : ¿El veintiocho? Dentro de seis semanas, ¿no?
+Concha : Sí. Casi cinco meses menos que la fecha que tenía.
+Valentín : Qué alivio. Sí, me lo quedo.
+Concha : Perfecto. Se lo gestiono. Le mando un mensaje de confirmación.
+Valentín : Gracias, Concha. De verdad.
+Concha : De nada. Es mi trabajo, y me alegro de poder ayudar.
+Valentín : Una pregunta más, si me lo permite.
+Concha : Dígame.
+Valentín : Quiero presentar una reclamación formal por el retraso del diagnóstico.
+Concha : Está en su derecho. Hay una hoja de reclamaciones y también un correo.
+Valentín : ¿Eso puede servir de algo?
+Concha : A veces sí. Otras, no mucho. Pero queda constancia.
+Valentín : Lo hago por mí y por otros que estén pasando lo mismo.
+Concha : Eso es muy generoso por su parte.
+Valentín : No es generoso. Es lo mínimo.
+Concha : ¿Quiere que le envíe el formulario de reclamación también?
+Valentín : Sí, por favor. Los dos documentos.
+Concha : Los dos documentos. En el mismo correo.
+Valentín : Perfecto. Y ahora, perdone que me emocione.
+Concha : No tiene que pedir perdón. Es una situación difícil.
+Valentín : Sí. Hace meses que no duermo bien.
+Concha : Descanse. Y cuídese, por favor.
+Valentín : Lo intentaré. Gracias por escucharme.
+Concha : Gracias a usted por contármelo.
+Valentín : Que tenga un buen día, Concha.
+Concha : Igualmente, señor Ibáñez. Y ánimo.
+Valentín : Gracias. Adiós.
+Concha : Adiós.
+
+## 낭독 포인트
+- z/c: «cita», «cero», «gracias», «hacer» — [θ]. «Cita»는 [θí-ta], «cero»는 [θé-ɾo].
+- j/g: «mejor», «gestionar», «Ibáñez»의 ñ은 [ɲ] — j와 g+e/i는 강한 [x]. «Mejor»는 [me-xór].
+- ll/y: «llamo», «ya», «yo», «calle» — [ʝ].
+- 억양: 초반 발렌틴의 이야기(Salió algo alterado)는 천천히 낮게, 콘차의 사정(A mí también me ha pasado con mi madre)은 조용하게. 마지막 장면의 감정(Hace meses que no duermo bien)은 속도를 늦추고 숨을 고른다.
+- 숫자·메일: «valentin punto ibanez arroba correo punto es»를 또박또박 끊어서 읽는다.
+- 호칭: 환자와 직원은 usted. 마지막에 이름을 부르며 가까워진다.
+
+## 학습 포인트 정리
+- B2 구간(1~20턴): 문제 설명
+  · 시작: «Quería hacer una consulta sobre el cambio de médico.», «Es un motivo serio. Prefiero explicarlo.»
+  · 설명: «Me dijo que era estrés, que descansara y tomara ibuprofeno.», «Salió algo alterado.»
+  · 감정: «Me siento desatendido.», «Es un diagnóstico que se podía haber hecho antes.»
+- C1 구간(21~40턴): 제도 설명과 공감
+  · 설명: «Cada paciente tiene un médico asignado según su zona y la disponibilidad.»
+  · 공감: «A mí también me ha pasado con mi madre.», «No lo voy a negar.»
+  · 완곡한 인정: «Es un problema de la sanidad pública, no solo de este centro.»
+- B1 구간(41~80, 101~120턴): 절차와 대기
+  · 절차: «Hay un formulario.», «Se lo mando por correo.», «Puede ser de cuatro a seis semanas.»
+  · 대기: «Siete meses... Qué barbaridad.», «Hay un hueco el veintiocho de noviembre.»
+  · 감사: «Qué alivio.», «Se lo agradecería muchísimo.»
+- 어휘: el médico de cabecera, la derivación, el endocrino, la reclamación, la cita, el formulario, la sustitución, la baja, la continuidad.
+
+## 속어 노트
+- «Qué barbaridad»: 말도 안 돼, 엄청나다.
+- «Es lo que hay»: 어쩔 수 없다.
+- «Me da vergüenza»: 부끄럽다.
+- «Ánimo»: 힘내세요.
+- 대기 기간, 진단 지연 사례, 의사 교체 규정은 이야기 속 설정이다. 실제 의료 제도와 절차는 지역과 시기에 따라 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(금요일 오전 아홉 시. 발렌틴이 집 거실에서 전화한다. 콘차는 카라반첼 보건소 행정실에서 받는다.)
+콘차 : 오포르토 보건소입니다. 안녕하세요.
+발렌틴 : 안녕하세요. 주치의 변경에 대해 문의하고 싶어요.
+콘차 : 그럼요. 성함과 건강보험 카드 번호를 말씀해 주시겠어요?
+발렌틴 : 발렌틴 이바녜스예요. 카드 번호는 CAN, 영, 오, 사, 칠, 이, 일이에요.
+콘차 : 잠시만요. 발렌틴 이바녜스... 여기 있네요. 페냐 선생님이 배정돼 있어요.
+발렌틴 : 그분이 일 년에 세 번째 의사예요.
+콘차 : 시스템에 보이네요. 휴직과 대체로 바뀌는 경우가 있어요.
+발렌틴 : 네, 알아요. 하지만 처음이 아니에요.
+콘차 : 정확히 어떻게 하고 싶으세요?
+발렌틴 : 주치의를 바꾸고 싶어요. 여의사만이 아니라, 고정된 의사를 원해요.
+콘차 : 알겠어요. 구체적인 이유가 있나요?
+발렌틴 : 네. 심각한 이유예요. 설명하고 싶어요.
+콘차 : 말씀하세요, 듣고 있어요.
+발렌틴 : 여섯 달 전에 계속되는 허리 통증으로 진료를 받았어요.
+콘차 : 네.
+발렌틴 : 그때 의사는 스트레스라면서 쉬고 이부프로펜을 먹으라고 했어요.
+콘차 : 흔한 권고예요.
+발렌틴 : 알아요. 하지만 계속 아파서 두 번 다시 갔는데 똑같이 처방했어요.
+콘차 : 그래서 어떻게 됐나요?
+발렌틴 : 구월에 다른 이유로 검사를 받았는데 수치가 이상하게 나왔어요.
+콘차 : 저런. 뭐였어요?
+발렌틴 : 혈당이 높았어요. 당뇨가 있어요. 적어도 일 년은 모르고 지냈어요.
+콘차 : 정말 안타까워요. 그런 건 줄 몰랐어요.
+발렌틴 : 기본 검사만 했어도 더 일찍 진단할 수 있었어요.
+콘차 : 화나신 거 이해해요.
+발렌틴 : 화가 난 게 아니에요. 소홀히 취급받았다고 느끼는 거예요.
+콘차 : 이해해요. 하지만 어떻게 돌아가는지 설명해 드릴게요.
+발렌틴 : 설명해 주세요.
+콘차 : 환자마다 거주 지역과 여건에 따라 담당 의사가 배정돼요.
+발렌틴 : 그런데 그 의사가 석 달마다 바뀌면 경과 관찰이 안 되잖아요.
+콘차 : 맞는 말씀이에요. 이 센터만이 아니라 공공 의료의 문제예요.
+발렌틴 : 그러는 사이 환자들이 그 결과를 감당하고요.
+콘차 : 가끔은 그래요. 부인하지 않을게요.
+발렌틴 : 분명히 말해 줘서 고마워요.
+콘차 : 솔직히 말씀드릴게요. 저도 어머니 때 그런 일이 있었어요.
+발렌틴 : 정말요?
+콘차 : 네. 몇 달 동안 오진을 받으셨어요.
+발렌틴 : 안타깝네요.
+콘차 : 고마워요. 그래서 말씀하신 걸 이해해요.
+발렌틴 : 그럼 주치의를 바꿀 수 있나요?
+콘차 : 변경을 신청할 수 있어요. 양식이 있어요.
+발렌틴 : 어디 있어요?
+콘차 : 이메일로 보내 드리거나 여기서 받아 가실 수 있어요.
+발렌틴 : 이메일이 좋아요. 제 메일은 valentin 점 ibanez 골뱅이 correo 점 es예요.
+콘차 : 적었어요. 'ibanez'는 ñ 없이 맞죠?
+발렌틴 : 네, ñ 없이요. 메일 시스템 때문에요.
+콘차 : 알겠어요. 오늘 안에 보낼게요.
+발렌틴 : 고마워요. 변경은 얼마나 걸려요?
+콘차 : 빈자리에 따라 달라요. 사 주에서 육 주 걸릴 수 있어요.
+발렌틴 : 육 주요? 너무 길어요.
+콘차 : 알아요. 수요는 많고 의사는 적어요.
+발렌틴 : 그동안은 누가 봐 주죠?
+콘차 : 페냐 선생님이요. 안 계시면 대체 의사가 봐요.
+발렌틴 : 그러니까 또 다른 대체 의사네요.
+콘차 : 그럴 수 있어요. 어쩔 수 없어요.
+발렌틴 : 어쩔 수 없다. 참 슬픈 말이네요.
+콘차 : 맞아요. 가끔 그 말을 하고 부끄러워요.
+발렌틴 : 당신 잘못이 아니에요. 할 수 있는 걸 하시잖아요.
+콘차 : 이해해 주셔서 고마워요. 항상 그러진 않아요.
+발렌틴 : 가끔은 분명히 말해야 해요. 하지만 소리 지르지 않고요.
+콘차 : 고마운 말이에요. 도움이 많이 돼요.
+발렌틴 : 특정 의사를 요청할 수 있나요?
+콘차 : 양식에 선호를 적을 수 있어요. 하지만 보장은 못 해요.
+발렌틴 : 여러 해 근무하신 분이 있나요?
+콘차 : 라모스 선생님이 육 년 되셨어요. 아주 좋은 분인데 담당 인원이 대개 꽉 차 있어요.
+발렌틴 : 결원이 생기면 들어갈 수도 있겠네요.
+콘차 : 그럴 수도요. 1순위로 적어 둘게요.
+발렌틴 : 고마워요. 제가 원하는 건 연속성이에요.
+콘차 : 합리적인 요청이에요.
+발렌틴 : 제 진료 기록을 볼 수 있는 앱이 있나요?
+콘차 : 네, 자치주 건강 앱에서요.
+발렌틴 : 써 본 적이 없어요. 어려워요?
+콘차 : 아니요. 전자 인증서나 비밀번호로 들어가요.
+발렌틴 : 은행 비밀번호가 있어요. 되나요?
+콘차 : 아니요. 가입해야 해요. 십 분이면 되는 절차예요.
+발렌틴 : 오늘 오후에 할게요. 딸이 도와줄 거예요.
+콘차 : 좋아요. 거기서 검사 결과와 예약을 볼 수 있어요.
+발렌틴 : 마음이 놓이네요. 서류에 뭐라고 쓰여 있는지 알 수 있어서요.
+콘차 : 그리고 앱으로 주치의 예약도 할 수 있어요.
+발렌틴 : 다른 것도요. 내분비과 진료를 빨리 받을 방법이 있나요?
+콘차 : 그건 전원 의뢰예요. 주치의가 신청해야 해요.
+발렌틴 : 페냐 선생님이 이미 신청했어요. 일곱 달 뒤로 예약을 줬어요.
+콘차 : 일곱 달... 말도 안 돼요.
+발렌틴 : 만성 질환에 그건 영원이에요.
+콘차 : 이해해요. 그동안 치료는 받고 계세요?
+발렌틴 : 네. 메트포르민과 식이요법이요. 하지만 전문의가 필요해요.
+콘차 : 취소 자리가 있는지 볼게요.
+발렌틴 : 그걸 볼 수 있어요?
+콘차 : 과 일정이 보여요. 가끔 막판 빈자리가 있어요.
+발렌틴 : 정말 감사하겠어요.
+콘차 : 잠깐만요, 볼게요. 끊지 마세요.
+(대기음이 삼십 초 흐른다. 콘차가 돌아온다.)
+콘차 : 이바녜스 님, 계세요? 십일월 이십팔 일에 자리가 있어요.
+발렌틴 : 이십팔 일이요? 육 주 뒤죠?
+콘차 : 네. 원래 날짜보다 다섯 달 가까이 빨라요.
+발렌틴 : 다행이에요. 네, 그걸로 할게요.
+콘차 : 좋아요. 처리해 드릴게요. 확인 문자를 보내 드려요.
+발렌틴 : 고마워요, 콘차. 정말로요.
+콘차 : 별말씀을요. 제 일이고, 도와드릴 수 있어서 기뻐요.
+발렌틴 : 하나만 더 물어봐도 될까요?
+콘차 : 말씀하세요.
+발렌틴 : 진단 지연에 대해 정식으로 불만을 접수하고 싶어요.
+콘차 : 권리이세요. 불만 접수 양식과 메일도 있어요.
+발렌틴 : 그게 도움이 될까요?
+콘차 : 가끔은요. 어떤 때는 별로 안 돼요. 하지만 기록은 남아요.
+발렌틴 : 저와 같은 일을 겪는 다른 사람들을 위해서도 하는 거예요.
+콘차 : 참 마음이 넓으시네요.
+발렌틴 : 넓은 게 아니에요. 최소한이에요.
+콘차 : 불만 양식도 같이 보내 드릴까요?
+발렌틴 : 네, 부탁해요. 두 문서 다요.
+콘차 : 두 문서를 한 메일에 보낼게요.
+발렌틴 : 좋아요. 그리고 제가 울컥해서 죄송해요.
+콘차 : 사과하실 필요 없어요. 어려운 상황이에요.
+발렌틴 : 네. 몇 달째 잠을 잘 못 자요.
+콘차 : 쉬세요. 몸 잘 챙기세요.
+발렌틴 : 노력할게요. 들어 줘서 고마워요.
+콘차 : 말씀해 주셔서 제가 고맙죠.
+발렌틴 : 좋은 하루 보내세요, 콘차.
+콘차 : 이바녜스 님도요. 힘내세요.
+발렌틴 : 고마워요. 안녕히 계세요.
+콘차 : 안녕히 계세요.

@@ -1,0 +1,281 @@
+# 3부 2화. En la frutería (과일 가게에서)
+난이도: 주 A2 | 구간: A2→A2→A2→A2→A2→B1 | 형식: 2인 대면 | 장소: 동네 과일 가게 | 시간: 토요일 오전 10시
+등장인물: Ana, Hassan
+이슈: 주 ◐ 장바구니 물가 | 곡선: 1-0-1-0-0-1 (잔잔형, 상한 1) | 입장: 해당 없음(생활 장면. 과일 값이 올랐다는 말이 한마디 스침)
+상황 카드: 이사 온 지 얼마 안 된 아나가 동네 과일 가게에서 처음 장을 본다. 주인 하산이 과일 이름, 무게, 가격, 맛을 천천히 알려 준다. 목표는 일주일치 과일을 사는 것. 걸림돌은 어휘와 무게 단위. 결말에서 하산은 덤으로 귤을 주고 아나는 단골이 되기로 한다.
+학습 포인트: 과일·채소 이름 · 무게와 가격(un kilo, medio kilo, a tres euros el kilo) · 주문 표현(Quiero…, Póngame…, ¿Me pone…?) · 숫자와 계산 · 맛 표현(dulce, maduro, ácido)
+
+## 대화
+(Sábado por la mañana, diez en punto. Ana entra en una frutería pequeña. Hay cajas de colores en la puerta. Hassan está detrás del mostrador.)
+Hassan : Buenos días. Pase, pase.
+Ana : Buenos días. Es mi primera vez aquí.
+Hassan : Bienvenida. ¿Qué busca?
+Ana : Fruta para toda la semana.
+Hassan : Muy bien. ¿Qué le gusta?
+Ana : Me gustan las manzanas, las naranjas y las uvas.
+Hassan : Perfecto. Las manzanas están ahí, a la izquierda.
+Ana : ¿Cuáles son las mejores?
+Hassan : Estas rojas son dulces. Las verdes son más ácidas.
+Ana : Prefiero las dulces.
+Hassan : Entonces las rojas. ¿Cuántas quiere?
+Ana : Un kilo, por favor.
+Hassan : Un kilo de manzanas rojas. Son tres euros el kilo.
+Ana : Tres euros. Vale.
+Hassan : (las pesa) Un kilo exacto.
+Ana : Muy bien. Y las naranjas, ¿cuánto cuestan?
+Hassan : Dos euros el kilo.
+Ana : ¿Son de zumo?
+Hassan : Estas sí. Son muy jugosas.
+Ana : Pues dos kilos.
+Hassan : Dos kilos de naranjas. Cuatro euros.
+Ana : ¿Tiene uvas?
+Hassan : Sí. Blancas y negras.
+Ana : ¿Cuáles son más dulces?
+Hassan : Las negras. Pruebe una.
+Ana : (prueba) Mmm. Qué ricas.
+Hassan : Son de Murcia. Muy frescas.
+Ana : Póngame medio kilo.
+Hassan : Medio kilo de uvas negras. Tres euros con cincuenta.
+Ana : ¿Tres con cincuenta? Medio kilo. Qué caras.
+Hassan : Sí, este año están más caras. Todo ha subido.
+Ana : Es verdad. Antes costaban menos.
+Hassan : Antes. Hoy, no. Pero estas valen la pena.
+Ana : Vale. Me las llevo.
+Hassan : ¿Algo más?
+Ana : Sí. Plátanos. ¿Tiene plátanos?
+Hassan : Tengo de Canarias. Son pequeños y muy dulces.
+Ana : Perfecto. Medio kilo.
+Hassan : Medio kilo de plátanos. Dos euros.
+Ana : ¿Y las peras?
+Hassan : Están maduras. Son para comer hoy o mañana.
+Ana : Entonces, no. Las quiero para la semana.
+Hassan : Entonces mejor estas, que están más duras.
+Ana : Vale, dos peras duras.
+Hassan : Dos peras. Un euro con veinte.
+Ana : ¿Y los limones?
+Hassan : A un euro el kilo.
+Ana : Tres limones.
+Hassan : Tres limones. Cincuenta céntimos.
+Ana : ¿Cuánto es todo?
+Hassan : A ver. Manzanas, tres. Naranjas, cuatro. Uvas, tres con cincuenta. Plátanos, dos. Peras, uno con veinte. Limones, cincuenta céntimos.
+Ana : Es mucho. Perdone, ¿qué suma?
+Hassan : Catorce euros con veinte.
+Ana : Catorce con veinte. Aquí tiene.
+Hassan : (coge el billete) Usted me da veinte. Le devuelvo cinco con ochenta.
+Ana : Gracias. ¿Tiene bolsa?
+Hassan : Sí. Pero cuesta diez céntimos. Es de papel.
+Ana : No pasa nada. Llevo mi bolsa de tela.
+Hassan : Eso me gusta. Cada vez más gente la trae.
+Ana : Es mejor para el planeta.
+Hassan : Y mejor para mi bolsillo, que no compro tantas.
+Ana : (ríe) Tiene razón.
+Hassan : Una cosa más. Toma, un regalo.
+Ana : ¿Un regalo?
+Hassan : Dos mandarinas. Son nuevas.
+Ana : Qué amable. Gracias.
+Hassan : Es para que vuelva.
+Ana : Seguro que vuelvo.
+Hassan : Venga cuando quiera. Estoy aquí todos los días, de nueve a dos y de cinco a ocho.
+Ana : Vale. Mañana, no. El domingo está cerrado.
+Hassan : Cerrado los domingos, sí. Mi mujer manda.
+Ana : Mi marido también manda.
+Hassan : (ríe) Siempre hay alguien que manda.
+Ana : Y mejor que sea así.
+Hassan : ¿Cómo se llama usted?
+Ana : Ana. ¿Y usted?
+Hassan : Hassan. Encantado.
+Ana : Encantada.
+Hassan : Una pregunta. ¿Es usted nueva en el barrio?
+Ana : Sí. Llevo dos semanas.
+Hassan : Entonces tiene que probar todo. La panadería de la esquina, el bar de Paco, la carnicería de Carmen.
+Ana : Ya fui a la panadería. El pan está buenísimo.
+Hassan : Y la carnicería es excelente.
+Ana : Entonces mañana voy.
+Hassan : Mañana está cerrada. Pero el lunes, sí.
+Ana : El lunes, entonces.
+Hassan : Y mi frutería, el sábado que viene.
+Ana : El sábado que viene, aquí.
+Hassan : Perfecto. Hasta el sábado, Ana.
+Ana : Hasta el sábado, Hassan.
+Hassan : Por cierto, ¿sabe una cosa?
+Ana : ¿Qué cosa?
+Hassan : Que mi padre empezó esta frutería hace cuarenta años. Y yo la heredé.
+Ana : Qué bonito.
+Hassan : Y mi hijo no quiere heredarla. Quiere ser programador.
+Ana : Es normal. Los jóvenes quieren otras cosas.
+Hassan : Pero algún día volverá. Seguro que volverá.
+Ana : Seguro. Todos volvemos a lo que conocemos.
+Hassan : Qué sabia es usted.
+Ana : Es lo que dice mi madre.
+Hassan : Pues dele las gracias de mi parte.
+Ana : Se las daré. Gracias por la fruta.
+Hassan : A usted. Y por las mandarinas, no se preocupe: son gratis.
+Ana : Lo sé. Pero las pagaré con mi próxima visita.
+Hassan : Eso me gusta. Una clienta con memoria.
+Ana : Una clienta con hambre.
+Hassan : Hasta el sábado.
+Ana : Hasta el sábado.
+Hassan : (a un cliente que entra) Buenos días. Pase, pase.
+Ana : (al salir) Qué simpático. Voy a volver.
+Hassan : (al cliente) Es una clienta nueva. Y ya es amiga.
+Ana : (desde la puerta) Con mandarinas, cualquiera.
+Hassan : Con mandarinas y buen precio.
+Ana : Ojalá fuera más barato todo.
+Hassan : Ojalá. Pero mientras tanto, hay fruta.
+Ana : Hay fruta y hay conversación.
+Hassan : Eso no sube de precio.
+Ana : Qué suerte.
+Hassan : Sí, qué suerte. Adiós, Ana.
+Ana : Adiós.
+
+## 낭독 포인트
+- z/c: zumo, dulce, cincuenta, gracias, Murcia — [θ]. «Zumo»는 [θú-mo].
+- j/g: naranja, jugosa, mejor — 강한 [x]. «Naranja»는 [na-ráŋ-xa].
+- ll/y: llevo, ya, yo — [ʝ]. «Pruebe»의 b는 부드러운 [β].
+- 숫자 읽기: tres con cincuenta, uno con veinte, catorce con veinte, cinco con ochenta — 금액을 또박또박.
+- 억양: 주문(Póngame medio kilo)은 부드럽게, 가격 질문(¿Cuánto es todo?)은 올린다. 덤을 주는 장면은 따뜻하게.
+- 호칭: 손님과 주인은 usted. 마지막에 이름을 주고받고 친근해진다.
+
+## 학습 포인트 정리
+- A2 구간(1~100턴): 과일 가게에서 장 보기
+  · 주문: «Quiero…», «Póngame medio kilo.», «Un kilo, por favor.», «Me las llevo.»
+  · 가격: «Tres euros el kilo.», «Catorce con veinte.», «Le devuelvo cinco con ochenta.»
+  · 과일 어휘: la manzana, la naranja, la uva, el plátano, la pera, el limón, la mandarina.
+  · 맛·상태: dulce, ácida, jugosa, madura, dura, fresca.
+  · 질문: «¿Cuál es más dulce?», «¿Cuánto es todo?», «¿Algo más?», «¿Tiene bolsa?»
+  · 숫자 계산: 3 + 4 + 3,50 + 2 + 1,20 + 0,50 = 14,20.
+- B1 구간(101~120턴): 가게와 가족
+  · 과거 회상: «Mi padre empezó esta frutería hace cuarenta años.», «Yo la heredé.»
+  · 소망: «Ojalá fuera más barato todo.»
+  · 마무리: «Hay fruta y hay conversación. Eso no sube de precio.»
+
+## 속어 노트
+- «Póngame…»: ~를 주세요(가게에서 쓰는 공손한 주문. 직역 "저에게 놓아 주세요").
+- «Que aproveche»: 맛있게 드세요.
+- «Es una ganga»: 싸게 샀다는 뜻(이 화에선 쓰지 않음).
+- «Mi mujer manda»: 아내가 결정한다(농담).
+- 과일 가격은 이야기 속 설정이다. 실제 시세는 계절과 지역에 따라 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(토요일 아침, 열 시 정각. 아나가 작은 과일 가게에 들어간다. 문 앞에 색색의 상자들이 있다. 하산이 계산대 뒤에 있다.)
+하산 : 안녕하세요. 들어오세요.
+아나 : 안녕하세요. 여기는 처음이에요.
+하산 : 환영해요. 뭘 찾으세요?
+아나 : 일주일치 과일이요.
+하산 : 좋아요. 뭘 좋아하세요?
+아나 : 사과, 오렌지, 포도를 좋아해요.
+하산 : 좋아요. 사과는 저기 왼쪽에 있어요.
+아나 : 어느 게 제일 좋아요?
+하산 : 이 빨간 건 달아요. 초록색은 더 새콤해요.
+아나 : 단 게 좋아요.
+하산 : 그럼 빨간 거요. 몇 개 드릴까요?
+아나 : 1킬로 주세요.
+하산 : 빨간 사과 1킬로. 킬로에 3유로예요.
+아나 : 3유로. 좋아요.
+하산 : (잰다) 정확히 1킬로예요.
+아나 : 좋아요. 오렌지는 얼마예요?
+하산 : 킬로에 2유로요.
+아나 : 주스용인가요?
+하산 : 이건 맞아요. 아주 즙이 많아요.
+아나 : 그럼 2킬로요.
+하산 : 오렌지 2킬로. 4유로예요.
+아나 : 포도 있어요?
+하산 : 네. 청포도와 흑포도요.
+아나 : 어느 게 더 달아요?
+하산 : 흑포도요. 하나 드셔 보세요.
+아나 : (맛본다) 음. 맛있어요.
+하산 : 무르시아산이에요. 아주 신선해요.
+아나 : 500그램 주세요.
+하산 : 흑포도 500그램. 3유로 50센트예요.
+아나 : 3유로 50이요? 500그램인데. 비싸네요.
+하산 : 네, 올해는 더 비싸요. 다 올랐어요.
+아나 : 맞아요. 전에는 더 쌌어요.
+하산 : 전에는요. 오늘은 아니에요. 그래도 이건 값을 해요.
+아나 : 알겠어요. 가져갈게요.
+하산 : 더 필요하신 건요?
+아나 : 네. 바나나요. 바나나 있어요?
+하산 : 카나리아산이 있어요. 작고 아주 달아요.
+아나 : 좋아요. 500그램이요.
+하산 : 바나나 500그램. 2유로예요.
+아나 : 배는요?
+하산 : 익었어요. 오늘이나 내일 먹기 좋아요.
+아나 : 그럼 안 돼요. 일주일 동안 먹을 건데요.
+하산 : 그럼 이게 낫겠네요, 더 단단해요.
+아나 : 좋아요, 단단한 배 두 개요.
+하산 : 배 두 개. 1유로 20센트예요.
+아나 : 레몬은요?
+하산 : 킬로에 1유로예요.
+아나 : 레몬 세 개요.
+하산 : 레몬 세 개. 50센트예요.
+아나 : 다 해서 얼마예요?
+하산 : 보자. 사과 3, 오렌지 4, 포도 3.50, 바나나 2, 배 1.20, 레몬 0.50.
+아나 : 많네요. 실례지만 합계가 얼마예요?
+하산 : 14유로 20센트예요.
+아나 : 14유로 20. 여기요.
+하산 : (지폐를 받는다) 20유로를 주셨네요. 5유로 80센트 거슬러 드릴게요.
+아나 : 고마워요. 봉지 있어요?
+하산 : 네. 근데 10센트예요. 종이예요.
+아나 : 괜찮아요. 제 천 가방이 있어요.
+하산 : 좋네요. 점점 더 많은 사람이 가져와요.
+아나 : 지구에 더 좋아요.
+하산 : 제 주머니에도 더 좋아요, 봉지를 덜 사니까요.
+아나 : (웃는다) 맞네요.
+하산 : 하나 더요. 여기, 선물이에요.
+아나 : 선물요?
+하산 : 귤 두 개요. 햇귤이에요.
+아나 : 친절하세요. 고맙습니다.
+하산 : 다시 오시라고요.
+아나 : 꼭 올게요.
+하산 : 언제든 오세요. 매일 있어요, 아홉 시부터 두 시, 다섯 시부터 여덟 시까지요.
+아나 : 알겠어요. 내일은 안 되겠네요. 일요일은 닫았죠.
+하산 : 일요일은 닫아요. 아내가 정해요.
+아나 : 저희 남편도 정해요.
+하산 : (웃는다) 항상 누군가는 정하죠.
+아나 : 그게 나아요.
+하산 : 성함이 어떻게 되세요?
+아나 : 아나예요. 선생님은요?
+하산 : 하산이에요. 반갑습니다.
+아나 : 반가워요.
+하산 : 질문 하나요. 동네에 새로 오셨죠?
+아나 : 네. 2주 됐어요.
+하산 : 그럼 다 해 보셔야 해요. 모퉁이 빵집, 파코네 바, 카르멘 정육점.
+아나 : 빵집은 가 봤어요. 빵이 정말 맛있어요.
+하산 : 정육점도 훌륭해요.
+아나 : 그럼 내일 가 볼게요.
+하산 : 내일은 닫았어요. 하지만 월요일엔 열어요.
+아나 : 월요일에요.
+하산 : 그리고 제 과일 가게는 다음 토요일에요.
+아나 : 다음 토요일, 여기서요.
+하산 : 좋아요. 토요일에 봐요, 아나.
+아나 : 토요일에 봐요, 하산.
+하산 : 그런데 아세요?
+아나 : 뭘요?
+하산 : 우리 아버지가 40년 전에 이 가게를 시작했어요. 제가 물려받았고요.
+아나 : 아름다운 이야기네요.
+하산 : 그리고 아들은 물려받고 싶어 하지 않아요. 프로그래머가 되고 싶대요.
+아나 : 당연해요. 젊은이들은 다른 걸 원하죠.
+하산 : 하지만 언젠가 돌아올 거예요. 분명 돌아올 거예요.
+아나 : 분명히요. 우리 모두 아는 곳으로 돌아가요.
+하산 : 지혜로우시네요.
+아나 : 우리 어머니가 하시는 말씀이에요.
+하산 : 그럼 제 대신 고맙다고 전해 주세요.
+아나 : 전할게요. 과일 고맙습니다.
+하산 : 저야말로요. 귤 걱정은 마세요, 공짜예요.
+아나 : 알아요. 하지만 다음 방문으로 갚을게요.
+하산 : 마음에 들어요. 기억력 좋은 손님이네요.
+아나 : 배고픈 손님이에요.
+하산 : 토요일에 봬요.
+아나 : 토요일에 봬요.
+하산 : (들어오는 손님에게) 안녕하세요. 들어오세요.
+아나 : (나가며) 참 친절하셔. 또 와야지.
+하산 : (손님에게) 새 손님이에요. 벌써 친구가 됐어요.
+아나 : (문에서) 귤이 있으면 누구라도요.
+하산 : 귤과 좋은 가격이 있으면요.
+아나 : 모든 게 더 쌌으면 좋겠어요.
+하산 : 그러길요. 하지만 그동안은 과일이 있잖아요.
+아나 : 과일과 대화가 있죠.
+하산 : 그건 값이 안 올라요.
+아나 : 다행이에요.
+하산 : 네, 다행이에요. 안녕, 아나.
+아나 : 안녕히.

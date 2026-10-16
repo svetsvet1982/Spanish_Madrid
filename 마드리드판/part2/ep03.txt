@@ -1,0 +1,288 @@
+# 2부 3화. Huelga de taxis (택시 파업)
+난이도: 주 B2 | 구간: B2→B2→B1→B1→B2→B2 | 형식: 3인 대면 (+ 마지막에 동료 택시기사 한 명) | 장소: 아토차 거리, 멈춰 선 택시 줄 앞 | 시간: 목요일 아침 8시 30분~9시
+등장인물: Pablo, Fermín, Dayana, Marcelo
+이슈: 주 ● 택시 파업과 차량 호출 서비스 | 곡선: 2-3-3-1-0-0 (초반충격형) | 입장: A 택시 기사 페르민(면허에 큰돈을 들였고 규칙을 지키는데 앱 서비스에 일감을 빼앗김) / B 호출 서비스 기사 다야나(면허도 없고 수수료를 많이 떼이는 이주 노동자, 아이 둘을 키움) / C 승객 파블로(기차를 놓치면 면접을 못 봄, 택시는 비싸다고 느낌)
+상황 카드: 택시 기사들이 파업으로 멈춰 서 있는 날 기차 시간에 쫓기는 파블로가 택시를 찾다 페르민을 만나고, 앱으로 부른 다야나가 도착하며 두 기사가 충돌한다. 둘 다 구조의 피해자라는 걸 깨닫지만 해결은 없다. 파블로는 다야나의 차를 타고 떠나고, 페르민은 동료에게 "파업은 파업이고 사람은 사람"이라고 말한다.
+학습 포인트: 입장 말하기(Yo trabajo, Yo pagué por…) · 접속법(Que me salga bien, Aunque no estés de acuerdo) · 비교와 대조(Unos… otros…) · 일 관련 어휘(licencia, plataforma, comisión) · 논쟁 속 공손함(Por favor, un momento)
+
+## 대화
+(Jueves por la mañana, ocho y media. En la calle de Atocha hay una fila de taxis parados con las luces apagadas. Pablo, con una maleta pequeña, mira el móvil. Fermín, taxista de unos cincuenta y ocho años, está apoyado en su coche con un termo.)
+Pablo : Perdone, ¿están todos parados? Necesito un taxi para la estación.
+Fermín : Hoy no hay taxis, chaval. Estamos de huelga.
+Pablo : ¿De huelga? ¿Hoy? Mi tren sale a las nueve y diez.
+Fermín : Pues lo siento mucho. Pero no es un día para correr. Es un día para parar.
+Pablo : ¿Y por qué protestan?
+Fermín : Por las licencias. Por las aplicaciones. Por todo lo que está pasando con el transporte.
+Pablo : Entiendo que protesten, pero yo no puedo perder el tren. Tengo una entrevista de trabajo en Valencia.
+Fermín : Lo siento, de verdad. Hoy no puedo llevarte, y yo tampoco quiero perder el día.
+Pablo : ¿Y los demás? ¿Alguno me puede llevar?
+Fermín : Los demás están igual que yo. Nadie se mueve. Es lo que hemos votado.
+Pablo : Pues vaya forma de votar. A mí me fastidia.
+Fermín : A mí me fastidia perder el sueldo. Hoy no gano nada. Pero si no protesto, mañana no gano nada tampoco.
+Pablo : ¿Cómo que mañana no gana nada?
+Fermín : Con las aplicaciones, cada día hay más coches sin licencia que me quitan los viajes.
+Pablo : Yo uso esas aplicaciones. Son más baratas.
+Fermín : Lo sé. Y por eso me quedo sin viajes.
+Pablo : No es culpa mía que sean más baratas.
+Fermín : No digo que sea tuya. Digo que el sistema es injusto.
+Pablo : (mira el móvil) Pues mire, ahora mismo hay un coche a tres minutos. Lo reservo.
+Fermín : Tú mismo.
+(Un coche negro se detiene junto al bordillo. Dayana, la conductora, baja la ventanilla.)
+Dayana : ¿Pablo? Soy Dayana, tu conductora. ¿Vas a la estación de Atocha?
+Pablo : Sí. Gracias por venir tan rápido.
+Fermín : (se acerca) Oye, tú, ¿no ves que hoy hay huelga? Aquí no se recoge a nadie.
+Dayana : Buenos días a usted también. Yo no estoy en huelga. Yo trabajo.
+Fermín : Eso lo ves tú. Si tú trabajas hoy, no sirve de nada que los demás paremos.
+Dayana : Señor, yo no soy taxista. Yo tengo otro contrato.
+Fermín : Tienes un coche con aplicación. Eso es competencia desleal.
+Dayana : No es competencia desleal. Es otro servicio. Con otra licencia.
+Fermín : Otra licencia. ¿Sabes cuánto me costó la mía? Ochenta mil euros.
+Dayana : Ochenta mil euros. Pues qué bien. Yo no tengo ochenta mil euros. Tengo dos hijos y un coche en alquiler.
+Fermín : No me importan tus hijos. Me importa que yo pagué por trabajar y tú no.
+Dayana : A mí tampoco me regalan nada. Yo pago un porcentaje a la aplicación por cada viaje. Cuarenta por ciento algunos días.
+Fermín : ¿Cuarenta por ciento? Eso es abusivo.
+Dayana : Es lo que hay. Y encima, si no trabajo diez horas, no llego a fin de mes.
+Fermín : Pues peor para ti. Yo llevo treinta años en esto.
+Pablo : (levanta las manos) Por favor, un momento. Yo solo quiero llegar a la estación.
+Dayana : Sube, Pablo. Te llevo. No pasa nada.
+Fermín : Si sube, estará apoyando a quien nos hunde.
+Pablo : Yo no apoyo a nadie. Apoyo mi tren.
+Fermín : Eso suena muy práctico, pero no es suficiente.
+Dayana : Señor, ¿usted cree que yo quiero esto? Yo era contable en Bogotá. Aquí no me validaron el título.
+Fermín : Eso no es mi culpa.
+Dayana : No digo que lo sea. Digo que yo tampoco elegí esto.
+Fermín : Todos elegimos algo.
+Dayana : No. Algunos elegimos lo que hay.
+Fermín : Yo elegí trabajar con licencia, con taxímetro, con tarifa fija. Con reglas.
+Dayana : Y yo trabajo con aplicación, con precio dinámico, con reglas de otra empresa.
+Fermín : Unas reglas que no controlas.
+Dayana : Ni usted las de su licencia. Se las dio el Ayuntamiento.
+Fermín : Sí, pero son reglas públicas. No privadas.
+Dayana : A veces las públicas también cambian cuando quieren.
+Fermín : Eso es verdad. Pero ahí estamos peleando.
+Dayana : Pues pelee con quien quiere cambiarlas, no conmigo.
+Fermín : Contigo no peleo. Peleo con lo que representas.
+Dayana : Yo no represento nada. Soy una madre con un coche.
+Pablo : Perdonen, tengo que irme. Son las nueve menos veinte.
+Dayana : Subo la maleta. Entra.
+Fermín : Entonces ya está. Te llevas al pasajero.
+Dayana : Me llevo a quien me ha pedido el servicio. Es mi trabajo.
+Fermín : Pues vete. Pero no vuelvas a poner el coche delante de mi fila.
+Pablo : Un momento. Antes de irme, puedo decir una cosa.
+Fermín : Di.
+Pablo : Yo uso las apps porque el taxi me sale caro. Pero también uso el taxi cuando hay prisa.
+Fermín : ¿Cuánto es «caro» para ti?
+Pablo : A veces veinte euros más. Es mucho para mí.
+Fermín : Veinte euros más. Para un joven, sí. Para un taxista, es mi sueldo del día.
+Pablo : Pues entonces los dos tenemos razón.
+Dayana : Eso mismo digo yo. Todos tenemos razón y nadie gana.
+Fermín : Y mientras tanto, los que mandan siguen ganando.
+Dayana : ¿Qué quiere decir?
+Fermín : Las plataformas y los fondos que están detrás. Ellos no cuentan.
+Dayana : En eso tiene razón. Yo no sé ni quién me paga.
+Fermín : Pues entonces ya sabemos quién es el enemigo común.
+Pablo : (a Dayana) ¿Puedo subir ya? Voy justo de tiempo.
+Dayana : Claro. Suba.
+Pablo : (sube) Gracias. Y gracias a usted también, señor.
+Fermín : De nada, chaval. Y que te salga bien la entrevista.
+Pablo : ¿Cómo sabe que es una entrevista?
+Fermín : Llevas camisa, pero la camisa no está planchada. Es un clásico.
+Pablo : (ríe) Qué ojo.
+Dayana : (antes de arrancar) Perdone, ¿puedo preguntarle algo que no tiene que ver con esto?
+Fermín : Pregunta.
+Dayana : ¿Dónde se toma un buen café por aquí? Llevo toda la mañana sin parar.
+Fermín : Ah, eso sí. Dos calles más arriba hay una cafetería que se llama Casa Ana. El café con leche es una maravilla.
+Dayana : Casa Ana. La apunto.
+Fermín : Y si vas, dile a Ana que vas de parte de Fermín. Te pone un churro de regalo.
+Dayana : ¿De verdad?
+Fermín : No. Pero así te sientes bien recibida.
+Dayana : (ríe) Gracias, Fermín. Parece mentira que estemos hablando de churros.
+Fermín : Es que los churros son más importantes que las licencias.
+Pablo : (desde el coche) Perdonen, ¿puedo aportar una opinión?
+Fermín : Adelante.
+Pablo : Los churros y el café. Las licencias, en otro momento.
+Dayana : Qué sabio es este chico.
+Fermín : Demasiado sabio para un lunes.
+Pablo : Es jueves.
+Fermín : Pues demasiado sabio para un jueves.
+Dayana : Bueno, a lo que íbamos. Tengo que arrancar.
+Fermín : Arranca. Y cuida de tus hijos.
+Dayana : Y usted de su taxi. Aunque hoy descanse.
+Fermín : (se queda un momento mirando el coche negro que se aleja) Qué cosas.
+Pablo : (por la ventanilla, gritando) ¡Gracias por el consejo!
+Fermín : ¡De nada! ¡Y plancha la camisa!
+Pablo : ¡Lo haré!
+(El coche se va. Fermín vuelve a su taxi y se sirve un café del termo.)
+Fermín : (para sí) Ochenta mil euros. Y la que va en ese coche tiene dos hijos y ninguna licencia.
+(Pasan unos segundos. Llega Marcelo, otro taxista.)
+Marcelo : Fermín, ¿qué hacías hablando con esa de la aplicación?
+Fermín : Nada. Una conversación.
+Marcelo : ¿Una conversación? Qué raro.
+Fermín : Hay cosas más raras. Por ejemplo, que le haya recomendado Casa Ana.
+Marcelo : ¿Casa Ana? ¿A una conductora de aplicación?
+Fermín : Sí. Y también le he dicho que se cuide.
+Marcelo : Estás ablandándote, Fermín.
+Fermín : Será la edad.
+Marcelo : Pues la huelga es la huelga.
+Fermín : La huelga es la huelga. Pero la gente es la gente.
+Marcelo : Eso lo has sacado de una galleta de la suerte.
+Fermín : De un posavasos. Pero me gustó.
+Marcelo : Anda, tómate el café y no te pongas filosófico.
+Fermín : Si no me pongo filosófico, ¿qué hago todo el día parado?
+Marcelo : Tienes razón. Aquí hay mucho tiempo para pensar. Ojalá sirva de algo.
+
+## 낭독 포인트
+- z/c: licencia, cincuenta, gracias, hacer, cuenta, razón — [θ]. «Licencia»의 c는 [θ].
+- j/g: gente, viaje, dejar, trabajo — 강한 [x]. «Gente»는 [xén-te].
+- ll/y: calle, llevo, ya, yo — [ʝ]. «Calle»는 [ká-ʝe].
+- 억양: 항의(¿Ochenta mil euros?)는 높게, 단언(Estamos de huelga)은 낮게. 대립 장면에서는 문장 끝을 강하게 끊는다.
+- 호칭: 페르민은 파블로에게 tú, 파블로는 페르민에게 usted. 다야나는 처음에 페르민에게 usted를 쓰다가 후반에 농담을 건넬 때 가벼워진다.
+- 강세: «taxista»는 -xis-에, «plataforma»는 -for-에 강세.
+
+## 학습 포인트 정리
+- B2 구간(1~40, 81~120턴): 입장 설명과 반박
+  · 현재완료·부정과거: «Hemos votado.», «Pagué por trabajar.», «Me costó ochenta mil euros.»
+  · 반박: «No digo que sea tuya. Digo que el sistema es injusto.», «Eso lo ves tú.», «Yo no represento nada.»
+  · 접속법: «Entiendo que protesten.», «Que te salga bien la entrevista.», «Ojalá sirva de algo.»
+  · 대조: «Unos… otros…», «Aunque hoy descanse.», «Pero…»
+  · 직업·경제 어휘: la licencia, el taxímetro, la tarifa, la plataforma, el porcentaje, el contrato, la competencia desleal, la huelga, el fondo.
+- B1 구간(41~80턴): 짧고 강한 맞대응
+  · 짧은 반박: «Todos elegimos algo.», «No. Algunos elegimos lo que hay.»
+  · 중재: «Pues entonces los dos tenemos razón.», «Todos tenemos razón y nadie gana.»
+  · 시간 압박: «Voy justo de tiempo.», «Son las nueve menos veinte.»
+- 호칭 전환: usted ↔ tú의 변화(다야나가 마지막에 페르민에게 "usted de su taxi")에서 거리 변화를 읽는다.
+
+## 속어 노트
+- «Chaval»: 젊은이(구어, 약간 친근한 호칭).
+- «Vaya forma de votar»: 투표 방식 참 별나네(비꼼).
+- «Tú mismo»: 마음대로 해(약간의 포기·퉁명).
+- «Qué ojo»: 눈썰미 좋네.
+- «Hundir»: 가라앉히다, 망하게 하다.
+- 면허 가격(8만 유로), 수수료(40%), 파업 일정은 가공이다. 실제 택시·차량 호출 서비스 규제와 수수료는 시기와 지역에 따라 다르다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(목요일 아침, 여덟 시 반. 아토차 거리에 택시들이 불을 끈 채 줄지어 서 있다. 파블로가 작은 가방을 들고 휴대폰을 본다. 쉰여덟 살쯤 된 택시 기사 페르민이 보온병을 들고 차에 기대 서 있다.)
+파블로 : 실례지만, 다들 멈춰 서 있나요? 역까지 택시가 필요한데요.
+페르민 : 오늘은 택시 없어, 젊은이. 파업이야.
+파블로 : 파업요? 오늘요? 제 기차가 9시 10분에 떠나는데요.
+페르민 : 그거 안됐네. 하지만 오늘은 달리는 날이 아니라 멈추는 날이야.
+파블로 : 왜 항의하시는 거예요?
+페르민 : 면허 때문에. 앱 때문에. 교통에서 벌어지는 모든 일 때문에.
+파블로 : 항의하시는 건 이해해요. 하지만 저는 기차를 놓칠 수 없어요. 발렌시아에서 면접이 있어요.
+페르민 : 정말 미안해. 오늘은 못 태워 줘, 나도 하루를 날리고 싶진 않아.
+파블로 : 다른 분들은요? 누구든 태워 줄 수 있지 않나요?
+페르민 : 다른 사람들도 나랑 똑같아. 아무도 안 움직여. 우리가 투표로 정한 거야.
+파블로 : 참 대단한 투표네요. 저는 짜증이 나요.
+페르민 : 나는 월급을 잃어서 짜증이 나. 오늘 한 푼도 못 벌어. 하지만 항의하지 않으면 내일도 못 벌어.
+파블로 : 내일은 왜 못 번다는 거예요?
+페르민 : 앱 때문에 날마다 면허 없는 차가 내 손님을 빼앗아.
+파블로 : 저는 그런 앱을 써요. 더 싸니까요.
+페르민 : 알아. 그래서 내가 손님을 잃는 거야.
+파블로 : 더 싼 게 제 탓은 아니잖아요.
+페르민 : 자네 탓이라는 게 아니야. 시스템이 불공정하다는 거지.
+파블로 : (휴대폰을 본다) 그럼 보세요, 지금 3분 거리에 차가 있어요. 예약할게요.
+페르민 : 마음대로 해.
+(검은 차가 연석 옆에 선다. 운전사 다야나가 창문을 내린다.)
+다야나 : 파블로 씨? 운전기사 다야나예요. 아토차 역으로 가시죠?
+파블로 : 네. 이렇게 빨리 와 주셔서 고마워요.
+페르민 : (다가온다) 이봐, 오늘 파업인 거 안 보여? 여기서는 아무도 안 태워.
+다야나 : 안녕하세요, 아저씨도요. 저는 파업 안 해요. 일해요.
+페르민 : 그건 당신 생각이고. 당신이 오늘 일하면 다른 사람들이 멈춘 게 소용없어져.
+다야나 : 아저씨, 저는 택시 기사가 아니에요. 다른 계약을 맺었어요.
+페르민 : 앱 달린 차를 몰잖아. 그건 불공정 경쟁이야.
+다야나 : 불공정 경쟁이 아니에요. 다른 서비스예요. 다른 면허로요.
+페르민 : 다른 면허. 내 건 얼마였는지 알아? 8만 유로야.
+다야나 : 8만 유로. 참 좋으시겠네요. 저는 8만 유로가 없어요. 아이가 둘이고 렌트한 차가 있어요.
+페르민 : 당신 아이들은 내 상관 아니야. 중요한 건 나는 일하려고 돈을 냈고 당신은 안 냈다는 거야.
+다야나 : 저한테도 공짜로 주는 건 없어요. 운행마다 앱에 수수료를 내요. 어떤 날은 40퍼센트요.
+페르민 : 40퍼센트? 그건 부당해.
+다야나 : 어쩔 수 없어요. 게다가 열 시간을 안 일하면 월말을 못 버텨요.
+페르민 : 그럼 당신이 더 힘들겠네. 나는 이 일을 30년 했어.
+파블로 : (두 손을 든다) 제발, 잠깐만요. 저는 역에만 가고 싶어요.
+다야나 : 타세요, 파블로 씨. 태워 드릴게요. 괜찮아요.
+페르민 : 타면 우리를 망하게 하는 쪽을 지지하는 거야.
+파블로 : 저는 아무도 지지하지 않아요. 제 기차를 지지해요.
+페르민 : 아주 실용적으로 들리지만 그걸로는 부족해.
+다야나 : 아저씨, 제가 이걸 원해서 한다고 생각하세요? 저는 보고타에서 회계사였어요. 여기서는 학위를 인정 안 해 줬어요.
+페르민 : 그건 내 잘못이 아니야.
+다야나 : 아저씨 잘못이라는 게 아니에요. 저도 이걸 선택하지 않았다는 말이에요.
+페르민 : 다들 뭔가를 선택해.
+다야나 : 아니에요. 어떤 사람은 있는 걸 선택해요.
+페르민 : 나는 면허, 미터기, 고정 요금, 규칙이 있는 일을 선택했어.
+다야나 : 그리고 저는 앱, 변동 요금, 다른 회사의 규칙이 있는 일을 해요.
+페르민 : 당신이 통제 못 하는 규칙이지.
+다야나 : 아저씨도 면허 규칙은 못 하시죠. 시청이 줬잖아요.
+페르민 : 그렇지, 하지만 공공 규칙이야. 사적인 게 아니라.
+다야나 : 공공 규칙도 가끔은 그들이 원할 때 바뀌잖아요.
+페르민 : 그건 맞아. 그래서 우리가 싸우고 있는 거야.
+다야나 : 그럼 바꾸려는 사람과 싸우세요, 저랑 말고요.
+페르민 : 당신이랑 싸우는 게 아니야. 당신이 대표하는 것과 싸우는 거야.
+다야나 : 저는 아무것도 대표 안 해요. 차 한 대를 가진 엄마예요.
+파블로 : 죄송하지만 가야 해요. 9시 20분 전이에요.
+다야나 : 가방 실을게요. 타세요.
+페르민 : 그럼 됐네. 손님을 데려가.
+다야나 : 서비스를 요청하신 분을 데려가는 거예요. 제 일이에요.
+페르민 : 그럼 가. 하지만 내 줄 앞에 다시는 차를 대지 마.
+파블로 : 잠깐만요. 가기 전에 한 마디만 해도 될까요.
+페르민 : 해 봐.
+파블로 : 저는 택시가 비싸서 앱을 써요. 하지만 급할 때는 택시도 타요.
+페르민 : "비싸다"는 자네한테 얼마야?
+파블로 : 가끔은 20유로 더요. 저한테는 큰돈이에요.
+페르민 : 20유로 더. 젊은이한테는 그렇겠지. 택시 기사한테는 하루 월급이야.
+파블로 : 그럼 두 분 다 맞는 말씀이네요.
+다야나 : 제가 하는 말이 그거예요. 다들 맞는데 아무도 못 이겨요.
+페르민 : 그리고 그동안 시키는 쪽은 계속 이기지.
+다야나 : 무슨 말씀이세요?
+페르민 : 플랫폼과 그 뒤의 펀드 말이야. 그들은 계산에 안 들어가.
+다야나 : 그 점은 맞는 말씀이에요. 저는 누가 저한테 돈을 주는지도 몰라요.
+페르민 : 그럼 공동의 적이 누군지 이제 알겠네.
+파블로 : (다야나에게) 이제 타도 될까요? 시간이 빠듯해요.
+다야나 : 그럼요. 타세요.
+파블로 : (탄다) 고맙습니다. 그리고 아저씨도 고맙습니다.
+페르민 : 천만에, 젊은이. 면접 잘되길 바라.
+파블로 : 면접인 걸 어떻게 아세요?
+페르민 : 셔츠를 입었는데 다림질이 안 됐어. 전형적이지.
+파블로 : (웃는다) 눈썰미가 좋으시네요.
+다야나 : (출발하기 전에) 실례지만, 이 일과 상관없는 걸 여쭤봐도 될까요?
+페르민 : 물어봐.
+다야나 : 이 근처에서 좋은 커피는 어디서 마셔요? 아침 내내 쉬지 못했어요.
+페르민 : 아, 그건 알지. 두 블록 위에 '카사 아나'라는 카페가 있어. 카페 콘 레체가 일품이야.
+다야나 : 카사 아나. 적어 둘게요.
+페르민 : 가면 아나한테 페르민이 보냈다고 해. 추로스를 서비스로 줄 거야.
+다야나 : 정말요?
+페르민 : 아니. 하지만 그렇게 하면 환영받는 기분이 들잖아.
+다야나 : (웃는다) 고마워요, 페르민 씨. 추로스 얘기를 하고 있다니 믿기지 않네요.
+페르민 : 추로스가 면허보다 중요하니까.
+파블로 : (차 안에서) 실례지만 의견 하나 말해도 될까요?
+페르민 : 어서 해.
+파블로 : 추로스와 커피. 면허는 다음에요.
+다야나 : 이 청년 참 현명하네요.
+페르민 : 월요일치고는 너무 현명해.
+파블로 : 목요일이에요.
+페르민 : 그럼 목요일치고는 너무 현명해.
+다야나 : 자, 하던 얘기로 돌아가서요. 출발해야 해요.
+페르민 : 출발해. 그리고 아이들 잘 돌봐.
+다야나 : 아저씨도 택시를 잘 돌보세요. 오늘은 쉬더라도요.
+페르민 : (검은 차가 멀어지는 걸 잠시 바라본다) 세상에.
+파블로 : (창문으로 소리친다) 조언 고맙습니다!
+페르민 : 천만에! 그리고 셔츠 다려!
+파블로 : 그럴게요!
+(차가 떠난다. 페르민이 자기 택시로 돌아와 보온병에서 커피를 따른다.)
+페르민 : (혼잣말) 8만 유로. 그리고 저 차를 모는 사람은 아이 둘이 있고 면허가 없어.
+(몇 초가 지난다. 다른 택시 기사 마르셀로가 온다.)
+마르셀로 : 페르민, 저 앱 기사랑 무슨 얘기를 하고 있었어?
+페르민 : 아무것도 아니야. 대화.
+마르셀로 : 대화? 이상하네.
+페르민 : 더 이상한 것도 있어. 예를 들어 카사 아나를 추천해 줬다는 거.
+마르셀로 : 카사 아나? 앱 기사한테?
+페르민 : 응. 그리고 몸조심하라고도 했어.
+마르셀로 : 마음이 약해지고 있어, 페르민.
+페르민 : 나이 탓이겠지.
+마르셀로 : 그래도 파업은 파업이야.
+페르민 : 파업은 파업이지. 하지만 사람은 사람이야.
+마르셀로 : 그건 포춘 쿠키에서 따온 말이네.
+페르민 : 컵받침에서. 그래도 마음에 들었어.
+마르셀로 : 자, 커피 마시고 철학적으로 굴지 마.
+페르민 : 철학적으로 안 굴면 온종일 서서 뭘 해?
+마르셀로 : 맞는 말이야. 여기는 생각할 시간이 많지. 도움이 되었으면.

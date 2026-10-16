@@ -1,0 +1,287 @@
+# 2부 1화. Obras en la línea 1 (1호선 공사 중)
+난이도: 주 B1 | 구간: B1→B1→B1→B2→B1→B2 | 형식: 3인 대면 (+ 카페 종업원 한 줄) | 장소: 지하철역 입구, 안내 창구, 근처 카페 | 시간: 월요일 아침 6시 10분~7시
+등장인물: Inma, Rubén, Iglesias, Camarero
+이슈: 주 ● 대중교통 공사와 대체 수단 | 곡선: 2-3-3-1-0-0 (초반충격형) | 입장: A 청소 노동자 인마(시간제, 지각하면 계약 위험, 무릎 통증) / B 배달 청년 루벤(지연 시 불이익) / C 지하철 직원 이글레시아스(공사는 필요하지만 일정과 안내는 자기 결정이 아님)
+상황 카드: 월요일 새벽, 1호선 일부 구간이 공사로 석 달 가까이 닫힌다는 걸 모르고 온 인마와 루벤이 안내 직원에게 항의한다. 이글레시아스는 공사의 필요성과 한계를 설명하고 우회 노선을 알려 준다. 걸림돌은 대체 버스가 부족하다는 점. 결말은 세 사람이 함께 공식 불만 양식을 쓰기로 하고, 이글레시아스가 커피를 사며 풀린다.
+학습 포인트: 대중교통 어휘(el tramo, el andén, el trasbordo, el autobús sustitutorio) · 항의와 중재(Aun así…, No generalice) · 접속법 맛보기(Antes de que pregunten, Que no llueva) · 이유와 대조(Aunque, Pero) · 길 안내와 환승 설명
+
+## 대화
+(Lunes por la mañana, las seis y diez. La estación está casi vacía. En la entrada hay una cinta de plástico y un cartel: «Línea 1 cerrada entre Sol y Atocha por obras. Disculpen las molestias».)
+Inma : (lee el cartel) ¿Cerrada? ¿Cómo que cerrada? Si esta línea no se cierra nunca.
+Rubén : (llega corriendo con una mochila térmica) Perdona, ¿está cerrado el metro?
+Inma : Eso dice el cartel. Entre Sol y Atocha. Justo donde yo voy.
+Rubén : No me lo puedo creer. Yo tengo que estar en el almacén a las siete menos cuarto.
+Inma : Y yo en la oficina de la calle Atocha a las seis y media. Limpio los despachos antes de que lleguen.
+Rubén : Entonces vamos mal los dos.
+Inma : Pues peor yo, que llevo un año yendo por aquí y no me avisaron de nada.
+Rubén : ¿Seguro? Igual lo anunciaron en la app.
+Inma : ¿Qué app? Yo tengo un móvil de los de antes, de teclas.
+Rubén : (mira el suyo) Aquí está. «Desde el lunes hasta el quince de diciembre, obras de modernización de vías en el tramo Sol-Atocha».
+Inma : ¿Hasta diciembre? ¿Más de dos meses?
+Rubén : Dos meses y medio. Lo dice la aplicación.
+Inma : ¡Pero esto es una barbaridad! Hay gente que no puede pagar un taxi.
+Rubén : O que no tiene bici. Yo reparto en bici, pero hoy llevo una caja grande y llueve.
+Inma : A ver, ¿y los autobuses? ¿Hay autobuses?
+Rubén : Ponen autobuses de sustitución. Salen de la plaza. Pero tardan.
+Inma : Tardan. Siempre tardan.
+Rubén : Vamos a preguntar al del mostrador. Seguro que hay alguien.
+Inma : Vale. Pero que sepa que vengo de mal humor.
+Rubén : Se le nota, señora, se le nota.
+(Un empleado del metro, el señor Iglesias, está detrás de un mostrador con una taza de café.)
+Iglesias : Buenos días. Antes de que pregunten: sí, está cerrado, y no, no es una broma.
+Inma : Menos mal que lo sabe. ¿Por qué no avisaron antes?
+Iglesias : Avisamos hace tres semanas. Hubo carteles en todas las estaciones y comunicados en la web.
+Inma : Yo no he visto ningún cartel. ¿Dónde estaban?
+Iglesias : En los andenes. Y en las puertas de entrada.
+Inma : Yo entro por la otra puerta, que me pilla mejor. Y a esta hora no veo ni mi sombra.
+Rubén : Aun así, tres semanas de aviso es poco. La gente tiene que reorganizar su vida.
+Iglesias : Lo sé, y lo siento. Pero las obras son necesarias. Las vías llevan sesenta años sin renovarse.
+Inma : ¿Sesenta años? Pues que las hubieran renovado hace veinte, y no ahora, en pleno invierno.
+Iglesias : Señora, yo no decido el calendario de las obras. Yo solo estoy aquí para informar.
+Inma : Pues informe: ¿cómo llego a la calle Atocha?
+Iglesias : Con el autobús sustitutorio, que sale de la plaza de enfrente. Cuarenta minutos, con paradas.
+Inma : ¿Cuarenta minutos? En metro, quince.
+Iglesias : Lo sé. Es lo que hay.
+Rubén : ¿Y no pueden poner más autobuses?
+Iglesias : Hay doce. Para toda la línea. Es lo que ha dispuesto la compañía.
+Inma : Doce autobuses para seiscientas personas. Esto no hay quien lo entienda.
+Rubén : Mire, yo no digo que las obras no sean necesarias. Pero si cierran el tramo más usado, habrá que dar alternativas de verdad.
+Iglesias : Se lo estoy diciendo todos los días a la jefatura. Pero nadie me hace caso.
+Inma : Pues entonces los dos estamos en el mismo barco.
+Iglesias : Pues sí. Aunque mi barco, al menos, tiene sueldo fijo.
+Inma : ¿Y el mío? Yo cobro por horas. Si llego tarde a una oficina, pierdo el contrato.
+Rubén : A mí me penalizan si entrego pedidos con retraso. Mi jefe no entiende de obras.
+Inma : Y además yo tengo mala una rodilla. En el autobús no siempre hay asiento.
+Iglesias : Hay asientos reservados.
+Inma : Reservados, pero ocupados por chavales con auriculares. Nadie se levanta.
+Rubén : Eso es verdad. Yo me levanto, pero soy una excepción.
+Iglesias : No generalice, que también hay gente buena.
+Inma : Claro que hay gente buena. Pero la gente buena no cabe en un autobús lleno.
+Rubén : Y encima el abono vale lo mismo. No pagamos menos aunque el servicio sea peor.
+Iglesias : Hay quejas, claro. Mucha gente las pone. Se tramitan.
+Inma : ¿Y sirven de algo?
+Iglesias : A veces. Poco. Pero algo.
+Rubén : Pues pongamos una queja los tres, ya que estamos aquí. A ver si el montón la mueve.
+Iglesias : Yo no puedo poner una queja contra mi empresa. Me echarían.
+Inma : Entonces la ponemos nosotros, y usted nos ayuda a rellenarla.
+Iglesias : Eso sí puedo hacerlo. Es un formulario público.
+Rubén : Y mientras tanto, ¿cómo llego a mi almacén?
+Iglesias : Hay una combinación: línea tres hasta Callao y luego el autobús 27. Son treinta minutos.
+Inma : Yo la pruebo también. A ver cuánto tardo.
+Iglesias : Les doy un plano con las alternativas. Aquí tienen: autobús sustitutorio, línea tres con trasbordo y la línea ocho de autobús, que va por la calle Atocha.
+Rubén : ¿La ocho pasa por mi almacén?
+Iglesias : No exactamente. Para dos calles antes. Pero andando son cinco minutos.
+Inma : ¿Y la ocho es de las que tardan?
+Iglesias : Es de las que pasan cada diez minutos en hora punta. A esta hora, cada quince.
+Inma : Quince minutos esperando, con este frío.
+Iglesias : Hay una cafetería en la esquina que abre a las seis. Allí pueden esperar con un café.
+Rubén : Eso ya me gusta más. Un café caliente tranquiliza a cualquiera.
+Inma : A mí un café con leche me arregla el día. Aunque hoy lo veo difícil.
+Iglesias : Les invito yo al primero. Tengo vales de la empresa.
+Inma : ¿Vales de la empresa? ¿Y por qué no los dan a los usuarios?
+Iglesias : Porque son para los empleados. Pero hoy me siento generoso.
+Rubén : Se lo agradezco. Pero no hace falta que se moleste.
+Iglesias : No es molestia. Además, ustedes me han escuchado sin gritarme.
+Inma : (ríe) Nos hemos desahogado un poco, pero no hemos gritado.
+Iglesias : Se lo agradezco. Los lunes suelen ser peores.
+Rubén : ¿Peores que esto?
+Iglesias : Ayer me insultaron dos veces antes de las diez.
+Inma : Pobre. Eso no se hace.
+Iglesias : Gracias. Lo suyo es normal; lo mío es una paciencia que ya no me queda.
+(Iglesias sale del mostrador con una chaqueta. Los tres caminan hasta la cafetería de la esquina.)
+Rubén : ¿Siempre trabaja en esta estación?
+Iglesias : Desde hace veintidós años. Antes estuve en Plaza de Castilla.
+Inma : ¿Y cuál prefiere?
+Iglesias : Esta. Tiene más movimiento y más historias.
+Rubén : ¿Historias? ¿Qué historias?
+Iglesias : Gente que se pierde, parejas que se despiden, un señor que se duerme y llega hasta Pinar de Chamartín.
+Inma : (ríe) A mí me pasó una vez. Me dormí y llegué a Valdecarros.
+Iglesias : Todos nos hemos dormido alguna vez. Es el cansancio del metro.
+Rubén : A mí me gusta mirar a la gente. Imagino sus vidas.
+Iglesias : Eso es lo bonito. En el metro hay millones de novelas.
+Inma : Y los lunes, todas son de terror.
+Iglesias : (ríe) Eso es verdad.
+Camarero : (en la cafetería) Buenos días, ¿qué les pongo?
+Iglesias : Tres cafés con leche, por favor. Y unas tostadas con aceite.
+Camarero : Marchando. ¿Para tomar aquí?
+Inma : Sí, sentados. Me duele la rodilla.
+Camarero : Siéntense en la mesa del fondo, que es más cómoda.
+Rubén : Gracias. (se sientan) Qué calor. Se está bien aquí.
+Iglesias : Y mejor aún con el café.
+Inma : Esto es un lunes digno.
+Iglesias : Bueno, se acerca la hora. Inma, ¿le explico bien la ruta de la línea ocho?
+Inma : Si me lo repite, se lo agradezco. Soy un desastre con los números.
+Iglesias : Línea ocho, parada «Atocha-Carretas». Son doce paradas. Se baja en la octava.
+Inma : La octava. Octava, octava. Lo apunto.
+Rubén : Yo me voy. Gracias por todo, Iglesias. Y por el café.
+Iglesias : A usted, Rubén. Y cuidado con esa caja, que llueve.
+Rubén : Prometo no mojarla. Ni mojarme yo, si puedo.
+Inma : Rubén, antes de que se vaya: si tiene un minuto, deme su número. Para lo de la queja.
+Rubén : Claro. (se lo da) Le mando el formulario esta tarde.
+Inma : Perfecto. Yo lo relleno esta noche, con calma.
+Iglesias : Y si necesitan ayuda con alguna casilla, vengan a verme. Yo les explico qué poner.
+Inma : Es usted un cielo, Iglesias.
+Iglesias : No lo diga muy alto, que me despiden.
+Rubén : Entonces lo diremos bajito.
+Inma : Bajito y en tres idiomas.
+Iglesias : Dos meses y medio pasan rápido. Ya verán.
+Inma : Eso espero. Aunque si vuelvo a mojarme los pies, protesto en la plaza de Sol.
+Rubén : Y yo la acompaño con un cartel.
+Iglesias : Yo les llevo el café.
+Inma : Trato hecho. Hasta luego, entonces. Y que no llueva demasiado.
+
+## 낭독 포인트
+- z/c: cerrada, cinco, doce, Plaza, hace, gracias — [θ]. «Plaza de Castilla»에서 z와 c 모두 [θ].
+- j/g: jefatura, gente, abajo, mojar — 강한 [x]. «mojarme»의 j는 [x].
+- ll/y: llueve, calle, llevo, ya — [ʝ]. «Llueve»는 ll로 시작.
+- 숫자와 시각: seis y diez, siete menos cuarto, quince de diciembre, treinta minutos — 시각 표현을 또렷하게.
+- 억양: 항의(¿Hasta diciembre?)는 높게 시작해 단호하게 내린다. 직원의 사과는 낮고 느리게. 농담(Esto es un lunes digno)은 가볍게.
+- 호칭: 인마는 이글레시아스에게 usted, 이글레시아스는 두 사람에게 usted. 루벤과 인마는 서로 usted에서 점차 가까워진다.
+
+## 학습 포인트 정리
+- B1 구간(1~60, 81~100턴): 항의와 정보 묻기
+  · 정보 묻기: «¿Cómo llego a…?», «¿Hay autobuses?», «¿Cuánto tarda?»
+  · 항의 표현: «Esto es una barbaridad.», «No me lo puedo creer.», «Es lo que hay.»
+  · 대조: «Aun así…», «Aunque…», «Pero…»
+  · 현재완료·부정과거: «Avisamos hace tres semanas.», «Me insultaron dos veces antes de las diez.»
+  · 교통 어휘: la línea, la estación, el andén, el tramo, las obras, el autobús sustitutorio, el trasbordo, el abono, la parada, hora punta.
+  · 시각과 기간: «a las siete menos cuarto», «dos meses y medio», «hasta el quince de diciembre».
+- B2 구간(61~80, 101~120턴): 설득과 마무리
+  · 접속법: «Antes de que pregunten…», «Antes de que se vaya…», «Que no llueva demasiado.», «No hace falta que se moleste.»
+  · 가정법: «Que las hubieran renovado hace veinte años.»
+  · 제안: «Pongamos una queja los tres.»
+  · 문법 포인트: 현재 접속법의 부정 명령(No generalice), «hay que + 부정사».
+
+## 속어 노트
+- «Es lo que hay»: 어쩔 수 없다, 이게 현실이다.
+- «Estar en el mismo barco»: 같은 처지다.
+- «No veo ni mi sombra»: 아무것도 안 보인다(어두워서·정신없어서).
+- «Qué lunes digno»: 월요일치고는 괜찮다.
+- «Los chavales»: 젊은이들, 애들(구어).
+- 공사 일정과 노선은 가공이다. 실제 지하철 공사와 대체 수단은 운영사 공지를 확인해야 한다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(월요일 아침, 여섯 시 십 분. 역은 거의 비어 있다. 입구에는 플라스틱 테이프와 안내문이 있다. "1호선 솔-아토차 구간은 공사로 폐쇄됩니다. 불편을 드려 죄송합니다.")
+인마 : (안내문을 읽는다) 폐쇄라고? 폐쇄가 무슨 말이야? 이 노선은 닫는 일이 없는데.
+루벤 : (보온 가방을 메고 뛰어온다) 저기요, 지하철 닫았어요?
+인마 : 안내문에 그렇게 써 있어요. 솔과 아토차 사이. 내가 가는 곳이 딱 거기예요.
+루벤 : 믿을 수가 없네요. 저는 7시 15분 전까지 창고에 가야 하는데.
+인마 : 나는 6시 반까지 아토차 거리 사무실에 가야 해요. 사람들이 오기 전에 사무실을 청소하거든요.
+루벤 : 그럼 둘 다 큰일이네요.
+인마 : 나는 더 그래요, 1년 동안 여기 다녔는데 아무 연락도 못 받았어요.
+루벤 : 확실해요? 어쩌면 앱에 공지했을지도 몰라요.
+인마 : 무슨 앱? 나는 옛날 버튼식 휴대폰이에요.
+루벤 : (자기 휴대폰을 본다) 여기 있네요. "월요일부터 12월 15일까지 솔-아토차 구간 선로 현대화 공사."
+인마 : 12월까지? 두 달이 넘게?
+루벤 : 두 달 반이요. 앱에 나와 있어요.
+인마 : 이건 말도 안 돼요! 택시 못 타는 사람도 있는데.
+루벤 : 아니면 자전거가 없는 사람이요. 저는 자전거로 배달하는데 오늘은 큰 상자를 들고 비도 와요.
+인마 : 버스는요? 버스는 있어요?
+루벤 : 대체 버스를 운행해요. 광장에서 출발해요. 근데 느려요.
+인마 : 느리죠. 항상 느려요.
+루벤 : 창구 직원에게 물어봐요. 분명 누가 있을 거예요.
+인마 : 좋아요. 하지만 내가 기분이 나쁘다는 건 알아 두라고 해요.
+루벤 : 티가 나요, 아주머니, 티가 나요.
+(지하철 직원 이글레시아스 씨가 커피잔을 들고 창구 뒤에 있다.)
+이글레시아스 : 안녕하세요. 물어보시기 전에 말씀드리면, 네 닫혔고 아니요 농담이 아닙니다.
+인마 : 아시니 다행이네요. 왜 미리 알리지 않았어요?
+이글레시아스 : 3주 전에 알렸습니다. 모든 역에 안내문을 붙였고 홈페이지에도 공지했어요.
+인마 : 나는 안내문을 본 적이 없어요. 어디 있었어요?
+이글레시아스 : 승강장에, 그리고 입구 문에 있었어요.
+인마 : 나는 다른 문으로 다녀요, 그쪽이 편해서. 그리고 이 시간엔 내 그림자도 안 보여요.
+루벤 : 그래도 3주 전 공지는 짧아요. 사람들은 생활을 다시 짜야 하니까요.
+이글레시아스 : 알아요, 죄송합니다. 하지만 공사는 필요해요. 선로를 60년 동안 교체하지 못했어요.
+인마 : 60년이요? 그럼 20년 전에 교체했어야지, 한겨울인 지금이 아니라.
+이글레시아스 : 아주머니, 공사 일정은 제가 정하지 않아요. 저는 안내하러 여기 있는 거예요.
+인마 : 그럼 안내해 줘요. 아토차 거리에는 어떻게 가요?
+이글레시아스 : 맞은편 광장에서 출발하는 대체 버스로요. 정차하면서 40분이에요.
+인마 : 40분요? 지하철로는 15분인데.
+이글레시아스 : 알아요. 어쩔 수 없어요.
+루벤 : 버스를 더 투입할 수는 없나요?
+이글레시아스 : 열두 대예요. 노선 전체에. 회사가 정한 거예요.
+인마 : 열두 대로 600명이라니. 이건 이해할 수가 없어요.
+루벤 : 저는 공사가 필요 없다고 하는 게 아니에요. 하지만 가장 많이 쓰는 구간을 닫으면 진짜 대안을 줘야죠.
+이글레시아스 : 매일 지휘부에 그렇게 말하고 있어요. 하지만 아무도 귀 기울이지 않아요.
+인마 : 그럼 우리 둘은 같은 배를 탄 거네요.
+이글레시아스 : 그렇죠. 그래도 제 배는 최소한 월급이 고정이에요.
+인마 : 내 배는요? 나는 시간당 받아요. 사무실에 늦으면 계약을 잃어요.
+루벤 : 저는 배달이 늦으면 벌점을 받아요. 사장님은 공사를 이해 못 해요.
+인마 : 게다가 나는 무릎이 안 좋아요. 버스에 항상 자리가 있는 건 아니에요.
+이글레시아스 : 우선 좌석이 있어요.
+인마 : 우선 좌석이 있지만 이어폰 낀 애들이 차지해요. 아무도 안 일어나요.
+루벤 : 그건 맞아요. 저는 일어나는데 저는 예외예요.
+이글레시아스 : 일반화하지 마세요, 좋은 사람들도 있어요.
+인마 : 좋은 사람들은 있죠. 하지만 좋은 사람들은 만원 버스에 안 들어가요.
+루벤 : 게다가 정기권은 값이 똑같아요. 서비스가 나빠져도 덜 내지 않아요.
+이글레시아스 : 불만은 접수돼요, 물론이죠. 많은 사람이 제출하고 처리돼요.
+인마 : 효과가 있어요?
+이글레시아스 : 가끔요. 조금요. 그래도 조금은요.
+루벤 : 그럼 여기 있는 김에 셋이 불만을 제출해요. 숫자가 많으면 움직일지도 몰라요.
+이글레시아스 : 저는 제 회사를 상대로 불만을 낼 수는 없어요. 잘려요.
+인마 : 그럼 우리가 내고, 작성하는 걸 도와주세요.
+이글레시아스 : 그건 할 수 있어요. 공개 양식이에요.
+루벤 : 그럼 그동안 저는 창고에 어떻게 가요?
+이글레시아스 : 환승 방법이 있어요. 3호선으로 카야오까지 가서 27번 버스를 타요. 30분이에요.
+인마 : 나도 해 볼게요. 얼마나 걸리는지 보게.
+이글레시아스 : 대안이 적힌 지도를 드릴게요. 여기 있어요. 대체 버스, 환승이 있는 3호선, 아토차 거리로 가는 버스 8번이에요.
+루벤 : 8번이 제 창고 앞을 지나요?
+이글레시아스 : 정확히는 아니에요. 두 블록 전에 서요. 걸어서 5분이에요.
+인마 : 8번은 오래 걸리는 쪽이에요?
+이글레시아스 : 출퇴근 시간에는 10분마다 와요. 지금 시간에는 15분마다요.
+인마 : 이 추위에 15분 기다리라고요.
+이글레시아스 : 모퉁이에 6시에 여는 카페가 있어요. 거기서 커피 마시며 기다리시면 돼요.
+루벤 : 그건 마음에 들어요. 따뜻한 커피는 누구든 진정시키죠.
+인마 : 나는 카페 콘 레체면 하루가 풀려요. 오늘은 어려울 것 같지만요.
+이글레시아스 : 첫 잔은 제가 살게요. 회사 쿠폰이 있어요.
+인마 : 회사 쿠폰이요? 그걸 왜 이용객에게는 안 줘요?
+이글레시아스 : 직원용이라서요. 하지만 오늘은 인심이 후하네요.
+루벤 : 감사하지만 폐 끼치고 싶지 않아요.
+이글레시아스 : 폐가 아니에요. 게다가 두 분은 저에게 소리를 지르지 않고 들어 주셨잖아요.
+인마 : (웃는다) 좀 풀기는 했지만 소리는 안 질렀죠.
+이글레시아스 : 감사해요. 월요일은 보통 더 심해요.
+루벤 : 이것보다 더요?
+이글레시아스 : 어제는 10시 전에 두 번 욕을 먹었어요.
+인마 : 안됐네요. 그러면 안 되는데.
+이글레시아스 : 고마워요. 두 분은 정상이고, 제 인내심이 이제 바닥났어요.
+(이글레시아스가 재킷을 입고 창구에서 나온다. 셋이 모퉁이 카페까지 걸어간다.)
+루벤 : 항상 이 역에서 일하세요?
+이글레시아스 : 22년째요. 전에는 카스티야 광장역에 있었어요.
+인마 : 어느 쪽이 더 좋아요?
+이글레시아스 : 여기요. 사람이 더 많고 이야기도 더 많아요.
+루벤 : 이야기요? 어떤 이야기요?
+이글레시아스 : 길 잃은 사람들, 헤어지는 연인들, 잠들어서 피나르 데 차마르틴까지 가는 신사.
+인마 : (웃는다) 나도 한 번 그랬어요. 잠들어서 발데카로스까지 갔어요.
+이글레시아스 : 누구나 한 번은 잠들죠. 지하철의 피로예요.
+루벤 : 저는 사람들 보는 게 좋아요. 그들의 삶을 상상해요.
+이글레시아스 : 그게 매력이죠. 지하철에는 수백만 편의 소설이 있어요.
+인마 : 그리고 월요일엔 다 공포 소설이고요.
+이글레시아스 : (웃는다) 맞아요.
+종업원 : (카페에서) 안녕하세요, 무엇을 드릴까요?
+이글레시아스 : 카페 콘 레체 세 잔 주세요. 그리고 올리브유 토스트도요.
+종업원 : 바로요. 여기서 드시나요?
+인마 : 네, 앉아서요. 무릎이 아파서요.
+종업원 : 안쪽 테이블에 앉으세요, 더 편해요.
+루벤 : 고맙습니다. (앉는다) 따뜻하네요. 여기 있으니 좋아요.
+이글레시아스 : 커피가 있으면 더 좋죠.
+인마 : 이건 괜찮은 월요일이에요.
+이글레시아스 : 자, 시간이 다 됐네요. 인마 씨, 8번 노선을 다시 잘 설명해 드릴까요?
+인마 : 다시 말해 주시면 고맙겠어요. 숫자는 영 서툴러서요.
+이글레시아스 : 8번 버스, 정류장은 "아토차-카레타스"예요. 열두 정거장이고 여덟 번째에서 내리세요.
+인마 : 여덟 번째. 여덟 번째, 여덟 번째. 적어 둘게요.
+루벤 : 저는 가요. 다 고마워요, 이글레시아스 씨. 그리고 커피도요.
+이글레시아스 : 저야말로요, 루벤 씨. 상자 조심하세요, 비가 와요.
+루벤 : 안 젖게 할게요. 저도 안 젖게 해 볼게요.
+인마 : 루벤, 가기 전에 잠깐만. 시간 되면 번호 줘요. 불만 제출 건으로.
+루벤 : 그럼요. (번호를 준다) 오늘 오후에 양식 보내 드릴게요.
+인마 : 좋아요. 나는 오늘 밤에 천천히 쓸게요.
+이글레시아스 : 칸 하나라도 도움이 필요하시면 저한테 오세요. 뭘 써야 하는지 설명해 드릴게요.
+인마 : 천사시네요, 이글레시아스 씨.
+이글레시아스 : 크게 말씀하지 마세요, 잘려요.
+루벤 : 그럼 작게 말할게요.
+인마 : 작게, 그리고 세 개 언어로.
+이글레시아스 : 두 달 반은 금방 지나가요. 두고 보세요.
+인마 : 그러길 바라요. 하지만 또 발이 젖으면 솔 광장에서 항의할 거예요.
+루벤 : 저는 피켓 들고 같이 갈게요.
+이글레시아스 : 저는 커피를 가져다드릴게요.
+인마 : 약속이에요. 그럼 이따 봐요. 그리고 비가 너무 많이 오지 않기를.

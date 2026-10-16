@@ -1,0 +1,286 @@
+# 5부 9화. Entradas a precio de oro (금값이 된 표)
+난이도: 주 B2 | 구간: B2→B2→B2→C1→B2→B2 | 형식: 전화+메시지 | 장소: 이레네의 집 거실과 콜센터 | 시간: 금요일 오전 10시
+등장인물: Irene, Jaime, Cata
+이슈: 주 ● 대형 공연 표의 유동 가격제와 암표 | 곡선: 3-3-2-1-1-0 (초반충격형, 상한 3) | 입장: A 이레네(몇 달을 기다린 콘서트 표 값이 대기 중에 세 배로 뛰었다) / B 하이메(고객센터 직원, 수요에 따라 가격이 바뀌는 방식이라 설명한다) / C 카타(친구, 메시지로 같이 분노하다가 대안을 제안한다)
+상황 카드: 좋아하는 가수의 콘서트 예매가 열린 날, 대기실에서 기다리던 이레네는 화면에서 한 장에 오십 유로였던 표가 백오십 유로로 올라 있는 것을 본다. 고객센터에 전화하고 친구와 메시지를 주고받으며 분노하다가 점차 현실을 받아들인다. 걸림돌은 가격과 수량. 결말은 이레네가 다음 날짜의 표를 노리기로 하고, 친구와 대안을 찾는 것.
+학습 포인트: 항의 전화(Quería reclamar, Me parece abusivo) · 가격 설명(precio dinámico, tarifa variable) · 감정 표현과 진정 · 메시지 문체 · 대안 제시(Podríamos…, Quizá sea mejor…)
+
+## 대화
+(Viernes, diez de la mañana. El salón de Irene. Tiene el portátil abierto y el móvil al lado. En la pantalla aparece una página de venta de entradas. Irene suspira con las manos en la cabeza.)
+Irene : No me lo puedo creer. Ciento cincuenta euros. ¡Ciento cincuenta!
+Cata : (mensaje) ¿Has entrado? Yo llevo dos horas en la cola y no pasa nada.
+Irene : (escribe) Yo he pasado. Y no te lo vas a creer: las entradas están a ciento cincuenta.
+Cata : (mensaje) ¿Ciento cincuenta? Si valían cincuenta en la preventa.
+Irene : (escribe) Eso mismo. Han triplicado el precio.
+Cata : (mensaje) ¿Y cuántas entradas quedan?
+Irene : (escribe) La página dice «últimas entradas». Lo mismo decía hace una hora.
+Cata : (mensaje) Eso lo dicen siempre para meter prisa.
+Irene : (escribe) Lo sé. Y aun así me pone nerviosa.
+Cata : (mensaje) Ya van cuarenta personas delante de mí en la cola.
+Irene : (escribe) Entonces cuando entres estará aún más caro.
+Cata : (mensaje) No digas eso. Respira.
+Irene : (escribe) Respiro. Pero con rabia.
+Cata : (mensaje) Qué abuso. Llama al servicio de atención.
+Irene : (escribe) Voy a llamar. A ver qué dicen.
+(Irene marca un número. Suena un tono. Contesta una voz grabada y después Jaime.)
+Jaime : Buenos días, atención al cliente de EntradasYa. Le atiende Jaime. ¿En qué puedo ayudarle?
+Irene : Buenos días. Quería reclamar por el precio de las entradas del concierto de Luna Verde.
+Jaime : Ah, entiendo. ¿Qué ocurre exactamente?
+Irene : Que hace un mes estaban a cincuenta euros. Ahora, a ciento cincuenta.
+Jaime : Sí, lo veo. Se trata de un sistema de precios dinámicos.
+Irene : ¿Precios dinámicos? ¿Eso qué significa?
+Jaime : Que el precio varía según la demanda. Cuando hay más gente comprando, sube.
+Irene : Eso me parece abusivo. Yo me registré con meses de antelación.
+Jaime : Lo comprendo. Pero las condiciones lo explican en la letra pequeña.
+Irene : ¿En qué punto? Yo las leí.
+Jaime : En el punto siete: «El precio puede variar en función de la demanda».
+Irene : Pues ese punto no lo vi. Y aunque lo hubiera visto, me parece una trampa.
+Jaime : Entiendo su enfado. No es una opinión personal. Yo soy solo el que da el mensaje.
+Irene : Claro. Pero usted es quien me habla. Y no me parece justo.
+Jaime : Lo siento mucho, de verdad.
+Irene : No me lo diga. Dígame qué puedo hacer.
+Jaime : Puede intentar comprar más tarde. A veces los precios bajan cuando baja la demanda.
+Irene : ¿Cuándo baja?
+Jaime : No lo sabemos. Depende del flujo de compradores.
+Irene : O sea, que puedo esperar semanas y que no baje.
+Jaime : Es posible. Y también puede suceder que se agoten.
+Irene : Qué manera tan elegante de presionarme para comprar ahora.
+Jaime : No es mi intención.
+Irene : No digo que sea la suya. Digo que es el efecto.
+Jaime : Tiene razón. Es un efecto que muchos clientes mencionan.
+(El móvil de Irene vibra. Es un mensaje de Cata.)
+Cata : (mensaje) ¿Qué te dicen? Yo acabo de entrar y están a ciento ochenta.
+Irene : (escribe) Ciento ochenta. Esto es una locura.
+Cata : (mensaje) A este ritmo, mañana serán doscientos.
+Irene : (escribe) Estoy hablando con el servicio. Te cuento.
+Jaime : ¿Sigue ahí, señora?
+Irene : Sí, perdone. Mi amiga me escribe.
+Jaime : Tranquila. Si quiere, le puedo explicar cómo funciona la lista de espera.
+Irene : ¿Hay lista de espera?
+Jaime : Sí. Si se cancela alguna entrada, se ofrece a quienes están en la lista al precio original.
+Irene : ¿Al precio original? ¿De cincuenta?
+Jaime : Sí. Es lo único que le puedo ofrecer.
+Irene : ¿Y cuántas personas hay en la lista?
+Jaime : No tengo el dato exacto. Pero el concierto lleva agotado desde hace una hora.
+Irene : Entonces, la probabilidad es mínima.
+Jaime : Honestamente, sí. Pero es una opción.
+Irene : Apúnteme, por favor.
+Jaime : Con gusto. ¿Me da su nombre y su correo?
+Irene : Irene Vidal. Irene punto vidal arroba correo punto es.
+Jaime : Gracias. Ya está en la lista. Le llegará un correo si hay novedades.
+Irene : Gracias. Una pregunta: ¿por qué hacen esto?
+Jaime : ¿Cómo dice?
+Irene : Lo de los precios dinámicos. ¿Quién gana con ello?
+Jaime : La empresa y el artista. Y también los organizadores.
+Irene : ¿Y los fans? ¿Qué ganamos?
+Jaime : Se supone que se evita que los revendedores se lleven el beneficio.
+Irene : Entiendo. Pero entonces el beneficio se lo llevan ustedes.
+Jaime : No sé si es mejor o peor. Es un debate abierto.
+Irene : Un debate que a mí me cuesta ciento cincuenta euros.
+Jaime : Lo entiendo.
+Irene : ¿Usted iría a pagar ciento cincuenta por un concierto?
+Jaime : Sinceramente, no. Pero hay quien sí.
+Irene : Yo tampoco. Pero llevo meses esperando este concierto.
+Jaime : Es duro. Mi hermana también quería ir. Se quedó fuera.
+Irene : Lo siento. Se nota que no lo disfrutan en la empresa.
+Jaime : A veces tampoco nos gusta. Pero son las normas.
+Irene : Mire, no me estoy quejando de usted.
+Jaime : Lo sé. Gracias por decirlo.
+Irene : ¿Puedo presentar una reclamación formal?
+Jaime : Sí. Puede escribir a reclamaciones arroba entradasya punto es.
+Irene : ¿Servirá de algo?
+Jaime : Con total sinceridad, no creo que cambie el precio. Pero queda constancia.
+Irene : Algo es algo. Gracias, Jaime.
+Jaime : A usted. Y siento no poder ayudar más.
+Irene : No pasa nada. Sé que no depende de usted.
+Jaime : Que tenga un buen día. Y buena suerte.
+Irene : Igualmente. Adiós.
+(Irene cuelga. Deja el teléfono sobre la mesa y se frota los ojos. El móvil vuelve a vibrar.)
+Cata : (mensaje) ¿Y bien? ¿Qué te han dicho?
+Irene : (escribe) Que el precio depende de la demanda y que me han puesto en lista de espera. A precio original.
+Cata : (mensaje) ¿Y cuántas posibilidades hay?
+Irene : (escribe) Casi ninguna. Pero es lo que hay.
+Cata : (mensaje) Qué rabia. ¿Sabes qué? Voy a mirar si hay otra fecha.
+Irene : (escribe) La hay. En Barcelona, dentro de un mes. A ver si los precios son menores allí.
+Cata : (mensaje) Podríamos ir en tren. ¿Cuánto cuesta el AVE?
+Irene : (escribe) Unos cuarenta euros por trayecto, comprando con antelación.
+Cata : (mensaje) Entonces, entradas más tren, más hotel... Se nos va de precio.
+Irene : (escribe) Sí. Quizá mejor ahorrarlo para el próximo concierto.
+Cata : (mensaje) Pero no es lo mismo. Queríamos verla aquí, en casa.
+Irene : (escribe) Lo sé. Yo también. Pero a veces hay que ser realista.
+Cata : (mensaje) Ya estamos con tu realismo.
+Irene : (escribe) Mejor un realismo que una deuda.
+Cata : (mensaje) Eso sí. Oye, ¿y si montamos un plan B?
+Irene : (escribe) ¿Cuál?
+Cata : (mensaje) Escuchar el disco en mi casa, con velas y comida.
+Irene : (escribe) Un concierto en el salón.
+Cata : (mensaje) Con vestuario incluido. Tú serás la cantante.
+Irene : (escribe) Ja, ja. Pobres vecinos.
+Cata : (mensaje) Pobres, sí. Pero será inolvidable.
+Irene : (escribe) Vale. El plan B acepta propuestas.
+Cata : (mensaje) Apunto: sábado, mi casa, a las nueve.
+Irene : (escribe) Trato hecho. Llevo la tarta.
+Cata : (mensaje) Y yo, la bebida y las velas.
+Irene : (escribe) Qué bien, al final salimos ganando.
+Cata : (mensaje) Siempre. Con un poco de humor, todo se arregla.
+Irene : (escribe) Menos el precio de las entradas.
+Cata : (mensaje) Menos eso. Pero lo demás, sí.
+(Irene sonríe. Cierra el portátil. Mira por la ventana. En la calle hay niños jugando.)
+Irene : (para sí) Quizá el próximo año.
+Cata : (mensaje) Y si no, el siguiente.
+Irene : (escribe) El siguiente, entonces.
+Cata : (mensaje) Besos. Sábado a las nueve.
+Irene : (escribe) Besos. Sábado.
+
+## 낭독 포인트
+- z/c: «precio», «cincuenta», «ciento», «concierto» — c(e, i)와 z는 [θ](영어 th, thin)로 혀끝을 이 사이에 두고 낸다.
+- j/g: «mensaje», «original», «mejor», «baja» — j와 g(e, i)는 강한 [x](목 안쪽에서 나는 h 소리)로 낸다.
+- ll/y: «llevo», «llegará», «llamar», «yo» — ll과 y는 [ʝ](영어 y에 가까운 소리)로 낸다.
+- 억양: 이레네의 분노(Ciento cincuenta euros)는 처음엔 소리를 키웠다가 점차 낮추어 현실을 받아들이는 흐름으로 읽는다. 하이메의 설명(precios dinámicos)은 직원답게 차분하고 또렷하게. 메시지 문장(Cata)은 가볍고 빠르게 읽는다.
+- 숫자: cincuenta, ciento cincuenta, ciento ochenta, doscientos를 구별해서 읽는다. 이메일 주소는 «irene punto vidal arroba correo punto es»처럼 끊어서 읽는다.
+- 호칭: 이레네와 하이메는 usted, 이레네와 카타는 tú. 메시지에서는 구어체 축약이 많다.
+
+## 학습 포인트 정리
+- B2 구간(1~60, 81~120턴): 항의와 설명
+  · 항의: «Quería reclamar por el precio de las entradas.», «Me parece abusivo.», «Me parece una trampa.»
+  · 설명: «Se trata de un sistema de precios dinámicos.», «El precio varía según la demanda.», «Se supone que se evita que los revendedores se lleven el beneficio.»
+  · 대안: «Puede intentar comprar más tarde.», «Hay una lista de espera.», «¿Y si montamos un plan B?»
+  · 메시지: «¿Has entrado?», «Qué abuso.», «Qué rabia.»
+- C1 구간(61~80턴): 가격 구조에 대한 논의
+  · 논의: «¿Quién gana con ello?», «Un debate que a mí me cuesta ciento cincuenta euros.», «A veces tampoco nos gusta. Pero son las normas.»
+- 어휘: la entrada, la preventa, el precio dinámico, la demanda, la lista de espera, la reclamación, el revendedor, el plan B.
+
+## 속어 노트
+- «Qué abuso»: 너무하네.
+- «Qué rabia»: 화난다, 분하다.
+- «Algo es algo»: 없는 것보다는 낫다.
+- «Meter prisa»: 서두르게 만들다.
+- 가격, 서비스 이름(EntradasYa), 가수 이름(Luna Verde), 이메일 주소는 모두 가공이다. 실제 유동 가격제 규정과 표 재판매 법은 최신 법령을 확인해야 한다.
+- 레지스터 주의: 욕설은 없다.
+
+## 한글 해석
+(금요일 오전 열 시. 이레네의 거실. 노트북이 열려 있고 옆에 휴대폰이 있다. 화면에는 표 판매 페이지가 떠 있다. 이레네가 두 손으로 머리를 감싸고 한숨을 쉰다.)
+이레네 : 믿을 수가 없어. 백오십 유로야. 백오십!
+카타 : (메시지) 들어갔어? 나는 두 시간째 대기 중인데 아무 변화가 없어.
+이레네 : (입력) 나는 들어갔어. 믿기 힘들겠지만, 표가 백오십이야.
+카타 : (메시지) 백오십? 선판매 때는 오십이었는데.
+이레네 : (입력) 그러니까. 세 배로 올렸어.
+카타 : (메시지) 몇 장 남았대?
+이레네 : (입력) 페이지에 '마지막 표'라고 나와. 한 시간 전에도 그랬어.
+카타 : (메시지) 그건 늘 서두르게 하려고 하는 말이야.
+이레네 : (입력) 알아. 그래도 초조해져.
+카타 : (메시지) 내 앞에 사십 명이 대기 중이야.
+이레네 : (입력) 그럼 네가 들어갈 때쯤엔 더 비싸겠다.
+카타 : (메시지) 그런 말 하지 마. 숨 쉬어.
+이레네 : (입력) 숨 쉬고 있어. 화가 나서 그렇지.
+카타 : (메시지) 기가 막히네. 고객센터에 전화해.
+이레네 : (입력) 전화할게. 뭐라고 하는지 보자.
+(이레네가 번호를 누른다. 신호음이 울린다. 녹음된 목소리가 받은 뒤 하이메가 받는다.)
+하이메 : 안녕하세요, 엔트라다스야 고객센터입니다. 하이메예요. 무엇을 도와드릴까요?
+이레네 : 안녕하세요. 루나 베르데 콘서트 표 가격에 대해 항의하고 싶어요.
+하이메 : 아, 알겠습니다. 정확히 어떤 문제죠?
+이레네 : 한 달 전엔 오십 유로였는데 지금은 백오십이에요.
+하이메 : 네, 보입니다. 유동 가격제를 적용 중이에요.
+이레네 : 유동 가격제요? 그게 무슨 뜻이죠?
+하이메 : 수요에 따라 가격이 변한다는 뜻이에요. 사려는 사람이 많으면 올라가요.
+이레네 : 그건 부당해 보여요. 저는 몇 달 전에 등록했는데요.
+하이메 : 이해합니다. 하지만 약관의 작은 글씨에 설명돼 있어요.
+이레네 : 어디에요? 저는 읽었어요.
+하이메 : 칠 항에요. '가격은 수요에 따라 변동될 수 있다.'
+이레네 : 그 항은 못 봤어요. 봤더라도 함정 같다고 생각했을 거예요.
+하이메 : 화나신 거 이해합니다. 제 개인 의견이 아니에요. 전 메시지를 전하는 사람일 뿐이에요.
+이레네 : 알겠어요. 그래도 저와 얘기하는 사람은 당신이잖아요. 공정하지 않다고 생각해요.
+하이메 : 정말 죄송합니다.
+이레네 : 죄송하다고만 하지 마시고 제가 뭘 할 수 있는지 말해 주세요.
+하이메 : 나중에 구매를 시도해 보실 수 있어요. 수요가 줄면 가격이 내려갈 때도 있어요.
+이레네 : 언제 내려가죠?
+하이메 : 저희도 몰라요. 구매자 흐름에 따라 달라요.
+이레네 : 그러니까 몇 주 기다려도 안 내려갈 수 있다는 거네요.
+하이메 : 그럴 수 있어요. 매진될 수도 있고요.
+이레네 : 지금 사라고 압박하는 참 세련된 방법이네요.
+하이메 : 그럴 의도는 아니에요.
+이레네 : 당신 의도라는 게 아니에요. 효과가 그렇다는 거예요.
+하이메 : 맞는 말씀이에요. 많은 고객분이 같은 말씀을 하세요.
+(이레네의 휴대폰이 진동한다. 카타의 메시지다.)
+카타 : (메시지) 뭐래? 나는 방금 들어갔는데 백팔십이야.
+이레네 : (입력) 백팔십. 미쳤어.
+카타 : (메시지) 이 속도면 내일은 이백이겠다.
+이레네 : (입력) 지금 고객센터랑 통화 중이야. 이따 말해 줄게.
+하이메 : 계세요, 부인?
+이레네 : 네, 죄송해요. 친구가 메시지를 보내서요.
+하이메 : 괜찮아요. 원하시면 대기자 명단이 어떻게 돌아가는지 설명해 드릴게요.
+이레네 : 대기자 명단이 있어요?
+하이메 : 네. 취소된 표가 나오면 명단에 있는 분들께 원래 가격으로 제안해요.
+이레네 : 원래 가격이요? 오십이요?
+하이메 : 네. 드릴 수 있는 건 그것뿐이에요.
+이레네 : 명단에 몇 명이나 있어요?
+하이메 : 정확한 수는 몰라요. 하지만 콘서트는 한 시간 전에 매진됐어요.
+이레네 : 그러면 확률은 거의 없네요.
+하이메 : 솔직히 그래요. 그래도 방법은 방법이죠.
+이레네 : 올려 주세요.
+하이메 : 기꺼이요. 성함과 이메일을 알려 주시겠어요?
+이레네 : 이레네 비달이에요. irene 점 vidal 골뱅이 correo 점 es요.
+하이메 : 감사합니다. 명단에 올렸어요. 소식 있으면 메일이 가요.
+이레네 : 고마워요. 하나 물어볼게요. 왜 이렇게 하는 거예요?
+하이메 : 무슨 말씀이시죠?
+이레네 : 유동 가격제요. 누가 이득을 보나요?
+하이메 : 회사와 가수, 그리고 주최 측이요.
+이레네 : 팬들은요? 팬들은 뭘 얻죠?
+하이메 : 되팔이 상인들이 이익을 가져가는 걸 막는다고 해요.
+이레네 : 알겠어요. 하지만 그러면 이익은 당신네가 가져가는 거네요.
+하이메 : 더 나은지 나쁜지는 모르겠어요. 열린 논쟁이에요.
+이레네 : 저에겐 백오십 유로짜리 논쟁이네요.
+하이메 : 이해합니다.
+이레네 : 당신은 콘서트에 백오십 유로를 내고 가시겠어요?
+하이메 : 솔직히 안 가요. 하지만 가는 사람도 있어요.
+이레네 : 저도 안 가요. 하지만 몇 달을 기다렸는데.
+하이메 : 힘든 일이죠. 제 여동생도 가고 싶어 했는데 표를 못 샀어요.
+이레네 : 안됐네요. 회사에서도 그걸 즐기지는 않는 것 같네요.
+하이메 : 가끔은 우리도 싫어요. 하지만 규정이에요.
+이레네 : 저기, 당신을 탓하는 건 아니에요.
+하이메 : 알아요. 말씀해 주셔서 고마워요.
+이레네 : 정식으로 불만을 접수할 수 있나요?
+하이메 : 네. reclamaciones 골뱅이 entradasya 점 es로 쓰시면 돼요.
+이레네 : 도움이 될까요?
+하이메 : 솔직히 가격이 바뀔 것 같진 않아요. 하지만 기록은 남아요.
+이레네 : 없는 것보다는 낫죠. 고마워요, 하이메.
+하이메 : 저야말로요. 더 도와드리지 못해 죄송해요.
+이레네 : 괜찮아요. 당신 소관이 아니란 거 알아요.
+하이메 : 좋은 하루 보내세요. 행운을 빌어요.
+이레네 : 당신도요. 안녕히.
+(이레네가 전화를 끊는다. 전화기를 탁자 위에 놓고 눈을 비빈다. 휴대폰이 다시 진동한다.)
+카타 : (메시지) 그래서? 뭐래?
+이레네 : (입력) 가격은 수요에 따라 변한대. 그리고 대기자 명단에 올려 줬어. 원래 가격으로.
+카타 : (메시지) 가능성은 어때?
+이레네 : (입력) 거의 없어. 어쩔 수 없지.
+카타 : (메시지) 아 화나. 있잖아, 다른 날짜가 있는지 볼게.
+이레네 : (입력) 있어. 한 달 뒤 바르셀로나에. 거기선 가격이 더 낮을지 보자.
+카타 : (메시지) 기차 타고 갈 수 있겠다. AVE는 얼마야?
+이레네 : (입력) 미리 사면 편도 사십 유로쯤.
+카타 : (메시지) 그럼 표에 기차에 호텔까지. 가격이 너무 커지네.
+이레네 : (입력) 응. 다음 콘서트를 위해 아끼는 게 낫겠어.
+카타 : (메시지) 하지만 같지 않잖아. 우리 동네에서 보고 싶었는데.
+이레네 : (입력) 알아. 나도. 하지만 가끔은 현실적이어야 해.
+카타 : (메시지) 또 현실주의 타령이네.
+이레네 : (입력) 빚보다는 현실주의가 나아.
+카타 : (메시지) 그건 그래. 있잖아, 플랜 B 만들면 어때?
+이레네 : (입력) 어떤 거?
+카타 : (메시지) 우리 집에서 음반 틀고 초와 음식 차려 놓는 거.
+이레네 : (입력) 거실 콘서트네.
+카타 : (메시지) 의상까지 입고. 네가 가수야.
+이레네 : (입력) 하하. 이웃들이 불쌍하다.
+카타 : (메시지) 불쌍하지. 하지만 잊지 못할 거야.
+이레네 : (입력) 좋아. 플랜 B 제안 받아들일게.
+카타 : (메시지) 적어 둘게: 토요일, 우리 집, 아홉 시.
+이레네 : (입력) 약속. 내가 케이크 가져갈게.
+카타 : (메시지) 나는 음료랑 초.
+이레네 : (입력) 결국 우리가 이기는구나.
+카타 : (메시지) 늘 그래. 유머가 조금 있으면 다 풀려.
+이레네 : (입력) 표값만 빼고.
+카타 : (메시지) 그것만 빼고. 하지만 나머진 그래.
+(이레네가 미소 짓는다. 노트북을 닫는다. 창밖을 본다. 거리에서 아이들이 놀고 있다.)
+이레네 : (혼잣말) 내년엔 어쩌면.
+카타 : (메시지) 아니면 그다음 해에.
+이레네 : (입력) 그럼 그다음 해로.
+카타 : (메시지) 뽀뽀. 토요일 아홉 시.
+이레네 : (입력) 뽀뽀. 토요일에.

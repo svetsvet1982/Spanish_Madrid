@@ -44,5 +44,5 @@ def conv(md):
     rel = os.path.relpath(md, os.path.join(ROOT, '원고_md'))
     out = os.path.join(ROOT, os.path.splitext(rel)[0] + '.docx')
     os.makedirs(os.path.dirname(out), exist_ok=True); d.save(out); return out
-files = sys.argv[1:] or sorted(glob.glob(os.path.join(ROOT, '원고_md', '*', '*.md')))
+files = sys.argv[1:] or sorted(f for f in glob.glob(os.path.join(ROOT, '원고_md', '*', '*.md')) if '연속성_메모' not in f)
 for f in files: print(conv(os.path.abspath(f)))

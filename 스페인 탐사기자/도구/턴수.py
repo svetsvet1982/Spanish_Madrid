@@ -8,3 +8,6 @@ for f in files:
     body = open(f, encoding='utf-8').read().split('## 생활 표현')[0]
     n = sum(1 for l in body.splitlines() if pat.match(l))
     print(n, 'OK' if n == 150 else 'XX', f)
+    import collections
+    dup = [l for l, c in collections.Counter(l for l in body.splitlines() if pat.match(l) and len(l) > 40).items() if c > 1]
+    for l in dup: print('   중복 대사:', l[:80])

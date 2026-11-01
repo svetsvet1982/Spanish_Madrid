@@ -58,6 +58,15 @@ def main(parts):
         doc += ''.join(ep_html(f) for f in files) + '</body></html>'
         h = os.path.join(tmp, f'{n}.html'); open(h, 'w', encoding='utf-8').write(doc)
         jobs.append((h, os.path.join(ROOT, 'PDF', f'빛과속기사_{n}부.pdf')))
+    if len(parts) == 7:
+        doc = f'<!doctype html><html lang="es"><meta charset="utf-8"><style>{CSS}</style><body>'
+        doc += '<div class="cover ko"><div class="t">빛과 속기사</div><div class="s">Luz y Taquígrafos</div><div class="p">전 7부 105화 합본</div><div class="s" style="font-size:11pt;margin-top:20mm">마드리드 탐사보도 7부작 · 7부 × 15화 × 150턴</div></div>'
+        allf = {n: sorted(glob.glob(os.path.join(ROOT, '원고_md', f'{n}부', '*화_*.md')), key=epno) for n in range(1, 8)}
+        doc += '<div class="toc ko"><h1>차례</h1>' + ''.join(f'<h2>{n}부 「{TITLES[n]}」</h2><ol>' + ''.join(f'<li>{html.escape(open(f,encoding="utf-8").readline()[2:].strip())}</li>' for f in allf[n]) + '</ol>' for n in range(1, 8)) + '</div>'
+        for n in range(1, 8):
+            doc += f'<div class="cover ko" style="page-break-before:always"><div class="p">{n}부</div><div class="t">「{TITLES[n]}」</div></div>' + ''.join(ep_html(f) for f in allf[n])
+        h = os.path.join(tmp, 'all.html'); open(h, 'w', encoding='utf-8').write(doc + '</body></html>')
+        jobs.append((h, os.path.join(ROOT, 'PDF', '빛과속기사_전7부_합본.pdf')))
     js = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'html2pdf.js')
     subprocess.run(['node', js] + [x for j in jobs for x in j], check=True)
 main([int(a) for a in sys.argv[1:]] or range(1, 8))
